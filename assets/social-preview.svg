@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F5F3ED"/>
+  <circle cx="198" cy="150" r="220" fill="#DDEBFB"/>
+  <circle cx="1040" cy="520" r="180" fill="#E1F1EA"/>
+  <rect x="72" y="72" width="1056" height="486" rx="42" fill="white" stroke="#D8D4CB"/>
+  <rect x="118" y="123" width="124" height="124" rx="32" fill="#F6F5F0"/>
+  <path d="M154.295 152.698C161.52 152.017 168.752 154.03 174.44 158.296C180.127 162.562 183.877 168.773 184.927 175.958L199.61 178.198C205.715 179.129 211.598 181.266 216.856 184.493L188.355 195.226C186.893 195.776 185.776 196.973 185.329 198.472C183.523 204.53 179.403 209.629 173.838 212.582C166.324 216.571 157.163 216.023 150.151 211.14L146.183 208.379C137.869 202.59 132.975 193.123 133.083 183.065L133.312 162.313C128.109 159.624 123.432 156.066 119.565 151.794C126.123 155.388 133.588 157.208 141.057 157.041L154.295 152.698Z" fill="#101820"/>
+  <path d="M186 177L223 182L189 195L186 177Z" fill="#101820"/>
+  <circle cx="170" cy="179" r="13" fill="#FAFBFD"/>
+  <circle cx="170" cy="179" r="6.8" fill="#101820"/>
+  <circle cx="174.8" cy="174.7" r="2.4" fill="#FAFBFD"/>
+  <path d="M205 190L220 194L208 227C207.356 228.718 205.692 229.794 203.861 229.647L196 229L205 190Z" fill="url(#blue)"/>
+  <path d="M228 196L235 200L226 227C225.483 228.492 224.093 229.507 222.515 229.55L214 229L228 196Z" fill="url(#blue)"/>
+  <text x="286" y="182" fill="#101820" font-family="Space Grotesk, Arial, sans-serif" font-size="56" font-weight="700">StealThisCode.org</text>
+  <text x="286" y="232" fill="#005CB9" font-family="IBM Plex Sans, Arial, sans-serif" font-size="28" font-weight="700">Borrow code. Build for people. Share what works.</text>
+  <text x="118" y="344" fill="#203040" font-family="IBM Plex Sans, Arial, sans-serif" font-size="38">
+    Open-source code, shared kindly, for civic technologists building
+  </text>
+  <text x="118" y="392" fill="#203040" font-family="IBM Plex Sans, Arial, sans-serif" font-size="38">
+    practical tools, stronger communities, and faster public-good launches.
+  </text>
+  <rect x="118" y="452" width="286" height="62" rx="31" fill="#0F7DF2"/>
+  <text x="151" y="492" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="700">Open Source for Civic Good</text>
+  <defs>
+    <linearGradient id="blue" x1="196" y1="190" x2="235" y2="229" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42E8FF"/>
+      <stop offset="1" stop-color="#0F7DF2"/>
+    </linearGradient>
+  </defs>
+</svg>

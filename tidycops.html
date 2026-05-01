@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tidycops | Harmonized Police Incident Data for R</title>
+    <meta
+      name="description"
+      content="tidycops is an R package that makes it easier to work with and compare public police incident data across 25+ US cities with a unified interface."
+    />
+    <meta
+      property="og:title"
+      content="tidycops | Harmonized Police Incident Data for R"
+    />
+    <meta
+      property="og:description"
+      content="Download and analyze police incident data from 25+ US cities with a single consistent R API."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/magpie-lockup.png" />
+    <link rel="icon" type="image/png" href="assets/magpie-favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="/" aria-label="StealThisCode.org home">
+          <img
+            class="brand-lockup-image"
+            src="assets/magpie-lockup.png"
+            alt="StealThisCode.org logo"
+          />
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="tidycops.html">tidycops</a>
+          <a href="https://github.com/orgs/Steal-This-Code/repositories">GitHub</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">R Package for Civic Data</p>
+            <h1>Unified police incident data across 25+ US cities.</h1>
+            <p class="hero-text">
+              tidycops provides a consistent R interface for downloading and comparing public police incident data. 
+              Rather than navigating different data portals and APIs for each city, use the same functions to pull 
+              incidents data across multiple cities with harmonized, comparable fields.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="https://github.com/Steal-This-Code/tidycops">
+                View on GitHub
+              </a>
+              <a class="button button-secondary" href="#features">Learn more</a>
+            </div>
+            <ul class="hero-points" aria-label="Key benefits">
+              <li>Harmonized fields for easy cross-city comparison</li>
+              <li>Access to 25+ US cities with one API</li>
+              <li>Full source data available when needed</li>
+            </ul>
+          </div>
+
+          <div class="hero-visual">
+            <div class="hero-logo-card">
+              <p class="card-label">Package</p>
+              <p style="font-size: 2rem; margin: 0;">📍</p>
+            </div>
+            <div class="hero-note">
+              <p class="card-label">Purpose</p>
+              <p>
+                Make it easier to work with and compare public police incident data across multiple US cities 
+                without navigating different portals and APIs.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="section split-section" id="about">
+          <div>
+            <p class="eyebrow">About tidycops</p>
+            <h2>Harmonized police data for cross-city research and analysis.</h2>
+          </div>
+          <div class="section-copy">
+            <p>
+              tidycops is an R package designed to make it easier to work with and compare public police incident data 
+              across multiple US cities. Instead of navigating different data portals and APIs for each city—some use Socrata, 
+              others ESRI or CKAN—you can use the same R functions to pull incident data consistently.
+            </p>
+            <p>
+              The package provides comparable, harmonized fields across cities for direct comparison, while also giving you 
+              access to all source-specific fields when you need the complete picture. With flexible queries, a simple interface, 
+              and support for 25+ cities, tidycops makes cross-city police data analysis practical and accessible.
+            </p>
+          </div>
+        </section>
+
+        <section class="section" id="features">
+          <div class="section-heading">
+            <p class="eyebrow">Key Features</p>
+            <h2>Everything you need for police incident data analysis.</h2>
+          </div>
+          <div class="principles-grid">
+            <article class="principle-card">
+              <h3>Comparable Cross-City Analysis</h3>
+              <p>Get harmonized, standardized fields across cities for direct comparison and analysis.</p>
+            </article>
+            <article class="principle-card">
+              <h3>Full City-Native Output</h3>
+              <p>Access all source-specific fields when you need the complete picture and context.</p>
+            </article>
+            <article class="principle-card">
+              <h3>Flexible Queries</h3>
+              <p>Filter by date range, neighborhood, and more with a simple, consistent interface.</p>
+            </article>
+            <article class="principle-card">
+              <h3>One Consistent API</h3>
+              <p>Use the same R functions regardless of which city or data source you're working with.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-heading">
+            <p class="eyebrow">Supported Cities</p>
+            <h2>Currently available data sources.</h2>
+          </div>
+          <div class="cities-grid">
+            <div class="city-item">Boston</div>
+            <div class="city-item">Chicago</div>
+            <div class="city-item">Cincinnati</div>
+            <div class="city-item">Cleveland</div>
+            <div class="city-item">Dallas</div>
+            <div class="city-item">Denver</div>
+            <div class="city-item">Detroit</div>
+            <div class="city-item">Fort Lauderdale</div>
+            <div class="city-item">Gainesville</div>
+            <div class="city-item">Grand Rapids</div>
+            <div class="city-item">Hartford</div>
+            <div class="city-item">Houston</div>
+            <div class="city-item">Indianapolis</div>
+            <div class="city-item">Kansas City</div>
+            <div class="city-item">Minneapolis</div>
+            <div class="city-item">Naperville</div>
+            <div class="city-item">New Orleans</div>
+            <div class="city-item">New York City</div>
+            <div class="city-item">Pittsburgh</div>
+            <div class="city-item">Providence</div>
+            <div class="city-item">Rochester</div>
+            <div class="city-item">San Antonio</div>
+            <div class="city-item">San Francisco</div>
+            <div class="city-item">Seattle</div>
+            <div class="city-item">Washington, DC</div>
+          </div>
+        </section>
+
+        <section class="section launch-section">
+          <div class="launch-card">
+            <p class="eyebrow">Get Started</p>
+            <h2>Start using tidycops today.</h2>
+            <p>
+              tidycops is available on GitHub with full documentation, vignettes on geometry workflows and 
+              cross-city comparisons, and an issue tracker for bugs and feature requests.
+            </p>
+            <div class="launch-actions">
+              <a class="button button-primary" href="https://github.com/Steal-This-Code/tidycops">
+                View on GitHub
+              </a>
+              <a class="button button-secondary" href="https://github.com/Steal-This-Code/tidycops/issues">
+                Report Issues
+              </a>
+            </div>
+            <hr style="margin: 2rem 0; border: none; border-top: 1px solid var(--line);">
+            <h3 style="margin-top: 2rem;">We'd love your feedback</h3>
+            <p>
+              This package has been a labor of love and we'd love feedback from folks who use R regularly. 
+              If you're interested in testing the package with your own research, requesting additional cities 
+              or data fields, reporting bugs, or suggesting improvements—please try it out and share your thoughts!
+            </p>
+            <p>
+              We tried, where we could, to bridge gaps in data sources across years. Test all the things and suggest 
+              all the features. If you see your city in the list above and want to give it a go, please do and tell us 
+              why it works or what needs improvement.
+            </p>
+          </div>
+        </section>
+
+        <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--line);">
+          <p style="color: var(--primary-soft); font-size: 0.9rem;">
+            <a href="/" style="color: var(--accent); text-decoration: none; font-weight: 600;">← Back to StealThisCode.org</a>
+          </p>
+        </div>
+      </main>
+    </div>
+
+    <style>
+      .cities-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 1rem;
+        margin-top: 1.5rem;
+      }
+
+      .city-item {
+        padding: 1rem;
+        background: var(--surface-muted);
+        border: 1px solid var(--line);
+        border-radius: var(--radius-md);
+        text-align: center;
+        font-weight: 500;
+        color: var(--primary-soft);
+      }
+    </style>
+  </body>
+</html>

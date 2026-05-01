@@ -1,0 +1,43 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">StealThisCode.org magpie logo</title>
+  <desc id="logoDesc">A stylized black magpie carrying bright blue code brackets.</desc>
+  <rect width="320" height="320" rx="92" fill="#F6F5F0"/>
+  <ellipse cx="151" cy="275" rx="44" ry="10" fill="#D4D7DB"/>
+  <g filter="url(#shadow)">
+    <path d="M122 101C135.728 99.9626 149.496 104.188 160.318 112.806C171.14 121.425 178.203 133.806 180.047 147.451L200.349 150.405C209.962 151.806 219.215 155.074 227.575 160.024L184.985 175.829C182.629 176.703 180.824 178.652 180.131 181.067C177.636 189.763 171.706 197.062 163.684 201.258C152.8 206.951 139.574 206.078 129.504 198.976L123.798 194.953C111.833 186.517 104.793 172.747 104.999 158.108L105.496 122.762C98.3139 118.993 91.8528 114.048 86.4047 108.14C82.8267 104.259 80.0317 99.7156 78.1716 94.7622C87.1193 99.8902 97.2839 102.505 107.595 102.332L122 101Z" fill="#101820"/>
+    <path d="M102.287 157.552C103.053 145.348 107.983 133.774 116.343 124.848C124.704 115.922 135.928 110.248 147.993 108.844C160.059 107.441 172.214 110.396 182.33 117.193C192.445 123.99 199.876 134.183 203.313 145.917L182.148 142.665C176.11 130.525 164.085 121.916 150.053 120.327C136.02 118.738 122.194 124.381 113.279 135.235C104.364 146.088 101.572 160.767 105.848 174.09C110.125 187.413 120.869 197.085 133.842 199.283C146.816 201.48 159.968 195.896 167.52 184.674C175.071 173.453 175.663 158.635 169.016 146.842L188.774 149.713C192.074 162.43 190.245 175.939 183.68 187.314C177.115 198.689 166.341 206.99 153.685 210.431C141.029 213.872 127.531 212.174 116.119 205.709C104.707 199.244 96.3226 188.532 92.7638 175.908L102.287 157.552Z" fill="url(#wing)"/>
+    <path d="M132.4 185.176C144.82 194.674 154.848 206.94 161.69 220.999C168.532 235.058 172.005 250.497 171.831 266.131L171.416 303C166.528 290.246 158.864 278.73 148.963 269.296C139.061 259.862 127.145 252.826 114.114 248.739C120.518 238.014 124.512 226.023 125.818 213.604L132.4 185.176Z" fill="#101820"/>
+    <path d="M179.117 151.029L244.595 160.024L185.853 182.31C183.807 183.086 182.236 184.767 181.601 186.863L181.228 188.094L179.117 151.029Z" fill="url(#beak)"/>
+    <circle cx="158" cy="150" r="33" fill="#FAFBFD"/>
+    <circle cx="158" cy="150" r="17" fill="#101820"/>
+    <circle cx="165" cy="143" r="6" fill="#FAFBFD"/>
+    <path d="M231 171L261 179L237 240C235.795 243.065 232.756 244.987 229.48 244.74L214 243.573L231 171Z" fill="url(#codeBlue)"/>
+    <path d="M277 181L301 193L285 241C284.017 243.947 281.273 245.953 278.173 245.983L261 246.148L277 181Z" fill="url(#codeBlue)"/>
+    <path d="M246 173L227 193" stroke="#43E1FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M282 186L300 201" stroke="#43E1FF" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <filter id="shadow" x="67" y="86" width="248" height="227" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="10"/>
+      <feGaussianBlur stdDeviation="8"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.12549 0 0 0 0.15 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+    </filter>
+    <linearGradient id="wing" x1="91" y1="158" x2="188" y2="171" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1720"/>
+      <stop offset="1" stop-color="#39424D"/>
+    </linearGradient>
+    <linearGradient id="beak" x1="180" y1="166" x2="244" y2="166" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E2832"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <linearGradient id="codeBlue" x1="218" y1="175" x2="295" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42E8FF"/>
+      <stop offset="1" stop-color="#0F7DF2"/>
+    </linearGradient>
+  </defs>
+</svg>
