@@ -1,0 +1,6978 @@
+[
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "airport - all others",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "government/public building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "1",
+    "area_name": "Reunion District",
+    "crime_group": "property",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "102",
+    "area_name": "Fruitdale",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "102",
+    "area_name": "Fruitdale",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "102",
+    "area_name": "Fruitdale",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "102",
+    "area_name": "Fruitdale",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "102",
+    "area_name": "Fruitdale",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "109",
+    "area_name": "Lake West",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "109",
+    "area_name": "Lake West",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "11",
+    "area_name": "Lake Cliff",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "110",
+    "area_name": "Greenleaf Village",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "110",
+    "area_name": "Greenleaf Village",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "112",
+    "area_name": "Maple Lawn",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "113",
+    "area_name": "M Streets or Greenland Hills",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "114",
+    "area_name": "Lower Greenville",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "114",
+    "area_name": "Lower Greenville",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "115",
+    "area_name": "Belmont",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "119",
+    "area_name": "Claremont Addition",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "119",
+    "area_name": "Claremont Addition",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "12",
+    "area_name": "Kidd Springs",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "12",
+    "area_name": "Kidd Springs",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "122",
+    "area_name": "Pleasant Mound",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "property",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "crime_group": "violent",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "127",
+    "area_name": "Glendale Heights",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "13",
+    "area_name": "East Kessler Park",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "131",
+    "area_name": "Kiestwood",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "132",
+    "area_name": "Kimball",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "14",
+    "area_name": "La L'aceate",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "14",
+    "area_name": "La L'aceate",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "140",
+    "area_name": "Love Field",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "140",
+    "area_name": "Love Field",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "140",
+    "area_name": "Love Field",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "141",
+    "area_name": "Highland Place / Bordeaux Village",
+    "crime_group": "other",
+    "location_type": "auto dealership new/used",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "141",
+    "area_name": "Highland Place / Bordeaux Village",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "144",
+    "area_name": "Lakewood Hills or Gastonwood / Coronado Hills",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "15",
+    "area_name": "La Bajada",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "154",
+    "area_name": "Highland Hills",
+    "crime_group": "violent",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "155",
+    "area_name": "Cedar Creek Ranch",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "155",
+    "area_name": "Cedar Creek Ranch",
+    "crime_group": "violent",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "156",
+    "area_name": "Cigarette Hill",
+    "crime_group": "other",
+    "location_type": "park",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "156",
+    "area_name": "Cigarette Hill",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "156",
+    "area_name": "Cigarette Hill",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "156",
+    "area_name": "Cigarette Hill",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "157",
+    "area_name": "Arden Terrace",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "158",
+    "area_name": "Singing Hills",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "158",
+    "area_name": "Singing Hills",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "158",
+    "area_name": "Singing Hills",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "159",
+    "area_name": "Glenview",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "159",
+    "area_name": "Glenview",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "159",
+    "area_name": "Glenview",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "16",
+    "area_name": "Design District",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "16",
+    "area_name": "Design District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "16",
+    "area_name": "Design District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "16",
+    "area_name": "Design District",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "16",
+    "area_name": "Design District",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "162",
+    "area_name": "Club Oaks",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "166",
+    "area_name": "Kiest Valley Estates",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "166",
+    "area_name": "Kiest Valley Estates",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "pharmacy",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "abandoned/condemned structure",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "property",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "violent",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "171",
+    "area_name": "Ledbetter",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "171",
+    "area_name": "Ledbetter",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "172",
+    "area_name": "Elm Thicket or North Park",
+    "crime_group": "other",
+    "location_type": "condominium/townhome parking",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "172",
+    "area_name": "Elm Thicket or North Park",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "177",
+    "area_name": "Lakewood",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "177",
+    "area_name": "Lakewood",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "18",
+    "area_name": "Victory Park",
+    "crime_group": "property",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "181",
+    "area_name": "Eastwood Hills",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "184",
+    "area_name": "Wheatland Meadows",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "other",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "crime_group": "property",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "property",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "198",
+    "area_name": "Bachman",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "airport - all others",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "airport - all others",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "violent",
+    "location_type": "airport - all others",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "violent",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "violent",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "violent",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "201",
+    "area_name": "Bluffview",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "205",
+    "area_name": "Hillside",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "209",
+    "area_name": "Emerald Isles",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "21",
+    "area_name": "West Village",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "21",
+    "area_name": "West Village",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "216",
+    "area_name": "Polk Terrace",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "217",
+    "area_name": "Wheatland Hills",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "22",
+    "area_name": "Cityplace",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "22",
+    "area_name": "Cityplace",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "22",
+    "area_name": "Cityplace",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "22",
+    "area_name": "Cityplace",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "224",
+    "area_name": "Preston Hollow",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "229",
+    "area_name": "The Village",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "229",
+    "area_name": "The Village",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "235",
+    "area_name": "Old Lake Highlands",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "24",
+    "area_name": "Bryan Place",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "240",
+    "area_name": "Casa View Oaks",
+    "crime_group": "other",
+    "location_type": "shopping mall",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "249",
+    "area_name": "Joe's Creek-Walnut Garden",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "25",
+    "area_name": "Baylor / Meadows",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "25",
+    "area_name": "Baylor / Meadows",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "25",
+    "area_name": "Baylor / Meadows",
+    "crime_group": "property",
+    "location_type": "entertainment/sports venue",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "255",
+    "area_name": "Mayflower Estates",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "257",
+    "area_name": "Preston Hollow North",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "crime_group": "violent",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "261",
+    "area_name": "The Meadows",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "property",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "262",
+    "area_name": "Vickery Meadow(s)",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "27",
+    "area_name": "Exposition Park",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "27",
+    "area_name": "Exposition Park",
+    "crime_group": "violent",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "272",
+    "area_name": "Highland Meadows",
+    "crime_group": "other",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "272",
+    "area_name": "Highland Meadows",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "272",
+    "area_name": "Highland Meadows",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "273",
+    "area_name": "Lochwood",
+    "crime_group": "other",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "274",
+    "area_name": "Casa View",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "275",
+    "area_name": "Linda Heights",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "28",
+    "area_name": "Grand Park South",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "28",
+    "area_name": "Grand Park South",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "28",
+    "area_name": "Grand Park South",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "28",
+    "area_name": "Grand Park South",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "281",
+    "area_name": "Lake Highlands Estates",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "285",
+    "area_name": "Copperfield",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "295",
+    "area_name": "Royal Northaven",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "298",
+    "area_name": "Royal Hills",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "location_type": "religious institution",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "property",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "property",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "30",
+    "area_name": "Edgewood Place",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "30",
+    "area_name": "Edgewood Place",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "301",
+    "area_name": "Park Forest",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "304",
+    "area_name": "Glen Meadow Estates",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "304",
+    "area_name": "Glen Meadow Estates",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "309",
+    "area_name": "Hamilton Park",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "31",
+    "area_name": "Skyline Heights",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "31",
+    "area_name": "Skyline Heights",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "310",
+    "area_name": "Chimney Hill",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "313",
+    "area_name": "Whispering Hills",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "318",
+    "area_name": "Preston Citadel",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "32",
+    "area_name": "The Heights",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "32",
+    "area_name": "The Heights",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "322",
+    "area_name": "Northwood Hills",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "324",
+    "area_name": "Prestonwood Estates East",
+    "crime_group": "other",
+    "location_type": "single family residence - vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "329",
+    "area_name": "Prestonwood East",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "337",
+    "area_name": "Meadow Glen",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "339",
+    "area_name": "Bent Tree West",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "34",
+    "area_name": "Beckley Club Estates",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "340",
+    "area_name": "Bent Tree North",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "344",
+    "area_name": "Highlands of McKamy",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "358",
+    "area_name": "Shannon Estates",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "359",
+    "area_name": "Hidden Valley",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "36",
+    "area_name": "Dallas Land & Loan",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "36",
+    "area_name": "Dallas Land & Loan",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "36",
+    "area_name": "Dallas Land & Loan",
+    "crime_group": "property",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "363",
+    "area_name": "Beckley Heights",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "363",
+    "area_name": "Beckley Heights",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "37",
+    "area_name": "Bishop Arts District",
+    "crime_group": "property",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "373",
+    "area_name": "Kiest Park",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "374",
+    "area_name": "Lisbon",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "374",
+    "area_name": "Lisbon",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "378",
+    "area_name": "Knox Park",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "379",
+    "area_name": "Kleberg",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "39",
+    "area_name": "Kessler Park",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "other",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "property",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "property",
+    "location_type": "religious institution",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "violent",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "crime_group": "violent",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "40",
+    "area_name": "Western Heights",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "43",
+    "area_name": "Turtle Creek",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "43",
+    "area_name": "Turtle Creek",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "43",
+    "area_name": "Turtle Creek",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "43",
+    "area_name": "Turtle Creek",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "43",
+    "area_name": "Turtle Creek",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "44",
+    "area_name": "Fitzhugh / Capitol",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "44",
+    "area_name": "Fitzhugh / Capitol",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "44",
+    "area_name": "Fitzhugh / Capitol",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "44",
+    "area_name": "Fitzhugh / Capitol",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "44",
+    "area_name": "Fitzhugh / Capitol",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "46",
+    "area_name": "Peak's Addition",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "48",
+    "area_name": "Owenwood",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 19
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 14
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 9
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 7
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "property",
+    "location_type": "pharmacy",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 6
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "bank/savings and loan",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "5",
+    "area_name": "Main Street District",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "50",
+    "area_name": "Frazier",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "50",
+    "area_name": "Frazier",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "50",
+    "area_name": "Frazier",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "50",
+    "area_name": "Frazier",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "53",
+    "area_name": "Mill City",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "53",
+    "area_name": "Mill City",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "54",
+    "area_name": "Wheatley Place",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "57",
+    "area_name": "Colonial Hill",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "shelter - mission/homeless",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "property",
+    "location_type": "storage facility",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "violent",
+    "location_type": "shelter - mission/homeless",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "6",
+    "area_name": "Farmers Market District",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "60",
+    "area_name": "Cedar Crest",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "61",
+    "area_name": "Trinity Heights or Brentwood",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "61",
+    "area_name": "Trinity Heights or Brentwood",
+    "crime_group": "other",
+    "location_type": "field/woods",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "61",
+    "area_name": "Trinity Heights or Brentwood",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "63",
+    "area_name": "Wynnewood North",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "67",
+    "area_name": "North Oak Lawn",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 5
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "park",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "other",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "property",
+    "location_type": "park",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "property",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "property",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "violent",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "crime_group": "violent",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "70",
+    "area_name": "Henderson",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "74",
+    "area_name": "Rose Garden",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "75",
+    "area_name": "Ideal",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "76",
+    "area_name": "Bonton",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "78",
+    "area_name": "Cedar Crest Village",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "8",
+    "area_name": "Cedars",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "8",
+    "area_name": "Cedars",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "8",
+    "area_name": "Cedars",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "85",
+    "area_name": "Sunset Hill",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "89",
+    "area_name": "Southwestern Medical District",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "89",
+    "area_name": "Southwestern Medical District",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "89",
+    "area_name": "Southwestern Medical District",
+    "crime_group": "violent",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "9",
+    "area_name": "The Bottoms",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "90",
+    "area_name": "Oak Lawn Heights",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "91",
+    "area_name": "Vickery Place",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "92",
+    "area_name": "Lowest Greenville West",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "97",
+    "area_name": "Urbandale",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "97",
+    "area_name": "Urbandale",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "97",
+    "area_name": "Urbandale",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "98",
+    "area_name": "Piedmont / Scyene",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "98",
+    "area_name": "Piedmont / Scyene",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "98",
+    "area_name": "Piedmont / Scyene",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "99",
+    "area_name": "Pemberton Hill",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "99",
+    "area_name": "Pemberton Hill",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "99",
+    "area_name": "Pemberton Hill",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75001",
+    "area_name": "ZCTA5 75001",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 27
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 24
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 18
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 13
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 10
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 8
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 8
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "retail store",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "other",
+    "location_type": "parking lot (park)",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 7
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "property",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 8
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "shelter - mission/homeless",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 24
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 13
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 11
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 7
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 7
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 6
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "park",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "hotel/motel/etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "abandoned/condemned structure",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "airport - all others",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "park",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "airport - all others",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "bank/savings and loan",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "violent",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 7
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75203",
+    "area_name": "ZCTA5 75203",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75205",
+    "area_name": "ZCTA5 75205",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75205",
+    "area_name": "ZCTA5 75205",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
+    "location_type": "condominium/townhome parking",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 9
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "other",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "property",
+    "location_type": "business office",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "violent",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75207",
+    "area_name": "ZCTA5 75207",
+    "crime_group": "violent",
+    "location_type": "trails",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 6
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "property",
+    "location_type": "parking lot (park)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75208",
+    "area_name": "ZCTA5 75208",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "other",
+    "location_type": "auto dealership new/used",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "other",
+    "location_type": "condominium/townhome parking",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75209",
+    "area_name": "ZCTA5 75209",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75210",
+    "area_name": "ZCTA5 75210",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75210",
+    "area_name": "ZCTA5 75210",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75210",
+    "area_name": "ZCTA5 75210",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75210",
+    "area_name": "ZCTA5 75210",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75210",
+    "area_name": "ZCTA5 75210",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "property",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75212",
+    "area_name": "ZCTA5 75212",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75212",
+    "area_name": "ZCTA5 75212",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75212",
+    "area_name": "ZCTA5 75212",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75212",
+    "area_name": "ZCTA5 75212",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "other",
+    "location_type": "government/public building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75214",
+    "area_name": "ZCTA5 75214",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "community/ recreation center",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 21
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "field/woods",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "property",
+    "location_type": "single family residence - vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "violent",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "property",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "violent",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "other",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "other",
+    "location_type": "medical facility",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "property",
+    "location_type": "auto dealership new/used",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75218",
+    "area_name": "ZCTA5 75218",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "condominium/townhome parking",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "arena/stadium/fairgrounds/coliseum",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "property",
+    "location_type": "pharmacy",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75220",
+    "area_name": "ZCTA5 75220",
+    "crime_group": "property",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75223",
+    "area_name": "ZCTA5 75223",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75224",
+    "area_name": "ZCTA5 75224",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75224",
+    "area_name": "ZCTA5 75224",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75224",
+    "area_name": "ZCTA5 75224",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "other",
+    "location_type": "retail store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "other",
+    "location_type": "shopping mall",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 8
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "location_type": "parking lot (all others)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "violent",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75227",
+    "area_name": "ZCTA5 75227",
+    "crime_group": "violent",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "atm separate from bank",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "shopping mall",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "property",
+    "location_type": "financial institution",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "property",
+    "location_type": "school - college/university",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "violent",
+    "location_type": "bar/nightclub/dancehall etc.",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "medical facility",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "property",
+    "location_type": "construction site",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75230",
+    "area_name": "ZCTA5 75230",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "property",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75231",
+    "area_name": "ZCTA5 75231",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 10
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "field/woods",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75232",
+    "area_name": "ZCTA5 75232",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75233",
+    "area_name": "ZCTA5 75233",
+    "crime_group": "violent",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75234",
+    "area_name": "ZCTA5 75234",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75234",
+    "area_name": "ZCTA5 75234",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75234",
+    "area_name": "ZCTA5 75234",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75234",
+    "area_name": "ZCTA5 75234",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "other",
+    "location_type": "airport - love field",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "other",
+    "location_type": "bank/savings and loan",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75235",
+    "area_name": "ZCTA5 75235",
+    "crime_group": "property",
+    "location_type": "parking lot (all others)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75236",
+    "area_name": "ZCTA5 75236",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75236",
+    "area_name": "ZCTA5 75236",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75236",
+    "area_name": "ZCTA5 75236",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75236",
+    "area_name": "ZCTA5 75236",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "entertainment/sports venue",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "other",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "park",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "other",
+    "location_type": "church/synagogue/temple/mosque",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "violent",
+    "location_type": "auto dealership new/used",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "property",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 9
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 5
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "park",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "convenience store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "field/woods",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "other",
+    "location_type": "single family residence - vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "property",
+    "location_type": "outdoor area public/private",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "property",
+    "location_type": "other",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "violent",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "violent",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75241",
+    "area_name": "ZCTA5 75241",
+    "crime_group": "violent",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 4
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "condominium/townhome parking",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "property",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "property",
+    "location_type": "storage facility",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75244",
+    "area_name": "ZCTA5 75244",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75244",
+    "area_name": "ZCTA5 75244",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75246",
+    "area_name": "ZCTA5 75246",
+    "crime_group": "property",
+    "location_type": "entertainment/sports venue",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "property",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "property",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "violent",
+    "location_type": "apartment parking lot",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "violent",
+    "location_type": "commercial property occupied/vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "violent",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75247",
+    "area_name": "ZCTA5 75247",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "other",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "other",
+    "location_type": "single family residence - vacant",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "property",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "property",
+    "location_type": "retail store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75251",
+    "area_name": "ZCTA5 75251",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75251",
+    "area_name": "ZCTA5 75251",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75251",
+    "area_name": "ZCTA5 75251",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75252",
+    "area_name": "ZCTA5 75252",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75252",
+    "area_name": "ZCTA5 75252",
+    "crime_group": "violent",
+    "location_type": "restaurant/food service/tabc location",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75253",
+    "area_name": "ZCTA5 75253",
+    "crime_group": "other",
+    "location_type": "outdoor area public/private",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75253",
+    "area_name": "ZCTA5 75253",
+    "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
+    "crime_group": "other",
+    "location_type": "business office",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
+    "crime_group": "other",
+    "location_type": "condominium/townhome residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
+    "crime_group": "property",
+    "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 3
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "other",
+    "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "other",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "other",
+    "location_type": "parking (business)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "property",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "property",
+    "location_type": "apartment residence",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "property",
+    "location_type": "cyberspace",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "property",
+    "location_type": "department/discount store",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "violent",
+    "location_type": "apartment complex/building",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "violent",
+    "location_type": "gas or service station",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75287",
+    "area_name": "ZCTA5 75287",
+    "crime_group": "violent",
+    "location_type": "parking (business)",
+    "incidents": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "profile": "resident",
+    "focus": "property",
+    "actions": ["Lock vehicles and remove visible items", "Coordinate lighting checks with neighbors", "Shift awareness to peak hours shown in the app"]
+  },
+  {
+    "profile": "resident",
+    "focus": "violent",
+    "actions": ["Use high-visibility routes during peak hours", "Report repeated conflicts and hotspots", "Organize block communication for rapid information sharing"]
+  },
+  {
+    "profile": "business",
+    "focus": "property",
+    "actions": ["Review cash-handling and closing procedures", "Improve exterior lighting and camera coverage", "Coordinate with nearby businesses on repeat incidents"]
+  },
+  {
+    "profile": "business",
+    "focus": "violent",
+    "actions": ["Train staff on de-escalation and incident reporting", "Reduce blind spots near entrances", "Adjust staffing around high-risk time windows"]
+  },
+  {
+    "profile": "police",
+    "focus": "property",
+    "actions": ["Target patrols to repeat corridors and parking areas", "Review chronic locations for environmental fixes", "Share prevention messaging with affected blocks"]
+  },
+  {
+    "profile": "police",
+    "focus": "violent",
+    "actions": ["Align patrol timing with peak violent periods", "Review repeat-location patterns", "Coordinate with outreach and violence interruption partners"]
+  },
+  {
+    "profile": "city",
+    "focus": "property",
+    "actions": ["Prioritize street lighting and blight reduction", "Address vacant lots or poor sightlines", "Support environmental design improvements"]
+  },
+  {
+    "profile": "city",
+    "focus": "violent",
+    "actions": ["Coordinate investments around persistent corridors", "Improve transit-area safety design", "Fund prevention and neighborhood stabilization efforts"]
+  }
+]
