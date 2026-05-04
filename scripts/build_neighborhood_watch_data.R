@@ -118,9 +118,10 @@ ensure_columns <- function(data, columns, default = 0L) {
 
 message(sprintf("Downloading %s incidents (no date filter applied in this pull)", city))
 
+# Fetch in smaller batches to avoid Socrata API issues
 incidents_raw <- get_incidents(
   city = city,
-  limit = 500000
+  limit = 50000
 )
 
 timestamp_col <- pick_first_column(
