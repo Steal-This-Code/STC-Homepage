@@ -175,6 +175,7 @@ if (nrow(incidents_raw) == 0) {
 
 message(sprintf("Successfully retrieved %d incidents", nrow(incidents_raw)))
 
+timestamp_col <- pick_first_column(
   incidents_raw,
   c("date1_parsed", "date1", "std_occurred_at", "occurred_at", "incident_datetime"),
   required = TRUE
@@ -258,6 +259,24 @@ read_boundary_layer <- function(filename, area_type) {
   }
 
   geometry <- read_sf(path, quiet = TRUE)
+  
+  # Ensure CRS is consistent (transform to 4326 if needed)
+  if (!is.na(st_crs(geometry))) {
+    if (st_crs(geometry) != 4326) {
+      geometry <- st_transform(geometry, 4326)
+    }
+  } else {
+    # If no CRS is defined, assume 4326
+    geometry <- st_set_crs(geometry, 4326)
+  }
+  
+  # Validate and repair geometries
+  tryCatch({
+    geometry <- st_make_valid(geometry)
+  }, error = function(e) {
+    message(sprintf("Warning: Could not validate geometries in %s: %s", filename, e$message))
+  })
+  
   name_col <- pick_first_column(
     geometry,
     c("name", "Name", "NAME", "neighborhood", "zip", "zipcode", "label"),
