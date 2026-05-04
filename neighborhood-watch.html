@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Neighborhood Watch | Static-First Civic Safety App Starter</title>
+    <meta
+      name="description"
+      content="A static-first blueprint for building a neighborhood safety web app with tidycops, GitHub Actions, and lightweight client-side filtering."
+    />
+    <meta
+      property="og:title"
+      content="The Neighborhood Watch | Static-First Civic Safety App Starter"
+    />
+    <meta
+      property="og:description"
+      content="Build a neighborhood safety dashboard with nightly data builds, static files, and minimal server-side computation."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/magpie-lockup.png" />
+    <link rel="icon" type="image/png" href="assets/magpie-favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      // Neighborhood Watch App - Static-first data loader
+      const NeighborhoodWatch = (() => {
+        let appData = {
+          summary: null,
+          offenseMix: null,
+          timePatterns: null,
+          placeTypes: null,
+          actions: null,
+          metadata: null,
+          areas: []
+        };
+
+        const loadJSON = async (path) => {
+          try {
+            const response = await fetch(path);
+            if (!response.ok) return null;
+            return await response.json();
+          } catch (e) {
+            console.warn(`Failed to load ${path}:`, e);
+            return null;
+          }
+        };
+
+        const initApp = async () => {
+          const loader = document.getElementById('app-loading');
+          const container = document.getElementById('app-container');
+          const errorPanel = document.getElementById('data-error');
+
+          try {
+            // Load all data files
+            const [summary, offenseMix, timePatterns, placeTypes, actions, metadata] =
+              await Promise.all([
+                loadJSON('data/neighborhood-watch/summary_by_area.json'),
+                loadJSON('data/neighborhood-watch/offense_mix.json'),
+                loadJSON('data/neighborhood-watch/time_patterns.json'),
+                loadJSON('data/neighborhood-watch/place_types.json'),
+                loadJSON('data/neighborhood-watch/actions_by_profile.json'),
+                loadJSON('data/neighborhood-watch/metadata.json')
+              ]);
+
+            if (!summary || !actions) {
+              errorPanel.style.display = 'block';
+              loader.style.display = 'none';
+              return;
+            }
+
+            appData.summary = summary || [];
+            appData.offenseMix = offenseMix || [];
+            appData.timePatterns = timePatterns || [];
+            appData.placeTypes = placeTypes || [];
+            appData.actions = actions || [];
+            appData.metadata = metadata;
+
+            // Build unique areas list for search
+            appData.areas = Array.from(
+              new Map(
+                appData.summary.map(row => [
+                  `${row.area_type}|${row.area_id}`,
+                  {
+                    id: row.area_id,
+                    type: row.area_type,
+                    name: row.area_name,
+                    total: row.total_incidents || 0,
+                    violent: row.violent || 0,
+                    property: row.property || 0
+                  }
+                ])
+              ).values()
+            ).sort((a, b) => b.total - a.total);
+
+            // Render UI
+            setupEventListeners();
+            renderDataFreshness(metadata);
+            container.style.display = 'block';
+            loader.style.display = 'none';
+          } catch (e) {
+            console.error('App initialization failed:', e);
+            errorPanel.style.display = 'block';
+            loader.style.display = 'none';
+          }
+        };
+
+        const setupEventListeners = () => {
+          const searchInput = document.getElementById('area-search');
+          const searchResults = document.getElementById('search-results');
+          const crimeRadios = document.querySelectorAll('input[name="crime-type"]');
+
+          searchInput.addEventListener('input', e => {
+            const query = e.target.value.toLowerCase().trim();
+            if (query.length < 1) {
+              searchResults.style.display = 'none';
+              return;
+            }
+
+            const matches = appData.areas.filter(
+              area =>
+                area.name.toLowerCase().includes(query) ||
+                area.id.toLowerCase().includes(query)
+            );
+
+            if (matches.length === 0) {
+              searchResults.innerHTML = '<li><em>No matches found</em></li>';
+              searchResults.style.display = 'block';
+              return;
+            }
+
+            searchResults.innerHTML = matches
+              .slice(0, 10)
+              .map(
+                area =>
+                  `<li data-area-id="${area.id}" data-area-type="${area.type}">
+                    <strong>${area.name}</strong>
+                    <span class="result-badge">${area.type}</span>
+                    <span class="result-count">${area.total} incidents</span>
+                  </li>`
+              )
+              .join('');
+            searchResults.style.display = 'block';
+          });
+
+          searchResults.addEventListener('click', e => {
+            const item = e.target.closest('li');
+            if (item && item.dataset.areaId) {
+              selectArea(item.dataset.areaId, item.dataset.areaType);
+              searchInput.value = '';
+              searchResults.style.display = 'none';
+            }
+          });
+
+          crimeRadios.forEach(radio => {
+            radio.addEventListener('change', () => {
+              const areaId = document.getElementById('area-title').dataset.areaId;
+              const areaType = document.getElementById('area-title').dataset.areaType;
+              if (areaId && areaType) {
+                renderAreaDetails(areaId, areaType);
+              }
+            });
+          });
+
+          document.addEventListener('click', e => {
+            if (!e.target.closest('#area-search') && !e.target.closest('#search-results')) {
+              searchResults.style.display = 'none';
+            }
+          });
+        };
+
+        const selectArea = (areaId, areaType) => {
+          renderAreaDetails(areaId, areaType);
+        };
+
+        const renderAreaDetails = (areaId, areaType) => {
+          const notSelected = document.getElementById('area-not-selected');
+          const details = document.getElementById('area-details');
+          const crimeType = document.querySelector('input[name="crime-type"]:checked').value;
+
+          notSelected.style.display = 'none';
+          details.style.display = 'block';
+
+          const row = appData.summary.find(
+            r => r.area_id === areaId && r.area_type === areaType
+          );
+          if (!row) return;
+
+          document.getElementById('area-title').textContent = row.area_name;
+          document.getElementById('area-title').dataset.areaId = areaId;
+          document.getElementById('area-title').dataset.areaType = areaType;
+          document.getElementById('area-type').textContent = areaType;
+
+          // Update metrics
+          const metricTotal = crimeType === 'all' ? row.total_incidents :
+                              crimeType === 'violent' ? row.violent_incidents :
+                              row.property_incidents;
+          document.getElementById('metric-total').textContent = (metricTotal || 0).toLocaleString();
+          document.getElementById('metric-violent').textContent = (row.violent_incidents || 0).toLocaleString();
+          document.getElementById('metric-property').textContent = (row.property_incidents || 0).toLocaleString();
+          document.getElementById('metric-other').textContent = (row.other_incidents || 0).toLocaleString();
+
+          // Offense mix
+          const offenseRows = appData.offenseMix.filter(
+            o => o.area_id === areaId && o.area_type === areaType &&
+                 (crimeType === 'all' || o.crime_group === crimeType)
+          );
+          renderOffenseTable(offenseRows);
+
+          // Location types
+          const placeRows = appData.placeTypes.filter(
+            p => p.area_id === areaId && p.area_type === areaType &&
+                 (crimeType === 'all' || p.crime_group === crimeType)
+          );
+          renderLocationTable(placeRows);
+
+          // Time patterns
+          const timeRows = appData.timePatterns.filter(
+            t => t.area_id === areaId && t.area_type === areaType &&
+                 (crimeType === 'all' || t.crime_group === crimeType)
+          );
+          renderTimePatterns(timeRows);
+
+          // Actions
+          renderActions(row.crime_group || 'other');
+        };
+
+        const renderOffenseTable = rows => {
+          const tbody = document.querySelector('#offense-table tbody');
+          tbody.innerHTML = rows
+            .slice(0, 8)
+            .map(
+              row =>
+                `<tr>
+                  <td>${row.offense_label}</td>
+                  <td class="numeric">${row.incidents}</td>
+                </tr>`
+            )
+            .join('');
+        };
+
+        const renderLocationTable = rows => {
+          const tbody = document.querySelector('#location-table tbody');
+          tbody.innerHTML = rows
+            .slice(0, 6)
+            .map(
+              row =>
+                `<tr>
+                  <td>${row.location_type}</td>
+                  <td class="numeric">${row.incidents}</td>
+                </tr>`
+            )
+            .join('');
+        };
+
+        const renderTimePatterns = rows => {
+          const summary = document.getElementById('time-summary');
+          if (rows.length === 0) {
+            summary.innerHTML = '<p><em>No time pattern data available</em></p>';
+            return;
+          }
+
+          const byhour = {};
+          const byday = {};
+          rows.forEach(r => {
+            const h = r.hour || 'unknown';
+            const d = r.day_of_week || 'unknown';
+            byhour[h] = (byhour[h] || 0) + r.incidents;
+            byday[d] = (byday[d] || 0) + r.incidents;
+          });
+
+          const peakHour = Object.entries(byhour).sort((a, b) => b[1] - a[1])[0];
+          const peakDay = Object.entries(byday).sort((a, b) => b[1] - a[1])[0];
+
+          summary.innerHTML = `
+            <p><strong>Peak hour:</strong> ${peakHour ? peakHour[0] + ':00' : 'N/A'}</p>
+            <p><strong>Busiest day:</strong> ${peakDay ? peakDay[0] : 'N/A'}</p>
+          `;
+        };
+
+        const renderActions = crimeGroup => {
+          const actionData = appData.actions.filter(
+            a => a.crime_group === 'violent' || a.crime_group === 'property'
+          );
+
+          const profiles = ['resident', 'business', 'police', 'city'];
+          profiles.forEach(profile => {
+            const actions = actionData.filter(a => a.profile === profile);
+            const list = document.getElementById(`action-${profile}-list`);
+            list.innerHTML = '';
+
+            actions.forEach(action => {
+              const items = action.actions || [];
+              items.slice(0, 3).forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = item;
+                list.appendChild(li);
+              });
+            });
+          });
+        };
+
+        const renderDataFreshness = metadata => {
+          const freshness = document.getElementById('data-freshness');
+          if (!metadata) {
+            freshness.innerHTML = '<p class="freshness-note">Data source unknown</p>';
+            return;
+          }
+
+          const date = new Date(metadata.built_at);
+          const formatted = date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+          });
+
+          freshness.innerHTML = `
+            <p class="freshness-note">
+              Data for <strong>${metadata.city}</strong> includes <strong>${metadata.incident_count.toLocaleString()}</strong> incidents from the last <strong>${metadata.days_back}</strong> days.
+              Last updated <strong>${formatted} UTC</strong>.
+            </p>
+          `;
+        };
+
+        return { init: initApp };
+      })();
+
+      // Initialize when DOM is ready
+      document.addEventListener('DOMContentLoaded', () => NeighborhoodWatch.init());
+    </script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="/" aria-label="StealThisCode.org home">
+          <img
+            class="brand-lockup-image"
+            src="assets/magpie-lockup.png"
+            alt="StealThisCode.org logo"
+          />
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="tidycops.html">tidycops</a>
+          <a href="neighborhood-watch.html">Neighborhood Watch</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Static-first app blueprint</p>
+            <h1>The Neighborhood Watch.</h1>
+            <p class="hero-text">
+              A neighborhood safety web app can absolutely run with minimal server-side
+              computation if we move the heavy work into a nightly build. Pull incidents with
+              <code>tidycops</code>, pre-aggregate them once, publish static files, and let the browser
+              handle light filtering.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="https://github.com/Steal-This-Code/tidycops">
+                View tidycops
+              </a>
+              <a class="button button-secondary" href="#contract">See the data contract</a>
+            </div>
+            <ul class="hero-points" aria-label="Architecture highlights">
+              <li>Nightly GitHub Actions build instead of live queries</li>
+              <li>Static JSON, GeoJSON, and Parquet outputs for the frontend</li>
+              <li>Thin map and chart layer with neighborhood and ZIP filters</li>
+            </ul>
+          </div>
+
+          <div class="hero-visual">
+            <div class="hero-note">
+              <p class="card-label">Why this works</p>
+              <p>
+                The app does not need to calculate summaries, joins, or crime classifications on
+                every page load. It only needs to load the already-built files for the selected
+                place and time window.
+              </p>
+            </div>
+            <div class="hero-note">
+              <p class="card-label">Best first city</p>
+              <p>
+                Start with one city, one set of boundaries, and one recent-window feed. Expand to
+                more cities after the data pipeline and UI contract feel stable.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="mvp">
+          <div class="section-heading">
+            <p class="eyebrow">MVP</p>
+            <h2>The smallest version worth shipping.</h2>
+          </div>
+          <div class="values-grid messages-grid">
+            <article class="value-card">
+              <h3>Area selector</h3>
+              <p>Search by neighborhood or ZIP and keep all other panels in sync with that selection.</p>
+            </article>
+            <article class="value-card">
+              <h3>Map layer</h3>
+              <p>Render boundary polygons plus either clustered incidents or a prebuilt hotspot layer.</p>
+            </article>
+            <article class="value-card">
+              <h3>Violent vs. property toggle</h3>
+              <p>Let users flip between overall incidents, violent crime, and property crime quickly.</p>
+            </article>
+            <article class="value-card">
+              <h3>Pattern panels</h3>
+              <p>Show top offense types, location types, time-of-day peaks, and day-of-week rhythms.</p>
+            </article>
+            <article class="value-card">
+              <h3>Action guidance</h3>
+              <p>Give tailored advice for residents, businesses, police, and city leadership.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section split-section" id="pipeline">
+          <div>
+            <p class="eyebrow">Pipeline</p>
+            <h2>Run the expensive work before the user arrives.</h2>
+          </div>
+          <div class="section-copy">
+            <p>
+              A nightly GitHub Actions workflow can pull incidents, normalize fields, join them to
+              your neighborhood and ZIP boundaries, compute summaries, and write static files back
+              into the repository. The live app then becomes a static site that fetches those
+              outputs directly.
+            </p>
+            <p>
+              This makes GitHub Actions your cron job, the repository your lightweight data store,
+              and GitHub Pages your host. It is a good fit for a civic dashboard that updates daily
+              rather than minute by minute.
+            </p>
+          </div>
+        </section>
+
+        <section class="section" id="contract">
+          <div class="section-heading">
+            <p class="eyebrow">Data contract</p>
+            <h2>What the frontend should expect.</h2>
+          </div>
+          <div class="principles-grid">
+            <article class="principle-card">
+              <h3><code>metadata.json</code></h3>
+              <p>Build timestamp, city name, date window, and high-level caveats for the UI.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>summary_by_area.json</code></h3>
+              <p>One row per geography with total incidents, violent incidents, property incidents, and rates if available.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>offense_mix.json</code></h3>
+              <p>Top offense categories by area and crime group for quick bar charts.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>time_patterns.json</code></h3>
+              <p>Hour-of-day and day-of-week aggregates for overall, violent, and property patterns.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>place_types.json</code></h3>
+              <p>Most common location contexts like street, residence, parking lot, transit, or business.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>actions_by_profile.json</code></h3>
+              <p>Prepared recommendation text keyed to the pattern mix for residents, businesses, police, and city government.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>neighborhoods.geojson</code></h3>
+              <p>Boundary polygons the browser can draw and use for hover, click, and labeling.</p>
+            </article>
+            <article class="principle-card">
+              <h3><code>incidents_recent.parquet</code></h3>
+              <p>An optional recent incidents extract for point maps, debugging, and deeper drill-down views.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-heading">
+            <p class="eyebrow">Interpretation</p>
+            <h2>Be careful with “crime attractors.”</h2>
+          </div>
+          <div class="section-copy">
+            <p>
+              The safest framing is to show environmental context layers rather than claiming a
+              place causes crime. Parks, liquor licenses, transit stops, large parking lots,
+              corridors, or vacant parcels may correlate with where incidents are recorded, but the
+              app should present these as nearby features for interpretation, not blame.
+            </p>
+            <p>
+              A good wording pattern is: “Features often found near recent incident concentrations”
+              followed by a short methods note and a reminder that correlation is not causation.
+            </p>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-heading">
+            <p class="eyebrow">Action panels</p>
+            <h2>What people can do with the information.</h2>
+          </div>
+          <div class="values-grid messages-grid">
+            <article class="value-card">
+              <h3>What can I do?</h3>
+              <p>Improve lighting, secure vehicles, report recurring patterns, coordinate with neighbors, and focus on peak hours rather than generalized fear.</p>
+            </article>
+            <article class="value-card">
+              <h3>What can businesses do?</h3>
+              <p>Adjust closing procedures, improve sightlines and lighting, train staff, and coordinate with nearby businesses during peak risk periods.</p>
+            </article>
+            <article class="value-card">
+              <h3>What can police do?</h3>
+              <p>Use the app for targeted patrol timing, corridor analysis, repeat-location reviews, and non-enforcement prevention partnerships.</p>
+            </article>
+            <article class="value-card">
+              <h3>What can city government do?</h3>
+              <p>Use recurring patterns to prioritize lighting, blight remediation, traffic calming, code enforcement, and environmental design improvements.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section launch-section" id="app-section">
+          <div id="app-loading">
+            <p class="eyebrow">Dashboard</p>
+            <h2>Loading neighborhood safety data...</h2>
+          </div>
+          <div id="app-container" style="display: none;">
+            <div class="app-header">
+              <div class="app-controls">
+                <label for="area-search">
+                  <span>Find a neighborhood or ZIP code</span>
+                  <input
+                    type="text"
+                    id="area-search"
+                    placeholder="Search by name or code..."
+                    autocomplete="off"
+                  />
+                  <ul id="search-results" class="search-results" style="display: none;"></ul>
+                </label>
+              </div>
+
+              <div class="crime-filter">
+                <label>
+                  <input type="radio" name="crime-type" value="all" checked />
+                  All crimes
+                </label>
+                <label>
+                  <input type="radio" name="crime-type" value="violent" />
+                  Violent only
+                </label>
+                <label>
+                  <input type="radio" name="crime-type" value="property" />
+                  Property only
+                </label>
+              </div>
+            </div>
+
+            <div id="area-not-selected" class="info-panel">
+              <p><strong>Start by searching for an area above</strong> to see safety patterns for your neighborhood or ZIP code.</p>
+            </div>
+
+            <div id="area-details" style="display: none;">
+              <div class="area-header">
+                <h2 id="area-title"></h2>
+                <p id="area-type" class="area-type-badge"></p>
+              </div>
+
+              <div class="metrics-grid">
+                <div class="metric-card">
+                  <p class="metric-label">Total incidents<br /><span class="period">(last year)</span></p>
+                  <p class="metric-value" id="metric-total">—</p>
+                </div>
+                <div class="metric-card">
+                  <p class="metric-label">Violent crimes</p>
+                  <p class="metric-value" id="metric-violent">—</p>
+                </div>
+                <div class="metric-card">
+                  <p class="metric-label">Property crimes</p>
+                  <p class="metric-value" id="metric-property">—</p>
+                </div>
+                <div class="metric-card">
+                  <p class="metric-label">Other incidents</p>
+                  <p class="metric-value" id="metric-other">—</p>
+                </div>
+              </div>
+
+              <div class="patterns-section">
+                <div class="pattern-card">
+                  <h3>Top offenses</h3>
+                  <table id="offense-table" class="data-table">
+                    <tbody></tbody>
+                  </table>
+                </div>
+
+                <div class="pattern-card">
+                  <h3>By location type</h3>
+                  <table id="location-table" class="data-table">
+                    <tbody></tbody>
+                  </table>
+                </div>
+
+                <div class="pattern-card">
+                  <h3>Time patterns</h3>
+                  <div id="time-summary" class="time-summary"></div>
+                </div>
+              </div>
+
+              <div class="actions-section">
+                <h3>What to do about it</h3>
+                <div class="action-profiles">
+                  <div id="action-resident" class="action-card">
+                    <h4>For residents</h4>
+                    <ul id="action-resident-list"></ul>
+                  </div>
+                  <div id="action-business" class="action-card">
+                    <h4>For businesses</h4>
+                    <ul id="action-business-list"></ul>
+                  </div>
+                  <div id="action-police" class="action-card">
+                    <h4>For police</h4>
+                    <ul id="action-police-list"></ul>
+                  </div>
+                  <div id="action-city" class="action-card">
+                    <h4>For city government</h4>
+                    <ul id="action-city-list"></ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="data-error" style="display: none;" class="error-panel">
+              <p><strong>Data not available yet.</strong> The nightly build may not have completed, or the data files are still being generated. Check back soon.</p>
+            </div>
+
+            <div class="data-freshness" id="data-freshness"></div>
+          </div>
+        </section>
+
+        <section class="section launch-section">
+          <div class="launch-card">
+            <p class="eyebrow">Repo starter</p>
+            <h2>Included in this repository.</h2>
+            <p>
+              This repo now includes a starter GitHub Actions workflow at
+              <code>.github/workflows/nightly-neighborhood-watch-data.yml</code>, an R build
+              scaffold at <code>scripts/build_neighborhood_watch_data.R</code>, and a data folder
+              contract at <code>data/neighborhood-watch/</code>.
+            </p>
+            <p>
+              The app above reads static JSON outputs from the nightly build. Try searching for a
+              neighborhood or ZIP code once the first build completes.
+            </p>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
