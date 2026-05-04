@@ -116,24 +116,22 @@ ensure_columns <- function(data, columns, default = 0L) {
   data
 }
 
-message(sprintf("Downloading %s incidents for the last %s days", city, days_back))
+message(sprintf("Downloading %s incidents (no date filter applied in this pull)", city))
 
 incidents_raw <- get_incidents(
   city = city,
-  view = "comparable",
-  last_n_days = days_back,
-  limit = 250000
+  limit = 500000
 )
 
 timestamp_col <- pick_first_column(
   incidents_raw,
-  c("std_occurred_at", "occurred_at", "incident_datetime", "date1", "date"),
+  c("date1_parsed", "date1", "std_occurred_at", "occurred_at", "incident_datetime"),
   required = TRUE
 )
 
 offense_col <- pick_first_column(
   incidents_raw,
-  c("std_offense", "std_offense_category", "offense", "offense_type", "incident_type"),
+  c("offincident_clean", "offincident", "std_offense", "std_offense_category", "offense", "offense_type", "incident_type"),
   required = TRUE
 )
 
@@ -145,25 +143,25 @@ violent_flag_col <- pick_first_column(
 
 location_type_col <- pick_first_column(
   incidents_raw,
-  c("std_location_type", "location_type", "premise", "premise_type"),
+  c("premise_clean", "premise", "std_location_type", "location_type", "premise_type"),
   required = FALSE
 )
 
 lat_col <- pick_first_column(
   incidents_raw,
-  c("std_latitude", "latitude", "lat", "y"),
+  c("geocoded_column.latitude", "std_latitude", "latitude", "lat", "y"),
   required = FALSE
 )
 
 lon_col <- pick_first_column(
   incidents_raw,
-  c("std_longitude", "longitude", "lon", "lng", "x"),
+  c("geocoded_column.longitude", "std_longitude", "longitude", "lon", "lng", "x"),
   required = FALSE
 )
 
 incident_id_col <- pick_first_column(
   incidents_raw,
-  c("std_incident_id", "incident_id", "incident_number", "report_number"),
+  c("incidentnum", "std_incident_id", "incident_id", "incident_number", "report_number"),
   required = FALSE
 )
 
@@ -184,7 +182,7 @@ incidents <- incidents_raw |>
     day_of_week = wday(occurred_at, label = TRUE, abbr = FALSE, week_start = 1),
     month = floor_date(date, unit = "month")
   ) |>
-  filter(!is.na(date)) |>
+  filter(!is.na(date), date >= Sys.Date() - days_back) |>
   select(
     incident_id,
     occurred_at,
@@ -315,6 +313,8 @@ write_json_pretty(
     built_at = format(Sys.time(), tz = "UTC", usetz = TRUE),
     days_back = days_back,
     incident_count = nrow(incidents),
+    date_range_start = min(incidents$date, na.rm = TRUE),
+    date_range_end = max(incidents$date, na.rm = TRUE),
     notes = c(
       "Counts depend on source freshness and source coverage.",
       "The live app should present this as informational, not real-time dispatch data.",
