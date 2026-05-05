@@ -28,11 +28,11 @@
     "area_id": "2",
     "area_name": "West End Historic District",
     "other": 30,
-    "property": 17,
+    "property": 16,
     "violent": 6,
-    "total_incidents": 53,
+    "total_incidents": 52,
     "violent_incidents": 6,
-    "property_incidents": 17,
+    "property_incidents": 16,
     "other_incidents": 30
   },
   {
@@ -1600,24 +1600,24 @@
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "other": 101,
-    "property": 29,
+    "property": 28,
     "violent": 18,
-    "total_incidents": 148,
+    "total_incidents": 147,
     "violent_incidents": 18,
-    "property_incidents": 29,
+    "property_incidents": 28,
     "other_incidents": 101
   },
   {
     "area_type": "zip",
     "area_id": "75216",
     "area_name": "ZCTA5 75216",
-    "other": 41,
+    "other": 40,
     "property": 4,
     "violent": 5,
-    "total_incidents": 50,
+    "total_incidents": 49,
     "violent_incidents": 5,
     "property_incidents": 4,
-    "other_incidents": 41
+    "other_incidents": 40
   },
   {
     "area_type": "zip",

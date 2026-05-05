@@ -1365,7 +1365,7 @@
     "crime_group": "property",
     "day_of_week": "Sunday",
     "hour": 0,
-    "incidents": 3
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -3759,7 +3759,7 @@
     "crime_group": "property",
     "day_of_week": "Sunday",
     "hour": 0,
-    "incidents": 4
+    "incidents": 3
   },
   {
     "area_type": "zip",
@@ -4731,7 +4731,7 @@
     "crime_group": "other",
     "day_of_week": "Sunday",
     "hour": 0,
-    "incidents": 9
+    "incidents": 8
   },
   {
     "area_type": "zip",

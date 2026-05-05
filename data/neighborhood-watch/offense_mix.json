@@ -1372,14 +1372,6 @@
     "area_id": "2",
     "area_name": "West End Historic District",
     "crime_group": "property",
-    "offense_label": "theft of prop (auto acc) <$100 - (not emp)",
-    "incidents": 2
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "2",
-    "area_name": "West End Historic District",
-    "crime_group": "property",
     "offense_label": "theft of prop <$100 - other than shoplift",
     "incidents": 2
   },
@@ -1397,6 +1389,14 @@
     "area_name": "West End Historic District",
     "crime_group": "property",
     "offense_label": "theft from building> or equal $100<$750 (not shoplift)",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "2",
+    "area_name": "West End Historic District",
+    "crime_group": "property",
+    "offense_label": "theft of prop (auto acc) <$100 - (not emp)",
     "incidents": 1
   },
   {
@@ -3900,14 +3900,6 @@
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "crime_group": "property",
-    "offense_label": "theft of prop (auto acc) <$100 - (not emp)",
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75202",
-    "area_name": "ZCTA5 75202",
-    "crime_group": "property",
     "offense_label": "burglary of building - forced entry",
     "incidents": 1
   },
@@ -3941,6 +3933,14 @@
     "area_name": "ZCTA5 75202",
     "crime_group": "property",
     "offense_label": "fraud use/poss identifying info-preliminary investigation",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75202",
+    "area_name": "ZCTA5 75202",
+    "crime_group": "property",
+    "offense_label": "theft by deception (fraud) >or equal $100 <$750",
     "incidents": 1
   },
   {
@@ -4988,7 +4988,7 @@
     "area_id": "75216",
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
-    "offense_label": "abandoned property (no offense)",
+    "offense_label": "bmv",
     "incidents": 1
   },
   {

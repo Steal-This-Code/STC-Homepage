@@ -1292,15 +1292,15 @@
     "area_id": "2",
     "area_name": "West End Historic District",
     "crime_group": "property",
-    "location_type": "parking (business)",
-    "incidents": 4
+    "location_type": "apartment parking lot",
+    "incidents": 3
   },
   {
     "area_type": "neighborhood",
     "area_id": "2",
     "area_name": "West End Historic District",
     "crime_group": "property",
-    "location_type": "apartment parking lot",
+    "location_type": "parking (business)",
     "incidents": 3
   },
   {
@@ -3692,7 +3692,7 @@
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "crime_group": "property",
-    "location_type": "parking (business)",
+    "location_type": "parking lot (all others)",
     "incidents": 5
   },
   {
@@ -3700,8 +3700,8 @@
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "crime_group": "property",
-    "location_type": "parking lot (all others)",
-    "incidents": 5
+    "location_type": "parking (business)",
+    "incidents": 4
   },
   {
     "area_type": "zip",
@@ -4645,7 +4645,7 @@
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
     "location_type": "highway, street, alley etc",
-    "incidents": 21
+    "incidents": 20
   },
   {
     "area_type": "zip",
