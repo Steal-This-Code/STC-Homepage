@@ -1,0 +1,123 @@
+[
+  {
+    "id": "050550-2026",
+    "lat": 32.7865,
+    "lng": -96.7516,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 8,
+    "date": "2026-04-09",
+    "neighborhood": null
+  },
+  {
+    "id": "089924-2025",
+    "lat": 32.8062,
+    "lng": -96.7358,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 9,
+    "date": "2025-06-24",
+    "neighborhood": "Hollywood Heights / Santa Monica"
+  },
+  {
+    "id": "824190-2025",
+    "lat": 32.7837,
+    "lng": -96.7352,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "043344-2026",
+    "lat": 32.7923,
+    "lng": -96.7364,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "business office",
+    "hour": 22,
+    "date": "2026-03-26",
+    "neighborhood": null
+  },
+  {
+    "id": "017943-2026",
+    "lat": 32.7832,
+    "lng": -96.7341,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 2,
+    "date": "2026-01-17",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "065566-2025",
+    "lat": 32.7927,
+    "lng": -96.7383,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "liquor store",
+    "hour": 14,
+    "date": "2025-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "803038-2026",
+    "lat": 32.7929,
+    "lng": -96.7474,
+    "offense": "theft of prop > or equal $2,500 <$30k (employee) pc31.03(e4a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-02-05",
+    "neighborhood": null
+  },
+  {
+    "id": "055560-2026",
+    "lat": 32.792,
+    "lng": -96.7499,
+    "offense": "deadly conduct",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 3,
+    "date": "2026-04-19",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "184480-2025",
+    "lat": 32.7999,
+    "lng": -96.7497,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 3,
+    "date": "2025-12-27",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "160503-2025",
+    "lat": 32.787,
+    "lng": -96.7493,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2025-11-07",
+    "neighborhood": null
+  },
+  {
+    "id": "019822-2026",
+    "lat": 32.7955,
+    "lng": -96.7369,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (park)",
+    "hour": 9,
+    "date": "2026-02-11",
+    "neighborhood": null
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "802462-2026",
+    "lat": 32.94,
+    "lng": -96.8186,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "other",
+    "hour": 13,
+    "date": "2026-02-03",
+    "neighborhood": null
+  },
+  {
+    "id": "007702-2026",
+    "lat": 32.9407,
+    "lng": -96.8143,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "005740-2026",
+    "lat": 32.944,
+    "lng": -96.8163,
+    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
+    "id": "134420-2025",
+    "lat": 32.9398,
+    "lng": -96.8089,
+    "offense": "disorderly conduct discharge/display firearm (no assault)",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2025-09-17",
+    "neighborhood": null
+  },
+  {
+    "id": "005738-2026",
+    "lat": 32.9499,
+    "lng": -96.7704,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "183129-2025",
+    "lat": 32.9487,
+    "lng": -96.819,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2025-12-22",
+    "neighborhood": null
+  },
+  {
+    "id": "804976-2026",
+    "lat": 32.9529,
+    "lng": -96.8055,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 12,
+    "date": "2026-03-07",
+    "neighborhood": null
+  }
+]

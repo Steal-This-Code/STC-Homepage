@@ -1,0 +1,189 @@
+[
+  {
+    "id": "822346-2025",
+    "lat": 32.9304,
+    "lng": -96.8206,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "shopping mall",
+    "hour": 13,
+    "date": "2025-10-30",
+    "neighborhood": null
+  },
+  {
+    "id": "011284-2026",
+    "lat": 32.9339,
+    "lng": -96.8191,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 17,
+    "date": "2026-01-22",
+    "neighborhood": null
+  },
+  {
+    "id": "046010-2026",
+    "lat": 32.9357,
+    "lng": -96.7549,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "006080-2026",
+    "lat": 32.9361,
+    "lng": -96.8161,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-01-12",
+    "neighborhood": null
+  },
+  {
+    "id": "804171-2026",
+    "lat": 32.9356,
+    "lng": -96.8073,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "airport - all others",
+    "hour": 12,
+    "date": "2025-12-01",
+    "neighborhood": null
+  },
+  {
+    "id": "002490-2026",
+    "lat": 32.9277,
+    "lng": -96.7654,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
+    "id": "800586-2026",
+    "lat": 32.9291,
+    "lng": -96.8162,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "142239-2025",
+    "lat": 32.9329,
+    "lng": -96.8211,
+    "offense": "other offense - misdemeanor",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-02",
+    "neighborhood": null
+  },
+  {
+    "id": "047935-2026",
+    "lat": 32.9275,
+    "lng": -96.7642,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 19,
+    "date": "2026-04-04",
+    "neighborhood": null
+  },
+  {
+    "id": "804126-2026",
+    "lat": 32.9302,
+    "lng": -96.8182,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 17,
+    "date": "2026-02-25",
+    "neighborhood": null
+  },
+  {
+    "id": "119566-2025",
+    "lat": 32.9335,
+    "lng": -96.812,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2025-08-20",
+    "neighborhood": null
+  },
+  {
+    "id": "816661-2025",
+    "lat": 32.9381,
+    "lng": -96.7649,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2025-08-15",
+    "neighborhood": null
+  },
+  {
+    "id": "179422-2025",
+    "lat": 32.9371,
+    "lng": -96.8202,
+    "offense": "theft by deception (fraud) >or equal $30k <$150k",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-12-01",
+    "neighborhood": null
+  },
+  {
+    "id": "825179-2025",
+    "lat": 32.9304,
+    "lng": -96.8206,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 10,
+    "date": "2025-12-05",
+    "neighborhood": null
+  },
+  {
+    "id": "006612-2026",
+    "lat": 32.9329,
+    "lng": -96.8166,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "821159-2025",
+    "lat": 32.9377,
+    "lng": -96.8179,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2025-10-13",
+    "neighborhood": null
+  },
+  {
+    "id": "001563-2026",
+    "lat": 32.9372,
+    "lng": -96.8156,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-26",
+    "neighborhood": null
+  }
+]
