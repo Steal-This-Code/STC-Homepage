@@ -230,7 +230,11 @@ incidents <- incidents_raw |>
     latitude = suppressWarnings(as.numeric(if (!is.null(lat_col)) .data[[lat_col]] else NA)),
     longitude = suppressWarnings(as.numeric(if (!is.null(lon_col)) .data[[lon_col]] else NA)),
     date = as.Date(occurred_at),
-    hour = hour(occurred_at),
+    hour = if ("time1" %in% names(incidents_raw)) {
+      suppressWarnings(as.integer(sub(":.*", "", time1)))
+    } else {
+      hour(occurred_at)
+    },
     day_of_week = wday(occurred_at, label = TRUE, abbr = FALSE, week_start = 1),
     month = floor_date(date, unit = "month")
   ) |>
@@ -408,5 +412,91 @@ write_sf(
   delete_dsn = TRUE,
   quiet = TRUE
 )
+
+# ── Per-zip incident JSON files for point-level map layer ────────────────────
+message("Writing per-zip incident files for point layer")
+
+zip_incident_dir <- path(output_dir, "incidents")
+dir_create(zip_incident_dir)
+
+zip_col <- pick_first_column(
+  incidents,
+  c("zip_code_clean", "zip_code", "zipcode", "zip"),
+  required = FALSE
+)
+
+if (!is.null(zip_col)) {
+  # Build a 1-to-1 incident → neighborhood lookup from the spatial join
+  neighborhood_lookup <- incidents_joined |>
+    filter(area_type == "neighborhood", !is.na(area_name)) |>
+    select(incident_id, neighborhood = area_name) |>
+    distinct(incident_id, .keep_all = TRUE)
+
+  incidents_export <- incidents |>
+    mutate(
+      zip = as.character(.data[[zip_col]]),
+      premise_export = if ("premise_clean" %in% names(incidents)) as.character(premise_clean) else NA_character_
+    ) |>
+    filter(!is.na(latitude), !is.na(longitude), !is.na(zip)) |>
+    left_join(neighborhood_lookup, by = "incident_id") |>
+    select(
+      id           = incident_id,
+      lat          = latitude,
+      lng          = longitude,
+      offense      = offense_label,
+      group        = crime_group,
+      premise      = premise_export,
+      hour,
+      date,
+      zip,
+      neighborhood
+    ) |>
+    mutate(date = as.character(date))
+
+  # Write one compact JSON file per zip code (exclude the zip field itself)
+  zip_groups <- split(
+    incidents_export |> select(-zip),
+    incidents_export$zip
+  )
+  for (zip_code in names(zip_groups)) {
+    write_json_pretty(
+      zip_groups[[zip_code]],
+      path(zip_incident_dir, paste0(zip_code, ".json"))
+    )
+  }
+
+  # Build area → zip codes lookup so the dashboard knows which files to fetch
+  incident_zip_lookup <- incidents_export |>
+    select(incident_id = id, zip)
+
+  neighborhood_zip_map <- incidents_joined |>
+    filter(area_type == "neighborhood", !is.na(area_id)) |>
+    select(incident_id, area_id, area_name) |>
+    left_join(incident_zip_lookup, by = "incident_id") |>
+    filter(!is.na(zip)) |>
+    group_by(area_id, area_name) |>
+    summarize(zip_codes = list(sort(unique(zip))), .groups = "drop") |>
+    mutate(area_type = "neighborhood")
+
+  zip_area_zip_map <- incidents_joined |>
+    filter(area_type == "zip", !is.na(area_id)) |>
+    select(incident_id, area_id, area_name) |>
+    left_join(incident_zip_lookup, by = "incident_id") |>
+    filter(!is.na(zip)) |>
+    group_by(area_id, area_name) |>
+    summarize(zip_codes = list(sort(unique(zip))), .groups = "drop") |>
+    mutate(area_type = "zip")
+
+  area_zip_map <- bind_rows(neighborhood_zip_map, zip_area_zip_map)
+  write_json_pretty(area_zip_map, path(output_dir, "area_zip_map.json"))
+
+  message(sprintf(
+    "Written %d zip incident files (%d incidents with coordinates)",
+    length(zip_groups),
+    nrow(incidents_export)
+  ))
+} else {
+  message("No zip code column found; skipping per-zip incident files")
+}
 
 message("Neighborhood Watch data build complete")

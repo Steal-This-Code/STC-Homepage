@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Watch this Hood — Dallas</title>
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  
+  <!-- Highcharts CSS -->
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+      color: white;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .header p {
+      opacity: 0.9;
+      font-size: 0.95rem;
+    }
+
+    .controls {
+      background: white;
+      padding: 1.5rem;
+      border-bottom: 1px solid #e0e0e0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .control-group {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .control-item {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .control-item label {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .control-item select {
+      padding: 0.75rem;
+      border: 2px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+      font-family: 'Inter', sans-serif;
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+
+    .control-item select:focus {
+      outline: none;
+      border-color: #2a5298;
+      box-shadow: 0 0 0 3px rgba(42, 82, 152, 0.1);
+    }
+
+    .crime-filters {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      align-items: flex-end;
+    }
+
+    .crime-filters label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 500;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+
+    .crime-filters input {
+      cursor: pointer;
+      width: 18px;
+      height: 18px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .dashboard-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .panel {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+
+    .panel-header {
+      padding: 1.5rem;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    .panel-header h2 {
+      font-size: 1.2rem;
+      color: #333;
+    }
+
+    .panel-body {
+      padding: 1.5rem;
+    }
+
+    #map {
+      height: 500px;
+      background: #e0e0e0;
+    }
+
+    .chart-container {
+      height: 400px;
+    }
+
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .metric-card {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .metric-card.property {
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    }
+
+    .metric-card.other {
+      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    }
+
+    .metric-label {
+      font-size: 0.85rem;
+      opacity: 0.9;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .metric-value {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-top: 0.5rem;
+    }
+
+    .crime-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .crime-table thead {
+      background: #f5f5f5;
+    }
+
+    .crime-table th {
+      padding: 1rem;
+      text-align: left;
+      font-weight: 600;
+      border-bottom: 2px solid #e0e0e0;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .crime-table td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .crime-table tbody tr:hover {
+      background: #fafafa;
+    }
+
+    .crime-count {
+      font-weight: 600;
+      color: #2a5298;
+    }
+
+    .error-message {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      color: #856404;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: #999;
+    }
+
+    .loading::after {
+      content: '';
+      display: inline-block;
+      animation: spin 1s linear infinite;
+      border: 3px solid #f0f0f0;
+      border-top: 3px solid #2a5298;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      margin-left: 1rem;
+      vertical-align: middle;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .full-width {
+      grid-column: 1 / -1;
+    }
+
+    @media (max-width: 1024px) {
+      .dashboard-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .control-group {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .control-group {
+        grid-template-columns: 1fr;
+      }
+
+      .header h1 {
+        font-size: 1.5rem;
+      }
+
+      .crime-filters {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      #map {
+        height: 300px;
+      }
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #999;
+    }
+
+    .empty-state p {
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Watch this Hood</h1>
+    <p>Dallas</p>
+  </div>
+
+  <div class="controls">
+    <div class="control-group">
+      <div class="control-item">
+        <label for="areaType">View by</label>
+        <select id="areaType">
+          <option value="neighborhood">Neighborhoods</option>
+          <option value="zip">ZIP Codes</option>
+        </select>
+      </div>
+
+      <div class="control-item">
+        <label for="neighborhood">Area</label>
+        <select id="neighborhood">
+          <option value="">Select an area...</option>
+        </select>
+      </div>
+
+      <div class="control-item">
+        <label for="dateRange">Time period</label>
+        <select id="dateRange">
+          <option value="7">Last 7 days</option>
+          <option value="14">Last 14 days</option>
+          <option value="30" selected>Last 30 days</option>
+          <option value="0">All available</option>
+        </select>
+      </div>
+
+      <div class="control-item">
+        <label for="offenseType">Offense</label>
+        <select id="offenseType">
+          <option value="">All offenses</option>
+        </select>
+      </div>
+
+      <div class="control-item crime-filters">
+        <label>
+          <input type="checkbox" id="filter-all" checked /> All crimes
+        </label>
+        <label>
+          <input type="checkbox" id="filter-violent" checked /> Violent
+        </label>
+        <label>
+          <input type="checkbox" id="filter-property" checked /> Property
+        </label>
+        <label>
+          <input type="checkbox" id="filter-other" checked /> Other
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div id="errorContainer"></div>
+
+    <div class="metrics-grid" id="metricsGrid"></div>
+
+    <div class="dashboard-grid">
+      <div class="panel">
+        <div class="panel-header">
+          <h2>📍 Incident Map</h2>
+        </div>
+        <div class="panel-body">
+          <div id="map"></div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <h2>⏰ Time of Day Patterns</h2>
+        </div>
+        <div class="panel-body">
+          <div id="timeChart" class="chart-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="dashboard-grid">
+      <div class="panel full-width">
+        <div class="panel-header">
+          <h2>🏠 Where Incidents Occur</h2>
+        </div>
+        <div class="panel-body">
+          <div id="premisesChart" class="chart-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel full-width">
+      <div class="panel-header">
+        <h2>🔝 Most Common Crimes</h2>
+      </div>
+      <div class="panel-body">
+        <table class="crime-table" id="crimeTable">
+          <thead>
+            <tr>
+              <th>Offense Type</th>
+              <th>Count</th>
+              <th>Category</th>
+            </tr>
+          </thead>
+          <tbody id="crimeTableBody">
+            <tr>
+              <td colspan="3" class="empty-state">
+                <p>Select a neighborhood to see crime data</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+  <script>
+    // Main Dashboard App
+    const DashboardApp = (() => {
+      let appData = {
+        summary: null,
+        offenseMix: null,
+        timePatterns: null,
+        boundaries: null,
+        metadata: null,
+        areaZipMap: null
+      };
+
+      let map = null;
+      let markerLayer = null;
+      let boundaryLayer = null;
+      let currentAreaType = 'neighborhood';
+      const incidentCache = {}; // zip → incident array
+
+      // Initialize app
+      const init = async () => {
+        await loadData();
+        populateAreas();
+        setupEventListeners();
+        initMap();
+      };
+
+      // Load all data files
+      const loadData = async () => {
+        const [summary, offenseMix, timePatterns, boundaries, metadata, areaZipMap] = await Promise.all([
+          fetchJSON('data/neighborhood-watch/summary_by_area.json'),
+          fetchJSON('data/neighborhood-watch/offense_mix.json'),
+          fetchJSON('data/neighborhood-watch/time_patterns.json'),
+          fetchJSON('data/neighborhood-watch/boundaries.geojson'),
+          fetchJSON('data/neighborhood-watch/metadata.json'),
+          fetchJSON('data/neighborhood-watch/area_zip_map.json')
+        ]);
+
+        if (!summary || !offenseMix || !timePatterns) {
+          showError('Failed to load crime data. Please try again later.');
+          return;
+        }
+
+        appData.summary = summary;
+        appData.offenseMix = offenseMix;
+        appData.timePatterns = timePatterns;
+        appData.boundaries = boundaries;
+        appData.metadata = metadata;
+        appData.areaZipMap = areaZipMap;
+      };
+
+      // Fetch JSON with error handling
+      const fetchJSON = async (path) => {
+        try {
+          const response = await fetch(path);
+          if (!response.ok) return null;
+          return await response.json();
+        } catch (e) {
+          console.warn(`Failed to load ${path}:`, e);
+          return null;
+        }
+      };
+
+      // Populate area dropdown filtered by currentAreaType
+      const populateAreas = () => {
+        if (!appData.summary) return;
+
+        const areas = Array.from(
+          new Set(
+            appData.summary
+              .filter(r => r.area_type === currentAreaType)
+              .map(r => r.area_name)
+          )
+        ).sort();
+
+        const select = document.getElementById('neighborhood');
+        select.innerHTML = '<option value="">Select an area...</option>';
+        areas.forEach(name => {
+          const option = document.createElement('option');
+          option.value = name;
+          option.textContent = name;
+          select.appendChild(option);
+        });
+      };
+
+      // Setup event listeners
+      const setupEventListeners = () => {
+        document.getElementById('neighborhood').addEventListener('change', updateDashboard);
+        document.getElementById('dateRange').addEventListener('change', updateDashboard);
+        document.getElementById('offenseType').addEventListener('change', updateDashboard);
+        document.getElementById('areaType').addEventListener('change', () => {
+          currentAreaType = document.getElementById('areaType').value;
+          populateAreas();
+          renderBoundaryLayer();
+          clearDashboard();
+        });
+        document.querySelectorAll('.crime-filters input').forEach(input => {
+          input.addEventListener('change', updateDashboard);
+        });
+      };
+
+      // Initialize Leaflet map
+      const initMap = () => {
+        map = L.map('map').setView([32.7767, -96.7970], 11);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© OpenStreetMap contributors',
+          maxZoom: 19
+        }).addTo(map);
+
+        markerLayer = L.featureGroup().addTo(map);
+        renderBoundaryLayer();
+      };
+
+      // Render (or re-render) boundary layer for the current area type
+      const renderBoundaryLayer = () => {
+        if (!appData.boundaries) return;
+
+        // Remove existing boundary layer
+        if (boundaryLayer) {
+          map.removeLayer(boundaryLayer);
+          boundaryLayer = null;
+        }
+
+        const selectedArea = document.getElementById('neighborhood').value;
+
+        // Filter features to only the current area type
+        const filtered = {
+          type: 'FeatureCollection',
+          features: appData.boundaries.features.filter(
+            f => f.properties?.area_type === currentAreaType
+          )
+        };
+
+        boundaryLayer = L.geoJSON(filtered, {
+          style: (feature) => {
+            const isSelected = feature.properties?.area_name === selectedArea;
+            return {
+              color: isSelected ? '#e74c3c' : '#2a5298',
+              weight: isSelected ? 3 : 2,
+              opacity: isSelected ? 0.9 : 0.5,
+              fillOpacity: isSelected ? 0.25 : 0.1
+            };
+          },
+          onEachFeature: (feature, layer) => {
+            layer.on('click', () => {
+              const areaName = feature.properties?.area_name;
+              if (areaName) {
+                document.getElementById('neighborhood').value = areaName;
+                updateDashboard();
+              }
+            });
+            layer.on('mouseover', () => {
+              if (feature.properties?.area_name !== document.getElementById('neighborhood').value) {
+                layer.setStyle({ weight: 2.5, opacity: 0.7, fillOpacity: 0.15 });
+              }
+            });
+            layer.on('mouseout', () => {
+              const isSel = feature.properties?.area_name === document.getElementById('neighborhood').value;
+              layer.setStyle({
+                weight: isSel ? 3 : 2,
+                opacity: isSel ? 0.9 : 0.5,
+                fillOpacity: isSel ? 0.25 : 0.1
+              });
+            });
+          }
+        }).addTo(map);
+      };
+
+      // Update dashboard based on filters
+      const updateDashboard = async () => {
+        const neighborhood = document.getElementById('neighborhood').value;
+        const crimeTypes = getCrimeTypeFilters();
+
+        if (!neighborhood) {
+          clearDashboard();
+          return;
+        }
+
+        // Snap map to selected area bounds and refresh boundary styling
+        snapMapToNeighborhood(neighborhood);
+        renderBoundaryLayer();
+
+        // Load incident points for selected area
+        const allIncidents = await loadIncidentPoints(neighborhood);
+
+        // Filter by date range
+        const days = parseInt(document.getElementById('dateRange').value, 10);
+        const dateFiltered = days === 0 ? allIncidents : (() => {
+          const cutoff = new Date();
+          cutoff.setDate(cutoff.getDate() - days);
+          cutoff.setHours(0, 0, 0, 0);
+          return allIncidents.filter(inc => inc.date && new Date(inc.date) >= cutoff);
+        })();
+
+        // Populate offense dropdown from date+category-filtered incidents (before offense filter)
+        const crimeFiltered = dateFiltered.filter(inc => crimeTypes.includes(inc.group));
+        populateOffenseTypes(crimeFiltered);
+
+        // Apply offense filter
+        const offenseFilter = document.getElementById('offenseType').value;
+        const incidents = offenseFilter
+          ? crimeFiltered.filter(inc => inc.offense === offenseFilter)
+          : crimeFiltered;
+
+        updateMetrics(incidents, crimeTypes);
+        updateCrimeTable(incidents, crimeTypes);
+        updateMap(incidents, crimeTypes);
+        updateTimeChart(incidents, crimeTypes);
+        updatePremisesChart(incidents);
+      };
+
+      // Load incident point data for an area, fetching per-zip files as needed
+      const loadIncidentPoints = async (areaName) => {
+        if (!appData.areaZipMap) return [];
+
+        const entry = appData.areaZipMap.find(
+          r => r.area_name === areaName && r.area_type === currentAreaType
+        );
+        if (!entry || !entry.zip_codes) return [];
+
+        // Normalize: R may unbox single-element arrays to a plain string
+        const zips = Array.isArray(entry.zip_codes) ? entry.zip_codes : [entry.zip_codes];
+        if (zips.length === 0) return [];
+
+        // Fetch any zip files not already cached
+        await Promise.all(
+          zips.map(async (zip) => {
+            if (!incidentCache[zip]) {
+              const data = await fetchJSON(`data/neighborhood-watch/incidents/${zip}.json`);
+              incidentCache[zip] = data || [];
+            }
+          })
+        );
+
+        // Return incidents filtered to the selected area
+        const all = zips.flatMap(zip => incidentCache[zip] || []);
+        // In neighborhood mode, the zip files cover the whole ZIP — filter down
+        // to only incidents spatially assigned to the selected neighborhood
+        if (currentAreaType === 'neighborhood') {
+          return all.filter(inc => inc.neighborhood === areaName);
+        }
+        return all;
+      };
+
+      // Snap map to neighborhood boundaries
+      const snapMapToNeighborhood = (neighborhood) => {
+        if (!appData.boundaries) return;
+
+        let found = false;
+        for (const feature of appData.boundaries.features) {
+          if (feature.properties?.area_name === neighborhood) {
+            const layer = L.geoJSON(feature);
+            const bounds = layer.getBounds();
+            if (bounds.isValid()) {
+              map.fitBounds(bounds, { padding: [50, 50] });
+            }
+            found = true;
+            break;
+          }
+        }
+
+        if (!found) {
+          // Default view if neighborhood not found
+          map.setView([32.7767, -96.7970], 11);
+        }
+      };
+
+      // Get selected crime types
+      const getCrimeTypeFilters = () => {
+        const filters = [];
+        if (document.getElementById('filter-violent').checked) filters.push('violent');
+        if (document.getElementById('filter-property').checked) filters.push('property');
+        if (document.getElementById('filter-other').checked) filters.push('other');
+        return filters.length ? filters : ['violent', 'property', 'other'];
+      };
+
+      // Update metrics cards
+      const updateMetrics = (incidents, crimeTypes) => {
+        const filtered = incidents.filter(inc => crimeTypes.includes(inc.group));
+        const violent  = filtered.filter(inc => inc.group === 'violent').length;
+        const property = filtered.filter(inc => inc.group === 'property').length;
+        const other    = filtered.filter(inc => inc.group === 'other').length;
+        const total    = filtered.length;
+
+        const metricsGrid = document.getElementById('metricsGrid');
+        metricsGrid.innerHTML = `
+          <div class="metric-card">
+            <div class="metric-label">Total Incidents</div>
+            <div class="metric-value">${total.toLocaleString()}</div>
+          </div>
+          <div class="metric-card property">
+            <div class="metric-label">Violent Crimes</div>
+            <div class="metric-value">${violent.toLocaleString()}</div>
+          </div>
+          <div class="metric-card" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
+            <div class="metric-label">Property Crimes</div>
+            <div class="metric-value">${property.toLocaleString()}</div>
+          </div>
+          <div class="metric-card other">
+            <div class="metric-label">Other Incidents</div>
+            <div class="metric-value">${other.toLocaleString()}</div>
+          </div>
+        `;
+      };
+
+      // Update map with real incident point data
+      const updateMap = (incidents, crimeTypes) => {
+        markerLayer.clearLayers();
+
+        const crimeColors = {
+          violent: '#e74c3c',
+          property: '#e67e22',
+          other: '#3498db'
+        };
+
+        const filtered = incidents.filter(inc => crimeTypes.includes(inc.group));
+
+        filtered.forEach((inc) => {
+          if (!inc.lat || !inc.lng) return;
+          const marker = L.circleMarker(
+            [inc.lat, inc.lng],
+            {
+              radius: 5,
+              fillColor: crimeColors[inc.group] || '#999',
+              color: '#fff',
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            }
+          );
+
+          const timeStr = inc.hour != null
+            ? (inc.hour === 0 ? 'Midnight' : inc.hour < 12 ? `${inc.hour}am` : inc.hour === 12 ? 'Noon' : `${inc.hour - 12}pm`)
+            : '';
+
+          marker.bindPopup(`
+            <strong>${inc.offense || 'Unknown offense'}</strong><br>
+            <span style="text-transform:capitalize">${inc.group || ''}</span>
+            ${timeStr ? `<br>${inc.date || ''} &bull; ${timeStr}` : ''}
+          `);
+
+          markerLayer.addLayer(marker);
+        });
+      };
+
+      // Populate the offense type dropdown from current incident set
+      const populateOffenseTypes = (incidents) => {
+        const sel = document.getElementById('offenseType');
+        const prev = sel.value;
+        const offenses = [...new Set(incidents.map(inc => inc.offense))]
+          .filter(Boolean).sort();
+        sel.innerHTML = '<option value="">All offenses</option>' +
+          offenses.map(o =>
+            `<option value="${o}"${o === prev ? ' selected' : ''}>${o}</option>`
+          ).join('');
+      };
+
+      // Premises chart
+      const updatePremisesChart = (incidents) => {
+        const counts = {};
+        incidents.forEach(inc => {
+          if (inc.premise) counts[inc.premise] = (counts[inc.premise] || 0) + 1;
+        });
+        const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+        if (sorted.length === 0) {
+          document.getElementById('premisesChart').innerHTML =
+            '<p style="text-align:center;color:#999;padding:3rem">No data for selected filters</p>';
+          return;
+        }
+
+        Highcharts.chart('premisesChart', {
+          chart: { type: 'bar', backgroundColor: 'transparent' },
+          title: { text: null },
+          xAxis: {
+            categories: sorted.map(d => d[0]),
+            title: { text: null },
+            labels: { style: { fontSize: '12px' } }
+          },
+          yAxis: { title: { text: 'Incidents' }, min: 0, allowDecimals: false },
+          series: [{ name: 'Incidents', data: sorted.map(d => d[1]), color: '#2a5298' }],
+          legend: { enabled: false },
+          credits: { enabled: false },
+          plotOptions: { bar: { borderWidth: 0, dataLabels: { enabled: true } } }
+        });
+      };
+
+      // Update time of day chart using raw incident hour field
+      const updateTimeChart = (incidents, crimeTypes) => {
+        const filtered = incidents.filter(inc => crimeTypes.includes(inc.group));
+
+        // Aggregate by hour
+        const byHour = {};
+        for (let i = 0; i < 24; i++) byHour[i] = 0;
+
+        filtered.forEach(inc => {
+          const hour = typeof inc.hour === 'string' ? parseInt(inc.hour, 10) : inc.hour;
+          if (Number.isInteger(hour) && hour >= 0 && hour < 24) {
+            byHour[hour]++;
+          }
+        });
+
+        // Create categories for labels
+        const categories = Array.from({ length: 24 }, (_, i) => 
+          i === 0 ? 'Midnight' : i < 12 ? `${i}am` : i === 12 ? 'Noon' : `${i-12}pm`
+        );
+
+        Highcharts.chart('timeChart', {
+          chart: { type: 'column', backgroundColor: 'transparent' },
+          title: { text: null },
+          xAxis: {
+            categories: categories,
+            title: { text: 'Hour of Day' }
+          },
+          yAxis: {
+            title: { text: 'Incident Count' },
+            min: 0
+          },
+          series: [{
+            name: 'Incidents',
+            data: Object.values(byHour),
+            color: '#2a5298'
+          }],
+          legend: { enabled: false },
+          credits: { enabled: false },
+          plotOptions: {
+            column: {
+              pointPadding: 0.2,
+              borderWidth: 0
+            }
+          }
+        });
+      };
+
+      // Update crime table
+      const updateCrimeTable = (incidents, crimeTypes) => {
+        const filtered = incidents.filter(inc => crimeTypes.includes(inc.group));
+
+        // Count by offense label + group
+        const counts = {};
+        filtered.forEach(inc => {
+          const key = `${inc.offense}|||${inc.group}`;
+          counts[key] = (counts[key] || 0) + 1;
+        });
+
+        const sorted = Object.entries(counts)
+          .map(([key, n]) => { const [offense, group] = key.split('|||'); return { offense, group, n }; })
+          .sort((a, b) => b.n - a.n);
+
+        const tbody = document.getElementById('crimeTableBody');
+        tbody.innerHTML = sorted.slice(0, 15).map(row => `
+          <tr>
+            <td>${row.offense}</td>
+            <td><span class="crime-count">${row.n}</span></td>
+            <td><span style="text-transform: capitalize; color: ${
+              row.group === 'violent' ? '#e74c3c' : 
+              row.group === 'property' ? '#e67e22' : '#3498db'
+            }">${row.group}</span></td>
+          </tr>
+        `).join('');
+
+        if (sorted.length === 0) {
+          tbody.innerHTML = '<tr><td colspan="3" class="empty-state"><p>No data for selected filters</p></td></tr>';
+        }
+      };
+
+      // Clear dashboard
+      const clearDashboard = () => {
+        document.getElementById('metricsGrid').innerHTML = '';
+        markerLayer.clearLayers();
+        document.getElementById('crimeTableBody').innerHTML = '<tr><td colspan="3" class="empty-state"><p>Select a neighborhood</p></td></tr>';
+        document.getElementById('premisesChart').innerHTML = '';
+        document.getElementById('offenseType').innerHTML = '<option value="">All offenses</option>';
+      };
+
+      // Show error message
+      const showError = (message) => {
+        const container = document.getElementById('errorContainer');
+        container.innerHTML = `<div class="error-message">${message}</div>`;
+      };
+
+      return { init };
+    })();
+
+    // Initialize on page load
+    document.addEventListener('DOMContentLoaded', () => DashboardApp.init());
+  </script>
+</body>
+</html>

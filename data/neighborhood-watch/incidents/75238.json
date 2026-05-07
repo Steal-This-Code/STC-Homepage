@@ -1,0 +1,178 @@
+[
+  {
+    "id": "124462-2025",
+    "lat": 32.893,
+    "lng": -96.7166,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 22,
+    "date": "2025-08-28",
+    "neighborhood": null
+  },
+  {
+    "id": "166065-2025",
+    "lat": 32.9007,
+    "lng": -96.6941,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 23,
+    "date": "2025-11-12",
+    "neighborhood": null
+  },
+  {
+    "id": "003757-2026",
+    "lat": 32.8756,
+    "lng": -96.6872,
+    "offense": "terroristic threat fear imminent sbi",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 20,
+    "date": "2025-12-31",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "183589-2025",
+    "lat": 32.8742,
+    "lng": -96.687,
+    "offense": "robbery of individual (agg)",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2025-12-25",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "000566-2026",
+    "lat": 32.8687,
+    "lng": -96.6809,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2025-12-31",
+    "neighborhood": null
+  },
+  {
+    "id": "806665-2026",
+    "lat": 32.8818,
+    "lng": -96.7177,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-03-29",
+    "neighborhood": "Lake Highlands Estates"
+  },
+  {
+    "id": "053593-2026",
+    "lat": 32.864,
+    "lng": -96.6871,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-04-15",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "173016-2025",
+    "lat": 32.8737,
+    "lng": -96.69,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 11,
+    "date": "2025-12-03",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "808092-2026",
+    "lat": 32.8652,
+    "lng": -96.7017,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 13,
+    "date": "2026-02-18",
+    "neighborhood": null
+  },
+  {
+    "id": "122721-2025",
+    "lat": 32.8931,
+    "lng": -96.6961,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "business office",
+    "hour": 15,
+    "date": "2025-08-25",
+    "neighborhood": null
+  },
+  {
+    "id": "806860-2026",
+    "lat": 32.8717,
+    "lng": -96.6846,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "business office",
+    "hour": 12,
+    "date": "2026-03-28",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "012786-2026",
+    "lat": 32.8665,
+    "lng": -96.7136,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 6,
+    "date": "2026-01-28",
+    "neighborhood": "Lake Ridge Estates"
+  },
+  {
+    "id": "802896-2026",
+    "lat": 32.8822,
+    "lng": -96.7249,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-02-09",
+    "neighborhood": "Lake Highlands North"
+  },
+  {
+    "id": "166065-2025",
+    "lat": 32.9007,
+    "lng": -96.6941,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 23,
+    "date": "2025-11-12",
+    "neighborhood": null
+  },
+  {
+    "id": "054903-2026",
+    "lat": 32.8631,
+    "lng": -96.7157,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-04-17",
+    "neighborhood": "Lake Ridge Estates"
+  },
+  {
+    "id": "175930-2025",
+    "lat": 32.8779,
+    "lng": -96.69,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2025-12-08",
+    "neighborhood": "Highland Meadows"
+  }
+]

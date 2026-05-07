@@ -1,0 +1,35 @@
+[
+  {
+    "id": "009789-2026",
+    "lat": 32.657,
+    "lng": -96.9477,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-19",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "808943-2026",
+    "lat": 32.6391,
+    "lng": -96.9501,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 10,
+    "date": "2026-03-28",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "023997-2026",
+    "lat": 32.6261,
+    "lng": -96.9438,
+    "offense": "disorderly conduct discharge/display firearm",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-02-19",
+    "neighborhood": "Woods-Sugarberry"
+  }
+]
