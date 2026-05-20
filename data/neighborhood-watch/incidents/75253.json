@@ -9,38 +9,5 @@
     "hour": 11,
     "date": "2025-06-21",
     "neighborhood": "Kleberg"
-  },
-  {
-    "id": "054139-2026",
-    "lat": 32.6736,
-    "lng": -96.6017,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-04-16",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "003625-2026",
-    "lat": 32.6709,
-    "lng": -96.5987,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-01-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "026609-2026",
-    "lat": 32.6933,
-    "lng": -96.5634,
-    "offense": "harassment -preliminary investigation",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2025-06-01",
-    "neighborhood": "Kleberg"
   }
 ]

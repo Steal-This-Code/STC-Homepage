@@ -1,5 +1,27 @@
 [
   {
+    "id": "821210-2025",
+    "lat": 32.7868,
+    "lng": -96.6964,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2025-10-14",
+    "neighborhood": "Buckner Terrace"
+  },
+  {
+    "id": "092683-2025",
+    "lat": 32.7559,
+    "lng": -96.6913,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-06-27",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
     "id": "165404-2025",
     "lat": 32.7589,
     "lng": -96.682,
@@ -11,158 +33,15 @@
     "neighborhood": "Pleasant Mound"
   },
   {
-    "id": "030394-2026",
-    "lat": 32.7663,
-    "lng": -96.6817,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "airport - all others",
-    "hour": 12,
-    "date": "2026-03-03",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "004147-2026",
-    "lat": 32.7708,
-    "lng": -96.6834,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-01-09",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "802164-2026",
-    "lat": 32.7756,
-    "lng": -96.6949,
-    "offense": "theft of material alum/brnze/copper <$20k pc31.03(e4f)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-01-31",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "133603-2025",
-    "lat": 32.7661,
-    "lng": -96.6583,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2025-09-16",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "185770-2025",
-    "lat": 32.7649,
-    "lng": -96.676,
-    "offense": "disorderly conduct discharge/display firearm (no assault)",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-12-29",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "145464-2025",
-    "lat": 32.749,
-    "lng": -96.6828,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "004421-2026",
-    "lat": 32.7885,
-    "lng": -96.724,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-09",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "060404-2026",
-    "lat": 32.7651,
-    "lng": -96.6931,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2026-04-27",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "006406-2026",
-    "lat": 32.7509,
-    "lng": -96.6569,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-01-13",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "088471-2025",
-    "lat": 32.7802,
-    "lng": -96.6825,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "060312-2026",
-    "lat": 32.7644,
-    "lng": -96.6937,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 22,
-    "date": "2026-04-27",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "023259-2026",
-    "lat": 32.7733,
-    "lng": -96.6877,
-    "offense": "criminal trespass affidavit",
+    "id": "808423-2026",
+    "lat": 32.755,
+    "lng": -96.6807,
+    "offense": "harassment-repeated electronic comm - non-threatening",
     "group": "other",
     "premise": "other",
-    "hour": 8,
-    "date": "2026-02-18",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "161020-2025",
-    "lat": 32.7681,
-    "lng": -96.6999,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2025-11-08",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "045915-2026",
-    "lat": 32.7897,
-    "lng": -96.6994,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-03-31",
-    "neighborhood": "Buckner Terrace"
+    "hour": 4,
+    "date": "2026-04-21",
+    "neighborhood": "Pleasant Mound"
   },
   {
     "id": "800296-2026",

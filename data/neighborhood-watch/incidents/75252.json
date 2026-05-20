@@ -1,46 +1,13 @@
 [
   {
-    "id": "005175-2026",
-    "lat": 32.9871,
-    "lng": -96.7718,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "808422-2026",
-    "lat": 33.0057,
-    "lng": -96.7891,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "cyberspace",
-    "hour": 20,
-    "date": "2026-04-20",
-    "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "005978-2026",
-    "lat": 33.0084,
-    "lng": -96.8006,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "162138-2025",
-    "lat": 33.0048,
-    "lng": -96.7829,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 0,
-    "date": "2025-11-11",
+    "id": "002707-2026",
+    "lat": 32.9894,
+    "lng": -96.8014,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2026-01-06",
     "neighborhood": null
   }
 ]

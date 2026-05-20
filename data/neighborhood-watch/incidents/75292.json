@@ -5,7 +5,9 @@
     "lng": -96.8098,
     "offense": "lost property (no offense)",
     "group": "other",
+    "premise": "arena/stadium/fairgrounds/coliseum",
     "hour": 23,
-    "date": "2025-10-21"
+    "date": "2025-10-21",
+    "neighborhood": "Oak Lawn"
   }
 ]

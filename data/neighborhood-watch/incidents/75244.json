@@ -1,38 +1,5 @@
 [
   {
-    "id": "019323-2026",
-    "lat": 32.9125,
-    "lng": -96.8514,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "005022-2026",
-    "lat": 32.9179,
-    "lng": -96.855,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-01-11",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "019184-2026",
-    "lat": 32.9093,
-    "lng": -96.8546,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 9,
-    "date": "2026-02-10",
-    "neighborhood": "Northaven Park"
-  },
-  {
     "id": "147134-2025",
     "lat": 32.9256,
     "lng": -96.8325,
