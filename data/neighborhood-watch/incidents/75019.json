@@ -5,7 +5,9 @@
     "lng": -96.5894,
     "offense": "found property (no offense)",
     "group": "other",
-    "hour": 0,
-    "date": "2026-01-26"
+    "premise": "business office",
+    "hour": 23,
+    "date": "2026-01-26",
+    "neighborhood": "Kleberg"
   }
 ]

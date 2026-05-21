@@ -20,16 +20,5 @@
     "hour": 19,
     "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "014399-2026",
-    "lat": 32.7979,
-    "lng": -96.7683,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-01-28",
-    "neighborhood": "Peak's Addition"
   }
 ]

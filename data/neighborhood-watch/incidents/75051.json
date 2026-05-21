@@ -5,7 +5,9 @@
     "lng": -96.9767,
     "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
+    "premise": "single family residence - vacant",
     "hour": 0,
-    "date": "2025-12-20"
+    "date": "2025-12-20",
+    "neighborhood": null
   }
 ]

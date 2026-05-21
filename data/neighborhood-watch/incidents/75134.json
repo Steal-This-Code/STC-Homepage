@@ -5,7 +5,9 @@
     "lng": -96.8224,
     "offense": "dwi w/open container",
     "group": "other",
-    "hour": 0,
-    "date": "2025-09-10"
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-09-10",
+    "neighborhood": null
   }
 ]

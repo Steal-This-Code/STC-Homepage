@@ -5,7 +5,9 @@
     "lng": -96.5547,
     "offense": "theft from building> or equal $750<$2500 (not shoplift)",
     "group": "property",
+    "premise": "school - elementary/secondary",
     "hour": 14,
-    "date": "2026-03-30"
+    "date": "2026-03-30",
+    "neighborhood": null
   }
 ]

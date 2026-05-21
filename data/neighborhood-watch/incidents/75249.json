@@ -1,35 +1,46 @@
 [
   {
-    "id": "009789-2026",
-    "lat": 32.657,
-    "lng": -96.9477,
+    "id": "021890-2026",
+    "lat": 32.6442,
+    "lng": -96.9681,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-19",
-    "neighborhood": "Summit Parc"
+    "hour": 13,
+    "date": "2026-02-14",
+    "neighborhood": null
   },
   {
-    "id": "808943-2026",
-    "lat": 32.6391,
-    "lng": -96.9501,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-03-28",
+    "id": "023611-2026",
+    "lat": 32.6288,
+    "lng": -96.9494,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-18",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "023997-2026",
-    "lat": 32.6261,
-    "lng": -96.9438,
-    "offense": "disorderly conduct discharge/display firearm",
+    "id": "820556-2025",
+    "lat": 32.6531,
+    "lng": -96.9443,
+    "offense": "accident inv damage to vehicle <$200",
     "group": "other",
     "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-03",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "012646-2026",
+    "lat": 32.6429,
+    "lng": -96.9439,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
     "hour": 15,
-    "date": "2026-02-19",
+    "date": "2026-01-23",
     "neighborhood": "Woods-Sugarberry"
   }
 ]
