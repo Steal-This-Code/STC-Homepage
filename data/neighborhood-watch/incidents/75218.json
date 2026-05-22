@@ -11,6 +11,83 @@
     "neighborhood": "Emerald Isles"
   },
   {
+    "id": "011404-2026",
+    "lat": 32.8352,
+    "lng": -96.7053,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 19,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "807835-2026",
+    "lat": 32.8499,
+    "lng": -96.7125,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-04-13",
+    "neighborhood": "Old Lake Highlands"
+  },
+  {
+    "id": "826953-2025",
+    "lat": 32.8223,
+    "lng": -96.7157,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "amusement park",
+    "hour": 17,
+    "date": "2025-12-27",
+    "neighborhood": null
+  },
+  {
+    "id": "002507-2026",
+    "lat": 32.8273,
+    "lng": -96.6991,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-01-06",
+    "neighborhood": "Casa Linda Estates"
+  },
+  {
+    "id": "002507-2026",
+    "lat": 32.8273,
+    "lng": -96.6991,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-01-06",
+    "neighborhood": "Casa Linda Estates"
+  },
+  {
+    "id": "002561-2026",
+    "lat": 32.8292,
+    "lng": -96.7069,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
+    "id": "154520-2025",
+    "lat": 32.8645,
+    "lng": -96.6826,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2025-10-23",
+    "neighborhood": null
+  },
+  {
     "id": "821078-2025",
     "lat": 32.8344,
     "lng": -96.7063,
@@ -121,124 +198,14 @@
     "neighborhood": "Casa Linda Estates"
   },
   {
-    "id": "002561-2026",
-    "lat": 32.8292,
-    "lng": -96.7069,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "025825-2026",
-    "lat": 32.8634,
-    "lng": -96.6808,
-    "offense": "poss of dangerous drug",
+    "id": "001521-2026",
+    "lat": 32.8352,
+    "lng": -96.7053,
+    "offense": "injured person - firearm injury (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-02-23",
-    "neighborhood": null
-  },
-  {
-    "id": "010842-2026",
-    "lat": 32.8098,
-    "lng": -96.716,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-01-22",
-    "neighborhood": "Forest Hills"
-  },
-  {
-    "id": "049536-2026",
-    "lat": 32.8103,
-    "lng": -96.7239,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-04-07",
-    "neighborhood": "Highland on the Creek"
-  },
-  {
-    "id": "055920-2026",
-    "lat": 32.8458,
-    "lng": -96.7105,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-19",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "804489-2026",
-    "lat": 32.8627,
-    "lng": -96.6707,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 14,
-    "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "806791-2026",
-    "lat": 32.8055,
-    "lng": -96.7236,
-    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 17,
-    "date": "2026-03-27",
-    "neighborhood": "Enclave at White Rock"
-  },
-  {
-    "id": "808723-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-04-21",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "807062-2026",
-    "lat": 32.8595,
-    "lng": -96.673,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "026600-2026",
-    "lat": 32.86,
-    "lng": -96.6804,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2026-02-22",
-    "neighborhood": null
-  },
-  {
-    "id": "055163-2026",
-    "lat": 32.8646,
-    "lng": -96.6748,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 14,
-    "date": "2026-04-18",
+    "hour": 22,
+    "date": "2026-01-03",
     "neighborhood": null
   },
   {
@@ -295,5 +262,49 @@
     "hour": 19,
     "date": "2026-01-28",
     "neighborhood": "Lochwood"
+  },
+  {
+    "id": "163842-2025",
+    "lat": 32.8485,
+    "lng": -96.6856,
+    "offense": "robbery of business (agg)",
+    "group": "violent",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 10,
+    "date": "2025-11-14",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "183854-2025",
+    "lat": 32.8388,
+    "lng": -96.7072,
+    "offense": "hours of closure pub parks/amenities",
+    "group": "other",
+    "premise": "park",
+    "hour": 23,
+    "date": "2025-12-25",
+    "neighborhood": null
+  },
+  {
+    "id": "006818-2026",
+    "lat": 32.8452,
+    "lng": -96.706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 18,
+    "date": "2026-01-13",
+    "neighborhood": "Old Lake Highlands"
+  },
+  {
+    "id": "053504-2026",
+    "lat": 32.8516,
+    "lng": -96.7145,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-04-15",
+    "neighborhood": "Old Lake Highlands"
   }
 ]
