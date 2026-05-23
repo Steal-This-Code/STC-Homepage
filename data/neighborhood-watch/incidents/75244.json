@@ -1,5 +1,16 @@
 [
   {
+    "id": "168491-2025",
+    "lat": 32.9203,
+    "lng": -96.8356,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
     "id": "821924-2025",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -11,6 +22,28 @@
     "neighborhood": null
   },
   {
+    "id": "176196-2025",
+    "lat": 32.9215,
+    "lng": -96.8557,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-12-09",
+    "neighborhood": null
+  },
+  {
+    "id": "176931-2025",
+    "lat": 32.9234,
+    "lng": -96.8393,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "grocery/supermarket",
+    "hour": 8,
+    "date": "2025-12-11",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
     "id": "808342-2026",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -19,6 +52,28 @@
     "premise": "retail store",
     "hour": 4,
     "date": "2026-04-10",
+    "neighborhood": null
+  },
+  {
+    "id": "067671-2026",
+    "lat": 32.9168,
+    "lng": -96.8178,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "809961-2026",
+    "lat": 32.9231,
+    "lng": -96.8363,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 22,
+    "date": "2026-05-11",
     "neighborhood": null
   },
   {
@@ -44,6 +99,28 @@
     "neighborhood": "Glen Meadow Estates"
   },
   {
+    "id": "809956-2026",
+    "lat": 32.9108,
+    "lng": -96.8536,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 15,
+    "date": "2026-04-17",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "164615-2025",
+    "lat": 32.9119,
+    "lng": -96.8528,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2025-11-15",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
     "id": "019323-2026",
     "lat": 32.9125,
     "lng": -96.8514,
@@ -66,6 +143,17 @@
     "neighborhood": "Glen Meadow Estates"
   },
   {
+    "id": "071829-2026",
+    "lat": 32.9164,
+    "lng": -96.8175,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 17,
+    "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
     "id": "019184-2026",
     "lat": 32.9093,
     "lng": -96.8546,
@@ -77,58 +165,80 @@
     "neighborhood": "Northaven Park"
   },
   {
-    "id": "802933-2026",
-    "lat": 32.9104,
-    "lng": -96.853,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "137975-2025",
+    "lat": 32.9248,
+    "lng": -96.8377,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 18,
-    "date": "2026-02-07",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "178544-2025",
-    "lat": 32.9151,
-    "lng": -96.8526,
-    "offense": "unlawful installation of tracking device",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2025-12-08",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "005786-2026",
-    "lat": 32.9168,
-    "lng": -96.8178,
-    "offense": "poss cont sub pen grp 4 <28g",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 15,
-    "date": "2026-01-12",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2025-09-23",
     "neighborhood": null
   },
   {
-    "id": "045712-2026",
-    "lat": 32.9234,
-    "lng": -96.8393,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
+    "id": "137975-2025",
+    "lat": 32.9248,
+    "lng": -96.8377,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2025-09-23",
+    "neighborhood": null
+  },
+  {
+    "id": "046635-2026",
+    "lat": 32.9207,
+    "lng": -96.8471,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 22,
     "date": "2026-03-31",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "807023-2026",
-    "lat": 32.9188,
-    "lng": -96.8248,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "id": "810450-2026",
+    "lat": 32.912,
+    "lng": -96.8539,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "condominium/townhome residence",
+    "hour": 23,
+    "date": "2026-05-20",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "072337-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-04-02",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-20",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "072337-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-20",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "002524-2026",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-05",
     "neighborhood": null
   }
 ]

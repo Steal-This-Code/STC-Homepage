@@ -33,6 +33,28 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "156914-2025",
+    "lat": 32.8263,
+    "lng": -96.7857,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2025-10-30",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "072806-2026",
+    "lat": 32.8305,
+    "lng": -96.7825,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 5,
+    "date": "2026-05-19",
+    "neighborhood": "Knox Park"
+  },
+  {
     "id": "823892-2025",
     "lat": 32.8483,
     "lng": -96.8127,
@@ -77,58 +99,58 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "158459-2025",
-    "lat": 32.8242,
-    "lng": -96.7867,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2025-11-01",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "007997-2026",
-    "lat": 32.8268,
-    "lng": -96.7872,
-    "offense": "open building (no offense)",
+    "id": "139285-2025",
+    "lat": 32.8266,
+    "lng": -96.7865,
+    "offense": "crim mischief -preliminary investigation",
     "group": "other",
-    "premise": "business office",
-    "hour": 0,
-    "date": "2026-01-17",
+    "premise": "apartment residence",
+    "hour": 3,
+    "date": "2025-09-27",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "018743-2026",
-    "lat": 32.8272,
-    "lng": -96.7863,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 11,
-    "date": "2026-02-09",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "801656-2026",
-    "lat": 32.82,
-    "lng": -96.7935,
-    "offense": "forgery financial instrument",
+    "id": "067816-2026",
+    "lat": 32.8232,
+    "lng": -96.7891,
+    "offense": "theft of prop > or equal $2,500 <$30k (shoplift-not emp) pc31.03 (e4a)",
     "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 18,
-    "date": "2026-01-19",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "023560-2026",
-    "lat": 32.8279,
-    "lng": -96.7854,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "trails",
+    "premise": "retail store",
     "hour": 10,
-    "date": "2026-02-16",
+    "date": "2026-05-12",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "076674-2025",
+    "lat": 32.8178,
+    "lng": -96.7946,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 9,
+    "date": "2025-05-29",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "155103-2025",
+    "lat": 32.8189,
+    "lng": -96.7891,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2025-10-28",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "810302-2026",
+    "lat": 32.8231,
+    "lng": -96.7887,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-05-15",
     "neighborhood": "Knox Park"
   }
 ]

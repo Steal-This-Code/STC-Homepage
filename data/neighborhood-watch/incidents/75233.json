@@ -33,6 +33,50 @@
     "neighborhood": null
   },
   {
+    "id": "183067-2025",
+    "lat": 32.7078,
+    "lng": -96.8743,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2025-12-23",
+    "neighborhood": null
+  },
+  {
+    "id": "071569-2026",
+    "lat": 32.706,
+    "lng": -96.8754,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 9,
+    "date": "2026-05-16",
+    "neighborhood": null
+  },
+  {
+    "id": "153367-2025",
+    "lat": 32.6942,
+    "lng": -96.8859,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "028987-2026",
+    "lat": 32.7126,
+    "lng": -96.8731,
+    "offense": "delivery marijuana >5lbs< or equal 50lbs",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-03-01",
+    "neighborhood": "Encino Hills"
+  },
+  {
     "id": "807364-2026",
     "lat": 32.7065,
     "lng": -96.8728,
@@ -66,6 +110,28 @@
     "neighborhood": null
   },
   {
+    "id": "153367-2025",
+    "lat": 32.6942,
+    "lng": -96.8859,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "070647-2026",
+    "lat": 32.7086,
+    "lng": -96.8865,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-05-15",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
     "id": "148698-2025",
     "lat": 32.7169,
     "lng": -96.8735,
@@ -77,6 +143,17 @@
     "neighborhood": null
   },
   {
+    "id": "091815-2025",
+    "lat": 32.6932,
+    "lng": -96.8879,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2025-06-28",
+    "neighborhood": null
+  },
+  {
     "id": "007393-2026",
     "lat": 32.6912,
     "lng": -96.8814,
@@ -85,6 +162,17 @@
     "premise": "business office",
     "hour": 18,
     "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "106412-2025",
+    "lat": 32.7041,
+    "lng": -96.8915,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2025-07-26",
     "neighborhood": null
   },
   {
@@ -110,69 +198,179 @@
     "neighborhood": null
   },
   {
-    "id": "181636-2025",
-    "lat": 32.7083,
-    "lng": -96.873,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2025-12-20",
-    "neighborhood": null
-  },
-  {
-    "id": "039698-2026",
-    "lat": 32.7218,
-    "lng": -96.8641,
-    "offense": "possession of drug paraphernalia",
+    "id": "108620-2025",
+    "lat": 32.7109,
+    "lng": -96.8745,
+    "offense": "delivery marijuana < or equal 1/4 oz remuneration",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-03-21",
+    "premise": "gas or service station",
+    "hour": 18,
+    "date": "2025-07-30",
     "neighborhood": null
   },
   {
-    "id": "012476-2026",
-    "lat": 32.7065,
-    "lng": -96.8727,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-01-26",
-    "neighborhood": null
-  },
-  {
-    "id": "044858-2026",
-    "lat": 32.7055,
-    "lng": -96.8582,
+    "id": "066783-2026",
+    "lat": 32.6943,
+    "lng": -96.8878,
     "offense": "deadly conduct discharge firearm (damage)",
     "group": "other",
-    "premise": "business office",
-    "hour": 18,
-    "date": "2026-03-27",
-    "neighborhood": "Kiestwood"
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-05-10",
+    "neighborhood": null
   },
   {
-    "id": "039698-2026",
-    "lat": 32.7218,
-    "lng": -96.8641,
-    "offense": "traffic violation - non hazardous",
+    "id": "106412-2025",
+    "lat": 32.7041,
+    "lng": -96.8915,
+    "offense": "cruelty to livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2025-07-26",
+    "neighborhood": null
+  },
+  {
+    "id": "023910-2026",
+    "lat": 32.7065,
+    "lng": -96.8728,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-02-19",
+    "neighborhood": null
+  },
+  {
+    "id": "160695-2025",
+    "lat": 32.6913,
+    "lng": -96.8802,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-03-21",
+    "hour": 2,
+    "date": "2025-11-08",
+    "neighborhood": null
+  },
+  {
+    "id": "004031-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-01-08",
+    "neighborhood": null
+  },
+  {
+    "id": "004951-2026",
+    "lat": 32.7204,
+    "lng": -96.8608,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "071206-2026",
+    "lat": 32.7059,
+    "lng": -96.8674,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-05-18",
+    "neighborhood": null
+  },
+  {
+    "id": "006264-2026",
+    "lat": 32.7045,
+    "lng": -96.8731,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-01-12",
+    "neighborhood": "Kimball"
+  },
+  {
+    "id": "154196-2025",
+    "lat": 32.6982,
+    "lng": -96.8617,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-10-25",
+    "neighborhood": "Brettonwoods"
+  },
+  {
+    "id": "818159-2025",
+    "lat": 32.6951,
+    "lng": -96.8908,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 9,
+    "date": "2025-08-27",
+    "neighborhood": null
+  },
+  {
+    "id": "071580-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-05-18",
     "neighborhood": null
   },
   {
     "id": "056362-2026",
     "lat": 32.6959,
     "lng": -96.8912,
-    "offense": "robbery (agg) of individual, preliminary investigation",
+    "offense": "assault (agg) - preliminary investigation *non family violence",
     "group": "violent",
-    "premise": "parking (business)",
+    "premise": "highway, street, alley etc",
     "hour": 7,
     "date": "2026-04-20",
+    "neighborhood": null
+  },
+  {
+    "id": "045376-2026",
+    "lat": 32.7136,
+    "lng": -96.8689,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "018579-2026",
+    "lat": 32.7071,
+    "lng": -96.8749,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-07",
+    "neighborhood": null
+  },
+  {
+    "id": "016284-2026",
+    "lat": 32.7083,
+    "lng": -96.8689,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-02-03",
     "neighborhood": null
   }
 ]

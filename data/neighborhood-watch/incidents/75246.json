@@ -1,5 +1,16 @@
 [
   {
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
     "id": "032978-2026",
     "lat": 32.7949,
     "lng": -96.7757,
@@ -8,6 +19,28 @@
     "premise": "apartment parking lot",
     "hour": 4,
     "date": "2026-03-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "122873-2025",
+    "lat": 32.7953,
+    "lng": -96.7752,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2025-08-26",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "072889-2026",
+    "lat": 32.7943,
+    "lng": -96.7743,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-05-21",
     "neighborhood": "Peak's Addition"
   },
   {

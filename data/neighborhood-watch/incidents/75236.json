@@ -11,6 +11,17 @@
     "neighborhood": null
   },
   {
+    "id": "809803-2026",
+    "lat": 32.6936,
+    "lng": -96.9087,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 17,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
     "id": "800819-2026",
     "lat": 32.6977,
     "lng": -96.8996,
@@ -22,6 +33,94 @@
     "neighborhood": "Country Creek"
   },
   {
+    "id": "109338-2025",
+    "lat": 32.6917,
+    "lng": -96.9032,
+    "offense": "robbery of individual (agg)",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2025-08-01",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "070281-2026",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-05-16",
+    "neighborhood": null
+  },
+  {
+    "id": "070015-2026",
+    "lat": 32.6665,
+    "lng": -96.9427,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-05-05",
+    "neighborhood": null
+  },
+  {
+    "id": "149102-2025",
+    "lat": 32.7079,
+    "lng": -96.8928,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2025-10-15",
+    "neighborhood": null
+  },
+  {
+    "id": "810011-2026",
+    "lat": 32.6919,
+    "lng": -96.8977,
+    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-05-08",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "178464-2025",
+    "lat": 32.6984,
+    "lng": -96.8979,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-12-13",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "072381-2026",
+    "lat": 32.6932,
+    "lng": -96.8923,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2026-05-20",
+    "neighborhood": null
+  },
+  {
+    "id": "070020-2026",
+    "lat": 32.6658,
+    "lng": -96.9464,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-05-15",
+    "neighborhood": null
+  },
+  {
     "id": "802534-2026",
     "lat": 32.6934,
     "lng": -96.8915,
@@ -30,6 +129,17 @@
     "premise": "apartment parking lot",
     "hour": 18,
     "date": "2026-02-02",
+    "neighborhood": null
+  },
+  {
+    "id": "072229-2026",
+    "lat": 32.7057,
+    "lng": -96.8976,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 5,
+    "date": "2026-05-20",
     "neighborhood": null
   },
   {
@@ -44,6 +154,17 @@
     "neighborhood": "Country Creek"
   },
   {
+    "id": "176874-2025",
+    "lat": 32.6877,
+    "lng": -96.8914,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-12-11",
+    "neighborhood": null
+  },
+  {
     "id": "801158-2026",
     "lat": 32.6667,
     "lng": -96.9409,
@@ -52,6 +173,17 @@
     "premise": "single family residence - occupied",
     "hour": 2,
     "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "072104-2026",
+    "lat": 32.6669,
+    "lng": -96.89,
+    "offense": "attack by dog causes bodily injury",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-05-19",
     "neighborhood": null
   },
   {
@@ -77,6 +209,17 @@
     "neighborhood": null
   },
   {
+    "id": "100561-2025",
+    "lat": 32.6863,
+    "lng": -96.9382,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2025-07-15",
+    "neighborhood": null
+  },
+  {
     "id": "013235-2026",
     "lat": 32.6656,
     "lng": -96.9341,
@@ -99,47 +242,179 @@
     "neighborhood": null
   },
   {
-    "id": "013809-2026",
-    "lat": 32.6849,
-    "lng": -96.8918,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 13,
-    "date": "2026-01-30",
+    "id": "109338-2025",
+    "lat": 32.6917,
+    "lng": -96.9032,
+    "offense": "evading arrest detention",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2025-08-01",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "071916-2026",
+    "lat": 32.7,
+    "lng": -96.9218,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2026-05-19",
     "neighborhood": null
   },
   {
-    "id": "013485-2026",
-    "lat": 32.6977,
-    "lng": -96.8965,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-29",
-    "neighborhood": null
-  },
-  {
-    "id": "803116-2026",
-    "lat": 32.6644,
-    "lng": -96.9469,
+    "id": "069589-2026",
+    "lat": 32.6619,
+    "lng": -96.9664,
     "offense": "bmv",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-02-12",
+    "hour": 21,
+    "date": "2026-05-13",
     "neighborhood": null
   },
   {
-    "id": "169253-2025",
-    "lat": 32.7079,
-    "lng": -96.8928,
+    "id": "072217-2026",
+    "lat": 32.6775,
+    "lng": -96.8908,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 1,
+    "date": "2026-04-19",
+    "neighborhood": null
+  },
+  {
+    "id": "045441-2026",
+    "lat": 32.687,
+    "lng": -96.9003,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2026-03-30",
+    "neighborhood": null
+  },
+  {
+    "id": "002894-2026",
+    "lat": 32.668,
+    "lng": -96.8891,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-01-06",
+    "neighborhood": null
+  },
+  {
+    "id": "063645-2026",
+    "lat": 32.6652,
+    "lng": -96.9721,
+    "offense": "theft of prop > or equal $150k <$300k (not shoplift) pc31.03(e6a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-05-03",
+    "neighborhood": null
+  },
+  {
+    "id": "080998-2025",
+    "lat": 32.6658,
+    "lng": -96.9464,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2025-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "016008-2026",
+    "lat": 32.6935,
+    "lng": -96.8915,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "066614-2026",
+    "lat": 32.6953,
+    "lng": -96.9154,
+    "offense": "theft of prop > or equal $750 <$2,500 enh (not shoplift) pc31.03(f)",
+    "group": "property",
+    "premise": "other",
+    "hour": 5,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
     "hour": 12,
-    "date": "2025-11-20",
+    "date": "2025-09-05",
+    "neighborhood": null
+  },
+  {
+    "id": "018608-2026",
+    "lat": 32.7041,
+    "lng": -96.9539,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-02-02",
+    "neighborhood": null
+  },
+  {
+    "id": "810011-2026",
+    "lat": 32.6919,
+    "lng": -96.8977,
+    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-05-08",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "013732-2026",
+    "lat": 32.6742,
+    "lng": -96.9659,
+    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-01-25",
+    "neighborhood": null
+  },
+  {
+    "id": "015477-2026",
+    "lat": 32.6681,
+    "lng": -96.8912,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "043239-2026",
+    "lat": 32.665,
+    "lng": -96.9391,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2026-03-27",
     "neighborhood": null
   }
 ]
