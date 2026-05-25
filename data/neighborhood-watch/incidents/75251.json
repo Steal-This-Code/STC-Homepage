@@ -1,14 +1,102 @@
 [
   {
-    "id": "072324-2026",
-    "lat": 32.9259,
-    "lng": -96.7712,
+    "id": "180518-2025",
+    "lat": 32.9173,
+    "lng": -96.7731,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-05-19",
-    "neighborhood": "Valley View"
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": null
+  },
+  {
+    "id": "030411-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "810370-2026",
+    "lat": 32.9171,
+    "lng": -96.7684,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 12,
+    "date": "2026-05-18",
+    "neighborhood": null
+  },
+  {
+    "id": "810461-2026",
+    "lat": 32.919,
+    "lng": -96.7678,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-05-02",
+    "neighborhood": null
+  },
+  {
+    "id": "180648-2025",
+    "lat": 32.919,
+    "lng": -96.7678,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 12,
+    "date": "2025-12-18",
+    "neighborhood": null
+  },
+  {
+    "id": "810370-2026",
+    "lat": 32.9171,
+    "lng": -96.7684,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 12,
+    "date": "2026-05-18",
+    "neighborhood": null
+  },
+  {
+    "id": "800326-2026",
+    "lat": 32.9209,
+    "lng": -96.7733,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "148028-2025",
+    "lat": 32.9236,
+    "lng": -96.7707,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "017656-2026",
+    "lat": 32.9251,
+    "lng": -96.7686,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-02-07",
+    "neighborhood": null
   },
   {
     "id": "802300-2026",
@@ -33,14 +121,58 @@
     "neighborhood": null
   },
   {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
+    "id": "028813-2026",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-02-28",
+    "neighborhood": null
+  },
+  {
+    "id": "036934-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
     "offense": "bmv",
     "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-03-14",
+    "neighborhood": null
+  },
+  {
+    "id": "154696-2025",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 21,
+    "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "030417-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "068983-2026",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-05-13",
     "neighborhood": null
   }
 ]
