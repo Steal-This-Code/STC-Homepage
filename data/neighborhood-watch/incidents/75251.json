@@ -1,5 +1,49 @@
 [
   {
+    "id": "180518-2025",
+    "lat": 32.9173,
+    "lng": -96.7731,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": null
+  },
+  {
+    "id": "030411-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "810461-2026",
+    "lat": 32.919,
+    "lng": -96.7678,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-05-02",
+    "neighborhood": null
+  },
+  {
+    "id": "800326-2026",
+    "lat": 32.9209,
+    "lng": -96.7733,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "028813-2026",
     "lat": 32.9185,
     "lng": -96.7706,
@@ -19,17 +63,6 @@
     "premise": "parking lot (all others)",
     "hour": 19,
     "date": "2026-03-14",
-    "neighborhood": null
-  },
-  {
-    "id": "154696-2025",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 21,
-    "date": "2025-10-26",
     "neighborhood": null
   },
   {
