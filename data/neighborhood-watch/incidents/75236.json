@@ -1,49 +1,5 @@
 [
   {
-    "id": "178464-2025",
-    "lat": 32.6984,
-    "lng": -96.8979,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-13",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "802534-2026",
-    "lat": 32.6934,
-    "lng": -96.8915,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "801158-2026",
-    "lat": 32.6667,
-    "lng": -96.9409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "072104-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
     "id": "009285-2026",
     "lat": 32.6669,
     "lng": -96.89,
@@ -154,80 +110,14 @@
     "neighborhood": null
   },
   {
-    "id": "082720-2025",
-    "lat": 32.6848,
-    "lng": -96.9138,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 6,
-    "date": "2025-06-10",
-    "neighborhood": null
-  },
-  {
-    "id": "019492-2026",
-    "lat": 32.6644,
-    "lng": -96.9419,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "024193-2026",
-    "lat": 32.6758,
-    "lng": -96.8913,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2026-02-19",
-    "neighborhood": null
-  },
-  {
-    "id": "007382-2026",
-    "lat": 32.7057,
-    "lng": -96.8977,
-    "offense": "crim mischief -preliminary investigation",
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-15",
+    "hour": 12,
+    "date": "2025-09-05",
     "neighborhood": null
-  },
-  {
-    "id": "016008-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "024312-2026",
-    "lat": 32.6834,
-    "lng": -96.9048,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-02-18",
-    "neighborhood": null
-  },
-  {
-    "id": "109338-2025",
-    "lat": 32.6917,
-    "lng": -96.9032,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2025-08-01",
-    "neighborhood": "Country Creek"
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "id": "180305-2025",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-12-17",
-    "neighborhood": null
-  },
-  {
-    "id": "180305-2025",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-12-17",
-    "neighborhood": null
-  },
-  {
-    "id": "071652-2026",
-    "lat": 32.9125,
-    "lng": -96.8928,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
     "id": "801112-2026",
     "lat": 32.9098,
     "lng": -96.8951,
@@ -77,36 +44,14 @@
     "neighborhood": null
   },
   {
-    "id": "050504-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "other",
-    "hour": 17,
-    "date": "2026-04-09",
-    "neighborhood": null
-  },
-  {
-    "id": "801014-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "809604-2026",
-    "lat": 32.9114,
-    "lng": -96.8571,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 16,
-    "date": "2026-05-06",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
     "neighborhood": null
   }
 ]

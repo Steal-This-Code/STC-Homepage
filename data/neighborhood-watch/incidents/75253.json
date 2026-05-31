@@ -1,38 +1,5 @@
 [
   {
-    "id": "088235-2025",
-    "lat": 32.6736,
-    "lng": -96.6017,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2025-06-21",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "054139-2026",
-    "lat": 32.6736,
-    "lng": -96.6017,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-04-16",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "003625-2026",
-    "lat": 32.6709,
-    "lng": -96.5987,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-01-03",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "116311-2025",
     "lat": 32.7033,
     "lng": -96.5855,
@@ -96,61 +63,6 @@
     "premise": "single family residence - occupied",
     "hour": 0,
     "date": "2026-05-15",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "067485-2026",
-    "lat": 32.6861,
-    "lng": -96.5811,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-11",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "032900-2026",
-    "lat": 32.6759,
-    "lng": -96.6175,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-03-08",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "026609-2026",
-    "lat": 32.6933,
-    "lng": -96.5634,
-    "offense": "harassment -preliminary investigation",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2025-06-01",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "106578-2025",
-    "lat": 32.6715,
-    "lng": -96.587,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-07-25",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "067485-2026",
-    "lat": 32.6861,
-    "lng": -96.5811,
-    "offense": "forgery financial instrument",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-11",
     "neighborhood": "Kleberg"
   }
 ]

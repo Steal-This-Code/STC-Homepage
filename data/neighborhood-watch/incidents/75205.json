@@ -1,27 +1,5 @@
 [
   {
-    "id": "823892-2025",
-    "lat": 32.8483,
-    "lng": -96.8127,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2025-11-20",
-    "neighborhood": null
-  },
-  {
-    "id": "000239-2026",
-    "lat": 32.8175,
-    "lng": -96.7903,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-24",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "000239-2026",
     "lat": 32.8175,
     "lng": -96.7903,
@@ -42,71 +20,5 @@
     "hour": 13,
     "date": "2025-09-23",
     "neighborhood": "Knox Park"
-  },
-  {
-    "id": "119233-2025",
-    "lat": 32.8456,
-    "lng": -96.7849,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "school - college/university",
-    "hour": 15,
-    "date": "2025-08-19",
-    "neighborhood": null
-  },
-  {
-    "id": "807806-2026",
-    "lat": 32.8239,
-    "lng": -96.7879,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-04-12",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "801656-2026",
-    "lat": 32.82,
-    "lng": -96.7935,
-    "offense": "theft of u.s. mail < 10 addresses",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 18,
-    "date": "2026-01-19",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "015390-2026",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-01-31",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "825895-2025",
-    "lat": 32.817,
-    "lng": -96.7914,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 7,
-    "date": "2025-12-15",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "019836-2026",
-    "lat": 32.8493,
-    "lng": -96.8129,
-    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 23,
-    "date": "2026-02-10",
-    "neighborhood": null
   }
 ]
