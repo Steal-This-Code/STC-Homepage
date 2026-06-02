@@ -1,38 +1,5 @@
 [
   {
-    "id": "800326-2026",
-    "lat": 32.9209,
-    "lng": -96.7733,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
-    "id": "148028-2025",
-    "lat": 32.9236,
-    "lng": -96.7707,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "028813-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-02-28",
-    "neighborhood": null
-  },
-  {
     "id": "036934-2026",
     "lat": 32.9223,
     "lng": -96.7716,

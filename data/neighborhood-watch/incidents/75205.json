@@ -22,6 +22,50 @@
     "neighborhood": "Knox Park"
   },
   {
+    "id": "804232-2026",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-02-26",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "004827-2026",
+    "lat": 32.8302,
+    "lng": -96.782,
+    "offense": "collision inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "156914-2025",
+    "lat": 32.8263,
+    "lng": -96.7857,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2025-10-30",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "823892-2025",
+    "lat": 32.8483,
+    "lng": -96.8127,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
     "id": "000239-2026",
     "lat": 32.8175,
     "lng": -96.7903,
@@ -30,17 +74,6 @@
     "premise": "apartment parking lot",
     "hour": 0,
     "date": "2025-12-24",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "137312-2025",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 13,
-    "date": "2025-09-23",
     "neighborhood": "Knox Park"
   },
   {
@@ -53,5 +86,27 @@
     "hour": 16,
     "date": "2026-05-15",
     "neighborhood": "Knox Park"
+  },
+  {
+    "id": "823892-2025",
+    "lat": 32.8483,
+    "lng": -96.8127,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "119233-2025",
+    "lat": 32.8456,
+    "lng": -96.7849,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 15,
+    "date": "2025-08-19",
+    "neighborhood": null
   }
 ]
