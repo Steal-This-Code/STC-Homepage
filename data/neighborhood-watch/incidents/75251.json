@@ -44,25 +44,58 @@
     "neighborhood": null
   },
   {
-    "id": "802300-2026",
-    "lat": 32.9189,
-    "lng": -96.7714,
-    "offense": "bmv",
+    "id": "028813-2026",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-02-02",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-02-28",
     "neighborhood": null
   },
   {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
+    "id": "036934-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
     "offense": "bmv",
     "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-03-14",
+    "neighborhood": null
+  },
+  {
+    "id": "154696-2025",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 21,
+    "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "154696-2025",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 21,
+    "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "030417-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
     "neighborhood": null
   }
 ]

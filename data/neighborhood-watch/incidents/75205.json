@@ -11,6 +11,39 @@
     "neighborhood": null
   },
   {
+    "id": "805817-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-03-19",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "804232-2026",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-02-26",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "004827-2026",
+    "lat": 32.8302,
+    "lng": -96.782,
+    "offense": "collision inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "156914-2025",
     "lat": 32.8263,
     "lng": -96.7857,
@@ -63,6 +96,72 @@
     "premise": "apartment residence",
     "hour": 13,
     "date": "2025-09-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "810302-2026",
+    "lat": 32.8231,
+    "lng": -96.7887,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-05-15",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "823892-2025",
+    "lat": 32.8483,
+    "lng": -96.8127,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "119233-2025",
+    "lat": 32.8456,
+    "lng": -96.7849,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 15,
+    "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "807806-2026",
+    "lat": 32.8239,
+    "lng": -96.7879,
+    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-04-12",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "015390-2026",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-01-31",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "825895-2025",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 7,
+    "date": "2025-12-15",
     "neighborhood": "Knox Park"
   }
 ]
