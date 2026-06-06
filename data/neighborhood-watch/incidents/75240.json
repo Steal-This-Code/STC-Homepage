@@ -385,6 +385,127 @@
     "neighborhood": "Valley View"
   },
   {
+    "id": "084040-2025",
+    "lat": 32.9273,
+    "lng": -96.8174,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2025-06-12",
+    "neighborhood": null
+  },
+  {
+    "id": "071501-2026",
+    "lat": 32.9243,
+    "lng": -96.7875,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-05-19",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "810253-2026",
+    "lat": 32.9311,
+    "lng": -96.8171,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 18,
+    "date": "2026-05-16",
+    "neighborhood": null
+  },
+  {
+    "id": "012899-2026",
+    "lat": 32.9246,
+    "lng": -96.8072,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 14,
+    "date": "2026-01-27",
+    "neighborhood": null
+  },
+  {
+    "id": "150860-2025",
+    "lat": 32.9252,
+    "lng": -96.811,
+    "offense": "theft from person",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 18,
+    "date": "2025-10-19",
+    "neighborhood": null
+  },
+  {
+    "id": "048889-2026",
+    "lat": 32.9343,
+    "lng": -96.7718,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-04-06",
+    "neighborhood": "Valley View"
+  },
+  {
+    "id": "008217-2026",
+    "lat": 32.9382,
+    "lng": -96.8188,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 13,
+    "date": "2026-01-17",
+    "neighborhood": null
+  },
+  {
+    "id": "005828-2026",
+    "lat": 32.9357,
+    "lng": -96.7568,
+    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "007639-2026",
+    "lat": 32.9377,
+    "lng": -96.8179,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "023306-2026",
+    "lat": 32.9394,
+    "lng": -96.7681,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 10,
+    "date": "2026-02-18",
+    "neighborhood": null
+  },
+  {
+    "id": "005674-2026",
+    "lat": 32.9304,
+    "lng": -96.8206,
+    "offense": "terroristic threat -preliminary investigation",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-01-12",
+    "neighborhood": null
+  },
+  {
     "id": "071613-2026",
     "lat": 32.9258,
     "lng": -96.7696,
@@ -484,69 +605,14 @@
     "neighborhood": null
   },
   {
-    "id": "043020-2026",
-    "lat": 32.9299,
-    "lng": -96.761,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "070873-2026",
-    "lat": 32.9315,
-    "lng": -96.8145,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "park",
-    "hour": 22,
-    "date": "2026-05-17",
-    "neighborhood": null
-  },
-  {
-    "id": "816661-2025",
-    "lat": 32.9381,
-    "lng": -96.7649,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2025-08-15",
-    "neighborhood": null
-  },
-  {
-    "id": "179422-2025",
-    "lat": 32.9371,
-    "lng": -96.8202,
-    "offense": "theft by deception (fraud) >or equal $30k <$150k",
+    "id": "001563-2026",
+    "lat": 32.9372,
+    "lng": -96.8156,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "825179-2025",
-    "lat": 32.9304,
-    "lng": -96.8206,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 10,
-    "date": "2025-12-05",
-    "neighborhood": null
-  },
-  {
-    "id": "006612-2026",
-    "lat": 32.9329,
-    "lng": -96.8166,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
+    "premise": "apartment parking lot",
     "hour": 0,
-    "date": "2026-01-11",
+    "date": "2025-12-26",
     "neighborhood": null
   }
 ]

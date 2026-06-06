@@ -1,16 +1,5 @@
 [
   {
-    "id": "011404-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 19,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
     "id": "125840-2025",
     "lat": 32.8585,
     "lng": -96.7239,
@@ -836,6 +825,50 @@
     "neighborhood": null
   },
   {
+    "id": "025825-2026",
+    "lat": 32.8634,
+    "lng": -96.6808,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-02-23",
+    "neighborhood": null
+  },
+  {
+    "id": "010842-2026",
+    "lat": 32.8098,
+    "lng": -96.716,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-01-22",
+    "neighborhood": "Forest Hills"
+  },
+  {
+    "id": "049536-2026",
+    "lat": 32.8103,
+    "lng": -96.7239,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-04-07",
+    "neighborhood": "Highland on the Creek"
+  },
+  {
+    "id": "055920-2026",
+    "lat": 32.8458,
+    "lng": -96.7105,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-04-19",
+    "neighborhood": "Old Lake Highlands"
+  },
+  {
     "id": "804489-2026",
     "lat": 32.8627,
     "lng": -96.6707,
@@ -924,113 +957,14 @@
     "neighborhood": null
   },
   {
-    "id": "006850-2026",
-    "lat": 32.833,
-    "lng": -96.7013,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "003082-2026",
-    "lat": 32.8471,
-    "lng": -96.69,
-    "offense": "natural death (no offense)",
+    "id": "821078-2025",
+    "lat": 32.8344,
+    "lng": -96.7063,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 9,
-    "date": "2026-01-07",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "180754-2025",
-    "lat": 32.8522,
-    "lng": -96.6996,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2025-12-18",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "067316-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-05-11",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "802253-2026",
-    "lat": 32.8282,
-    "lng": -96.7022,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "other",
-    "hour": 7,
-    "date": "2026-01-30",
-    "neighborhood": "Casa Linda Estates"
-  },
-  {
-    "id": "807013-2026",
-    "lat": 32.8514,
-    "lng": -96.68,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 16,
-    "date": "2026-03-12",
-    "neighborhood": "Casa View"
-  },
-  {
-    "id": "045721-2026",
-    "lat": 32.8597,
-    "lng": -96.6873,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 17,
-    "date": "2026-03-29",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "824798-2025",
-    "lat": 32.8627,
-    "lng": -96.6707,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 15,
-    "date": "2025-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "183854-2025",
-    "lat": 32.8388,
-    "lng": -96.7072,
-    "offense": "smoking prohib in certain areas",
-    "group": "other",
-    "premise": "park",
-    "hour": 23,
-    "date": "2025-12-25",
-    "neighborhood": null
-  },
-  {
-    "id": "801867-2026",
-    "lat": 32.8291,
-    "lng": -96.7017,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "other",
+    "premise": "parking lot (park)",
     "hour": 11,
-    "date": "2026-01-27",
-    "neighborhood": "Casa Linda Estates"
+    "date": "2025-10-12",
+    "neighborhood": null
   }
 ]

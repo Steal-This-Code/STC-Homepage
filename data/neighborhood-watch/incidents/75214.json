@@ -583,6 +583,61 @@
     "neighborhood": "Abrams-Brookside"
   },
   {
+    "id": "801053-2026",
+    "lat": 32.8367,
+    "lng": -96.7515,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "specialty store (in a specific item)",
+    "hour": 15,
+    "date": "2026-01-08",
+    "neighborhood": "Hillside"
+  },
+  {
+    "id": "104861-2025",
+    "lat": 32.801,
+    "lng": -96.7629,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 15,
+    "date": "2025-07-23",
+    "neighborhood": "Munger Place"
+  },
+  {
+    "id": "808772-2026",
+    "lat": 32.8468,
+    "lng": -96.7592,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-04-23",
+    "neighborhood": "University Meadows"
+  },
+  {
+    "id": "149643-2025",
+    "lat": 32.8053,
+    "lng": -96.7612,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2025-10-08",
+    "neighborhood": "Junius Heights"
+  },
+  {
+    "id": "017500-2026",
+    "lat": 32.8022,
+    "lng": -96.7626,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-02-05",
+    "neighborhood": "Junius Heights"
+  },
+  {
     "id": "011782-2026",
     "lat": 32.8123,
     "lng": -96.7315,
@@ -702,49 +757,5 @@
     "hour": 18,
     "date": "2026-03-22",
     "neighborhood": null
-  },
-  {
-    "id": "801204-2026",
-    "lat": 32.8302,
-    "lng": -96.7564,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-01-16",
-    "neighborhood": "Wilshire Heights"
-  },
-  {
-    "id": "015853-2026",
-    "lat": 32.7973,
-    "lng": -96.7635,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-02-02",
-    "neighborhood": "Munger Place"
-  },
-  {
-    "id": "058086-2026",
-    "lat": 32.8164,
-    "lng": -96.7472,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-04-24",
-    "neighborhood": "Lakewood"
-  },
-  {
-    "id": "806802-2026",
-    "lat": 32.8154,
-    "lng": -96.7347,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-03-31",
-    "neighborhood": "Lakewood"
   }
 ]

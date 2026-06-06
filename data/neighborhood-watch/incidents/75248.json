@@ -1,27 +1,5 @@
 [
   {
-    "id": "802919-2026",
-    "lat": 32.9695,
-    "lng": -96.812,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 10,
-    "date": "2025-11-25",
-    "neighborhood": null
-  },
-  {
-    "id": "802662-2026",
-    "lat": 32.9863,
-    "lng": -96.8037,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 22,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
     "id": "006791-2026",
     "lat": 32.9605,
     "lng": -96.7858,
@@ -330,6 +308,94 @@
     "neighborhood": "Chalfont Place"
   },
   {
+    "id": "170393-2025",
+    "lat": 32.9613,
+    "lng": -96.7919,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2025-11-26",
+    "neighborhood": null
+  },
+  {
+    "id": "020065-2026",
+    "lat": 32.9552,
+    "lng": -96.8215,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 7,
+    "date": "2026-02-12",
+    "neighborhood": null
+  },
+  {
+    "id": "057196-2026",
+    "lat": 32.9782,
+    "lng": -96.8203,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-04-20",
+    "neighborhood": null
+  },
+  {
+    "id": "808855-2026",
+    "lat": 32.9597,
+    "lng": -96.7907,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "802213-2026",
+    "lat": 32.9859,
+    "lng": -96.778,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 0,
+    "date": "2026-01-02",
+    "neighborhood": "Highlands North"
+  },
+  {
+    "id": "802926-2026",
+    "lat": 32.9614,
+    "lng": -96.8211,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 4,
+    "date": "2026-02-09",
+    "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "097582-2025",
+    "lat": 32.9574,
+    "lng": -96.8083,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2025-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "021411-2026",
+    "lat": 32.9558,
+    "lng": -96.8184,
+    "offense": "terroristic threat fear imminent sbi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-02-14",
+    "neighborhood": null
+  },
+  {
     "id": "808372-2026",
     "lat": 32.9792,
     "lng": -96.7698,
@@ -407,58 +473,25 @@
     "neighborhood": null
   },
   {
-    "id": "063582-2026",
-    "lat": 32.9568,
-    "lng": -96.8077,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 11,
-    "date": "2026-05-03",
-    "neighborhood": null
-  },
-  {
-    "id": "822275-2025",
-    "lat": 32.9639,
-    "lng": -96.7706,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 10,
-    "date": "2025-10-30",
-    "neighborhood": "Estates West"
-  },
-  {
-    "id": "091247-2025",
-    "lat": 32.9597,
-    "lng": -96.7907,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2025-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "180465-2025",
-    "lat": 32.9614,
-    "lng": -96.8183,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 6,
-    "date": "2025-12-18",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "179488-2025",
-    "lat": 32.9679,
-    "lng": -96.7918,
+    "id": "002725-2026",
+    "lat": 32.9604,
+    "lng": -96.8148,
     "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2025-12-14",
-    "neighborhood": "Prestonwood"
+    "premise": "other",
+    "hour": 13,
+    "date": "2026-01-06",
+    "neighborhood": null
+  },
+  {
+    "id": "800226-2026",
+    "lat": 32.9588,
+    "lng": -96.8169,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 6,
+    "date": "2026-01-04",
+    "neighborhood": null
   }
 ]

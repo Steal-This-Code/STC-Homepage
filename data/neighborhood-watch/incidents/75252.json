@@ -165,6 +165,28 @@
     "neighborhood": null
   },
   {
+    "id": "821094-2025",
+    "lat": 32.9957,
+    "lng": -96.7939,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 7,
+    "date": "2025-10-05",
+    "neighborhood": null
+  },
+  {
+    "id": "011934-2026",
+    "lat": 32.9984,
+    "lng": -96.7879,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-25",
+    "neighborhood": "Preston Highlands"
+  },
+  {
     "id": "006627-2026",
     "lat": 32.9964,
     "lng": -96.8013,
@@ -240,49 +262,5 @@
     "hour": 12,
     "date": "2025-12-27",
     "neighborhood": "Preston Road Highlands"
-  },
-  {
-    "id": "053980-2026",
-    "lat": 32.9938,
-    "lng": -96.7806,
-    "offense": "fraud exploitation of child/elderly/disabled( pc 32.53(c))",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-04-14",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "103351-2025",
-    "lat": 33,
-    "lng": -96.7923,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2025-07-16",
-    "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "005978-2026",
-    "lat": 33.0084,
-    "lng": -96.8006,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "162138-2025",
-    "lat": 33.0048,
-    "lng": -96.7829,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 0,
-    "date": "2025-11-11",
-    "neighborhood": null
   }
 ]

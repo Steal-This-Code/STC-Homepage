@@ -1,27 +1,5 @@
 [
   {
-    "id": "168300-2025",
-    "lat": 32.6477,
-    "lng": -96.8199,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "180845-2025",
-    "lat": 32.6469,
-    "lng": -96.8167,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-19",
-    "neighborhood": null
-  },
-  {
     "id": "184019-2025",
     "lat": 32.641,
     "lng": -96.8054,
@@ -30,6 +8,17 @@
     "premise": "highway, street, alley etc",
     "hour": 11,
     "date": "2025-12-26",
+    "neighborhood": null
+  },
+  {
+    "id": "130770-2025",
+    "lat": 32.6386,
+    "lng": -96.8224,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-09-10",
     "neighborhood": null
   }
 ]

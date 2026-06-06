@@ -220,15 +220,70 @@
     "neighborhood": null
   },
   {
-    "id": "801124-2026",
-    "lat": 32.8957,
-    "lng": -96.8061,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "id": "016643-2026",
+    "lat": 32.8945,
+    "lng": -96.8033,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-02-04",
+    "neighborhood": "Preston Hollow North"
+  },
+  {
+    "id": "015093-2026",
+    "lat": 32.893,
+    "lng": -96.7718,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "construction site",
-    "hour": 15,
-    "date": "2026-01-13",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-01-31",
     "neighborhood": null
+  },
+  {
+    "id": "801689-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "064987-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-05-07",
+    "neighborhood": null
+  },
+  {
+    "id": "801689-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "175925-2025",
+    "lat": 32.8947,
+    "lng": -96.7951,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2025-12-08",
+    "neighborhood": "Preston Hollow North"
   },
   {
     "id": "173712-2025",
@@ -275,80 +330,14 @@
     "neighborhood": "Preston Hollow North"
   },
   {
-    "id": "107393-2025",
-    "lat": 32.9117,
-    "lng": -96.7745,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 12,
-    "date": "2025-07-28",
-    "neighborhood": null
-  },
-  {
-    "id": "019445-2026",
-    "lat": 32.8986,
-    "lng": -96.7706,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
+    "offense": "motor vehicle theft",
+    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "015458-2026",
-    "lat": 32.9132,
-    "lng": -96.7722,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "medical facility",
-    "hour": 9,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "010940-2026",
-    "lat": 32.8903,
-    "lng": -96.7728,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-01-21",
-    "neighborhood": "High Hollows"
-  },
-  {
-    "id": "045488-2026",
-    "lat": 32.8949,
-    "lng": -96.7805,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 11,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "179830-2025",
-    "lat": 32.924,
-    "lng": -96.8106,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-12-16",
-    "neighborhood": null
-  },
-  {
-    "id": "826366-2025",
-    "lat": 32.923,
-    "lng": -96.815,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2025-12-20",
+    "hour": 17,
+    "date": "2025-12-03",
     "neighborhood": null
   }
 ]

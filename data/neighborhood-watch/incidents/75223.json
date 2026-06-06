@@ -253,6 +253,39 @@
     "neighborhood": null
   },
   {
+    "id": "017785-2026",
+    "lat": 32.7856,
+    "lng": -96.7444,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-02-07",
+    "neighborhood": "Owenwood"
+  },
+  {
+    "id": "004753-2026",
+    "lat": 32.8029,
+    "lng": -96.7485,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 16,
+    "date": "2026-01-10",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "046096-2026",
+    "lat": 32.7926,
+    "lng": -96.7466,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 14,
+    "date": "2026-04-01",
+    "neighborhood": null
+  },
+  {
     "id": "800840-2026",
     "lat": 32.7832,
     "lng": -96.748,
@@ -294,94 +327,6 @@
     "premise": "highway, street, alley etc",
     "hour": 16,
     "date": "2025-10-02",
-    "neighborhood": null
-  },
-  {
-    "id": "084029-2025",
-    "lat": 32.7961,
-    "lng": -96.7453,
-    "offense": "traf vio -operate motor veh w/o fin resp",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-06-13",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "043344-2026",
-    "lat": 32.7923,
-    "lng": -96.7364,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "business office",
-    "hour": 22,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "017943-2026",
-    "lat": 32.7832,
-    "lng": -96.7341,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 2,
-    "date": "2026-01-17",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "803038-2026",
-    "lat": 32.7929,
-    "lng": -96.7474,
-    "offense": "theft of prop > or equal $2,500 <$30k (employee) pc31.03(e4a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-02-05",
-    "neighborhood": null
-  },
-  {
-    "id": "055560-2026",
-    "lat": 32.792,
-    "lng": -96.7499,
-    "offense": "deadly conduct",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 3,
-    "date": "2026-04-19",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "184480-2025",
-    "lat": 32.7999,
-    "lng": -96.7497,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 3,
-    "date": "2025-12-27",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "160503-2025",
-    "lat": 32.787,
-    "lng": -96.7493,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-11-07",
-    "neighborhood": null
-  },
-  {
-    "id": "019822-2026",
-    "lat": 32.7955,
-    "lng": -96.7369,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (park)",
-    "hour": 9,
-    "date": "2026-02-11",
     "neighborhood": null
   }
 ]
