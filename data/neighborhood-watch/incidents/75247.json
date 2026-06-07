@@ -11,14 +11,14 @@
     "neighborhood": null
   },
   {
-    "id": "100266-2025",
-    "lat": 32.8182,
-    "lng": -96.8702,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
+    "id": "128241-2025",
+    "lat": 32.8254,
+    "lng": -96.8847,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-07-14",
+    "hour": 22,
+    "date": "2025-09-05",
     "neighborhood": null
   },
   {
@@ -75,72 +75,6 @@
     "hour": 6,
     "date": "2025-06-19",
     "neighborhood": null
-  },
-  {
-    "id": "064405-2026",
-    "lat": 32.8167,
-    "lng": -96.8905,
-    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k(emp) pc31.03(e4a)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-05-06",
-    "neighborhood": null
-  },
-  {
-    "id": "036039-2026",
-    "lat": 32.8165,
-    "lng": -96.8638,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-03-13",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "138218-2025",
-    "lat": 32.8278,
-    "lng": -96.8716,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-08-12",
-    "neighborhood": null
-  },
-  {
-    "id": "047758-2026",
-    "lat": 32.8226,
-    "lng": -96.8768,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2026-04-03",
-    "neighborhood": null
-  },
-  {
-    "id": "087087-2025",
-    "lat": 32.8102,
-    "lng": -96.8509,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 6,
-    "date": "2025-06-19",
-    "neighborhood": null
-  },
-  {
-    "id": "064499-2026",
-    "lat": 32.8125,
-    "lng": -96.8615,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-05-06",
-    "neighborhood": "Southwestern Medical District"
   },
   {
     "id": "166362-2025",
@@ -440,14 +374,25 @@
     "neighborhood": "Southwestern Medical District"
   },
   {
-    "id": "000275-2026",
-    "lat": 32.8249,
-    "lng": -96.8699,
-    "offense": "natural death (no offense)",
+    "id": "009623-2026",
+    "lat": 32.8276,
+    "lng": -96.8875,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-01-17",
+    "neighborhood": null
+  },
+  {
+    "id": "019261-2026",
+    "lat": 32.8056,
+    "lng": -96.8698,
+    "offense": "criminal trespass",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-01-01",
+    "premise": "dock/wharf/freight/modal terminal",
+    "hour": 10,
+    "date": "2026-02-10",
     "neighborhood": null
   }
 ]

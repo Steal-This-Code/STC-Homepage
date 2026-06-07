@@ -1,27 +1,5 @@
 [
   {
-    "id": "811876-2025",
-    "lat": 32.6234,
-    "lng": -96.9452,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2025-06-13",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "812450-2025",
-    "lat": 32.6234,
-    "lng": -96.9452,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2025-06-20",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
     "id": "811582-2025",
     "lat": 32.6234,
     "lng": -96.9452,
@@ -63,17 +41,6 @@
     "premise": "condominium/townhome residence",
     "hour": 19,
     "date": "2026-01-07",
-    "neighborhood": null
-  },
-  {
-    "id": "162211-2025",
-    "lat": 32.6573,
-    "lng": -96.9658,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2025-11-10",
     "neighborhood": null
   },
   {
@@ -119,5 +86,60 @@
     "hour": 21,
     "date": "2025-10-03",
     "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "050192-2026",
+    "lat": 32.6412,
+    "lng": -96.9725,
+    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
+    "group": "violent",
+    "premise": "outdoor area public/private",
+    "hour": 6,
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "161212-2025",
+    "lat": 32.6248,
+    "lng": -96.9503,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-11-09",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "009789-2026",
+    "lat": 32.657,
+    "lng": -96.9477,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-19",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "161212-2025",
+    "lat": 32.6248,
+    "lng": -96.9503,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-11-09",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "023997-2026",
+    "lat": 32.6261,
+    "lng": -96.9438,
+    "offense": "disorderly conduct discharge/display firearm",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-02-19",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]

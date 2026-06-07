@@ -1,38 +1,5 @@
 [
   {
-    "id": "802875-2026",
-    "lat": 32.9089,
-    "lng": -96.8035,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "124600-2025",
-    "lat": 32.9244,
-    "lng": -96.8026,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2025-08-29",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "802041-2026",
-    "lat": 32.8935,
-    "lng": -96.7863,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-29",
-    "neighborhood": "Brookshire Park"
-  },
-  {
     "id": "821400-2025",
     "lat": 32.893,
     "lng": -96.7718,
@@ -119,61 +86,6 @@
     "hour": 20,
     "date": "2026-05-15",
     "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "102306-2025",
-    "lat": 32.8954,
-    "lng": -96.7732,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2025-07-17",
-    "neighborhood": null
-  },
-  {
-    "id": "005501-2026",
-    "lat": 32.9097,
-    "lng": -96.7776,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "070601-2026",
-    "lat": 32.9,
-    "lng": -96.7697,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-05-17",
-    "neighborhood": null
-  },
-  {
-    "id": "019572-2026",
-    "lat": 32.9132,
-    "lng": -96.7722,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 4,
-    "date": "2026-02-11",
-    "neighborhood": null
-  },
-  {
-    "id": "179830-2025",
-    "lat": 32.924,
-    "lng": -96.8106,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-12-16",
-    "neighborhood": null
   },
   {
     "id": "057598-2026",
@@ -330,14 +242,91 @@
     "neighborhood": "Preston Hollow North"
   },
   {
-    "id": "174765-2025",
-    "lat": 32.8941,
-    "lng": -96.7749,
+    "id": "107393-2025",
+    "lat": 32.9117,
+    "lng": -96.7745,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 12,
+    "date": "2025-07-28",
+    "neighborhood": null
+  },
+  {
+    "id": "019445-2026",
+    "lat": 32.8986,
+    "lng": -96.7706,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "015458-2026",
+    "lat": 32.9132,
+    "lng": -96.7722,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "medical facility",
+    "hour": 9,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "010940-2026",
+    "lat": 32.8903,
+    "lng": -96.7728,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2025-12-03",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-01-21",
+    "neighborhood": "High Hollows"
+  },
+  {
+    "id": "045488-2026",
+    "lat": 32.8949,
+    "lng": -96.7805,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 11,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "179830-2025",
+    "lat": 32.924,
+    "lng": -96.8106,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2025-12-16",
+    "neighborhood": null
+  },
+  {
+    "id": "826366-2025",
+    "lat": 32.923,
+    "lng": -96.815,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2025-12-20",
+    "neighborhood": null
+  },
+  {
+    "id": "004700-2026",
+    "lat": 32.9002,
+    "lng": -96.773,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 8,
+    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

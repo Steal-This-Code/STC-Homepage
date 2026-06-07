@@ -1,16 +1,5 @@
 [
   {
-    "id": "821924-2025",
-    "lat": 32.9118,
-    "lng": -96.8174,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2025-08-01",
-    "neighborhood": null
-  },
-  {
     "id": "808342-2026",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -42,39 +31,6 @@
     "hour": 22,
     "date": "2026-05-11",
     "neighborhood": null
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
-    "neighborhood": null
-  },
-  {
-    "id": "806823-2026",
-    "lat": 32.9104,
-    "lng": -96.853,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 12,
-    "date": "2026-03-31",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "809956-2026",
-    "lat": 32.9108,
-    "lng": -96.8536,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 15,
-    "date": "2026-04-17",
-    "neighborhood": "Glen Meadow Estates"
   },
   {
     "id": "019323-2026",
@@ -162,17 +118,6 @@
     "premise": "apartment complex/building",
     "hour": 19,
     "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
     "neighborhood": null
   }
 ]

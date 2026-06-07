@@ -11,28 +11,6 @@
     "neighborhood": null
   },
   {
-    "id": "066600-2026",
-    "lat": 32.7186,
-    "lng": -96.8655,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "168018-2025",
-    "lat": 32.6913,
-    "lng": -96.8856,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2025-11-22",
-    "neighborhood": null
-  },
-  {
     "id": "031331-2026",
     "lat": 32.7079,
     "lng": -96.8762,
@@ -88,80 +66,14 @@
     "neighborhood": null
   },
   {
-    "id": "004031-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-08",
-    "neighborhood": null
-  },
-  {
-    "id": "045251-2026",
-    "lat": 32.6992,
-    "lng": -96.8811,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-03-29",
-    "neighborhood": null
-  },
-  {
-    "id": "153367-2025",
-    "lat": 32.6942,
-    "lng": -96.8859,
+    "id": "181636-2025",
+    "lat": 32.7083,
+    "lng": -96.873,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2025-10-24",
-    "neighborhood": null
-  },
-  {
-    "id": "148698-2025",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
     "hour": 12,
-    "date": "2025-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "007393-2026",
-    "lat": 32.6912,
-    "lng": -96.8814,
-    "offense": "theft from building <$100 (not shoplift)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 18,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "004031-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-08",
-    "neighborhood": null
-  },
-  {
-    "id": "146468-2025",
-    "lat": 32.7083,
-    "lng": -96.8707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2025-10-09",
+    "date": "2025-12-20",
     "neighborhood": null
   },
   {
@@ -273,5 +185,49 @@
     "hour": 12,
     "date": "2025-10-15",
     "neighborhood": null
+  },
+  {
+    "id": "050181-2026",
+    "lat": 32.7153,
+    "lng": -96.8749,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 16,
+    "date": "2026-04-08",
+    "neighborhood": null
+  },
+  {
+    "id": "070348-2026",
+    "lat": 32.7076,
+    "lng": -96.8864,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-16",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
+    "id": "181535-2025",
+    "lat": 32.7105,
+    "lng": -96.8856,
+    "offense": "terroristic threat fear imminent sbi",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2025-12-20",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
+    "id": "804113-2026",
+    "lat": 32.7072,
+    "lng": -96.8889,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 12,
+    "date": "2026-02-11",
+    "neighborhood": "Kiest Valley Estates"
   }
 ]
