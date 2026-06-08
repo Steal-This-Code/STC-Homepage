@@ -1,5 +1,16 @@
 [
   {
+    "id": "800849-2026",
+    "lat": 32.8538,
+    "lng": -96.8403,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-12",
+    "neighborhood": "Shorecrest Estates"
+  },
+  {
     "id": "164129-2025",
     "lat": 32.8465,
     "lng": -96.8214,

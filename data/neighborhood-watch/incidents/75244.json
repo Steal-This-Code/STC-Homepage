@@ -1,5 +1,16 @@
 [
   {
+    "id": "821924-2025",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-08-01",
+    "neighborhood": null
+  },
+  {
     "id": "808342-2026",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -31,17 +42,6 @@
     "hour": 22,
     "date": "2026-05-11",
     "neighborhood": null
-  },
-  {
-    "id": "019323-2026",
-    "lat": 32.9125,
-    "lng": -96.8514,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Glen Meadow Estates"
   },
   {
     "id": "005022-2026",

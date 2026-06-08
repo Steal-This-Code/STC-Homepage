@@ -11,6 +11,193 @@
     "neighborhood": null
   },
   {
+    "id": "186502-2025",
+    "lat": 32.7083,
+    "lng": -96.6765,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 5,
+    "date": "2025-12-31",
+    "neighborhood": null
+  },
+  {
+    "id": "184744-2025",
+    "lat": 32.734,
+    "lng": -96.6484,
+    "offense": "indecent exposure",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 19,
+    "date": "2025-12-27",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "020117-2026",
+    "lat": 32.7432,
+    "lng": -96.6786,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-01-02",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "076959-2026",
+    "lat": 32.7041,
+    "lng": -96.6571,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-05-29",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "814079-2025",
+    "lat": 32.715,
+    "lng": -96.7149,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-06-16",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "180162-2025",
+    "lat": 32.7259,
+    "lng": -96.7017,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-12-17",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "048601-2026",
+    "lat": 32.6921,
+    "lng": -96.6813,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-04-05",
+    "neighborhood": null
+  },
+  {
+    "id": "064947-2026",
+    "lat": 32.7135,
+    "lng": -96.7004,
+    "offense": "obstruction or retaliation",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 9,
+    "date": "2026-05-07",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "179300-2025",
+    "lat": 32.7341,
+    "lng": -96.6403,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2025-12-16",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "077183-2026",
+    "lat": 32.7121,
+    "lng": -96.6844,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 15,
+    "date": "2026-05-29",
+    "neighborhood": null
+  },
+  {
+    "id": "180162-2025",
+    "lat": 32.7259,
+    "lng": -96.7017,
+    "offense": "traf vio -operate motor veh w/o fin resp",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-12-17",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "066505-2026",
+    "lat": 32.7229,
+    "lng": -96.7013,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 19,
+    "date": "2026-05-09",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "076959-2026",
+    "lat": 32.7041,
+    "lng": -96.6571,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-05-29",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "032137-2026",
+    "lat": 32.7456,
+    "lng": -96.682,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-03-07",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "180162-2025",
+    "lat": 32.7259,
+    "lng": -96.7017,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-12-17",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "066505-2026",
+    "lat": 32.7229,
+    "lng": -96.7013,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 19,
+    "date": "2026-05-09",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "032192-2026",
+    "lat": 32.747,
+    "lng": -96.6806,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-03-07",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
     "id": "076959-2026",
     "lat": 32.7041,
     "lng": -96.6571,
@@ -196,39 +383,6 @@
     "hour": 18,
     "date": "2026-01-10",
     "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "002883-2026",
-    "lat": 32.7242,
-    "lng": -96.6418,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-01-06",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "004020-2026",
-    "lat": 32.7253,
-    "lng": -96.6776,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-01-04",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "090290-2025",
-    "lat": 32.7144,
-    "lng": -96.7141,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2025-06-24",
-    "neighborhood": "Pemberton Hill"
   },
   {
     "id": "005228-2026",

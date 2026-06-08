@@ -22,15 +22,92 @@
     "neighborhood": "Piedmont / Scyene"
   },
   {
-    "id": "165404-2025",
-    "lat": 32.7589,
-    "lng": -96.682,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2025-11-17",
+    "id": "012226-2026",
+    "lat": 32.7552,
+    "lng": -96.6829,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2026-01-26",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
+    "id": "105919-2025",
+    "lat": 32.7663,
+    "lng": -96.6817,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2025-07-24",
     "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "066023-2026",
+    "lat": 32.768,
+    "lng": -96.703,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "061908-2026",
+    "lat": 32.781,
+    "lng": -96.6903,
+    "offense": "traf vio -reckless driving",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-05-01",
+    "neighborhood": "Buckner Terrace"
+  },
+  {
+    "id": "135494-2025",
+    "lat": 32.7634,
+    "lng": -96.6858,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-09-19",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
+    "id": "105919-2025",
+    "lat": 32.7663,
+    "lng": -96.6817,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2025-07-24",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "135494-2025",
+    "lat": 32.7634,
+    "lng": -96.6858,
+    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2025-09-19",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
+    "id": "135494-2025",
+    "lat": 32.7634,
+    "lng": -96.6858,
+    "offense": "uumv - unauth use motor vehicle (poss/operate)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2025-09-19",
+    "neighborhood": "Piedmont / Scyene"
   },
   {
     "id": "183454-2025",
@@ -405,17 +482,6 @@
     "hour": 8,
     "date": "2026-02-18",
     "neighborhood": "Independence Park"
-  },
-  {
-    "id": "084602-2025",
-    "lat": 32.7818,
-    "lng": -96.7127,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 13,
-    "date": "2025-06-07",
-    "neighborhood": "Buckner Terrace"
   },
   {
     "id": "067874-2026",

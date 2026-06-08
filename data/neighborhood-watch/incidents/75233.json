@@ -11,6 +11,28 @@
     "neighborhood": null
   },
   {
+    "id": "066600-2026",
+    "lat": 32.7186,
+    "lng": -96.8655,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "168018-2025",
+    "lat": 32.6913,
+    "lng": -96.8856,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
     "id": "031331-2026",
     "lat": 32.7079,
     "lng": -96.8762,

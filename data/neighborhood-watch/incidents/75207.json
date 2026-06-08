@@ -11,37 +11,59 @@
     "neighborhood": null
   },
   {
-    "id": "150850-2025",
-    "lat": 32.7693,
-    "lng": -96.8103,
-    "offense": "vio bond/protective order",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2025-10-19",
-    "neighborhood": null
-  },
-  {
-    "id": "008796-2026",
-    "lat": 32.7727,
-    "lng": -96.8127,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 17,
-    "date": "2026-01-18",
-    "neighborhood": null
-  },
-  {
-    "id": "116308-2025",
-    "lat": 32.7746,
-    "lng": -96.8124,
-    "offense": "collision inv injury",
+    "id": "800823-2026",
+    "lat": 32.8112,
+    "lng": -96.8461,
+    "offense": "reckless damage",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-08-14",
+    "hour": 14,
+    "date": "2026-01-09",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "808771-2026",
+    "lat": 32.7927,
+    "lng": -96.8156,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-04-23",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "118320-2025",
+    "lat": 32.7742,
+    "lng": -96.8129,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-08-17",
     "neighborhood": null
+  },
+  {
+    "id": "821151-2025",
+    "lat": 32.791,
+    "lng": -96.8348,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 20,
+    "date": "2025-10-12",
+    "neighborhood": null
+  },
+  {
+    "id": "064708-2026",
+    "lat": 32.7989,
+    "lng": -96.8246,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 10,
+    "date": "2026-05-05",
+    "neighborhood": "Design District"
   },
   {
     "id": "185030-2025",

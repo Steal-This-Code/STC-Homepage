@@ -1,5 +1,38 @@
 [
   {
+    "id": "802875-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "124600-2025",
+    "lat": 32.9244,
+    "lng": -96.8026,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2025-08-29",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "802041-2026",
+    "lat": 32.8935,
+    "lng": -96.7863,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Brookshire Park"
+  },
+  {
     "id": "821400-2025",
     "lat": 32.893,
     "lng": -96.7718,

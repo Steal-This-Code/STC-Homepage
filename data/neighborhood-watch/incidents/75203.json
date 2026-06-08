@@ -1,5 +1,49 @@
 [
   {
+    "id": "826150-2025",
+    "lat": 32.7441,
+    "lng": -96.8006,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2025-12-16",
+    "neighborhood": "The Heights"
+  },
+  {
+    "id": "067308-2026",
+    "lat": 32.7514,
+    "lng": -96.8139,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "036242-2026",
+    "lat": 32.7583,
+    "lng": -96.8168,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-02-27",
+    "neighborhood": "Lake Cliff"
+  },
+  {
+    "id": "036242-2026",
+    "lat": 32.7583,
+    "lng": -96.8168,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-02-27",
+    "neighborhood": "Lake Cliff"
+  },
+  {
     "id": "104749-2025",
     "lat": 32.7586,
     "lng": -96.8108,

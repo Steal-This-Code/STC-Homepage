@@ -1,5 +1,27 @@
 [
   {
+    "id": "817247-2025",
+    "lat": 33.001,
+    "lng": -96.7813,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "803467-2026",
+    "lat": 33.0095,
+    "lng": -96.7892,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
     "id": "002345-2026",
     "lat": 32.9863,
     "lng": -96.774,

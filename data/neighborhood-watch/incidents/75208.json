@@ -11,6 +11,94 @@
     "neighborhood": "Bishop Arts District"
   },
   {
+    "id": "803290-2026",
+    "lat": 32.7442,
+    "lng": -96.8354,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
+    "id": "021771-2026",
+    "lat": 32.7337,
+    "lng": -96.8402,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
+    "id": "178595-2025",
+    "lat": 32.7516,
+    "lng": -96.8465,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2025-12-11",
+    "neighborhood": "Kings Highway"
+  },
+  {
+    "id": "821370-2025",
+    "lat": 32.7495,
+    "lng": -96.8267,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2025-10-12",
+    "neighborhood": "Kidd Springs"
+  },
+  {
+    "id": "008954-2026",
+    "lat": 32.7413,
+    "lng": -96.8214,
+    "offense": "obstruct hwy passageway",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-01-18",
+    "neighborhood": null
+  },
+  {
+    "id": "180393-2025",
+    "lat": 32.7494,
+    "lng": -96.8235,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2025-12-17",
+    "neighborhood": null
+  },
+  {
+    "id": "029299-2026",
+    "lat": 32.7553,
+    "lng": -96.8279,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-03-01",
+    "neighborhood": "Kidd Springs"
+  },
+  {
+    "id": "807088-2026",
+    "lat": 32.7488,
+    "lng": -96.8428,
+    "offense": "bmv (att)",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-04-02",
+    "neighborhood": "Winnetka Heights"
+  },
+  {
     "id": "002888-2026",
     "lat": 32.7749,
     "lng": -96.8226,
@@ -185,6 +273,17 @@
     "hour": 4,
     "date": "2026-01-17",
     "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "185952-2025",
+    "lat": 32.7481,
+    "lng": -96.8344,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-12-29",
+    "neighborhood": "Dallas Land & Loan"
   },
   {
     "id": "046994-2026",
@@ -856,5 +955,16 @@
     "hour": 3,
     "date": "2026-01-05",
     "neighborhood": "Bishop Arts District"
+  },
+  {
+    "id": "069768-2026",
+    "lat": 32.7491,
+    "lng": -96.8492,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-05-14",
+    "neighborhood": "L.O. Daniel"
   }
 ]

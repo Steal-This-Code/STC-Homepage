@@ -1,5 +1,49 @@
 [
   {
+    "id": "000646-2026",
+    "lat": 32.6378,
+    "lng": -96.857,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 8,
+    "date": "2025-11-02",
+    "neighborhood": null
+  },
+  {
+    "id": "104953-2025",
+    "lat": 32.6717,
+    "lng": -96.84,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "103664-2025",
+    "lat": 32.6712,
+    "lng": -96.8326,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2025-07-25",
+    "neighborhood": "Beckley Heights"
+  },
+  {
+    "id": "104953-2025",
+    "lat": 32.6717,
+    "lng": -96.84,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
     "id": "103664-2025",
     "lat": 32.6712,
     "lng": -96.8326,
@@ -130,6 +174,17 @@
     "hour": 19,
     "date": "2025-06-16",
     "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "072288-2026",
+    "lat": 32.6627,
+    "lng": -96.8236,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 17,
+    "date": "2026-05-20",
+    "neighborhood": null
   },
   {
     "id": "066660-2026",
@@ -361,17 +416,6 @@
     "hour": 0,
     "date": "2025-12-25",
     "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "080908-2025",
-    "lat": 32.6619,
-    "lng": -96.8536,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2025-06-07",
-    "neighborhood": null
   },
   {
     "id": "022205-2026",

@@ -1,14 +1,113 @@
 [
   {
-    "id": "825592-2025",
-    "lat": 32.6783,
+    "id": "005326-2026",
+    "lat": 32.6598,
+    "lng": -96.8131,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-01-11",
+    "neighborhood": "Wisdom Terrace"
+  },
+  {
+    "id": "826444-2025",
+    "lat": 32.6439,
     "lng": -96.78,
-    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
     "group": "property",
-    "premise": "outdoor area public/private",
+    "premise": "gas or service station",
+    "hour": 20,
+    "date": "2025-12-19",
+    "neighborhood": null
+  },
+  {
+    "id": "012603-2026",
+    "lat": 32.6809,
+    "lng": -96.7604,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-01-26",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "806996-2026",
+    "lat": 32.6517,
+    "lng": -96.8158,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "other",
+    "hour": 20,
+    "date": "2025-09-21",
+    "neighborhood": null
+  },
+  {
+    "id": "800815-2026",
+    "lat": 32.6634,
+    "lng": -96.7882,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 18,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "103876-2025",
+    "lat": 32.6773,
+    "lng": -96.7634,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2025-07-20",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "127375-2025",
+    "lat": 32.6756,
+    "lng": -96.8056,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "convenience store",
     "hour": 8,
-    "date": "2025-12-11",
-    "neighborhood": "Cigarette Hill"
+    "date": "2025-09-04",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "062396-2026",
+    "lat": 32.6749,
+    "lng": -96.7542,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-05-02",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "803481-2026",
+    "lat": 32.6538,
+    "lng": -96.7514,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 2,
+    "date": "2026-02-18",
+    "neighborhood": null
+  },
+  {
+    "id": "061398-2026",
+    "lat": 32.6759,
+    "lng": -96.7621,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-04-30",
+    "neighborhood": "Highland Hills"
   },
   {
     "id": "031488-2026",
@@ -196,6 +295,17 @@
     "hour": 23,
     "date": "2025-12-08",
     "neighborhood": "Glenview"
+  },
+  {
+    "id": "011038-2026",
+    "lat": 32.6424,
+    "lng": -96.7798,
+    "offense": "crim mischief <$100",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-01-22",
+    "neighborhood": null
   },
   {
     "id": "111613-2025",
@@ -1593,5 +1703,27 @@
     "hour": 6,
     "date": "2026-03-27",
     "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "107455-2025",
+    "lat": 32.6756,
+    "lng": -96.8056,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 15,
+    "date": "2025-07-28",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "179274-2025",
+    "lat": 32.6813,
+    "lng": -96.8082,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": "Glenview"
   }
 ]

@@ -22,6 +22,50 @@
     "neighborhood": null
   },
   {
+    "id": "006791-2026",
+    "lat": 32.9605,
+    "lng": -96.7858,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "054866-2026",
+    "lat": 32.9685,
+    "lng": -96.8165,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 10,
+    "date": "2026-04-17",
+    "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "173292-2025",
+    "lat": 32.9563,
+    "lng": -96.8044,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-12-03",
+    "neighborhood": null
+  },
+  {
+    "id": "056927-2026",
+    "lat": 32.9685,
+    "lng": -96.8165,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 7,
+    "date": "2026-04-21",
+    "neighborhood": "Chalfont Place"
+  },
+  {
     "id": "004554-2026",
     "lat": 32.9567,
     "lng": -96.8179,
@@ -85,6 +129,17 @@
     "premise": "restaurant/food service/tabc location",
     "hour": 18,
     "date": "2026-05-14",
+    "neighborhood": null
+  },
+  {
+    "id": "005177-2026",
+    "lat": 32.9698,
+    "lng": -96.8075,
+    "offense": "dog bite - injured person",
+    "group": "other",
+    "premise": "park",
+    "hour": 12,
+    "date": "2026-01-11",
     "neighborhood": null
   },
   {

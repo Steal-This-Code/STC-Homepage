@@ -1,5 +1,27 @@
 [
   {
+    "id": "811876-2025",
+    "lat": 32.6234,
+    "lng": -96.9452,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-06-13",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "812450-2025",
+    "lat": 32.6234,
+    "lng": -96.9452,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-06-20",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
     "id": "811582-2025",
     "lat": 32.6234,
     "lng": -96.9452,
@@ -20,17 +42,6 @@
     "hour": 19,
     "date": "2025-12-20",
     "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "081534-2025",
-    "lat": 32.6592,
-    "lng": -96.9634,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2025-06-07",
-    "neighborhood": null
   },
   {
     "id": "800695-2026",

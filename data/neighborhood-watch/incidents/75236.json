@@ -229,5 +229,16 @@
     "hour": 19,
     "date": "2026-01-15",
     "neighborhood": null
+  },
+  {
+    "id": "016008-2026",
+    "lat": 32.6935,
+    "lng": -96.8915,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-01-31",
+    "neighborhood": null
   }
 ]

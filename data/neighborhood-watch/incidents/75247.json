@@ -1,16 +1,5 @@
 [
   {
-    "id": "119775-2025",
-    "lat": 32.8337,
-    "lng": -96.8737,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-08-19",
-    "neighborhood": null
-  },
-  {
     "id": "128241-2025",
     "lat": 32.8254,
     "lng": -96.8847,
@@ -19,6 +8,17 @@
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2025-09-05",
+    "neighborhood": null
+  },
+  {
+    "id": "100266-2025",
+    "lat": 32.8182,
+    "lng": -96.8702,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-07-14",
     "neighborhood": null
   },
   {

@@ -1,14 +1,47 @@
 [
   {
-    "id": "088235-2025",
-    "lat": 32.6736,
-    "lng": -96.6017,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2025-06-21",
+    "id": "801067-2026",
+    "lat": 32.6832,
+    "lng": -96.5628,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-14",
     "neighborhood": "Kleberg"
+  },
+  {
+    "id": "010970-2026",
+    "lat": 32.6966,
+    "lng": -96.5674,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-22",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "011864-2026",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "condominium/townhome parking",
+    "hour": 16,
+    "date": "2026-01-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "822499-2025",
+    "lat": 32.6903,
+    "lng": -96.64,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-31",
+    "neighborhood": "Rylie"
   },
   {
     "id": "011864-2026",

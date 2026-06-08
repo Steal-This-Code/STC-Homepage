@@ -22,6 +22,39 @@
     "neighborhood": null
   },
   {
+    "id": "104607-2025",
+    "lat": 32.6366,
+    "lng": -96.8657,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2025-07-22",
+    "neighborhood": null
+  },
+  {
+    "id": "806730-2026",
+    "lat": 32.6484,
+    "lng": -96.8696,
+    "offense": "theft of prop <$2,500 2+prev conv (shoplft-not emp) pc31.03(e4d)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 15,
+    "date": "2026-03-02",
+    "neighborhood": null
+  },
+  {
+    "id": "060595-2026",
+    "lat": 32.6615,
+    "lng": -96.8893,
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 18,
+    "date": "2026-04-28",
+    "neighborhood": null
+  },
+  {
     "id": "184266-2025",
     "lat": 32.6489,
     "lng": -96.8602,
