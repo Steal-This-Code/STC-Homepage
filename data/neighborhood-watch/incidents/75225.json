@@ -1,38 +1,5 @@
 [
   {
-    "id": "182130-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2025-12-21",
-    "neighborhood": null
-  },
-  {
-    "id": "105955-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2025-07-25",
-    "neighborhood": null
-  },
-  {
-    "id": "103872-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2025-07-21",
-    "neighborhood": null
-  },
-  {
     "id": "103872-2025",
     "lat": 32.8696,
     "lng": -96.7707,
@@ -96,6 +63,83 @@
     "premise": "shopping mall",
     "hour": 16,
     "date": "2025-09-27",
+    "neighborhood": null
+  },
+  {
+    "id": "064681-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
+    "id": "004960-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 10,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "821360-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 15,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "183367-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "800957-2026",
+    "lat": 32.8677,
+    "lng": -96.7928,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-01-12",
+    "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "071571-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 9,
+    "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
+    "id": "183367-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2025-12-24",
     "neighborhood": null
   },
   {
@@ -261,72 +305,6 @@
     "premise": "retail store",
     "hour": 17,
     "date": "2026-02-09",
-    "neighborhood": null
-  },
-  {
-    "id": "006804-2026",
-    "lat": 32.8665,
-    "lng": -96.8019,
-    "offense": "crim mischief -preliminary investigation",
-    "group": "other",
-    "premise": "condominium/townhome building",
-    "hour": 12,
-    "date": "2026-01-14",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "802398-2026",
-    "lat": 32.8621,
-    "lng": -96.8049,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "808501-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-04-19",
-    "neighborhood": null
-  },
-  {
-    "id": "006427-2026",
-    "lat": 32.8648,
-    "lng": -96.8106,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "other",
-    "hour": 9,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "007189-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "theft of prop > or equal $2,500 <$30k (shoplift-not emp) pc31.03 (e4a)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 13,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "826438-2025",
-    "lat": 32.8623,
-    "lng": -96.807,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "business office",
-    "hour": 16,
-    "date": "2025-12-17",
     "neighborhood": null
   }
 ]

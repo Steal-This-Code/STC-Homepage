@@ -1,16 +1,5 @@
 [
   {
-    "id": "800849-2026",
-    "lat": 32.8538,
-    "lng": -96.8403,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-01-12",
-    "neighborhood": "Shorecrest Estates"
-  },
-  {
     "id": "164129-2025",
     "lat": 32.8465,
     "lng": -96.8214,
@@ -130,6 +119,83 @@
     "hour": 17,
     "date": "2026-05-14",
     "neighborhood": null
+  },
+  {
+    "id": "015406-2026",
+    "lat": 32.85,
+    "lng": -96.8189,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "005401-2026",
+    "lat": 32.846,
+    "lng": -96.8321,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-01-01",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "042170-2026",
+    "lat": 32.8284,
+    "lng": -96.825,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 11,
+    "date": "2026-03-25",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "068984-2026",
+    "lat": 32.8447,
+    "lng": -96.8351,
+    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "group": "other",
+    "premise": "airport - love field",
+    "hour": 17,
+    "date": "2026-05-14",
+    "neighborhood": null
+  },
+  {
+    "id": "810307-2026",
+    "lat": 32.8485,
+    "lng": -96.8219,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-05-15",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "009225-2026",
+    "lat": 32.8338,
+    "lng": -96.828,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-01-19",
+    "neighborhood": "Highland Place / Bordeaux Village"
+  },
+  {
+    "id": "003555-2026",
+    "lat": 32.8242,
+    "lng": -96.8193,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-08",
+    "neighborhood": "Oak Lawn"
   },
   {
     "id": "046476-2026",
@@ -283,105 +349,6 @@
     "premise": "highway, street, alley etc",
     "hour": 3,
     "date": "2025-12-09",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "802964-2026",
-    "lat": 32.8509,
-    "lng": -96.8186,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 12,
-    "date": "2026-01-08",
-    "neighborhood": null
-  },
-  {
-    "id": "803779-2026",
-    "lat": 32.8443,
-    "lng": -96.8222,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 20,
-    "date": "2026-01-17",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "114736-2025",
-    "lat": 32.8263,
-    "lng": -96.8196,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 16,
-    "date": "2025-08-10",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "020475-2026",
-    "lat": 32.8362,
-    "lng": -96.8289,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 21,
-    "date": "2026-02-12",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
-    "id": "068813-2026",
-    "lat": 32.8367,
-    "lng": -96.8227,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "053854-2026",
-    "lat": 32.8449,
-    "lng": -96.8281,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-04-16",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "022882-2026",
-    "lat": 32.8443,
-    "lng": -96.8222,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 13,
-    "date": "2026-02-17",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "068984-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "042170-2026",
-    "lat": 32.8284,
-    "lng": -96.825,
-    "offense": "false statement for property/credit> $2,500 < $30k pc32.32(c4)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2026-03-25",
     "neighborhood": "Oak Lawn"
   }
 ]
