@@ -9,16 +9,5 @@
     "hour": 11,
     "date": "2025-12-26",
     "neighborhood": null
-  },
-  {
-    "id": "130770-2025",
-    "lat": 32.6386,
-    "lng": -96.8224,
-    "offense": "dwi w/open container",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-09-10",
-    "neighborhood": null
   }
 ]

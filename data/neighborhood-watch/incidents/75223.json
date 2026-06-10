@@ -231,91 +231,14 @@
     "neighborhood": null
   },
   {
-    "id": "017785-2026",
-    "lat": 32.7856,
-    "lng": -96.7444,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
+    "id": "147744-2025",
+    "lat": 32.7895,
+    "lng": -96.7374,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-02-07",
+    "hour": 15,
+    "date": "2025-10-13",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "004753-2026",
-    "lat": 32.8029,
-    "lng": -96.7485,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 16,
-    "date": "2026-01-10",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "046096-2026",
-    "lat": 32.7926,
-    "lng": -96.7466,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 14,
-    "date": "2026-04-01",
-    "neighborhood": null
-  },
-  {
-    "id": "800840-2026",
-    "lat": 32.7832,
-    "lng": -96.748,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 3,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "002997-2026",
-    "lat": 32.7855,
-    "lng": -96.7383,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-06",
-    "neighborhood": "Owenwood"
-  },
-  {
-    "id": "013531-2026",
-    "lat": 32.7937,
-    "lng": -96.7508,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-22",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "820428-2025",
-    "lat": 32.7955,
-    "lng": -96.7369,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-10-02",
-    "neighborhood": null
-  },
-  {
-    "id": "084029-2025",
-    "lat": 32.7961,
-    "lng": -96.7453,
-    "offense": "traf vio -operate motor veh w/o fin resp",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-06-13",
-    "neighborhood": "Mount Auburn"
   }
 ]

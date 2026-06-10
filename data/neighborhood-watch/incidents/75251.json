@@ -22,61 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "802300-2026",
-    "lat": 32.9189,
-    "lng": -96.7714,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "182753-2025",
-    "lat": 32.919,
-    "lng": -96.7749,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2025-12-22",
-    "neighborhood": null
-  },
-  {
-    "id": "028813-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-02-28",
-    "neighborhood": null
-  },
-  {
-    "id": "036934-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-03-14",
-    "neighborhood": null
-  },
-  {
-    "id": "154696-2025",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 21,
-    "date": "2025-10-26",
-    "neighborhood": null
-  },
-  {
     "id": "004931-2026",
     "lat": 32.9218,
     "lng": -96.7729,

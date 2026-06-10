@@ -11,6 +11,17 @@
     "neighborhood": "Emerald Isles"
   },
   {
+    "id": "011404-2026",
+    "lat": 32.8352,
+    "lng": -96.7053,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 19,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
     "id": "155460-2025",
     "lat": 32.8396,
     "lng": -96.6908,
@@ -418,146 +429,14 @@
     "neighborhood": null
   },
   {
-    "id": "025825-2026",
-    "lat": 32.8634,
-    "lng": -96.6808,
-    "offense": "poss of dangerous drug",
+    "id": "001521-2026",
+    "lat": 32.8352,
+    "lng": -96.7053,
+    "offense": "injured person - firearm injury (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-02-23",
-    "neighborhood": null
-  },
-  {
-    "id": "010842-2026",
-    "lat": 32.8098,
-    "lng": -96.716,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-01-22",
-    "neighborhood": "Forest Hills"
-  },
-  {
-    "id": "049536-2026",
-    "lat": 32.8103,
-    "lng": -96.7239,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-04-07",
-    "neighborhood": "Highland on the Creek"
-  },
-  {
-    "id": "055920-2026",
-    "lat": 32.8458,
-    "lng": -96.7105,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-19",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "804489-2026",
-    "lat": 32.8627,
-    "lng": -96.6707,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 14,
-    "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "806791-2026",
-    "lat": 32.8055,
-    "lng": -96.7236,
-    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 17,
-    "date": "2026-03-27",
-    "neighborhood": "Enclave at White Rock"
-  },
-  {
-    "id": "808723-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-04-21",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "807062-2026",
-    "lat": 32.8595,
-    "lng": -96.673,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "026600-2026",
-    "lat": 32.86,
-    "lng": -96.6804,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2026-02-22",
-    "neighborhood": null
-  },
-  {
-    "id": "055577-2026",
-    "lat": 32.8454,
-    "lng": -96.69,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 3,
-    "date": "2026-04-19",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "025938-2026",
-    "lat": 32.8619,
-    "lng": -96.682,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-02-23",
-    "neighborhood": null
-  },
-  {
-    "id": "006850-2026",
-    "lat": 32.833,
-    "lng": -96.7013,
-    "offense": "motor vehicle theft",
-    "group": "property",
     "premise": "highway, street, alley etc",
     "hour": 22,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "006850-2026",
-    "lat": 32.833,
-    "lng": -96.7013,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-10",
+    "date": "2026-01-03",
     "neighborhood": null
   },
   {
