@@ -1,0 +1,13 @@
+[
+  {
+    "id": "104989-2025",
+    "lat": 32.9729,
+    "lng": -96.7661,
+    "offense": "dwi 1 prev conv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-07-23",
+    "neighborhood": null
+  }
+]

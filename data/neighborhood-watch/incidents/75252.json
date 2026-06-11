@@ -1,93 +1,5 @@
 [
   {
-    "id": "002345-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "046997-2026",
-    "lat": 32.9864,
-    "lng": -96.7595,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-04-02",
-    "neighborhood": null
-  },
-  {
-    "id": "061658-2026",
-    "lat": 32.9883,
-    "lng": -96.7701,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-04-30",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "005226-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 15,
-    "date": "2026-01-11",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "068460-2026",
-    "lat": 32.9871,
-    "lng": -96.7727,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 3,
-    "date": "2026-05-13",
-    "neighborhood": null
-  },
-  {
-    "id": "002345-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "809540-2026",
-    "lat": 33.0067,
-    "lng": -96.7906,
-    "offense": "crim mischief > or equal $300k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-05-05",
-    "neighborhood": null
-  },
-  {
-    "id": "069896-2026",
-    "lat": 33.0103,
-    "lng": -96.7954,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "other",
-    "hour": 3,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
     "id": "005175-2026",
     "lat": 32.9871,
     "lng": -96.7718,
@@ -99,47 +11,25 @@
     "neighborhood": null
   },
   {
-    "id": "808422-2026",
-    "lat": 33.0057,
-    "lng": -96.7891,
-    "offense": "harassment-repeated electronic comm - non-threatening",
+    "id": "083456-2026",
+    "lat": 32.9998,
+    "lng": -96.8019,
+    "offense": "missing person (no offense)",
     "group": "other",
-    "premise": "cyberspace",
-    "hour": 20,
-    "date": "2026-04-20",
-    "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "005448-2026",
-    "lat": 32.9873,
-    "lng": -96.7927,
-    "offense": "burglary - preliminary investigation",
-    "group": "property",
     "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-01-11",
+    "hour": 16,
+    "date": "2026-06-03",
     "neighborhood": null
   },
   {
-    "id": "810154-2026",
-    "lat": 32.9843,
-    "lng": -96.757,
-    "offense": "theft of prop > or equal $750 <$2,500 (employee) pc 31.03(e3)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 7,
-    "date": "2025-11-26",
-    "neighborhood": null
-  },
-  {
-    "id": "103502-2025",
-    "lat": 33.0048,
-    "lng": -96.7829,
-    "offense": "natural death (no offense)",
+    "id": "083670-2026",
+    "lat": 32.998,
+    "lng": -96.769,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "medical facility",
-    "hour": 1,
-    "date": "2025-07-21",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-10",
     "neighborhood": null
   },
   {
@@ -152,5 +42,27 @@
     "hour": 14,
     "date": "2026-01-06",
     "neighborhood": null
+  },
+  {
+    "id": "073260-2026",
+    "lat": 33.0089,
+    "lng": -96.7971,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 23,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "011934-2026",
+    "lat": 32.9984,
+    "lng": -96.7879,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-25",
+    "neighborhood": "Preston Highlands"
   }
 ]

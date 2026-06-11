@@ -1,102 +1,14 @@
 [
   {
-    "id": "182130-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2025-12-21",
-    "neighborhood": null
-  },
-  {
-    "id": "105955-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2025-07-25",
-    "neighborhood": null
-  },
-  {
-    "id": "103872-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
+    "id": "183268-2025",
+    "lat": 32.8645,
+    "lng": -96.775,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "parking (business)",
     "hour": 15,
-    "date": "2025-07-21",
-    "neighborhood": null
-  },
-  {
-    "id": "802807-2026",
-    "lat": 32.8777,
-    "lng": -96.772,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-02-04",
-    "neighborhood": "Glen Lakes"
-  },
-  {
-    "id": "183367-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "terroristic threat against pub serv (peace officer /judge",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "183367-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "fail to id -refuses to provide info",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "084706-2025",
-    "lat": 32.8677,
-    "lng": -96.7918,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-06-12",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "139569-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2025-09-27",
-    "neighborhood": null
-  },
-  {
-    "id": "064681-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-05-06",
-    "neighborhood": null
+    "date": "2025-12-23",
+    "neighborhood": "Caruth Hills"
   },
   {
     "id": "004960-2026",
@@ -129,6 +41,17 @@
     "premise": "shopping mall",
     "hour": 14,
     "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "111927-2025",
+    "lat": 32.8636,
+    "lng": -96.8113,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2025-08-05",
     "neighborhood": null
   },
   {
@@ -165,72 +88,6 @@
     "neighborhood": null
   },
   {
-    "id": "004960-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 10,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "006718-2026",
-    "lat": 32.8647,
-    "lng": -96.8066,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "002506-2026",
-    "lat": 32.8614,
-    "lng": -96.7713,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 5,
-    "date": "2026-01-06",
-    "neighborhood": "Caruth Hills"
-  },
-  {
-    "id": "103752-2025",
-    "lat": 32.851,
-    "lng": -96.8124,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 13,
-    "date": "2025-07-21",
-    "neighborhood": null
-  },
-  {
-    "id": "800632-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "823615-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2025-11-15",
-    "neighborhood": null
-  },
-  {
     "id": "825882-2025",
     "lat": 32.8696,
     "lng": -96.7707,
@@ -239,6 +96,28 @@
     "premise": "retail store",
     "hour": 15,
     "date": "2025-12-13",
+    "neighborhood": null
+  },
+  {
+    "id": "081452-2026",
+    "lat": 32.8623,
+    "lng": -96.8068,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "057927-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 19,
+    "date": "2026-04-23",
     "neighborhood": null
   }
 ]
