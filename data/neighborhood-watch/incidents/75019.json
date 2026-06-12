@@ -1,13 +1,13 @@
 [
   {
-    "id": "003389-2026",
-    "lat": 32.9325,
-    "lng": -96.9851,
-    "offense": "public intoxication",
+    "id": "012375-2026",
+    "lat": 32.6862,
+    "lng": -96.5894,
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-07",
-    "neighborhood": null
+    "premise": "business office",
+    "hour": 23,
+    "date": "2026-01-26",
+    "neighborhood": "Kleberg"
   }
 ]

@@ -1,13 +1,57 @@
 [
   {
-    "id": "079324-2026",
-    "lat": 32.9425,
-    "lng": -96.8163,
-    "offense": "burglary of habitation -no forced entry",
+    "id": "077311-2026",
+    "lat": 32.9487,
+    "lng": -96.7764,
+    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 20,
+    "date": "2026-05-29",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "007702-2026",
+    "lat": 32.9407,
+    "lng": -96.8143,
+    "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-05-27",
+    "hour": 13,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "005740-2026",
+    "lat": 32.944,
+    "lng": -96.8163,
+    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
+    "id": "004255-2026",
+    "lat": 32.9398,
+    "lng": -96.8089,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "003845-2026",
+    "lat": 32.94,
+    "lng": -96.8088,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 22,
+    "date": "2026-01-08",
     "neighborhood": null
   },
   {
@@ -22,47 +66,25 @@
     "neighborhood": null
   },
   {
-    "id": "816356-2025",
-    "lat": 32.9536,
-    "lng": -96.8244,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-07-30",
-    "neighborhood": null
-  },
-  {
-    "id": "802462-2026",
-    "lat": 32.94,
-    "lng": -96.8186,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "095994-2025",
-    "lat": 32.9409,
-    "lng": -96.8189,
-    "offense": "motor vehicle theft",
+    "id": "801052-2026",
+    "lat": 32.9529,
+    "lng": -96.8055,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
-    "premise": "apartment residence",
-    "hour": 22,
-    "date": "2025-07-05",
+    "premise": "grocery/supermarket",
+    "hour": 14,
+    "date": "2026-01-12",
     "neighborhood": null
   },
   {
-    "id": "811513-2026",
-    "lat": 32.9487,
-    "lng": -96.819,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "id": "811205-2026",
+    "lat": 32.9529,
+    "lng": -96.8055,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-06-04",
+    "premise": "grocery/supermarket",
+    "hour": 20,
+    "date": "2026-05-04",
     "neighborhood": null
   },
   {
@@ -74,6 +96,28 @@
     "premise": "apartment complex/building",
     "hour": 13,
     "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "825577-2025",
+    "lat": 32.9563,
+    "lng": -96.8153,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2025-12-08",
+    "neighborhood": null
+  },
+  {
+    "id": "020166-2026",
+    "lat": 32.9563,
+    "lng": -96.8153,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "department/discount store",
+    "hour": 10,
+    "date": "2026-02-12",
     "neighborhood": null
   },
   {
@@ -99,14 +143,124 @@
     "neighborhood": null
   },
   {
-    "id": "083772-2026",
-    "lat": 32.9402,
-    "lng": -96.8111,
-    "offense": "motor vehicle theft",
+    "id": "064900-2026",
+    "lat": 32.94,
+    "lng": -96.8088,
+    "offense": "fraud use/poss identifying info # items 5<10",
     "group": "property",
     "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-06-09",
+    "hour": 8,
+    "date": "2026-05-07",
     "neighborhood": null
+  },
+  {
+    "id": "182595-2025",
+    "lat": 32.951,
+    "lng": -96.8009,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "retail store",
+    "hour": 17,
+    "date": "2025-12-22",
+    "neighborhood": null
+  },
+  {
+    "id": "004449-2026",
+    "lat": 32.9379,
+    "lng": -96.812,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "038315-2026",
+    "lat": 32.9435,
+    "lng": -96.8047,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 15,
+    "date": "2026-03-18",
+    "neighborhood": null
+  },
+  {
+    "id": "801129-2026",
+    "lat": 32.9425,
+    "lng": -96.8163,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-01-14",
+    "neighborhood": null
+  },
+  {
+    "id": "028535-2026",
+    "lat": 32.9388,
+    "lng": -96.808,
+    "offense": "robbery (agg) of individual, preliminary investigation",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-02-24",
+    "neighborhood": null
+  },
+  {
+    "id": "805346-2026",
+    "lat": 32.9529,
+    "lng": -96.8055,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 11,
+    "date": "2026-03-10",
+    "neighborhood": null
+  },
+  {
+    "id": "811170-2026",
+    "lat": 32.9392,
+    "lng": -96.8162,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-05-29",
+    "neighborhood": null
+  },
+  {
+    "id": "082975-2026",
+    "lat": 32.9536,
+    "lng": -96.8029,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 23,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "134420-2025",
+    "lat": 32.9398,
+    "lng": -96.8089,
+    "offense": "disorderly conduct discharge/display firearm (no assault)",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2025-09-17",
+    "neighborhood": null
+  },
+  {
+    "id": "005738-2026",
+    "lat": 32.9499,
+    "lng": -96.7704,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Northwood Hills"
   }
 ]
