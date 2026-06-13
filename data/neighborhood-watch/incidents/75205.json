@@ -11,61 +11,6 @@
     "neighborhood": null
   },
   {
-    "id": "000239-2026",
-    "lat": 32.8175,
-    "lng": -96.7903,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-24",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "078194-2026",
-    "lat": 32.8207,
-    "lng": -96.7883,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-05-30",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "137312-2025",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 13,
-    "date": "2025-09-23",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "810302-2026",
-    "lat": 32.8231,
-    "lng": -96.7887,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-05-15",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "119233-2025",
-    "lat": 32.8456,
-    "lng": -96.7849,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "school - college/university",
-    "hour": 15,
-    "date": "2025-08-19",
-    "neighborhood": null
-  },
-  {
     "id": "823892-2025",
     "lat": 32.8483,
     "lng": -96.8127,
@@ -75,5 +20,27 @@
     "hour": 16,
     "date": "2025-11-20",
     "neighborhood": null
+  },
+  {
+    "id": "156914-2025",
+    "lat": 32.8263,
+    "lng": -96.7857,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2025-10-30",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "000239-2026",
+    "lat": 32.8175,
+    "lng": -96.7903,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-24",
+    "neighborhood": "Knox Park"
   }
 ]
