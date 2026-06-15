@@ -1,5 +1,38 @@
 [
   {
+    "id": "112874-2025",
+    "lat": 32.7828,
+    "lng": -96.738,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2025-08-02",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "806978-2026",
+    "lat": 32.7819,
+    "lng": -96.7522,
+    "offense": "criminal mischief > or equal $30k<$150k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-28",
+    "neighborhood": null
+  },
+  {
+    "id": "036776-2026",
+    "lat": 32.7818,
+    "lng": -96.7501,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "036776-2026",
     "lat": 32.7818,
     "lng": -96.7501,
@@ -77,14 +110,14 @@
     "neighborhood": "Dolphin Heights"
   },
   {
-    "id": "081237-2026",
-    "lat": 32.7881,
-    "lng": -96.7466,
-    "offense": "bmv (of auto accessory) (p.c. 30.04(a))",
+    "id": "079003-2026",
+    "lat": 32.7873,
+    "lng": -96.7395,
+    "offense": "injured person - firearm injury (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-05",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-06-01",
     "neighborhood": "Owenwood"
   },
   {
@@ -165,6 +198,94 @@
     "neighborhood": "Jubilee Park"
   },
   {
+    "id": "040110-2026",
+    "lat": 32.7926,
+    "lng": -96.7466,
+    "offense": "burglary of a coin operated machine",
+    "group": "property",
+    "premise": "specialty store (in a specific item)",
+    "hour": 20,
+    "date": "2026-03-21",
+    "neighborhood": null
+  },
+  {
+    "id": "045327-2026",
+    "lat": 32.786,
+    "lng": -96.7684,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-03-31",
+    "neighborhood": "Exposition Park"
+  },
+  {
+    "id": "019822-2026",
+    "lat": 32.7955,
+    "lng": -96.7369,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (park)",
+    "hour": 9,
+    "date": "2026-02-11",
+    "neighborhood": null
+  },
+  {
+    "id": "160503-2025",
+    "lat": 32.787,
+    "lng": -96.7493,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2025-11-07",
+    "neighborhood": null
+  },
+  {
+    "id": "177768-2025",
+    "lat": 32.7955,
+    "lng": -96.7369,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "entertainment/sports venue",
+    "hour": 12,
+    "date": "2025-12-12",
+    "neighborhood": null
+  },
+  {
+    "id": "080330-2026",
+    "lat": 32.7912,
+    "lng": -96.7605,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "017785-2026",
+    "lat": 32.7856,
+    "lng": -96.7444,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-02-07",
+    "neighborhood": "Owenwood"
+  },
+  {
+    "id": "004753-2026",
+    "lat": 32.8029,
+    "lng": -96.7485,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 16,
+    "date": "2026-01-10",
+    "neighborhood": "Mount Auburn"
+  },
+  {
     "id": "080330-2026",
     "lat": 32.7912,
     "lng": -96.7605,
@@ -176,102 +297,14 @@
     "neighborhood": null
   },
   {
-    "id": "140783-2025",
-    "lat": 32.7873,
-    "lng": -96.7584,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2025-09-30",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "140783-2025",
-    "lat": 32.7873,
-    "lng": -96.7584,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2025-09-30",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "046096-2026",
-    "lat": 32.7926,
-    "lng": -96.7466,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "147744-2025",
+    "lat": 32.7895,
+    "lng": -96.7374,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 14,
-    "date": "2026-04-01",
-    "neighborhood": null
-  },
-  {
-    "id": "800840-2026",
-    "lat": 32.7832,
-    "lng": -96.748,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 3,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "002997-2026",
-    "lat": 32.7855,
-    "lng": -96.7383,
-    "offense": "motor vehicle theft",
-    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-06",
+    "hour": 15,
+    "date": "2025-10-13",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "013531-2026",
-    "lat": 32.7937,
-    "lng": -96.7508,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-22",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "820428-2025",
-    "lat": 32.7955,
-    "lng": -96.7369,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-10-02",
-    "neighborhood": null
-  },
-  {
-    "id": "043344-2026",
-    "lat": 32.7923,
-    "lng": -96.7364,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "business office",
-    "hour": 22,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "017943-2026",
-    "lat": 32.7832,
-    "lng": -96.7341,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 2,
-    "date": "2026-01-17",
-    "neighborhood": "Dolphin Heights"
   }
 ]

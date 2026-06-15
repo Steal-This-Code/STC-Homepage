@@ -1,9 +1,9 @@
 {
   "city": "dallas",
-  "built_at": "2026-06-14 10:43:39 UTC",
+  "built_at": "2026-06-15 13:45:48 UTC",
   "days_back": 365,
-  "incident_count": 2868,
-  "date_range_start": "2025-06-14",
+  "incident_count": 3103,
+  "date_range_start": "2025-06-16",
   "date_range_end": "2026-06-10",
   "notes": ["Counts depend on source freshness and source coverage.", "The live app should present this as informational, not real-time dispatch data.", "Environmental context layers are correlational and should not be framed as causal."]
 }

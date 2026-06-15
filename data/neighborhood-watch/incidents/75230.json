@@ -1,5 +1,38 @@
 [
   {
+    "id": "802875-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "124600-2025",
+    "lat": 32.9244,
+    "lng": -96.8026,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2025-08-29",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "802041-2026",
+    "lat": 32.8935,
+    "lng": -96.7863,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Brookshire Park"
+  },
+  {
     "id": "821400-2025",
     "lat": 32.893,
     "lng": -96.7718,
@@ -143,14 +176,36 @@
     "neighborhood": null
   },
   {
-    "id": "801124-2026",
-    "lat": 32.8957,
-    "lng": -96.8061,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "id": "016643-2026",
+    "lat": 32.8945,
+    "lng": -96.8033,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-02-04",
+    "neighborhood": "Preston Hollow North"
+  },
+  {
+    "id": "015093-2026",
+    "lat": 32.893,
+    "lng": -96.7718,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "construction site",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "801689-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "parking (business)",
     "hour": 15,
-    "date": "2026-01-13",
+    "date": "2026-01-23",
     "neighborhood": null
   },
   {
@@ -165,124 +220,14 @@
     "neighborhood": null
   },
   {
-    "id": "081381-2026",
-    "lat": 32.913,
-    "lng": -96.7828,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 4,
-    "date": "2026-06-06",
-    "neighborhood": "Lake Forest"
-  },
-  {
-    "id": "801689-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
-    "id": "175925-2025",
-    "lat": 32.8947,
-    "lng": -96.7951,
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2025-12-08",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "173712-2025",
-    "lat": 32.9224,
-    "lng": -96.7858,
-    "offense": "theft of material alum/brnze/copper <$20k enh pc31.03(f)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 0,
-    "date": "2025-11-03",
-    "neighborhood": null
-  },
-  {
-    "id": "082612-2026",
-    "lat": 32.9116,
-    "lng": -96.7929,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 10,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "825038-2025",
-    "lat": 32.9078,
-    "lng": -96.8059,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2025-12-04",
-    "neighborhood": null
-  },
-  {
-    "id": "179795-2025",
-    "lat": 32.9176,
-    "lng": -96.8022,
-    "offense": "terroristic threat -preliminary investigation",
-    "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 2,
-    "date": "2025-12-17",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "802811-2026",
-    "lat": 32.9018,
-    "lng": -96.7779,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Hillcrest Forest"
-  },
-  {
-    "id": "823776-2025",
-    "lat": 32.8945,
-    "lng": -96.8033,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
+    "premise": "highway, street, alley etc",
     "hour": 17,
-    "date": "2025-11-17",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "183987-2025",
-    "lat": 32.8872,
-    "lng": -96.7728,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2025-12-26",
-    "neighborhood": null
-  },
-  {
-    "id": "183987-2025",
-    "lat": 32.8872,
-    "lng": -96.7728,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2025-12-26",
+    "date": "2025-12-03",
     "neighborhood": null
   }
 ]
