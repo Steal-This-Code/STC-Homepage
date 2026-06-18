@@ -1,5 +1,27 @@
 [
   {
+    "id": "105374-2025",
+    "lat": 32.914,
+    "lng": -96.8616,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 22,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "105374-2025",
+    "lat": 32.914,
+    "lng": -96.8616,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 22,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
     "id": "801112-2026",
     "lat": 32.9098,
     "lng": -96.8951,
@@ -8,17 +30,6 @@
     "premise": "parking (business)",
     "hour": 19,
     "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "078670-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-06-01",
     "neighborhood": null
   },
   {

@@ -11,6 +11,39 @@
     "neighborhood": "Kiest Park"
   },
   {
+    "id": "126065-2025",
+    "lat": 32.7209,
+    "lng": -96.8308,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 11,
+    "date": "2025-08-29",
+    "neighborhood": "Wynnewood North"
+  },
+  {
+    "id": "800799-2026",
+    "lat": 32.697,
+    "lng": -96.8404,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 17,
+    "date": "2026-01-03",
+    "neighborhood": null
+  },
+  {
+    "id": "061027-2026",
+    "lat": 32.6919,
+    "lng": -96.8379,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-29",
+    "neighborhood": "Southern Hills"
+  },
+  {
     "id": "074856-2026",
     "lat": 32.7003,
     "lng": -96.8273,

@@ -1,5 +1,27 @@
 [
   {
+    "id": "811305-2026",
+    "lat": 32.8258,
+    "lng": -96.8224,
+    "offense": "harassment",
+    "group": "other",
+    "premise": null,
+    "hour": 11,
+    "date": "2026-05-26",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "800849-2026",
+    "lat": 32.8538,
+    "lng": -96.8403,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-12",
+    "neighborhood": "Shorecrest Estates"
+  },
+  {
     "id": "046476-2026",
     "lat": 32.8423,
     "lng": -96.8312,

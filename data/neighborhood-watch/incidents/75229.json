@@ -11,6 +11,61 @@
     "neighborhood": null
   },
   {
+    "id": "800839-2026",
+    "lat": 32.9074,
+    "lng": -96.8854,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "176550-2025",
+    "lat": 32.8982,
+    "lng": -96.8811,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "176603-2025",
+    "lat": 32.9085,
+    "lng": -96.8807,
+    "offense": "fleeing police officer",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "808288-2026",
+    "lat": 32.8996,
+    "lng": -96.8951,
+    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "group": "property",
+    "premise": "auto dealership new/used",
+    "hour": 14,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "817606-2025",
+    "lat": 32.8794,
+    "lng": -96.8894,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2025-08-12",
+    "neighborhood": "Bachman"
+  },
+  {
     "id": "002158-2026",
     "lat": 32.9074,
     "lng": -96.8854,
@@ -20,17 +75,6 @@
     "hour": 17,
     "date": "2025-12-30",
     "neighborhood": null
-  },
-  {
-    "id": "075281-2026",
-    "lat": 32.8809,
-    "lng": -96.8892,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 4,
-    "date": "2026-05-26",
-    "neighborhood": "Bachman"
   },
   {
     "id": "002504-2026",
@@ -162,17 +206,6 @@
     "premise": "parking (business)",
     "hour": 12,
     "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
-    "id": "082438-2026",
-    "lat": 32.8817,
-    "lng": -96.8857,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-06-07",
     "neighborhood": null
   },
   {

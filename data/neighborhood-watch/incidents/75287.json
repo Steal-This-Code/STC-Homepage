@@ -1,13 +1,46 @@
 [
   {
-    "id": "155219-2025",
-    "lat": 33.0076,
-    "lng": -96.8224,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "id": "009148-2026",
+    "lat": 33.0037,
+    "lng": -96.8575,
+    "offense": "burglary of building - forced entry",
     "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 4,
+    "date": "2026-01-19",
+    "neighborhood": null
+  },
+  {
+    "id": "810229-2026",
+    "lat": 32.9945,
+    "lng": -96.8578,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 18,
+    "date": "2026-05-13",
+    "neighborhood": "Meadow Glen"
+  },
+  {
+    "id": "030085-2026",
+    "lat": 32.9875,
+    "lng": -96.8287,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 23,
+    "date": "2026-03-02",
+    "neighborhood": null
+  },
+  {
+    "id": "062104-2026",
+    "lat": 33.0107,
+    "lng": -96.8474,
+    "offense": "natural death (no offense)",
+    "group": "other",
     "premise": "apartment residence",
-    "hour": 14,
-    "date": "2025-10-28",
+    "hour": 16,
+    "date": "2026-04-29",
     "neighborhood": null
   },
   {

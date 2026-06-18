@@ -44,14 +44,14 @@
     "neighborhood": null
   },
   {
-    "id": "811530-2026",
-    "lat": 32.7062,
-    "lng": -96.8938,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "id": "002894-2026",
+    "lat": 32.668,
+    "lng": -96.8891,
+    "offense": "burglary of habitation - forced entry",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-08",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-01-06",
     "neighborhood": null
   }
 ]

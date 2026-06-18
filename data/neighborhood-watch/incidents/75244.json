@@ -1,14 +1,25 @@
 [
   {
-    "id": "019323-2026",
-    "lat": 32.9125,
-    "lng": -96.8514,
-    "offense": "missing person (no offense)",
+    "id": "811242-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Glen Meadow Estates"
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-30",
+    "neighborhood": null
+  },
+  {
+    "id": "821924-2025",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-08-01",
+    "neighborhood": null
   },
   {
     "id": "005022-2026",
@@ -42,6 +53,17 @@
     "hour": 12,
     "date": "2026-06-01",
     "neighborhood": "Northaven Park"
+  },
+  {
+    "id": "046635-2026",
+    "lat": 32.9207,
+    "lng": -96.8471,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-31",
+    "neighborhood": "Glen Meadow Estates"
   },
   {
     "id": "147134-2025",

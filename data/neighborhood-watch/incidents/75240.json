@@ -1,5 +1,27 @@
 [
   {
+    "id": "182987-2025",
+    "lat": 32.9315,
+    "lng": -96.8161,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 14,
+    "date": "2025-12-23",
+    "neighborhood": null
+  },
+  {
+    "id": "055647-2026",
+    "lat": 32.9349,
+    "lng": -96.8063,
+    "offense": "vio bond/protective order",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 10,
+    "date": "2026-04-19",
+    "neighborhood": null
+  },
+  {
     "id": "047935-2026",
     "lat": 32.9275,
     "lng": -96.7642,
@@ -119,6 +141,17 @@
     "hour": 8,
     "date": "2026-05-14",
     "neighborhood": null
+  },
+  {
+    "id": "803035-2026",
+    "lat": 32.9307,
+    "lng": -96.7818,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 2,
+    "date": "2026-02-11",
+    "neighborhood": "Valley View"
   },
   {
     "id": "821159-2025",

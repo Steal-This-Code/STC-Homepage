@@ -1,14 +1,113 @@
 [
   {
-    "id": "825592-2025",
-    "lat": 32.6783,
+    "id": "005326-2026",
+    "lat": 32.6598,
+    "lng": -96.8131,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-01-11",
+    "neighborhood": "Wisdom Terrace"
+  },
+  {
+    "id": "826444-2025",
+    "lat": 32.6439,
     "lng": -96.78,
-    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
     "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 8,
-    "date": "2025-12-11",
-    "neighborhood": "Cigarette Hill"
+    "premise": "gas or service station",
+    "hour": 20,
+    "date": "2025-12-19",
+    "neighborhood": null
+  },
+  {
+    "id": "012603-2026",
+    "lat": 32.6809,
+    "lng": -96.7604,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-01-26",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "806996-2026",
+    "lat": 32.6517,
+    "lng": -96.8158,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "other",
+    "hour": 20,
+    "date": "2025-09-21",
+    "neighborhood": null
+  },
+  {
+    "id": "825023-2025",
+    "lat": 32.6417,
+    "lng": -96.7444,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2025-12-02",
+    "neighborhood": null
+  },
+  {
+    "id": "800815-2026",
+    "lat": 32.6634,
+    "lng": -96.7882,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 18,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "062396-2026",
+    "lat": 32.6749,
+    "lng": -96.7542,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-05-02",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "803481-2026",
+    "lat": 32.6538,
+    "lng": -96.7514,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 2,
+    "date": "2026-02-18",
+    "neighborhood": null
+  },
+  {
+    "id": "061398-2026",
+    "lat": 32.6759,
+    "lng": -96.7621,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-04-30",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "031488-2026",
+    "lat": 32.6662,
+    "lng": -96.7609,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-03-05",
+    "neighborhood": null
   },
   {
     "id": "800377-2026",
@@ -20,17 +119,6 @@
     "hour": 10,
     "date": "2025-11-24",
     "neighborhood": "Hidden Valley"
-  },
-  {
-    "id": "111613-2025",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2025-08-01",
-    "neighborhood": null
   },
   {
     "id": "077947-2026",
@@ -416,5 +504,16 @@
     "hour": 12,
     "date": "2026-01-06",
     "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "078851-2026",
+    "lat": 32.6539,
+    "lng": -96.7516,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2026-06-01",
+    "neighborhood": null
   }
 ]

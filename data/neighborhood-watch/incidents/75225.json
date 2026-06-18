@@ -22,6 +22,17 @@
     "neighborhood": null
   },
   {
+    "id": "103872-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2025-07-21",
+    "neighborhood": null
+  },
+  {
     "id": "006718-2026",
     "lat": 32.8647,
     "lng": -96.8066,

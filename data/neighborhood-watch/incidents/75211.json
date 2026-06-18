@@ -1,13 +1,134 @@
 [
   {
-    "id": "045366-2026",
-    "lat": 32.7524,
-    "lng": -96.8895,
+    "id": "803676-2026",
+    "lat": 32.7335,
+    "lng": -96.8929,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "other",
+    "hour": 11,
+    "date": "2026-01-29",
+    "neighborhood": null
+  },
+  {
+    "id": "808592-2026",
+    "lat": 32.762,
+    "lng": -96.8973,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-04-21",
+    "neighborhood": null
+  },
+  {
+    "id": "181582-2025",
+    "lat": 32.7472,
+    "lng": -96.8808,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2025-12-19",
+    "neighborhood": "American Mount"
+  },
+  {
+    "id": "809074-2026",
+    "lat": 32.766,
+    "lng": -96.8732,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 6,
+    "date": "2026-04-18",
+    "neighborhood": null
+  },
+  {
+    "id": "806885-2026",
+    "lat": 32.7203,
+    "lng": -96.8716,
     "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "industrial/manufacturing",
-    "hour": 16,
+    "premise": "construction site",
+    "hour": 3,
     "date": "2026-03-29",
+    "neighborhood": null
+  },
+  {
+    "id": "803462-2026",
+    "lat": 32.7061,
+    "lng": -96.9039,
+    "offense": "accident inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-02-17",
+    "neighborhood": null
+  },
+  {
+    "id": "805843-2026",
+    "lat": 32.7656,
+    "lng": -96.8758,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 0,
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "036929-2026",
+    "lat": 32.7244,
+    "lng": -96.8682,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-03-15",
+    "neighborhood": null
+  },
+  {
+    "id": "802902-2026",
+    "lat": 32.7409,
+    "lng": -96.8583,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 15,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "112080-2025",
+    "lat": 32.7187,
+    "lng": -96.8766,
+    "offense": "bmv - preliminary investigation",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2025-08-03",
+    "neighborhood": null
+  },
+  {
+    "id": "808786-2026",
+    "lat": 32.7647,
+    "lng": -96.9006,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 20,
+    "date": "2026-04-14",
+    "neighborhood": null
+  },
+  {
+    "id": "004792-2026",
+    "lat": 32.721,
+    "lng": -96.8907,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "business office",
+    "hour": 17,
+    "date": "2026-01-10",
     "neighborhood": null
   },
   {
@@ -218,6 +339,28 @@
     "hour": 13,
     "date": "2026-05-20",
     "neighborhood": null
+  },
+  {
+    "id": "051316-2026",
+    "lat": 32.7237,
+    "lng": -96.8748,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-04-11",
+    "neighborhood": "Roland Hills"
+  },
+  {
+    "id": "005057-2026",
+    "lat": 32.7303,
+    "lng": -96.9188,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-01-11",
+    "neighborhood": "Vista Real"
   },
   {
     "id": "001900-2026",

@@ -1,13 +1,24 @@
 [
   {
-    "id": "005740-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "highway, street, alley etc",
+    "id": "077311-2026",
+    "lat": 32.9487,
+    "lng": -96.7764,
+    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 20,
+    "date": "2026-05-29",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "820688-2025",
+    "lat": 32.9484,
+    "lng": -96.8023,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
     "hour": 16,
-    "date": "2026-01-05",
+    "date": "2025-08-08",
     "neighborhood": null
   },
   {
