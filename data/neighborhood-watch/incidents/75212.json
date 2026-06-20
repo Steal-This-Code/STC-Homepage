@@ -1,5 +1,93 @@
 [
   {
+    "id": "150342-2025",
+    "lat": 32.777,
+    "lng": -96.9101,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-10-18",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "013334-2026",
+    "lat": 32.7775,
+    "lng": -96.8418,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Muncie"
+  },
+  {
+    "id": "804849-2026",
+    "lat": 32.769,
+    "lng": -96.8732,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "government facility",
+    "hour": 17,
+    "date": "2026-03-06",
+    "neighborhood": null
+  },
+  {
+    "id": "105399-2025",
+    "lat": 32.7672,
+    "lng": -96.8995,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2025-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "134610-2025",
+    "lat": 32.7708,
+    "lng": -96.8963,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-09-17",
+    "neighborhood": null
+  },
+  {
+    "id": "146983-2025",
+    "lat": 32.7814,
+    "lng": -96.828,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-10-11",
+    "neighborhood": "La Bajada"
+  },
+  {
+    "id": "105399-2025",
+    "lat": 32.7672,
+    "lng": -96.8995,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2025-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "801105-2026",
+    "lat": 32.7831,
+    "lng": -96.8914,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 20,
+    "date": "2026-01-14",
+    "neighborhood": null
+  },
+  {
     "id": "048795-2026",
     "lat": 32.7803,
     "lng": -96.909,
@@ -163,127 +251,6 @@
     "hour": 19,
     "date": "2026-03-31",
     "neighborhood": null
-  },
-  {
-    "id": "006777-2026",
-    "lat": 32.779,
-    "lng": -96.8897,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 2,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "080795-2026",
-    "lat": 32.7808,
-    "lng": -96.8814,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 6,
-    "date": "2026-05-09",
-    "neighborhood": "Westmoreland Heights"
-  },
-  {
-    "id": "015197-2026",
-    "lat": 32.7812,
-    "lng": -96.8922,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-02-01",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "152835-2025",
-    "lat": 32.7786,
-    "lng": -96.8288,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-10-22",
-    "neighborhood": "La L'aceate"
-  },
-  {
-    "id": "026475-2026",
-    "lat": 32.785,
-    "lng": -96.8716,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "shelter - mission/homeless",
-    "hour": 12,
-    "date": "2026-02-04",
-    "neighborhood": "Lake West"
-  },
-  {
-    "id": "148258-2025",
-    "lat": 32.7865,
-    "lng": -96.8564,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "006739-2026",
-    "lat": 32.7784,
-    "lng": -96.9156,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-01-13",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "006719-2026",
-    "lat": 32.779,
-    "lng": -96.8897,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 6,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "006739-2026",
-    "lat": 32.7784,
-    "lng": -96.9156,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-01-13",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "019270-2026",
-    "lat": 32.78,
-    "lng": -96.8879,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 0,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "140629-2025",
-    "lat": 32.7707,
-    "lng": -96.9136,
-    "offense": "motor vehicle theft - preliminary invest",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-09-26",
-    "neighborhood": "Ledbetter"
   },
   {
     "id": "078455-2026",

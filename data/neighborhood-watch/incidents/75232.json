@@ -1,5 +1,71 @@
 [
   {
+    "id": "000646-2026",
+    "lat": 32.6378,
+    "lng": -96.857,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 8,
+    "date": "2025-11-02",
+    "neighborhood": null
+  },
+  {
+    "id": "104953-2025",
+    "lat": 32.6717,
+    "lng": -96.84,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "029527-2026",
+    "lat": 32.6474,
+    "lng": -96.8294,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 5,
+    "date": "2026-03-02",
+    "neighborhood": null
+  },
+  {
+    "id": "103664-2025",
+    "lat": 32.6712,
+    "lng": -96.8326,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2025-07-25",
+    "neighborhood": "Beckley Heights"
+  },
+  {
+    "id": "104953-2025",
+    "lat": 32.6717,
+    "lng": -96.84,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2025-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "103664-2025",
+    "lat": 32.6712,
+    "lng": -96.8326,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2025-07-25",
+    "neighborhood": "Beckley Heights"
+  },
+  {
     "id": "004767-2026",
     "lat": 32.6713,
     "lng": -96.8557,
@@ -118,160 +184,6 @@
     "premise": "apartment parking lot",
     "hour": 22,
     "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "078777-2026",
-    "lat": 32.6477,
-    "lng": -96.843,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-05-31",
-    "neighborhood": "Wheatland Hills"
-  },
-  {
-    "id": "111908-2025",
-    "lat": 32.6642,
-    "lng": -96.8534,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-08-05",
-    "neighborhood": null
-  },
-  {
-    "id": "826821-2025",
-    "lat": 32.6617,
-    "lng": -96.8321,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 0,
-    "date": "2025-12-25",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "802858-2026",
-    "lat": 32.6484,
-    "lng": -96.8244,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 5,
-    "date": "2026-02-09",
-    "neighborhood": null
-  },
-  {
-    "id": "005045-2026",
-    "lat": 32.6332,
-    "lng": -96.8262,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "033895-2026",
-    "lat": 32.6537,
-    "lng": -96.84,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-03-10",
-    "neighborhood": null
-  },
-  {
-    "id": "080861-2026",
-    "lat": 32.681,
-    "lng": -96.8539,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2026-06-04",
-    "neighborhood": null
-  },
-  {
-    "id": "069643-2026",
-    "lat": 32.6627,
-    "lng": -96.8412,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "005046-2026",
-    "lat": 32.6332,
-    "lng": -96.8262,
-    "offense": "deadly conduct discharge firearm (no assault no damage)",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "150555-2025",
-    "lat": 32.6379,
-    "lng": -96.8386,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2025-10-18",
-    "neighborhood": null
-  },
-  {
-    "id": "822524-2025",
-    "lat": 32.6402,
-    "lng": -96.8401,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-10-30",
-    "neighborhood": null
-  },
-  {
-    "id": "093012-2025",
-    "lat": 32.6491,
-    "lng": -96.8398,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2025-06-30",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "138940-2025",
-    "lat": 32.6736,
-    "lng": -96.823,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-09-26",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "120757-2025",
-    "lat": 32.6498,
-    "lng": -96.84,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2025-08-22",
     "neighborhood": null
   },
   {

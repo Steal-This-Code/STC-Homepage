@@ -1,5 +1,71 @@
 [
   {
+    "id": "823880-2025",
+    "lat": 32.8337,
+    "lng": -96.8359,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 17,
+    "date": "2025-11-14",
+    "neighborhood": null
+  },
+  {
+    "id": "133342-2025",
+    "lat": 32.8087,
+    "lng": -96.8324,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "convenience store",
+    "hour": 23,
+    "date": "2025-09-15",
+    "neighborhood": null
+  },
+  {
+    "id": "808197-2026",
+    "lat": 32.8239,
+    "lng": -96.835,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-04-16",
+    "neighborhood": null
+  },
+  {
+    "id": "104375-2025",
+    "lat": 32.8408,
+    "lng": -96.8482,
+    "offense": "false alarm or report",
+    "group": "other",
+    "premise": "airport - love field",
+    "hour": 17,
+    "date": "2025-07-22",
+    "neighborhood": null
+  },
+  {
+    "id": "010952-2026",
+    "lat": 32.8257,
+    "lng": -96.8646,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 19,
+    "date": "2026-01-22",
+    "neighborhood": null
+  },
+  {
+    "id": "825477-2025",
+    "lat": 32.8142,
+    "lng": -96.8296,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 18,
+    "date": "2025-12-06",
+    "neighborhood": null
+  },
+  {
     "id": "810084-2026",
     "lat": 32.809,
     "lng": -96.8375,
@@ -119,105 +185,6 @@
     "hour": 13,
     "date": "2026-05-19",
     "neighborhood": null
-  },
-  {
-    "id": "802325-2026",
-    "lat": 32.8195,
-    "lng": -96.8402,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-01-15",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "802196-2026",
-    "lat": 32.8262,
-    "lng": -96.8477,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-01-29",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "800220-2026",
-    "lat": 32.8142,
-    "lng": -96.8296,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 18,
-    "date": "2025-12-23",
-    "neighborhood": null
-  },
-  {
-    "id": "014984-2026",
-    "lat": 32.8246,
-    "lng": -96.8524,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-02-01",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "023355-2026",
-    "lat": 32.8279,
-    "lng": -96.8526,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 19,
-    "date": "2026-02-17",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "012572-2026",
-    "lat": 32.8283,
-    "lng": -96.8561,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "business office",
-    "hour": 13,
-    "date": "2026-01-27",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "071176-2026",
-    "lat": 32.8157,
-    "lng": -96.8614,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-05-18",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "186049-2025",
-    "lat": 32.8262,
-    "lng": -96.8477,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-12-19",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "182483-2025",
-    "lat": 32.8251,
-    "lng": -96.8317,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "other",
-    "hour": 11,
-    "date": "2025-12-22",
-    "neighborhood": "Oak Lawn"
   },
   {
     "id": "044524-2026",

@@ -1,5 +1,49 @@
 [
   {
+    "id": "009148-2026",
+    "lat": 33.0037,
+    "lng": -96.8575,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 4,
+    "date": "2026-01-19",
+    "neighborhood": null
+  },
+  {
+    "id": "810229-2026",
+    "lat": 32.9945,
+    "lng": -96.8578,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 18,
+    "date": "2026-05-13",
+    "neighborhood": "Meadow Glen"
+  },
+  {
+    "id": "030085-2026",
+    "lat": 32.9875,
+    "lng": -96.8287,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 23,
+    "date": "2026-03-02",
+    "neighborhood": null
+  },
+  {
+    "id": "062104-2026",
+    "lat": 33.0107,
+    "lng": -96.8474,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-04-29",
+    "neighborhood": null
+  },
+  {
     "id": "002328-2026",
     "lat": 32.9978,
     "lng": -96.867,
@@ -305,160 +349,6 @@
     "premise": "apartment parking lot",
     "hour": 21,
     "date": "2025-12-19",
-    "neighborhood": null
-  },
-  {
-    "id": "081475-2026",
-    "lat": 32.999,
-    "lng": -96.8416,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "808803-2026",
-    "lat": 32.9945,
-    "lng": -96.8578,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-04-24",
-    "neighborhood": "Meadow Glen"
-  },
-  {
-    "id": "007559-2026",
-    "lat": 33.0106,
-    "lng": -96.8454,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "815383-2025",
-    "lat": 33.0081,
-    "lng": -96.8183,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 11,
-    "date": "2025-07-29",
-    "neighborhood": null
-  },
-  {
-    "id": "809565-2026",
-    "lat": 32.9991,
-    "lng": -96.8271,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-05-04",
-    "neighborhood": null
-  },
-  {
-    "id": "027414-2026",
-    "lat": 33.0003,
-    "lng": -96.8234,
-    "offense": "dog bite - injured person",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 9,
-    "date": "2026-02-22",
-    "neighborhood": null
-  },
-  {
-    "id": "113184-2025",
-    "lat": 33.0052,
-    "lng": -96.845,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2025-08-08",
-    "neighborhood": null
-  },
-  {
-    "id": "054368-2026",
-    "lat": 32.9874,
-    "lng": -96.8408,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 4,
-    "date": "2026-04-17",
-    "neighborhood": null
-  },
-  {
-    "id": "045507-2026",
-    "lat": 33.002,
-    "lng": -96.8282,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "rental storage facility",
-    "hour": 8,
-    "date": "2026-03-24",
-    "neighborhood": null
-  },
-  {
-    "id": "069008-2026",
-    "lat": 32.9982,
-    "lng": -96.8426,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "801354-2026",
-    "lat": 33.0047,
-    "lng": -96.835,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "other",
-    "hour": 15,
-    "date": "2026-01-16",
-    "neighborhood": "Parkway Village"
-  },
-  {
-    "id": "080335-2026",
-    "lat": 33.0071,
-    "lng": -96.8491,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 8,
-    "date": "2026-06-04",
-    "neighborhood": null
-  },
-  {
-    "id": "007559-2026",
-    "lat": 33.0106,
-    "lng": -96.8454,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "810393-2026",
-    "lat": 33.0099,
-    "lng": -96.8458,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2026-05-13",
     "neighborhood": null
   },
   {

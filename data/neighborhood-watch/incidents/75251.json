@@ -1,5 +1,27 @@
 [
   {
+    "id": "180518-2025",
+    "lat": 32.9173,
+    "lng": -96.7731,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": null
+  },
+  {
+    "id": "030411-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
     "id": "800326-2026",
     "lat": 32.9209,
     "lng": -96.7733,
@@ -8,17 +30,6 @@
     "premise": "parking (business)",
     "hour": 17,
     "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
-    "id": "802300-2026",
-    "lat": 32.9189,
-    "lng": -96.7714,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-02-02",
     "neighborhood": null
   },
   {

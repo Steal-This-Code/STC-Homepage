@@ -1,5 +1,27 @@
 [
   {
+    "id": "806978-2026",
+    "lat": 32.7819,
+    "lng": -96.7522,
+    "offense": "criminal mischief > or equal $30k<$150k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-28",
+    "neighborhood": null
+  },
+  {
+    "id": "036776-2026",
+    "lat": 32.7818,
+    "lng": -96.7501,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "036776-2026",
     "lat": 32.7818,
     "lng": -96.7501,
@@ -86,72 +108,6 @@
     "hour": 18,
     "date": "2026-06-01",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "177768-2025",
-    "lat": 32.7955,
-    "lng": -96.7369,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "entertainment/sports venue",
-    "hour": 12,
-    "date": "2025-12-12",
-    "neighborhood": null
-  },
-  {
-    "id": "017785-2026",
-    "lat": 32.7856,
-    "lng": -96.7444,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-02-07",
-    "neighborhood": "Owenwood"
-  },
-  {
-    "id": "004753-2026",
-    "lat": 32.8029,
-    "lng": -96.7485,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 16,
-    "date": "2026-01-10",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "140783-2025",
-    "lat": 32.7873,
-    "lng": -96.7584,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2025-09-30",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "140783-2025",
-    "lat": 32.7873,
-    "lng": -96.7584,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2025-09-30",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "046096-2026",
-    "lat": 32.7926,
-    "lng": -96.7466,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 14,
-    "date": "2026-04-01",
-    "neighborhood": null
   },
   {
     "id": "800840-2026",

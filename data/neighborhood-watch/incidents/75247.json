@@ -11,14 +11,25 @@
     "neighborhood": null
   },
   {
-    "id": "087087-2025",
-    "lat": 32.8102,
-    "lng": -96.8509,
-    "offense": "motor vehicle theft",
+    "id": "100266-2025",
+    "lat": 32.8182,
+    "lng": -96.8702,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-07-14",
+    "neighborhood": null
+  },
+  {
+    "id": "826869-2025",
+    "lat": 32.8319,
+    "lng": -96.8748,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
     "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 6,
-    "date": "2025-06-19",
+    "premise": "construction site",
+    "hour": 19,
+    "date": "2025-12-26",
     "neighborhood": null
   },
   {
@@ -44,59 +55,15 @@
     "neighborhood": null
   },
   {
-    "id": "019191-2026",
-    "lat": 32.8252,
-    "lng": -96.8793,
-    "offense": "forgery- preliminary investigation",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "006898-2026",
-    "lat": 32.8057,
-    "lng": -96.89,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "103128-2025",
-    "lat": 32.8226,
-    "lng": -96.8768,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2025-07-19",
-    "neighborhood": null
-  },
-  {
-    "id": "030143-2026",
-    "lat": 32.8238,
-    "lng": -96.8772,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "801446-2026",
-    "lat": 32.8224,
-    "lng": -96.8801,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 14,
-    "date": "2025-12-10",
-    "neighborhood": null
+    "id": "106379-2025",
+    "lat": 32.8192,
+    "lng": -96.8645,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 11,
+    "date": "2025-07-26",
+    "neighborhood": "Southwestern Medical District"
   },
   {
     "id": "007380-2026",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "812450-2025",
+    "lat": 32.6234,
+    "lng": -96.9452,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-06-20",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
     "id": "800695-2026",
     "lat": 32.6447,
     "lng": -96.9655,
@@ -19,61 +30,6 @@
     "premise": "single family residence - occupied",
     "hour": 19,
     "date": "2026-06-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "021890-2026",
-    "lat": 32.6442,
-    "lng": -96.9681,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-02-14",
-    "neighborhood": null
-  },
-  {
-    "id": "162211-2025",
-    "lat": 32.6573,
-    "lng": -96.9658,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2025-11-10",
-    "neighborhood": null
-  },
-  {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "023611-2026",
-    "lat": 32.6288,
-    "lng": -96.9494,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-18",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
     "neighborhood": "Woods-Sugarberry"
   },
   {

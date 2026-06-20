@@ -1,5 +1,27 @@
 [
   {
+    "id": "817247-2025",
+    "lat": 33.001,
+    "lng": -96.7813,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "803467-2026",
+    "lat": 33.0095,
+    "lng": -96.7892,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
     "id": "002345-2026",
     "lat": 32.9863,
     "lng": -96.774,
@@ -63,28 +85,6 @@
     "premise": "apartment parking lot",
     "hour": 20,
     "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "821094-2025",
-    "lat": 32.9957,
-    "lng": -96.7939,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 7,
-    "date": "2025-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "073260-2026",
-    "lat": 33.0089,
-    "lng": -96.7971,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 23,
-    "date": "2026-03-31",
     "neighborhood": null
   },
   {

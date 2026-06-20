@@ -1,5 +1,27 @@
 [
   {
+    "id": "138782-2025",
+    "lat": 32.8366,
+    "lng": -96.78,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2025-09-25",
+    "neighborhood": null
+  },
+  {
+    "id": "805817-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-03-19",
+    "neighborhood": "Knox Park"
+  },
+  {
     "id": "804232-2026",
     "lat": 32.8245,
     "lng": -96.786,
