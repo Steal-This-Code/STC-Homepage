@@ -66,72 +66,6 @@
     "neighborhood": "Dixon Circle / Sunny Acres"
   },
   {
-    "id": "150878-2025",
-    "lat": 32.7806,
-    "lng": -96.7618,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "park",
-    "hour": 21,
-    "date": "2025-10-19",
-    "neighborhood": null
-  },
-  {
-    "id": "032327-2026",
-    "lat": 32.7617,
-    "lng": -96.7451,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-03-07",
-    "neighborhood": "Dixon Circle / Sunny Acres"
-  },
-  {
-    "id": "069574-2026",
-    "lat": 32.7618,
-    "lng": -96.7452,
-    "offense": "collision inv injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-05-15",
-    "neighborhood": "Dixon Circle / Sunny Acres"
-  },
-  {
-    "id": "067472-2026",
-    "lat": 32.7765,
-    "lng": -96.7506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-05-05",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "143232-2025",
-    "lat": 32.7578,
-    "lng": -96.7406,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 15,
-    "date": "2025-10-04",
-    "neighborhood": null
-  },
-  {
-    "id": "069592-2026",
-    "lat": 32.7757,
-    "lng": -96.7453,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 4g<200g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-05-15",
-    "neighborhood": "Mill City"
-  },
-  {
     "id": "080322-2026",
     "lat": 32.7642,
     "lng": -96.7432,
@@ -143,6 +77,17 @@
     "neighborhood": null
   },
   {
+    "id": "073568-2026",
+    "lat": 32.7737,
+    "lng": -96.7432,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-05-23",
+    "neighborhood": "Frazier"
+  },
+  {
     "id": "070284-2026",
     "lat": 32.7632,
     "lng": -96.7431,
@@ -151,6 +96,17 @@
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2026-05-16",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "007722-2026",
+    "lat": 32.7581,
+    "lng": -96.7401,
+    "offense": "poss marijuana >4oz< or equal 5lbs *drug free zone*",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 15,
+    "date": "2026-01-16",
     "neighborhood": "Dixon Circle / Sunny Acres"
   },
   {
@@ -176,6 +132,17 @@
     "neighborhood": null
   },
   {
+    "id": "088423-2026",
+    "lat": 32.7612,
+    "lng": -96.7448,
+    "offense": "murder",
+    "group": "violent",
+    "premise": "other",
+    "hour": 21,
+    "date": "2026-06-18",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
     "id": "069574-2026",
     "lat": 32.7618,
     "lng": -96.7452,
@@ -185,6 +152,39 @@
     "hour": 17,
     "date": "2026-05-15",
     "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "088867-2026",
+    "lat": 32.7722,
+    "lng": -96.747,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-06-19",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "174940-2025",
+    "lat": 32.769,
+    "lng": -96.7565,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "condominium/townhome residence",
+    "hour": 18,
+    "date": "2025-12-06",
+    "neighborhood": null
+  },
+  {
+    "id": "052835-2026",
+    "lat": 32.7741,
+    "lng": -96.7457,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-04-13",
+    "neighborhood": "Mill City"
   },
   {
     "id": "146801-2025",
@@ -198,142 +198,21 @@
     "neighborhood": "Frazier"
   },
   {
-    "id": "009656-2026",
-    "lat": 32.7746,
-    "lng": -96.7652,
-    "offense": "accidental death (no offense)",
+    "id": "074031-2026",
+    "lat": 32.7722,
+    "lng": -96.7618,
+    "offense": "dwi 1 prev conv",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-01-10",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "012837-2026",
-    "lat": 32.7685,
-    "lng": -96.7543,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 8,
-    "date": "2026-01-28",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "801006-2026",
-    "lat": 32.7752,
-    "lng": -96.7629,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 20,
-    "date": "2026-01-08",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "005701-2026",
-    "lat": 32.7674,
-    "lng": -96.7458,
-    "offense": "deadly conduct discharge firearm (damage)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2026-01-12",
-    "neighborhood": "Bertrand"
-  },
-  {
-    "id": "154342-2025",
-    "lat": 32.7684,
-    "lng": -96.7507,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
     "hour": 19,
-    "date": "2025-10-26",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "068278-2026",
-    "lat": 32.7695,
-    "lng": -96.7384,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-05-11",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "049444-2026",
-    "lat": 32.7778,
-    "lng": -96.7653,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-04-07",
+    "date": "2026-05-23",
     "neighborhood": null
-  },
-  {
-    "id": "015446-2026",
-    "lat": 32.777,
-    "lng": -96.7655,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-02-01",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "808774-2026",
-    "lat": 32.7649,
-    "lng": -96.7464,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-04-24",
-    "neighborhood": "Bertrand"
-  },
-  {
-    "id": "014760-2026",
-    "lat": 32.771,
-    "lng": -96.7541,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 2,
-    "date": "2026-02-01",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "139061-2025",
-    "lat": 32.782,
-    "lng": -96.7624,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "other",
-    "hour": 19,
-    "date": "2025-09-26",
-    "neighborhood": null
-  },
-  {
-    "id": "045951-2026",
-    "lat": 32.7752,
-    "lng": -96.7629,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-04-01",
-    "neighborhood": "Grand Park South"
   },
   {
     "id": "069592-2026",
     "lat": 32.7757,
     "lng": -96.7453,
-    "offense": "possession of drug paraphernalia",
+    "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 18,
@@ -341,80 +220,102 @@
     "neighborhood": "Mill City"
   },
   {
-    "id": "802414-2026",
-    "lat": 32.7789,
-    "lng": -96.7643,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "007241-2026",
+    "lat": 32.7618,
+    "lng": -96.7452,
+    "offense": "poss marijuana <2oz",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-02-01",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-01-15",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "177310-2025",
+    "lat": 32.797,
+    "lng": -96.7421,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "park",
+    "hour": 1,
+    "date": "2025-12-12",
     "neighborhood": null
   },
   {
-    "id": "018211-2026",
-    "lat": 32.7695,
-    "lng": -96.7407,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "id": "004723-2026",
+    "lat": 32.7741,
+    "lng": -96.7445,
+    "offense": "lost property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-02-08",
-    "neighborhood": "Frazier"
+    "hour": 12,
+    "date": "2026-01-08",
+    "neighborhood": "Mill City"
   },
   {
-    "id": "042657-2026",
-    "lat": 32.7598,
-    "lng": -96.7432,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "id": "052835-2026",
+    "lat": 32.7741,
+    "lng": -96.7457,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 19,
+    "date": "2026-04-13",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "140268-2025",
+    "lat": 32.7823,
+    "lng": -96.766,
+    "offense": "poss cont sub pen grp 2-a < or equal 2 oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2025-09-29",
+    "neighborhood": null
+  },
+  {
+    "id": "088759-2026",
+    "lat": 32.7806,
+    "lng": -96.7618,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "park",
+    "hour": 22,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
+    "id": "041734-2026",
+    "lat": 32.7695,
+    "lng": -96.7408,
+    "offense": "burglary of building - forced entry",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-03-26",
-    "neighborhood": "Rose Garden"
-  },
-  {
-    "id": "018211-2026",
-    "lat": 32.7695,
-    "lng": -96.7407,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-02-08",
+    "premise": "single family residence - vacant",
+    "hour": 0,
+    "date": "2026-03-24",
     "neighborhood": "Frazier"
   },
   {
-    "id": "026675-2026",
-    "lat": 32.7834,
-    "lng": -96.7653,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-24",
-    "neighborhood": null
-  },
-  {
-    "id": "005194-2026",
-    "lat": 32.7734,
-    "lng": -96.7619,
-    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "003896-2026",
-    "lat": 32.7711,
-    "lng": -96.7515,
+    "id": "002826-2026",
+    "lat": 32.7744,
+    "lng": -96.7439,
     "offense": "burglary of habitation - forced entry",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
+    "premise": "single family residence - vacant",
+    "hour": 17,
     "date": "2026-01-06",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "001257-2026",
+    "lat": 32.7746,
+    "lng": -96.7542,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-03",
     "neighborhood": "Mill City"
   }
 ]
