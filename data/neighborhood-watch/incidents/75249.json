@@ -1,25 +1,14 @@
 [
   {
-    "id": "088440-2026",
-    "lat": 32.6477,
-    "lng": -96.9436,
-    "offense": "collision inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-06-18",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "079089-2026",
-    "lat": 32.6228,
-    "lng": -96.9452,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-06-01",
-    "neighborhood": "Woods-Sugarberry"
+    "id": "162211-2025",
+    "lat": 32.6573,
+    "lng": -96.9658,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2025-11-10",
+    "neighborhood": null
   },
   {
     "id": "088250-2026",
@@ -33,14 +22,58 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "182621-2025",
-    "lat": 32.6391,
-    "lng": -96.9526,
-    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "023611-2026",
+    "lat": 32.6288,
+    "lng": -96.9494,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2025-12-22",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-18",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "820556-2025",
+    "lat": 32.6531,
+    "lng": -96.9443,
+    "offense": "accident inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-03",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "161212-2025",
+    "lat": 32.6248,
+    "lng": -96.9503,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-11-09",
     "neighborhood": "Woods-Sugarberry"
   },
   {
@@ -53,5 +86,16 @@
     "hour": 6,
     "date": "2026-03-19",
     "neighborhood": null
+  },
+  {
+    "id": "009789-2026",
+    "lat": 32.657,
+    "lng": -96.9477,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-19",
+    "neighborhood": "Summit Parc"
   }
 ]

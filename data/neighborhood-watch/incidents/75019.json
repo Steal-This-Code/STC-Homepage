@@ -1,13 +1,13 @@
 [
   {
-    "id": "812257-2026",
-    "lat": 32.9284,
-    "lng": -96.9761,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 9,
-    "date": "2026-05-02",
-    "neighborhood": null
+    "id": "012375-2026",
+    "lat": 32.6862,
+    "lng": -96.5894,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "business office",
+    "hour": 23,
+    "date": "2026-01-26",
+    "neighborhood": "Kleberg"
   }
 ]

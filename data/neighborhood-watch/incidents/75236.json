@@ -1,46 +1,68 @@
 [
   {
-    "id": "156818-2025",
-    "lat": 32.6976,
-    "lng": -96.8999,
-    "offense": "traf vio -duty on strike fix/hwy landscape < $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-10-31",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "070281-2026",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "148235-2025",
-    "lat": 32.6681,
-    "lng": -96.8912,
+    "id": "176874-2025",
+    "lat": 32.6877,
+    "lng": -96.8914,
     "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "020055-2026",
-    "lat": 32.6949,
-    "lng": -96.8937,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
     "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 6,
-    "date": "2026-02-12",
+    "date": "2025-12-11",
+    "neighborhood": null
+  },
+  {
+    "id": "802534-2026",
+    "lat": 32.6934,
+    "lng": -96.8915,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-02-02",
+    "neighborhood": null
+  },
+  {
+    "id": "039322-2026",
+    "lat": 32.6953,
+    "lng": -96.9014,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-03-20",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "801158-2026",
+    "lat": 32.6667,
+    "lng": -96.9409,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 2,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "072104-2026",
+    "lat": 32.6669,
+    "lng": -96.89,
+    "offense": "attack by dog causes bodily injury",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
+    "id": "009285-2026",
+    "lat": 32.6669,
+    "lng": -96.89,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 13,
+    "date": "2026-01-18",
     "neighborhood": null
   },
   {
@@ -77,14 +99,47 @@
     "neighborhood": null
   },
   {
-    "id": "045441-2026",
-    "lat": 32.687,
-    "lng": -96.9003,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2025-09-05",
+    "neighborhood": null
+  },
+  {
+    "id": "013732-2026",
+    "lat": 32.6742,
+    "lng": -96.9659,
+    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
     "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-03-30",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-01-25",
+    "neighborhood": null
+  },
+  {
+    "id": "015477-2026",
+    "lat": 32.6681,
+    "lng": -96.8912,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "043239-2026",
+    "lat": 32.665,
+    "lng": -96.9391,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2026-03-27",
     "neighborhood": null
   }
 ]
