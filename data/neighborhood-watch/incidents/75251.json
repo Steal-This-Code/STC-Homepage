@@ -22,6 +22,28 @@
     "neighborhood": null
   },
   {
+    "id": "088815-2026",
+    "lat": 32.925,
+    "lng": -96.77,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-06-19",
+    "neighborhood": "Valley View"
+  },
+  {
+    "id": "088449-2026",
+    "lat": 32.9249,
+    "lng": -96.767,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
     "id": "154696-2025",
     "lat": 32.9185,
     "lng": -96.7706,
@@ -30,28 +52,6 @@
     "premise": "parking lot (all others)",
     "hour": 21,
     "date": "2025-10-26",
-    "neighborhood": null
-  },
-  {
-    "id": "086080-2026",
-    "lat": 32.9226,
-    "lng": -96.7788,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "religious institution",
-    "hour": 15,
-    "date": "2026-06-14",
-    "neighborhood": null
-  },
-  {
-    "id": "079832-2026",
-    "lat": 32.9224,
-    "lng": -96.7679,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-02-26",
     "neighborhood": null
   },
   {

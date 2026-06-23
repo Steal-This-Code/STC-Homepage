@@ -33,6 +33,94 @@
     "neighborhood": null
   },
   {
+    "id": "036776-2026",
+    "lat": 32.7818,
+    "lng": -96.7501,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "146965-2025",
+    "lat": 32.7833,
+    "lng": -96.7614,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2025-10-11",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "147744-2025",
+    "lat": 32.7895,
+    "lng": -96.7374,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2025-10-13",
+    "neighborhood": "Owenwood"
+  },
+  {
+    "id": "103616-2025",
+    "lat": 32.7958,
+    "lng": -96.7513,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2025-07-21",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "167447-2025",
+    "lat": 32.7813,
+    "lng": -96.7375,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "other",
+    "hour": 7,
+    "date": "2025-11-21",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "087136-2026",
+    "lat": 32.798,
+    "lng": -96.746,
+    "offense": "disorderly conduct discharge/display firearm (no assault)",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-06-16",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "078374-2026",
+    "lat": 32.793,
+    "lng": -96.7424,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "173487-2025",
+    "lat": 32.781,
+    "lng": -96.7373,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-12-04",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
     "id": "088063-2026",
     "lat": 32.7859,
     "lng": -96.755,
@@ -97,72 +185,6 @@
     "hour": 13,
     "date": "2026-05-14",
     "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "078374-2026",
-    "lat": 32.793,
-    "lng": -96.7424,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "park",
-    "hour": 18,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "089924-2025",
-    "lat": 32.8062,
-    "lng": -96.7358,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 9,
-    "date": "2025-06-24",
-    "neighborhood": "Hollywood Heights / Santa Monica"
-  },
-  {
-    "id": "824190-2025",
-    "lat": 32.7837,
-    "lng": -96.7352,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "005687-2026",
-    "lat": 32.7827,
-    "lng": -96.7307,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 23,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "146965-2025",
-    "lat": 32.7833,
-    "lng": -96.7614,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2025-10-11",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "098441-2025",
-    "lat": 32.793,
-    "lng": -96.7582,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2025-07-11",
-    "neighborhood": "Mount Auburn"
   },
   {
     "id": "140783-2025",

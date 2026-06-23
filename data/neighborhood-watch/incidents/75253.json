@@ -44,6 +44,28 @@
     "neighborhood": "Kleberg"
   },
   {
+    "id": "116311-2025",
+    "lat": 32.7033,
+    "lng": -96.5855,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2025-08-13",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "003490-2026",
+    "lat": 32.6892,
+    "lng": -96.5632,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "054139-2026",
     "lat": 32.6736,
     "lng": -96.6017,
@@ -63,28 +85,6 @@
     "premise": "single family residence - occupied",
     "hour": 16,
     "date": "2026-01-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "010970-2026",
-    "lat": 32.6966,
-    "lng": -96.5674,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-22",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "086398-2026",
-    "lat": 32.6888,
-    "lng": -96.587,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 4,
-    "date": "2026-06-15",
     "neighborhood": "Kleberg"
   },
   {

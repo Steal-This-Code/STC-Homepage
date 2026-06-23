@@ -22,6 +22,17 @@
     "neighborhood": "Peak's Addition"
   },
   {
+    "id": "032978-2026",
+    "lat": 32.7949,
+    "lng": -96.7757,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 4,
+    "date": "2026-03-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "812208-2026",
     "lat": 32.7914,
     "lng": -96.7707,
@@ -30,28 +41,6 @@
     "premise": "business office",
     "hour": 22,
     "date": "2026-05-20",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "079988-2026",
-    "lat": 32.7998,
-    "lng": -96.7706,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-06-03",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "015672-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
   },
   {
