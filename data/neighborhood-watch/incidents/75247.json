@@ -11,80 +11,14 @@
     "neighborhood": null
   },
   {
-    "id": "100266-2025",
-    "lat": 32.8182,
-    "lng": -96.8702,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-07-14",
-    "neighborhood": null
-  },
-  {
-    "id": "826869-2025",
-    "lat": 32.8319,
-    "lng": -96.8748,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 19,
-    "date": "2025-12-26",
-    "neighborhood": null
-  },
-  {
-    "id": "106379-2025",
-    "lat": 32.8192,
-    "lng": -96.8645,
-    "offense": "robbery of individual",
+    "id": "128241-2025",
+    "lat": 32.8254,
+    "lng": -96.8847,
+    "offense": "assault -bodily injury only",
     "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2025-07-26",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "147617-2025",
-    "lat": 32.8286,
-    "lng": -96.8719,
-    "offense": "hours of operation of sex orient busn",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 2,
-    "date": "2025-10-10",
-    "neighborhood": null
-  },
-  {
-    "id": "166509-2025",
-    "lat": 32.8264,
-    "lng": -96.8809,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-11-13",
-    "neighborhood": null
-  },
-  {
-    "id": "088862-2026",
-    "lat": 32.8289,
-    "lng": -96.8749,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-06-19",
-    "neighborhood": null
-  },
-  {
-    "id": "153732-2025",
-    "lat": 32.8266,
-    "lng": -96.8732,
-    "offense": "motor vehicle theft",
-    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-10-24",
+    "hour": 22,
+    "date": "2025-09-05",
     "neighborhood": null
   },
   {
@@ -96,28 +30,6 @@
     "premise": "parking (business)",
     "hour": 3,
     "date": "2026-05-06",
-    "neighborhood": null
-  },
-  {
-    "id": "088159-2026",
-    "lat": 32.8114,
-    "lng": -96.8583,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 4,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "166509-2025",
-    "lat": 32.8264,
-    "lng": -96.8809,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-11-13",
     "neighborhood": null
   },
   {
@@ -143,6 +55,17 @@
     "neighborhood": null
   },
   {
+    "id": "134326-2025",
+    "lat": 32.8314,
+    "lng": -96.8729,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2025-09-17",
+    "neighborhood": null
+  },
+  {
     "id": "106379-2025",
     "lat": 32.8192,
     "lng": -96.8645,
@@ -152,28 +75,6 @@
     "hour": 11,
     "date": "2025-07-26",
     "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "006898-2026",
-    "lat": 32.8057,
-    "lng": -96.89,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "103128-2025",
-    "lat": 32.8226,
-    "lng": -96.8768,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2025-07-19",
-    "neighborhood": null
   },
   {
     "id": "119761-2025",
@@ -286,47 +187,14 @@
     "neighborhood": null
   },
   {
-    "id": "103128-2025",
-    "lat": 32.8226,
-    "lng": -96.8768,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2025-07-19",
-    "neighborhood": null
-  },
-  {
-    "id": "158642-2025",
-    "lat": 32.8195,
-    "lng": -96.8679,
-    "offense": "criminal trespass affidavit",
+    "id": "000275-2026",
+    "lat": 32.8249,
+    "lng": -96.8699,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2025-11-04",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "026848-2026",
-    "lat": 32.8141,
-    "lng": -96.8653,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 18,
-    "date": "2026-02-23",
-    "neighborhood": "Arlington Park"
-  },
-  {
-    "id": "006832-2026",
-    "lat": 32.8202,
-    "lng": -96.8661,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-01-14",
-    "neighborhood": "Southwestern Medical District"
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-01-01",
+    "neighborhood": null
   }
 ]

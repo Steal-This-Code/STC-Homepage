@@ -1,49 +1,5 @@
 [
   {
-    "id": "180518-2025",
-    "lat": 32.9173,
-    "lng": -96.7731,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2025-12-15",
-    "neighborhood": null
-  },
-  {
-    "id": "030411-2026",
-    "lat": 32.9222,
-    "lng": -96.7793,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-03-03",
-    "neighborhood": null
-  },
-  {
-    "id": "088815-2026",
-    "lat": 32.925,
-    "lng": -96.77,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-06-19",
-    "neighborhood": "Valley View"
-  },
-  {
-    "id": "088449-2026",
-    "lat": 32.9249,
-    "lng": -96.767,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
     "id": "154696-2025",
     "lat": 32.9185,
     "lng": -96.7706,
@@ -52,17 +8,6 @@
     "premise": "parking lot (all others)",
     "hour": 21,
     "date": "2025-10-26",
-    "neighborhood": null
-  },
-  {
-    "id": "088485-2026",
-    "lat": 32.9224,
-    "lng": -96.7679,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 22,
-    "date": "2026-06-18",
     "neighborhood": null
   },
   {
@@ -85,6 +30,17 @@
     "premise": "parking lot (all others)",
     "hour": 19,
     "date": "2026-03-14",
+    "neighborhood": null
+  },
+  {
+    "id": "004931-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 20,
+    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

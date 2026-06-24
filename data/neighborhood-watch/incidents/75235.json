@@ -1,190 +1,14 @@
 [
   {
-    "id": "823880-2025",
-    "lat": 32.8337,
-    "lng": -96.8359,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2025-11-14",
-    "neighborhood": null
-  },
-  {
-    "id": "133342-2025",
-    "lat": 32.8087,
-    "lng": -96.8324,
-    "offense": "robbery of business",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 23,
-    "date": "2025-09-15",
-    "neighborhood": null
-  },
-  {
-    "id": "808197-2026",
-    "lat": 32.8239,
-    "lng": -96.835,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-04-16",
-    "neighborhood": null
-  },
-  {
-    "id": "104375-2025",
-    "lat": 32.8408,
-    "lng": -96.8482,
-    "offense": "false alarm or report",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2025-07-22",
-    "neighborhood": null
-  },
-  {
-    "id": "010952-2026",
-    "lat": 32.8257,
-    "lng": -96.8646,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 19,
-    "date": "2026-01-22",
-    "neighborhood": null
-  },
-  {
-    "id": "825477-2025",
-    "lat": 32.8142,
-    "lng": -96.8296,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 18,
-    "date": "2025-12-06",
-    "neighborhood": null
-  },
-  {
-    "id": "810084-2026",
-    "lat": 32.809,
-    "lng": -96.8375,
-    "offense": "publish/threat to publish intimate visual material (extortion)",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-05-15",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "072362-2026",
-    "lat": 32.8424,
-    "lng": -96.8474,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 19,
-    "date": "2026-05-20",
-    "neighborhood": null
-  },
-  {
-    "id": "003202-2026",
-    "lat": 32.8231,
-    "lng": -96.8359,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-01-07",
-    "neighborhood": null
-  },
-  {
-    "id": "181418-2025",
-    "lat": 32.8238,
-    "lng": -96.8257,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-12-19",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "072041-2026",
-    "lat": 32.8408,
-    "lng": -96.8482,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 8,
-    "date": "2026-05-20",
-    "neighborhood": null
-  },
-  {
-    "id": "182387-2025",
-    "lat": 32.8431,
-    "lng": -96.8472,
+    "id": "804150-2026",
+    "lat": 32.8526,
+    "lng": -96.8528,
     "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-18",
+    "premise": "airport - love field",
+    "hour": 12,
+    "date": "2025-12-08",
     "neighborhood": null
-  },
-  {
-    "id": "812241-2026",
-    "lat": 32.8059,
-    "lng": -96.8298,
-    "offense": "accident inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-09",
-    "neighborhood": null
-  },
-  {
-    "id": "183588-2025",
-    "lat": 32.8122,
-    "lng": -96.8358,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2025-12-25",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "182580-2025",
-    "lat": 32.8243,
-    "lng": -96.8533,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 15,
-    "date": "2025-12-22",
-    "neighborhood": null
-  },
-  {
-    "id": "044103-2026",
-    "lat": 32.8192,
-    "lng": -96.8339,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-03-28",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "066456-2026",
-    "lat": 32.809,
-    "lng": -96.8375,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "medical facility",
-    "hour": 15,
-    "date": "2026-05-08",
-    "neighborhood": "Southwestern Medical District"
   },
   {
     "id": "130944-2025",
@@ -297,17 +121,6 @@
     "neighborhood": null
   },
   {
-    "id": "812224-2026",
-    "lat": 32.817,
-    "lng": -96.8599,
-    "offense": "theft of service > or equal $2,500 <$30k pc31.04(e4)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 9,
-    "date": "2026-04-23",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
     "id": "130944-2025",
     "lat": 32.8248,
     "lng": -96.8405,
@@ -352,14 +165,14 @@
     "neighborhood": "Love Field"
   },
   {
-    "id": "023355-2026",
-    "lat": 32.8279,
-    "lng": -96.8526,
+    "id": "176262-2025",
+    "lat": 32.8262,
+    "lng": -96.8477,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 19,
-    "date": "2026-02-17",
+    "premise": "hotel/motel/etc",
+    "hour": 18,
+    "date": "2025-12-03",
     "neighborhood": "Love Field"
   },
   {
@@ -495,17 +308,6 @@
     "neighborhood": "Oak Lawn"
   },
   {
-    "id": "088277-2026",
-    "lat": 32.8226,
-    "lng": -96.8537,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
     "id": "008247-2026",
     "lat": 32.8259,
     "lng": -96.8418,
@@ -548,93 +350,5 @@
     "hour": 18,
     "date": "2026-06-18",
     "neighborhood": "Love Field"
-  },
-  {
-    "id": "007415-2026",
-    "lat": 32.8108,
-    "lng": -96.832,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 15,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "163583-2025",
-    "lat": 32.8233,
-    "lng": -96.8531,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2025-11-14",
-    "neighborhood": null
-  },
-  {
-    "id": "802354-2026",
-    "lat": 32.829,
-    "lng": -96.8441,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 7,
-    "date": "2026-02-03",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "044104-2026",
-    "lat": 32.8227,
-    "lng": -96.8585,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-03-27",
-    "neighborhood": null
-  },
-  {
-    "id": "809510-2026",
-    "lat": 32.8131,
-    "lng": -96.8308,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "019402-2026",
-    "lat": 32.8337,
-    "lng": -96.8359,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 12,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "007539-2026",
-    "lat": 32.827,
-    "lng": -96.8493,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-01-15",
-    "neighborhood": "Love Field"
-  },
-  {
-    "id": "802325-2026",
-    "lat": 32.8195,
-    "lng": -96.8402,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-01-15",
-    "neighborhood": "Southwestern Medical District"
   }
 ]

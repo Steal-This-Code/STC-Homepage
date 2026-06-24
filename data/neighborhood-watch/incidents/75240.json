@@ -1,203 +1,5 @@
 [
   {
-    "id": "182987-2025",
-    "lat": 32.9315,
-    "lng": -96.8161,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2025-12-23",
-    "neighborhood": null
-  },
-  {
-    "id": "812207-2026",
-    "lat": 32.9269,
-    "lng": -96.8018,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 5,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "812225-2026",
-    "lat": 32.9336,
-    "lng": -96.8045,
-    "offense": "theft of service > or equal $300k pc31.04(e7)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2025-08-05",
-    "neighborhood": null
-  },
-  {
-    "id": "055647-2026",
-    "lat": 32.9349,
-    "lng": -96.8063,
-    "offense": "vio bond/protective order",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-04-19",
-    "neighborhood": null
-  },
-  {
-    "id": "000608-2026",
-    "lat": 32.9282,
-    "lng": -96.7623,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2026-01-02",
-    "neighborhood": null
-  },
-  {
-    "id": "820590-2025",
-    "lat": 32.9304,
-    "lng": -96.8206,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2025-10-04",
-    "neighborhood": null
-  },
-  {
-    "id": "810214-2026",
-    "lat": 32.9244,
-    "lng": -96.7954,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-15",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "800763-2026",
-    "lat": 32.9326,
-    "lng": -96.804,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "002490-2026",
-    "lat": 32.9277,
-    "lng": -96.7654,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "083408-2026",
-    "lat": 32.9294,
-    "lng": -96.7688,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-09",
-    "neighborhood": null
-  },
-  {
-    "id": "009108-2026",
-    "lat": 32.9327,
-    "lng": -96.7612,
-    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-01-19",
-    "neighborhood": null
-  },
-  {
-    "id": "005505-2026",
-    "lat": 32.937,
-    "lng": -96.7559,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "088306-2026",
-    "lat": 32.9254,
-    "lng": -96.7775,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-06-18",
-    "neighborhood": "Valley View"
-  },
-  {
-    "id": "821159-2025",
-    "lat": 32.9377,
-    "lng": -96.8179,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2025-10-13",
-    "neighborhood": null
-  },
-  {
-    "id": "005364-2026",
-    "lat": 32.9326,
-    "lng": -96.8107,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "088607-2026",
-    "lat": 32.9357,
-    "lng": -96.7549,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-06-19",
-    "neighborhood": null
-  },
-  {
-    "id": "071005-2026",
-    "lat": 32.9247,
-    "lng": -96.7813,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-05-18",
-    "neighborhood": "Valley View"
-  },
-  {
-    "id": "071608-2026",
-    "lat": 32.9389,
-    "lng": -96.7633,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 9,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
     "id": "067019-2026",
     "lat": 32.9291,
     "lng": -96.8162,
@@ -330,28 +132,6 @@
     "neighborhood": null
   },
   {
-    "id": "008217-2026",
-    "lat": 32.9382,
-    "lng": -96.8188,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 13,
-    "date": "2026-01-17",
-    "neighborhood": null
-  },
-  {
-    "id": "005828-2026",
-    "lat": 32.9357,
-    "lng": -96.7568,
-    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
     "id": "007639-2026",
     "lat": 32.9377,
     "lng": -96.8179,
@@ -451,17 +231,6 @@
     "neighborhood": null
   },
   {
-    "id": "088218-2026",
-    "lat": 32.9275,
-    "lng": -96.7642,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
     "id": "805746-2026",
     "lat": 32.9371,
     "lng": -96.8202,
@@ -473,80 +242,14 @@
     "neighborhood": null
   },
   {
-    "id": "148527-2025",
-    "lat": 32.9347,
-    "lng": -96.757,
-    "offense": "motor vehicle theft",
+    "id": "001563-2026",
+    "lat": 32.9372,
+    "lng": -96.8156,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "808946-2026",
-    "lat": 32.9371,
-    "lng": -96.8202,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
-    "id": "821782-2025",
-    "lat": 32.9381,
-    "lng": -96.7649,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2025-10-23",
-    "neighborhood": null
-  },
-  {
-    "id": "043020-2026",
-    "lat": 32.9299,
-    "lng": -96.761,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "070873-2026",
-    "lat": 32.9315,
-    "lng": -96.8145,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "park",
-    "hour": 22,
-    "date": "2026-05-17",
-    "neighborhood": null
-  },
-  {
-    "id": "816661-2025",
-    "lat": 32.9381,
-    "lng": -96.7649,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2025-08-15",
-    "neighborhood": null
-  },
-  {
-    "id": "179422-2025",
-    "lat": 32.9371,
-    "lng": -96.8202,
-    "offense": "theft by deception (fraud) >or equal $30k <$150k",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2025-12-01",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-26",
     "neighborhood": null
   }
 ]
