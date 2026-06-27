@@ -319,102 +319,14 @@
     "neighborhood": "Ledbetter"
   },
   {
-    "id": "140629-2025",
-    "lat": 32.7707,
-    "lng": -96.9136,
-    "offense": "motor vehicle theft - preliminary invest",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-09-26",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "078455-2026",
-    "lat": 32.7846,
-    "lng": -96.8329,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 3,
-    "date": "2026-05-31",
-    "neighborhood": "La Bajada"
-  },
-  {
-    "id": "081651-2026",
-    "lat": 32.781,
-    "lng": -96.8488,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-06-06",
-    "neighborhood": "Los Altos"
-  },
-  {
-    "id": "047844-2026",
-    "lat": 32.7785,
-    "lng": -96.8989,
-    "offense": "poss marijuana <2oz",
+    "id": "147812-2025",
+    "lat": 32.7855,
+    "lng": -96.8486,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-04-04",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "066279-2026",
-    "lat": 32.7812,
-    "lng": -96.8922,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-09",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "181575-2025",
-    "lat": 32.7672,
-    "lng": -96.8957,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-12-20",
-    "neighborhood": null
-  },
-  {
-    "id": "079692-2026",
-    "lat": 32.7711,
-    "lng": -96.9082,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "other",
-    "hour": 4,
-    "date": "2026-06-03",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "079320-2026",
-    "lat": 32.7695,
-    "lng": -96.8654,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 15,
-    "date": "2026-05-29",
-    "neighborhood": null
-  },
-  {
-    "id": "007489-2026",
-    "lat": 32.7812,
-    "lng": -96.8378,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 2,
-    "date": "2026-01-16",
+    "hour": 10,
+    "date": "2025-10-13",
     "neighborhood": "Los Altos"
   },
   {

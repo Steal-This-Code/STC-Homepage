@@ -308,17 +308,6 @@
     "neighborhood": "Urbandale"
   },
   {
-    "id": "176588-2025",
-    "lat": 32.7827,
-    "lng": -96.7111,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-09",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
     "id": "080009-2026",
     "lat": 32.7829,
     "lng": -96.711,
@@ -602,83 +591,6 @@
     "premise": "other",
     "hour": 4,
     "date": "2026-04-21",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "057333-2026",
-    "lat": 32.7843,
-    "lng": -96.6842,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-04-22",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "138836-2025",
-    "lat": 32.7633,
-    "lng": -96.6536,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-09-26",
-    "neighborhood": "Independence Park"
-  },
-  {
-    "id": "006698-2026",
-    "lat": 32.7509,
-    "lng": -96.6569,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-01-14",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "005281-2026",
-    "lat": 32.7817,
-    "lng": -96.7095,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-10",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "069362-2026",
-    "lat": 32.7822,
-    "lng": -96.6842,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-14",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "004651-2026",
-    "lat": 32.7632,
-    "lng": -96.6456,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 18,
-    "date": "2026-01-07",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "033770-2026",
-    "lat": 32.7655,
-    "lng": -96.6647,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-03-09",
     "neighborhood": "Pleasant Mound"
   },
   {

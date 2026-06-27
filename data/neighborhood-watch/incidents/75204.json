@@ -1,16 +1,5 @@
 [
   {
-    "id": "812505-2026",
-    "lat": 32.8088,
-    "lng": -96.7977,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 12,
-    "date": "2026-05-13",
-    "neighborhood": "Cityplace"
-  },
-  {
     "id": "811698-2026",
     "lat": 32.7959,
     "lng": -96.7897,
@@ -242,17 +231,6 @@
     "neighborhood": null
   },
   {
-    "id": "084153-2026",
-    "lat": 32.799,
-    "lng": -96.7962,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-10",
-    "neighborhood": "State Thomas"
-  },
-  {
     "id": "063871-2026",
     "lat": 32.7996,
     "lng": -96.7791,
@@ -372,17 +350,6 @@
     "hour": 4,
     "date": "2025-07-23",
     "neighborhood": null
-  },
-  {
-    "id": "811091-2026",
-    "lat": 32.808,
-    "lng": -96.7961,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-05-27",
-    "neighborhood": "Cityplace"
   },
   {
     "id": "066841-2026",
@@ -748,257 +715,26 @@
     "neighborhood": "Oak Lawn"
   },
   {
-    "id": "018653-2026",
-    "lat": 32.7859,
-    "lng": -96.7903,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2026-02-08",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "064629-2026",
-    "lat": 32.8035,
-    "lng": -96.7898,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-05-06",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "007143-2026",
-    "lat": 32.8092,
-    "lng": -96.7953,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 6,
-    "date": "2026-01-12",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "075179-2026",
-    "lat": 32.7894,
-    "lng": -96.7903,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-05-25",
-    "neighborhood": "Bryan Place"
-  },
-  {
-    "id": "013934-2026",
-    "lat": 32.7991,
-    "lng": -96.7963,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-17",
-    "neighborhood": "State Thomas"
-  },
-  {
-    "id": "801171-2026",
-    "lat": 32.8129,
-    "lng": -96.7854,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-14",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "806907-2026",
-    "lat": 32.7996,
-    "lng": -96.7842,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "067707-2026",
-    "lat": 32.8032,
-    "lng": -96.7773,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-05-11",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "071729-2026",
-    "lat": 32.7986,
-    "lng": -96.7968,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 22,
-    "date": "2026-05-18",
-    "neighborhood": "State Thomas"
-  },
-  {
-    "id": "095194-2025",
-    "lat": 32.8004,
-    "lng": -96.7935,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-07-04",
-    "neighborhood": "Uptown"
-  },
-  {
-    "id": "149698-2025",
-    "lat": 32.7977,
-    "lng": -96.775,
+    "id": "800610-2026",
+    "lat": 32.7963,
+    "lng": -96.7881,
     "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
     "group": "property",
-    "premise": "apartment residence",
-    "hour": 7,
-    "date": "2025-10-06",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "099598-2025",
-    "lat": 32.7977,
-    "lng": -96.7794,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2025-07-12",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "802311-2026",
-    "lat": 32.7998,
-    "lng": -96.7741,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "condominium/townhome residence",
-    "hour": 16,
-    "date": "2026-01-21",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "014916-2026",
-    "lat": 32.8131,
-    "lng": -96.7895,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 23,
-    "date": "2026-01-26",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "015937-2026",
-    "lat": 32.808,
-    "lng": -96.7961,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-02-02",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "183284-2025",
-    "lat": 32.7977,
-    "lng": -96.7794,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-12-23",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "823896-2025",
-    "lat": 32.8024,
-    "lng": -96.7851,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2025-11-18",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "102282-2025",
-    "lat": 32.7968,
-    "lng": -96.7955,
-    "offense": "cruelty to non-livestock anmls fail prov/abdn/trnspt/bi/ovwk",
-    "group": "other",
     "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2025-07-11",
-    "neighborhood": "State Thomas"
-  },
-  {
-    "id": "015378-2026",
-    "lat": 32.7974,
-    "lng": -96.7868,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-02-01",
-    "neighborhood": null
-  },
-  {
-    "id": "069640-2026",
-    "lat": 32.801,
-    "lng": -96.8057,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 12,
-    "date": "2026-05-07",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "185780-2025",
-    "lat": 32.7986,
-    "lng": -96.778,
-    "offense": "robbery of business",
-    "group": "violent",
-    "premise": "department/discount store",
-    "hour": 19,
-    "date": "2025-12-29",
-    "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "800935-2026",
-    "lat": 32.8066,
-    "lng": -96.79,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
     "hour": 14,
-    "date": "2026-01-13",
-    "neighborhood": "Cityplace"
+    "date": "2026-01-07",
+    "neighborhood": "Bryan Place"
   },
   {
-    "id": "015941-2026",
-    "lat": 32.7947,
-    "lng": -96.7883,
+    "id": "000658-2026",
+    "lat": 32.807,
+    "lng": -96.7968,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "highway, street, alley etc",
     "hour": 23,
-    "date": "2026-02-01",
-    "neighborhood": "Bryan Place"
+    "date": "2025-12-23",
+    "neighborhood": "Cityplace"
   },
   {
     "id": "805844-2026",

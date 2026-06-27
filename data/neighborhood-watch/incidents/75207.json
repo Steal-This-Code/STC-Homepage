@@ -473,81 +473,26 @@
     "neighborhood": null
   },
   {
-    "id": "044503-2026",
-    "lat": 32.7907,
-    "lng": -96.8146,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 22,
-    "date": "2026-03-27",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "801106-2026",
-    "lat": 32.7917,
-    "lng": -96.8149,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
+    "id": "099216-2025",
+    "lat": 32.7701,
+    "lng": -96.8108,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "trails",
     "hour": 20,
-    "date": "2026-01-14",
-    "neighborhood": "Design District"
+    "date": "2025-07-12",
+    "neighborhood": null
   },
   {
-    "id": "014128-2026",
-    "lat": 32.7961,
-    "lng": -96.8196,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-01-30",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "006755-2026",
-    "lat": 32.7892,
-    "lng": -96.8235,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-01-14",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "014064-2026",
-    "lat": 32.7961,
-    "lng": -96.8196,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-01-30",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "161319-2025",
-    "lat": 32.797,
-    "lng": -96.8209,
+    "id": "002401-2026",
+    "lat": 32.8017,
+    "lng": -96.8425,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-11-08",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "027688-2026",
-    "lat": 32.7644,
-    "lng": -96.8018,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 19,
-    "date": "2026-02-26",
-    "neighborhood": "Cedars"
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-01-05",
+    "neighborhood": null
   },
   {
     "id": "003279-2026",

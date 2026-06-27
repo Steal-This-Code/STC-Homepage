@@ -220,114 +220,15 @@
     "neighborhood": "Chalfont Place"
   },
   {
-    "id": "021411-2026",
-    "lat": 32.9558,
-    "lng": -96.8184,
-    "offense": "terroristic threat fear imminent sbi",
+    "id": "800728-2026",
+    "lat": 32.9596,
+    "lng": -96.7852,
+    "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-02-14",
-    "neighborhood": null
-  },
-  {
-    "id": "180465-2025",
-    "lat": 32.9614,
-    "lng": -96.8183,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 6,
-    "date": "2025-12-18",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "808372-2026",
-    "lat": 32.9792,
-    "lng": -96.7698,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 20,
-    "date": "2026-04-14",
-    "neighborhood": null
-  },
-  {
-    "id": "808638-2026",
-    "lat": 32.963,
-    "lng": -96.8057,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 11,
-    "date": "2026-01-15",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "049201-2026",
-    "lat": 32.9616,
-    "lng": -96.7908,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-04-06",
-    "neighborhood": null
-  },
-  {
-    "id": "032771-2026",
-    "lat": 32.956,
-    "lng": -96.8192,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 1,
-    "date": "2026-03-08",
-    "neighborhood": null
-  },
-  {
-    "id": "802948-2026",
-    "lat": 32.9651,
-    "lng": -96.8202,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-02-05",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "027336-2026",
-    "lat": 32.9685,
-    "lng": -96.8211,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-02-26",
-    "neighborhood": null
-  },
-  {
-    "id": "800936-2026",
-    "lat": 32.981,
-    "lng": -96.7695,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "812623-2026",
-    "lat": 32.9845,
-    "lng": -96.8036,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 17,
-    "date": "2026-06-07",
-    "neighborhood": null
+    "premise": "single family residence - vacant",
+    "hour": 2,
+    "date": "2026-01-10",
+    "neighborhood": "Prestonwood Estates East"
   },
   {
     "id": "002725-2026",

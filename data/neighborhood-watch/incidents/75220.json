@@ -429,17 +429,6 @@
     "neighborhood": null
   },
   {
-    "id": "095723-2025",
-    "lat": 32.8614,
-    "lng": -96.895,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 21,
-    "date": "2025-07-05",
-    "neighborhood": null
-  },
-  {
     "id": "097502-2025",
     "lat": 32.8614,
     "lng": -96.8651,
@@ -671,158 +660,15 @@
     "neighborhood": "Bachman"
   },
   {
-    "id": "037648-2026",
-    "lat": 32.858,
-    "lng": -96.8646,
-    "offense": "terroristic threat fear imminent sbi",
+    "id": "148168-2025",
+    "lat": 32.8656,
+    "lng": -96.8643,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-03-17",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "027344-2026",
-    "lat": 32.8775,
-    "lng": -96.8966,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2026-02-26",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "030529-2026",
-    "lat": 32.8659,
-    "lng": -96.9018,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "business office",
-    "hour": 4,
-    "date": "2026-03-04",
-    "neighborhood": null
-  },
-  {
-    "id": "005891-2026",
-    "lat": 32.8609,
-    "lng": -96.8574,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-12",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "803543-2026",
-    "lat": 32.8573,
-    "lng": -96.8947,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2026-02-15",
-    "neighborhood": null
-  },
-  {
-    "id": "810764-2026",
-    "lat": 32.8622,
-    "lng": -96.8544,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 8,
-    "date": "2026-05-23",
-    "neighborhood": "Midway Hollow"
-  },
-  {
-    "id": "012777-2026",
-    "lat": 32.8646,
-    "lng": -96.901,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 4,
-    "date": "2026-01-28",
-    "neighborhood": null
-  },
-  {
-    "id": "012722-2026",
-    "lat": 32.8745,
-    "lng": -96.8735,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-27",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "026487-2026",
-    "lat": 32.8585,
-    "lng": -96.8743,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
     "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-02-24",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "025353-2026",
-    "lat": 32.8627,
-    "lng": -96.8986,
-    "offense": "robbery of individual - preliminary investigation",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-22",
-    "neighborhood": null
-  },
-  {
-    "id": "022709-2026",
-    "lat": 32.8731,
-    "lng": -96.9067,
-    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
-    "group": "property",
-    "premise": "industrial/manufacturing",
     "hour": 12,
-    "date": "2026-02-16",
-    "neighborhood": null
-  },
-  {
-    "id": "049259-2026",
-    "lat": 32.8609,
-    "lng": -96.8679,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-04-07",
+    "date": "2025-10-14",
     "neighborhood": "Bachman"
-  },
-  {
-    "id": "106351-2025",
-    "lat": 32.8662,
-    "lng": -96.8528,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2025-07-26",
-    "neighborhood": "Midway Hollow"
-  },
-  {
-    "id": "012777-2026",
-    "lat": 32.8646,
-    "lng": -96.901,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 4,
-    "date": "2026-01-28",
-    "neighborhood": null
   },
   {
     "id": "001554-2026",

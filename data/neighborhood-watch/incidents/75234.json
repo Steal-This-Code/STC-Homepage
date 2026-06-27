@@ -55,28 +55,6 @@
     "neighborhood": null
   },
   {
-    "id": "066057-2026",
-    "lat": 32.9131,
-    "lng": -96.8946,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "rental storage facility",
-    "hour": 10,
-    "date": "2026-05-03",
-    "neighborhood": null
-  },
-  {
-    "id": "050504-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "other",
-    "hour": 17,
-    "date": "2026-04-09",
-    "neighborhood": null
-  },
-  {
     "id": "148093-2025",
     "lat": 32.9095,
     "lng": -96.885,

@@ -163,49 +163,5 @@
     "hour": 22,
     "date": "2026-01-10",
     "neighborhood": null
-  },
-  {
-    "id": "045376-2026",
-    "lat": 32.7136,
-    "lng": -96.8689,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "079569-2026",
-    "lat": 32.6956,
-    "lng": -96.879,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-02",
-    "neighborhood": null
-  },
-  {
-    "id": "018579-2026",
-    "lat": 32.7071,
-    "lng": -96.8749,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-07",
-    "neighborhood": null
-  },
-  {
-    "id": "016284-2026",
-    "lat": 32.7083,
-    "lng": -96.8689,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-02-03",
-    "neighborhood": null
   }
 ]

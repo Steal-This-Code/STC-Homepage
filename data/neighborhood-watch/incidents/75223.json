@@ -231,47 +231,14 @@
     "neighborhood": null
   },
   {
-    "id": "800840-2026",
-    "lat": 32.7832,
-    "lng": -96.748,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "147744-2025",
+    "lat": 32.7895,
+    "lng": -96.7374,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 3,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "002997-2026",
-    "lat": 32.7855,
-    "lng": -96.7383,
-    "offense": "motor vehicle theft",
-    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-06",
+    "hour": 15,
+    "date": "2025-10-13",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "013531-2026",
-    "lat": 32.7937,
-    "lng": -96.7508,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-22",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "075189-2026",
-    "lat": 32.7954,
-    "lng": -96.7571,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 19,
-    "date": "2026-05-25",
-    "neighborhood": "Mount Auburn"
   }
 ]
