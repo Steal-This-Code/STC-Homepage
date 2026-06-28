@@ -1,112 +1,35 @@
 [
   {
-    "id": "004767-2026",
-    "lat": 32.6713,
-    "lng": -96.8557,
-    "offense": "injured person - at home (other than firearm) (no offense)",
+    "id": "092143-2026",
+    "lat": 32.663,
+    "lng": -96.8239,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2026-01-10",
-    "neighborhood": "Elderwood"
-  },
-  {
-    "id": "031514-2026",
-    "lat": 32.676,
-    "lng": -96.8242,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2026-03-05",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "000833-2026",
-    "lat": 32.6378,
-    "lng": -96.857,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
     "premise": "storage facility",
-    "hour": 0,
-    "date": "2025-10-15",
+    "hour": 12,
+    "date": "2026-06-25",
     "neighborhood": null
   },
   {
-    "id": "003666-2026",
-    "lat": 32.6771,
-    "lng": -96.8526,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-01-07",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "004800-2026",
-    "lat": 32.6815,
-    "lng": -96.8429,
-    "offense": "dog bite - injured person",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-01-10",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "003666-2026",
-    "lat": 32.6771,
-    "lng": -96.8526,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-01-07",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "185438-2025",
-    "lat": 32.6791,
-    "lng": -96.8449,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2025-12-29",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "186017-2025",
-    "lat": 32.6547,
-    "lng": -96.8368,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 17,
-    "date": "2025-12-28",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "080452-2026",
-    "lat": 32.6621,
-    "lng": -96.8553,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-04",
-    "neighborhood": null
-  },
-  {
-    "id": "072288-2026",
-    "lat": 32.6627,
-    "lng": -96.8236,
-    "offense": "criminal trespass warning",
+    "id": "812709-2026",
+    "lat": 32.6446,
+    "lng": -96.8562,
+    "offense": "interfere w/ child custody",
     "group": "other",
     "premise": "gas or service station",
-    "hour": 17,
-    "date": "2026-05-20",
+    "hour": 18,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "094227-2025",
+    "lat": 32.687,
+    "lng": -96.8252,
+    "offense": "uumv - unauth use motor vehicle (poss/operate)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2025-07-03",
     "neighborhood": null
   },
   {
@@ -121,6 +44,17 @@
     "neighborhood": null
   },
   {
+    "id": "023044-2026",
+    "lat": 32.6802,
+    "lng": -96.8449,
+    "offense": "disorderly conduct discharge/display firearm (no assault)",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-02-17",
+    "neighborhood": "Twin Oaks"
+  },
+  {
     "id": "071202-2026",
     "lat": 32.6367,
     "lng": -96.8371,
@@ -130,6 +64,17 @@
     "hour": 15,
     "date": "2026-05-18",
     "neighborhood": null
+  },
+  {
+    "id": "043041-2026",
+    "lat": 32.6746,
+    "lng": -96.8291,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-03-27",
+    "neighborhood": "Beckley Heights"
   },
   {
     "id": "069734-2026",
@@ -165,6 +110,39 @@
     "neighborhood": "Glen Oaks"
   },
   {
+    "id": "163621-2025",
+    "lat": 32.6704,
+    "lng": -96.84,
+    "offense": "unlawful poss firearm - family/house/ct order/gang",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-11-14",
+    "neighborhood": null
+  },
+  {
+    "id": "169809-2025",
+    "lat": 32.6622,
+    "lng": -96.8288,
+    "offense": "traf vio -operate motor veh w/o fin resp",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-11-25",
+    "neighborhood": null
+  },
+  {
+    "id": "083766-2026",
+    "lat": 32.676,
+    "lng": -96.8242,
+    "offense": "keeping a gambling place",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 8,
+    "date": "2026-06-11",
+    "neighborhood": "Beckley Heights"
+  },
+  {
     "id": "152336-2025",
     "lat": 32.6617,
     "lng": -96.8387,
@@ -187,6 +165,17 @@
     "neighborhood": null
   },
   {
+    "id": "043602-2026",
+    "lat": 32.6617,
+    "lng": -96.8338,
+    "offense": "fail to comply sex offenders duty to register life/90 day (cccp 62.102(b)(3))",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-02-13",
+    "neighborhood": "Polk Terrace"
+  },
+  {
     "id": "029527-2026",
     "lat": 32.6474,
     "lng": -96.8294,
@@ -195,259 +184,6 @@
     "premise": "apartment complex/building",
     "hour": 5,
     "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "071917-2026",
-    "lat": 32.6824,
-    "lng": -96.8506,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-05-19",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "118158-2025",
-    "lat": 32.6767,
-    "lng": -96.8563,
-    "offense": "dwi w/open container",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-08-17",
-    "neighborhood": "Glen Hills"
-  },
-  {
-    "id": "822349-2025",
-    "lat": 32.6538,
-    "lng": -96.836,
-    "offense": "theft by deception (fraud) <$100",
-    "group": "property",
-    "premise": "financial institution",
-    "hour": 21,
-    "date": "2025-10-30",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "125492-2025",
-    "lat": 32.6436,
-    "lng": -96.84,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2025-08-31",
-    "neighborhood": null
-  },
-  {
-    "id": "100947-2025",
-    "lat": 32.6479,
-    "lng": -96.8565,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2025-07-15",
-    "neighborhood": null
-  },
-  {
-    "id": "034084-2026",
-    "lat": 32.6623,
-    "lng": -96.826,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-03-10",
-    "neighborhood": null
-  },
-  {
-    "id": "094455-2025",
-    "lat": 32.6474,
-    "lng": -96.8294,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2025-07-03",
-    "neighborhood": null
-  },
-  {
-    "id": "066660-2026",
-    "lat": 32.6823,
-    "lng": -96.8569,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "103804-2025",
-    "lat": 32.6628,
-    "lng": -96.8281,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2025-07-21",
-    "neighborhood": null
-  },
-  {
-    "id": "162361-2025",
-    "lat": 32.6753,
-    "lng": -96.8233,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 13,
-    "date": "2025-11-11",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "081211-2026",
-    "lat": 32.6716,
-    "lng": -96.8514,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "112447-2025",
-    "lat": 32.6744,
-    "lng": -96.8232,
-    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-08-06",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "007130-2026",
-    "lat": 32.6769,
-    "lng": -96.8247,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "116074-2025",
-    "lat": 32.6873,
-    "lng": -96.8251,
-    "offense": "poss marijuana >2oz< or equal 4oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-08-13",
-    "neighborhood": null
-  },
-  {
-    "id": "807076-2026",
-    "lat": 32.643,
-    "lng": -96.8505,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-03-25",
-    "neighborhood": null
-  },
-  {
-    "id": "110658-2025",
-    "lat": 32.6565,
-    "lng": -96.8321,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-08-03",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "069734-2026",
-    "lat": 32.666,
-    "lng": -96.8574,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (park)",
-    "hour": 19,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "033342-2026",
-    "lat": 32.6786,
-    "lng": -96.8471,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 3,
-    "date": "2026-03-09",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "123936-2025",
-    "lat": 32.6482,
-    "lng": -96.824,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-08-28",
-    "neighborhood": null
-  },
-  {
-    "id": "135205-2025",
-    "lat": 32.6873,
-    "lng": -96.8251,
-    "offense": "poss cont sub pen grp 2-a < or equal 2 oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2025-09-19",
-    "neighborhood": null
-  },
-  {
-    "id": "100947-2025",
-    "lat": 32.6479,
-    "lng": -96.8565,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2025-07-15",
-    "neighborhood": null
-  },
-  {
-    "id": "079930-2026",
-    "lat": 32.6408,
-    "lng": -96.8398,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "commercial property occupied/vacant",
-    "hour": 15,
-    "date": "2026-06-03",
-    "neighborhood": null
-  },
-  {
-    "id": "080861-2026",
-    "lat": 32.681,
-    "lng": -96.8539,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2026-06-04",
     "neighborhood": null
   }
 ]

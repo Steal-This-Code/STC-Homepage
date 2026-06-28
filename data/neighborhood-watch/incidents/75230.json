@@ -1,47 +1,14 @@
 [
   {
-    "id": "079295-2026",
-    "lat": 32.9107,
-    "lng": -96.8117,
-    "offense": "unexplained death (no offense)",
+    "id": "825059-2025",
+    "lat": 32.8945,
+    "lng": -96.8033,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-06-01",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "004700-2026",
-    "lat": 32.9002,
-    "lng": -96.773,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 8,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "800648-2026",
-    "lat": 32.8869,
-    "lng": -96.7739,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2025-12-22",
-    "neighborhood": "High Hollows"
-  },
-  {
-    "id": "069961-2026",
-    "lat": 32.9156,
-    "lng": -96.8138,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-05-15",
-    "neighborhood": "Melshire Estates"
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2025-12-03",
+    "neighborhood": "Preston Hollow North"
   },
   {
     "id": "102306-2025",
@@ -86,94 +53,6 @@
     "hour": 4,
     "date": "2026-02-11",
     "neighborhood": null
-  },
-  {
-    "id": "080595-2026",
-    "lat": 32.9132,
-    "lng": -96.7722,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 21,
-    "date": "2026-05-22",
-    "neighborhood": null
-  },
-  {
-    "id": "179830-2025",
-    "lat": 32.924,
-    "lng": -96.8106,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-12-16",
-    "neighborhood": null
-  },
-  {
-    "id": "810524-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "specialty store (in a specific item)",
-    "hour": 12,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "057598-2026",
-    "lat": 32.9132,
-    "lng": -96.7722,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 8,
-    "date": "2026-04-23",
-    "neighborhood": null
-  },
-  {
-    "id": "070011-2026",
-    "lat": 32.9155,
-    "lng": -96.8094,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-05-15",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "801239-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 10,
-    "date": "2026-01-17",
-    "neighborhood": null
-  },
-  {
-    "id": "088148-2026",
-    "lat": 32.9166,
-    "lng": -96.7999,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "school - college/university",
-    "hour": 11,
-    "date": "2026-06-18",
-    "neighborhood": "Churchill Way Estates"
-  },
-  {
-    "id": "016643-2026",
-    "lat": 32.8945,
-    "lng": -96.8033,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-02-04",
-    "neighborhood": "Preston Hollow North"
   },
   {
     "id": "801124-2026",
