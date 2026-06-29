@@ -1,16 +1,5 @@
 [
   {
-    "id": "080738-2026",
-    "lat": 32.7494,
-    "lng": -96.8378,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-04",
-    "neighborhood": "Dallas Land & Loan"
-  },
-  {
     "id": "180391-2025",
     "lat": 32.7451,
     "lng": -96.8314,
@@ -20,6 +9,138 @@
     "hour": 18,
     "date": "2025-12-17",
     "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "071859-2026",
+    "lat": 32.7709,
+    "lng": -96.8329,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-05-19",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "801038-2026",
+    "lat": 32.7692,
+    "lng": -96.835,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2026-01-13",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "003579-2026",
+    "lat": 32.7522,
+    "lng": -96.8274,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2025-11-17",
+    "neighborhood": "Kidd Springs"
+  },
+  {
+    "id": "071499-2026",
+    "lat": 32.7412,
+    "lng": -96.8341,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-05-19",
+    "neighborhood": "Ruthmeade Place"
+  },
+  {
+    "id": "083483-2026",
+    "lat": 32.7496,
+    "lng": -96.8567,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
+    "id": "181968-2025",
+    "lat": 32.7416,
+    "lng": -96.8306,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2025-12-20",
+    "neighborhood": null
+  },
+  {
+    "id": "172035-2025",
+    "lat": 32.7515,
+    "lng": -96.8279,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 5,
+    "date": "2025-12-01",
+    "neighborhood": "Kidd Springs"
+  },
+  {
+    "id": "005023-2026",
+    "lat": 32.7452,
+    "lng": -96.8265,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 2,
+    "date": "2026-01-11",
+    "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "066903-2026",
+    "lat": 32.7412,
+    "lng": -96.823,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "other",
+    "hour": 19,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "044164-2026",
+    "lat": 32.7678,
+    "lng": -96.8364,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 1,
+    "date": "2026-03-29",
+    "neighborhood": "Western Heights"
+  },
+  {
+    "id": "085008-2026",
+    "lat": 32.7422,
+    "lng": -96.8582,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 18,
+    "date": "2026-06-12",
+    "neighborhood": "Kessler Plaza"
+  },
+  {
+    "id": "086897-2026",
+    "lat": 32.7721,
+    "lng": -96.8332,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 18,
+    "date": "2026-06-09",
+    "neighborhood": "La L'aceate"
   },
   {
     "id": "092723-2026",
@@ -132,17 +253,6 @@
     "neighborhood": null
   },
   {
-    "id": "092807-2026",
-    "lat": 32.7599,
-    "lng": -96.8251,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-26",
-    "neighborhood": "East Kessler Park"
-  },
-  {
     "id": "002243-2026",
     "lat": 32.7394,
     "lng": -96.8322,
@@ -176,70 +286,15 @@
     "neighborhood": "Western Heights"
   },
   {
-    "id": "050096-2026",
-    "lat": 32.7383,
-    "lng": -96.8323,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 3,
-    "date": "2026-04-09",
-    "neighborhood": "Ruthmeade Place"
-  },
-  {
-    "id": "160546-2025",
-    "lat": 32.7375,
-    "lng": -96.843,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-08-24",
-    "neighborhood": null
-  },
-  {
-    "id": "080738-2026",
-    "lat": 32.7494,
-    "lng": -96.8378,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-04",
-    "neighborhood": "Dallas Land & Loan"
-  },
-  {
-    "id": "045899-2026",
-    "lat": 32.7451,
-    "lng": -96.8331,
+    "id": "817552-2025",
+    "lat": 32.7481,
+    "lng": -96.8349,
     "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 5,
-    "date": "2026-04-01",
+    "hour": 10,
+    "date": "2025-08-25",
     "neighborhood": "Dallas Land & Loan"
-  },
-  {
-    "id": "824864-2025",
-    "lat": 32.7606,
-    "lng": -96.784,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 21,
-    "date": "2025-11-26",
-    "neighborhood": null
-  },
-  {
-    "id": "002243-2026",
-    "lat": 32.7394,
-    "lng": -96.8322,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-01-04",
-    "neighborhood": "Ruthmeade Place"
   },
   {
     "id": "812720-2026",
@@ -264,14 +319,245 @@
     "neighborhood": "Kidd Springs"
   },
   {
-    "id": "800383-2026",
-    "lat": 32.7745,
-    "lng": -96.8245,
+    "id": "076490-2026",
+    "lat": 32.7629,
+    "lng": -96.8376,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "other",
+    "hour": 2,
+    "date": "2026-05-28",
+    "neighborhood": "Kessler Park"
+  },
+  {
+    "id": "175506-2025",
+    "lat": 32.7322,
+    "lng": -96.8569,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2025-12-07",
+    "neighborhood": "Hampton Hills"
+  },
+  {
+    "id": "115209-2025",
+    "lat": 32.7432,
+    "lng": -96.833,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2025-08-10",
+    "neighborhood": null
+  },
+  {
+    "id": "027589-2026",
+    "lat": 32.7723,
+    "lng": -96.8565,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-02-26",
+    "neighborhood": null
+  },
+  {
+    "id": "153687-2025",
+    "lat": 32.7519,
+    "lng": -96.8303,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2025-10-25",
+    "neighborhood": "Kidd Springs"
+  },
+  {
+    "id": "082189-2026",
+    "lat": 32.7738,
+    "lng": -96.8281,
+    "offense": "injured person - firearm injury (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-06-07",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "088526-2026",
+    "lat": 32.7442,
+    "lng": -96.832,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "018914-2026",
+    "lat": 32.7728,
+    "lng": -96.8328,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 11,
+    "date": "2026-02-08",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "081504-2026",
+    "lat": 32.7655,
+    "lng": -96.8474,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 11,
+    "date": "2026-06-06",
+    "neighborhood": "Western Heights"
+  },
+  {
+    "id": "056715-2026",
+    "lat": 32.7442,
+    "lng": -96.8319,
+    "offense": "terroristic threat fear imminent sbi",
+    "group": "other",
+    "premise": "business office",
+    "hour": 11,
+    "date": "2026-04-21",
+    "neighborhood": null
+  },
+  {
+    "id": "108120-2025",
+    "lat": 32.7489,
+    "lng": -96.8233,
+    "offense": "poss marijuana >4oz< or equal 5lbs",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-07-29",
+    "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "117556-2025",
+    "lat": 32.7485,
+    "lng": -96.828,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-08-15",
+    "neighborhood": "Bishop Arts District"
+  },
+  {
+    "id": "091568-2026",
+    "lat": 32.7567,
+    "lng": -96.8415,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 9,
+    "date": "2026-06-24",
+    "neighborhood": "Kessler Park"
+  },
+  {
+    "id": "038534-2026",
+    "lat": 32.7721,
+    "lng": -96.8332,
     "offense": "bmv",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-02",
+    "hour": 11,
+    "date": "2026-03-18",
     "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "039080-2026",
+    "lat": 32.7717,
+    "lng": -96.8565,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 0,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "076184-2026",
+    "lat": 32.7451,
+    "lng": -96.8355,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 18,
+    "date": "2026-05-27",
+    "neighborhood": null
+  },
+  {
+    "id": "010222-2026",
+    "lat": 32.7738,
+    "lng": -96.8281,
+    "offense": "cruelty to non-livestock anmls fail prov/abdn/trnspt/bi/ovwk",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 10,
+    "date": "2026-01-21",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "802338-2026",
+    "lat": 32.7745,
+    "lng": -96.8245,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 8,
+    "date": "2026-01-26",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "092042-2026",
+    "lat": 32.7655,
+    "lng": -96.8474,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 12,
+    "date": "2026-06-25",
+    "neighborhood": "Western Heights"
+  },
+  {
+    "id": "811949-2026",
+    "lat": 32.7749,
+    "lng": -96.8226,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "park",
+    "hour": 10,
+    "date": "2026-05-03",
+    "neighborhood": null
+  },
+  {
+    "id": "023246-2026",
+    "lat": 32.772,
+    "lng": -96.8446,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 18,
+    "date": "2026-02-16",
+    "neighborhood": "Western Heights"
+  },
+  {
+    "id": "077506-2026",
+    "lat": 32.7659,
+    "lng": -96.8453,
+    "offense": "robbery of business (agg)",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 2,
+    "date": "2026-05-30",
+    "neighborhood": "Western Heights"
   }
 ]

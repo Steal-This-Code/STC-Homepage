@@ -1,13 +1,24 @@
 [
   {
-    "id": "181636-2025",
-    "lat": 32.7083,
-    "lng": -96.873,
-    "offense": "motor vehicle theft",
+    "id": "025445-2026",
+    "lat": 32.7153,
+    "lng": -96.8749,
+    "offense": "burglary of building - forced entry",
     "group": "property",
-    "premise": "outdoor area public/private",
+    "premise": "storage facility",
     "hour": 12,
-    "date": "2025-12-20",
+    "date": "2026-02-21",
+    "neighborhood": null
+  },
+  {
+    "id": "807364-2026",
+    "lat": 32.7065,
+    "lng": -96.8728,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-04-07",
     "neighborhood": null
   },
   {
@@ -99,25 +110,69 @@
     "neighborhood": null
   },
   {
-    "id": "023910-2026",
-    "lat": 32.7065,
-    "lng": -96.8728,
-    "offense": "abandoned property (no offense)",
+    "id": "071580-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-02-19",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-05-18",
     "neighborhood": null
   },
   {
-    "id": "004031-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
+    "id": "045376-2026",
+    "lat": 32.7136,
+    "lng": -96.8689,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "079569-2026",
+    "lat": 32.6956,
+    "lng": -96.879,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-02",
+    "neighborhood": null
+  },
+  {
+    "id": "018579-2026",
+    "lat": 32.7071,
+    "lng": -96.8749,
     "offense": "motor vehicle theft - attempt",
     "group": "property",
-    "premise": "apartment parking lot",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-07",
+    "neighborhood": null
+  },
+  {
+    "id": "028987-2026",
+    "lat": 32.7126,
+    "lng": -96.8731,
+    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-03-01",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "016284-2026",
+    "lat": 32.7083,
+    "lng": -96.8689,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 19,
-    "date": "2026-01-08",
+    "date": "2026-02-03",
     "neighborhood": null
   }
 ]

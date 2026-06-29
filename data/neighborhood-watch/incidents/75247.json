@@ -1,5 +1,38 @@
 [
   {
+    "id": "119775-2025",
+    "lat": 32.8337,
+    "lng": -96.8737,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "175916-2025",
+    "lat": 32.8214,
+    "lng": -96.8633,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 6,
+    "date": "2025-12-09",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "153732-2025",
+    "lat": 32.8266,
+    "lng": -96.8732,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2025-10-24",
+    "neighborhood": null
+  },
+  {
     "id": "092096-2026",
     "lat": 32.8195,
     "lng": -96.8863,
@@ -19,17 +52,6 @@
     "premise": "parking (business)",
     "hour": 3,
     "date": "2026-05-06",
-    "neighborhood": null
-  },
-  {
-    "id": "138218-2025",
-    "lat": 32.8278,
-    "lng": -96.8716,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-08-12",
     "neighborhood": null
   },
   {
@@ -55,14 +77,58 @@
     "neighborhood": null
   },
   {
-    "id": "000275-2026",
-    "lat": 32.8249,
-    "lng": -96.8699,
-    "offense": "natural death (no offense)",
+    "id": "030143-2026",
+    "lat": 32.8238,
+    "lng": -96.8772,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "apartment residence",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2026-03-02",
+    "neighborhood": null
+  },
+  {
+    "id": "801446-2026",
+    "lat": 32.8224,
+    "lng": -96.8801,
+    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
+    "group": "property",
+    "premise": "business office",
     "hour": 14,
-    "date": "2026-01-01",
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "007380-2026",
+    "lat": 32.8188,
+    "lng": -96.8709,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "044972-2026",
+    "lat": 32.8298,
+    "lng": -96.8866,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-03-30",
+    "neighborhood": null
+  },
+  {
+    "id": "080674-2026",
+    "lat": 32.8202,
+    "lng": -96.8704,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-06-04",
     "neighborhood": null
   }
 ]

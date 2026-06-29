@@ -1,5 +1,27 @@
 [
   {
+    "id": "169429-2025",
+    "lat": 32.9379,
+    "lng": -96.8106,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2025-11-24",
+    "neighborhood": null
+  },
+  {
+    "id": "067690-2026",
+    "lat": 32.9434,
+    "lng": -96.8202,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
     "id": "045789-2026",
     "lat": 32.9423,
     "lng": -96.7706,
@@ -77,36 +99,14 @@
     "neighborhood": null
   },
   {
-    "id": "816356-2025",
-    "lat": 32.9536,
-    "lng": -96.8244,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-07-30",
-    "neighborhood": null
-  },
-  {
-    "id": "802462-2026",
+    "id": "064900-2026",
     "lat": 32.94,
-    "lng": -96.8186,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "081035-2026",
-    "lat": 32.9481,
-    "lng": -96.8208,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "bank/savings and loan",
+    "lng": -96.8088,
+    "offense": "fraud use/poss identifying info # items 5<10",
+    "group": "property",
+    "premise": "apartment parking lot",
     "hour": 8,
-    "date": "2026-05-01",
+    "date": "2026-05-07",
     "neighborhood": null
   }
 ]

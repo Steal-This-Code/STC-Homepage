@@ -1,5 +1,38 @@
 [
   {
+    "id": "047304-2026",
+    "lat": 32.7858,
+    "lng": -96.7354,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-04-03",
+    "neighborhood": null
+  },
+  {
+    "id": "078374-2026",
+    "lat": 32.793,
+    "lng": -96.7424,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "173487-2025",
+    "lat": 32.781,
+    "lng": -96.7373,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-12-04",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
     "id": "079003-2026",
     "lat": 32.7873,
     "lng": -96.7395,
@@ -19,17 +52,6 @@
     "premise": "single family residence - occupied",
     "hour": 23,
     "date": "2026-05-20",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "165824-2025",
-    "lat": 32.7928,
-    "lng": -96.7552,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2025-11-18",
     "neighborhood": "Mount Auburn"
   },
   {
@@ -88,17 +110,6 @@
     "neighborhood": "Jubilee Park"
   },
   {
-    "id": "015519-2026",
-    "lat": 32.7905,
-    "lng": -96.7554,
-    "offense": "man del cont sub pen grp 3/4 <28g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-02-02",
-    "neighborhood": "Jubilee Park"
-  },
-  {
     "id": "147744-2025",
     "lat": 32.7895,
     "lng": -96.7374,
@@ -108,5 +119,49 @@
     "hour": 15,
     "date": "2025-10-13",
     "neighborhood": "Owenwood"
+  },
+  {
+    "id": "140783-2025",
+    "lat": 32.7873,
+    "lng": -96.7584,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 1,
+    "date": "2025-09-30",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "140783-2025",
+    "lat": 32.7873,
+    "lng": -96.7584,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 1,
+    "date": "2025-09-30",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "046096-2026",
+    "lat": 32.7926,
+    "lng": -96.7466,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 14,
+    "date": "2026-04-01",
+    "neighborhood": null
+  },
+  {
+    "id": "800840-2026",
+    "lat": 32.7832,
+    "lng": -96.748,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 3,
+    "date": "2026-01-06",
+    "neighborhood": null
   }
 ]

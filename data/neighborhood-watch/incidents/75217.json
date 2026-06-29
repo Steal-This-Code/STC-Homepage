@@ -1,16 +1,5 @@
 [
   {
-    "id": "812192-2026",
-    "lat": 32.7336,
-    "lng": -96.6671,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 7,
-    "date": "2026-06-12",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
     "id": "812478-2026",
     "lat": 32.7141,
     "lng": -96.7113,
@@ -22,14 +11,146 @@
     "neighborhood": "Pemberton Hill"
   },
   {
-    "id": "061823-2026",
-    "lat": 32.7382,
-    "lng": -96.7014,
+    "id": "086649-2026",
+    "lat": 32.7363,
+    "lng": -96.6989,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 10,
+    "date": "2026-06-15",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "811716-2026",
+    "lat": 32.7497,
+    "lng": -96.6586,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-06-06",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "097419-2025",
+    "lat": 32.7049,
+    "lng": -96.6571,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-05-01",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2025-07-08",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "072169-2026",
+    "lat": 32.7342,
+    "lng": -96.681,
+    "offense": "poss cont sub pen grp 1/1-b <1g",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-05-20",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "006315-2026",
+    "lat": 32.7223,
+    "lng": -96.6392,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 13,
+    "date": "2026-01-13",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "088746-2026",
+    "lat": 32.6846,
+    "lng": -96.6569,
+    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
+    "group": "violent",
+    "premise": "other",
+    "hour": 12,
+    "date": "2026-06-19",
+    "neighborhood": "Rylie"
+  },
+  {
+    "id": "822277-2025",
+    "lat": 32.7481,
+    "lng": -96.682,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 16,
+    "date": "2025-10-26",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "064670-2026",
+    "lat": 32.7135,
+    "lng": -96.7004,
+    "offense": "robbery of business (agg)",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 17,
+    "date": "2026-05-06",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "802413-2026",
+    "lat": 32.7336,
+    "lng": -96.6495,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 12,
+    "date": "2026-02-04",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "009588-2026",
+    "lat": 32.7351,
+    "lng": -96.6501,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-01-16",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "082929-2026",
+    "lat": 32.7497,
+    "lng": -96.6543,
+    "offense": "robbery of individual (agg)",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-06-08",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "015987-2026",
+    "lat": 32.7331,
+    "lng": -96.682,
+    "offense": "poss cont sub pen grp 1 <1g dfz",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 17,
+    "date": "2026-02-03",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "811331-2026",
+    "lat": 32.7357,
+    "lng": -96.6952,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-05-30",
     "neighborhood": "Pleasant Grove"
   },
   {
@@ -88,17 +209,6 @@
     "neighborhood": "Edgewood Place"
   },
   {
-    "id": "811954-2026",
-    "lat": 32.746,
-    "lng": -96.6454,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2026-05-08",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
     "id": "046204-2026",
     "lat": 32.733,
     "lng": -96.6657,
@@ -108,17 +218,6 @@
     "hour": 14,
     "date": "2026-03-31",
     "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "092538-2026",
-    "lat": 32.7174,
-    "lng": -96.71,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 0,
-    "date": "2026-06-25",
-    "neighborhood": "Pemberton Hill"
   },
   {
     "id": "096018-2025",
@@ -187,17 +286,6 @@
     "neighborhood": "Pleasant Grove"
   },
   {
-    "id": "153153-2025",
-    "lat": 32.7203,
-    "lng": -96.6807,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-10-24",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
     "id": "004994-2026",
     "lat": 32.7308,
     "lng": -96.6829,
@@ -253,50 +341,6 @@
     "neighborhood": null
   },
   {
-    "id": "004483-2026",
-    "lat": 32.7229,
-    "lng": -96.7013,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "other",
-    "hour": 16,
-    "date": "2026-01-09",
-    "neighborhood": "Pemberton Hill"
-  },
-  {
-    "id": "002981-2026",
-    "lat": 32.7302,
-    "lng": -96.6825,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-01-03",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "015622-2026",
-    "lat": 32.7273,
-    "lng": -96.6617,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-02-02",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
-    "id": "090888-2026",
-    "lat": 32.7145,
-    "lng": -96.6596,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-06-22",
-    "neighborhood": "Pleasant Grove"
-  },
-  {
     "id": "820601-2025",
     "lat": 32.7484,
     "lng": -96.6828,
@@ -308,14 +352,333 @@
     "neighborhood": "Pleasant Grove"
   },
   {
-    "id": "812748-2026",
-    "lat": 32.7191,
-    "lng": -96.6826,
-    "offense": "accident inv damage to vehicle <$200",
+    "id": "003158-2026",
+    "lat": 32.7147,
+    "lng": -96.682,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "department/discount store",
+    "hour": 13,
+    "date": "2026-01-07",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "048934-2026",
+    "lat": 32.7421,
+    "lng": -96.6846,
+    "offense": "false statement for property/credit < $100",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-04-06",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "063088-2026",
+    "lat": 32.7497,
+    "lng": -96.6543,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-05-03",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "049628-2026",
+    "lat": 32.7383,
+    "lng": -96.6836,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 4,
+    "date": "2026-04-08",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "808924-2026",
+    "lat": 32.7195,
+    "lng": -96.7094,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "community/ recreation center",
+    "hour": 11,
+    "date": "2026-04-25",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "002435-2026",
+    "lat": 32.7046,
+    "lng": -96.6507,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2026-01-04",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "028584-2026",
+    "lat": 32.7139,
+    "lng": -96.6764,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-02-28",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "067844-2026",
+    "lat": 32.7298,
+    "lng": -96.7011,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-05-10",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "019173-2026",
+    "lat": 32.716,
+    "lng": -96.6571,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 7,
+    "date": "2026-02-10",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "032842-2026",
+    "lat": 32.7137,
+    "lng": -96.6995,
+    "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "gas or service station",
+    "hour": 4,
+    "date": "2026-03-08",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "009386-2026",
+    "lat": 32.7175,
+    "lng": -96.6975,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 15,
+    "date": "2026-01-19",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "166955-2025",
+    "lat": 32.7184,
+    "lng": -96.6822,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2025-11-20",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "068867-2026",
+    "lat": 32.7193,
+    "lng": -96.692,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-05-14",
+    "neighborhood": null
+  },
+  {
+    "id": "047025-2026",
+    "lat": 32.712,
+    "lng": -96.6847,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 9,
+    "date": "2026-04-03",
+    "neighborhood": null
+  },
+  {
+    "id": "020695-2026",
+    "lat": 32.6811,
+    "lng": -96.6573,
+    "offense": "collision inv injury",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-02-13",
+    "neighborhood": "Rylie"
+  },
+  {
+    "id": "138500-2025",
+    "lat": 32.7229,
+    "lng": -96.7013,
+    "offense": "terroristic threat against pub serv (peace officer /judge",
+    "group": "other",
+    "premise": "other",
+    "hour": 18,
+    "date": "2025-09-25",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "017321-2026",
+    "lat": 32.7135,
+    "lng": -96.7004,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-02-06",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "027778-2026",
+    "lat": 32.73,
+    "lng": -96.6463,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
     "hour": 2,
-    "date": "2026-06-21",
+    "date": "2026-02-27",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "080914-2026",
+    "lat": 32.6993,
+    "lng": -96.6635,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "other",
+    "hour": 13,
+    "date": "2026-06-05",
+    "neighborhood": "Rylie"
+  },
+  {
+    "id": "097419-2025",
+    "lat": 32.7049,
+    "lng": -96.6571,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2025-07-08",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "005059-2026",
+    "lat": 32.7204,
+    "lng": -96.6657,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-11",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "186070-2025",
+    "lat": 32.7218,
+    "lng": -96.6829,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2025-12-29",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "060799-2026",
+    "lat": 32.7184,
+    "lng": -96.6883,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-04-28",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "007075-2026",
+    "lat": 32.7174,
+    "lng": -96.6985,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 8,
+    "date": "2026-01-15",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
+    "id": "061478-2026",
+    "lat": 32.7497,
+    "lng": -96.6645,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-04-29",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "005225-2026",
+    "lat": 32.7221,
+    "lng": -96.6772,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-01-11",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "175883-2025",
+    "lat": 32.713,
+    "lng": -96.7012,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 2,
+    "date": "2025-12-09",
+    "neighborhood": null
+  },
+  {
+    "id": "801063-2026",
+    "lat": 32.7315,
+    "lng": -96.6481,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2025-12-14",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "806286-2026",
+    "lat": 32.7442,
+    "lng": -96.6773,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-03-20",
+    "neighborhood": "Pleasant Grove"
+  },
+  {
+    "id": "005059-2026",
+    "lat": 32.7204,
+    "lng": -96.6657,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-11",
     "neighborhood": "Pleasant Grove"
   }
 ]

@@ -22,25 +22,47 @@
     "neighborhood": "Country Creek"
   },
   {
-    "id": "092059-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "criminal trespass affidavit",
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-06-25",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2025-09-05",
     "neighborhood": null
   },
   {
-    "id": "812563-2026",
-    "lat": 32.6949,
-    "lng": -96.8937,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "id": "013732-2026",
+    "lat": 32.6742,
+    "lng": -96.9659,
+    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
     "group": "property",
-    "premise": "gas or service station",
-    "hour": 15,
-    "date": "2026-06-17",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-01-25",
+    "neighborhood": null
+  },
+  {
+    "id": "015477-2026",
+    "lat": 32.6681,
+    "lng": -96.8912,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "043239-2026",
+    "lat": 32.665,
+    "lng": -96.9391,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2026-03-27",
     "neighborhood": null
   }
 ]

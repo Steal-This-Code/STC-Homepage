@@ -20,16 +20,5 @@
     "hour": 10,
     "date": "2026-06-17",
     "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "084247-2026",
-    "lat": 32.7945,
-    "lng": -96.774,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-06-11",
-    "neighborhood": "Peak's Addition"
   }
 ]
