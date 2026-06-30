@@ -9,5 +9,16 @@
     "hour": 22,
     "date": "2025-07-06",
     "neighborhood": null
+  },
+  {
+    "id": "112841-2025",
+    "lat": 32.9124,
+    "lng": -96.5139,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "lake/waterway/beach",
+    "hour": 14,
+    "date": "2025-08-07",
+    "neighborhood": null
   }
 ]

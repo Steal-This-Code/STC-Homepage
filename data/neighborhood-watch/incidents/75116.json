@@ -9,5 +9,16 @@
     "hour": 7,
     "date": "2026-04-06",
     "neighborhood": null
+  },
+  {
+    "id": "046164-2026",
+    "lat": 32.6642,
+    "lng": -96.8944,
+    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-04-06",
+    "neighborhood": null
   }
 ]

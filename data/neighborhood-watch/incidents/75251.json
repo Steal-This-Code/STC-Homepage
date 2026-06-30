@@ -1,5 +1,27 @@
 [
   {
+    "id": "180518-2025",
+    "lat": 32.9173,
+    "lng": -96.7731,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": null
+  },
+  {
+    "id": "030411-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
     "id": "071588-2026",
     "lat": 32.9231,
     "lng": -96.7724,
@@ -20,6 +42,61 @@
     "hour": 0,
     "date": "2026-06-24",
     "neighborhood": "Valley View"
+  },
+  {
+    "id": "154696-2025",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 21,
+    "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "092050-2026",
+    "lat": 32.9115,
+    "lng": -96.7704,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-06-13",
+    "neighborhood": null
+  },
+  {
+    "id": "071588-2026",
+    "lat": 32.9231,
+    "lng": -96.7724,
+    "offense": "man del cont sub pen grp 1-b > or equals 4g<200g",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
+    "id": "079832-2026",
+    "lat": 32.9224,
+    "lng": -96.7679,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-02-26",
+    "neighborhood": null
+  },
+  {
+    "id": "148028-2025",
+    "lat": 32.9236,
+    "lng": -96.7707,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-10-14",
+    "neighborhood": null
   },
   {
     "id": "089009-2026",

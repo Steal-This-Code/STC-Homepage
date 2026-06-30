@@ -1,5 +1,27 @@
 [
   {
+    "id": "806978-2026",
+    "lat": 32.7819,
+    "lng": -96.7522,
+    "offense": "criminal mischief > or equal $30k<$150k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-28",
+    "neighborhood": null
+  },
+  {
+    "id": "036776-2026",
+    "lat": 32.7818,
+    "lng": -96.7501,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "047304-2026",
     "lat": 32.7858,
     "lng": -96.7354,
@@ -108,6 +130,105 @@
     "hour": 13,
     "date": "2026-05-14",
     "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "163129-2025",
+    "lat": 32.7855,
+    "lng": -96.7426,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2025-11-12",
+    "neighborhood": "Owenwood"
+  },
+  {
+    "id": "078374-2026",
+    "lat": 32.793,
+    "lng": -96.7424,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 18,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "824190-2025",
+    "lat": 32.7837,
+    "lng": -96.7352,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "005687-2026",
+    "lat": 32.7827,
+    "lng": -96.7307,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 23,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "146965-2025",
+    "lat": 32.7833,
+    "lng": -96.7614,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2025-10-11",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "098441-2025",
+    "lat": 32.793,
+    "lng": -96.7582,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2025-07-11",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "071389-2026",
+    "lat": 32.786,
+    "lng": -96.7661,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-05-13",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "040110-2026",
+    "lat": 32.7926,
+    "lng": -96.7466,
+    "offense": "burglary of a coin operated machine",
+    "group": "property",
+    "premise": "specialty store (in a specific item)",
+    "hour": 20,
+    "date": "2026-03-21",
+    "neighborhood": null
+  },
+  {
+    "id": "045327-2026",
+    "lat": 32.786,
+    "lng": -96.7684,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-03-31",
+    "neighborhood": "Exposition Park"
   },
   {
     "id": "147744-2025",

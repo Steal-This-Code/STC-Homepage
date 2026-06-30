@@ -1,5 +1,27 @@
 [
   {
+    "id": "168018-2025",
+    "lat": 32.6913,
+    "lng": -96.8856,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "066600-2026",
+    "lat": 32.7186,
+    "lng": -96.8655,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
     "id": "025445-2026",
     "lat": 32.7153,
     "lng": -96.8749,
@@ -106,6 +128,72 @@
     "group": "property",
     "premise": "business office",
     "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "023910-2026",
+    "lat": 32.7065,
+    "lng": -96.8728,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-02-19",
+    "neighborhood": null
+  },
+  {
+    "id": "004031-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-01-08",
+    "neighborhood": null
+  },
+  {
+    "id": "146468-2025",
+    "lat": 32.7083,
+    "lng": -96.8707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2025-10-09",
+    "neighborhood": null
+  },
+  {
+    "id": "167378-2025",
+    "lat": 32.7204,
+    "lng": -96.8636,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "004031-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-01-08",
+    "neighborhood": null
+  },
+  {
+    "id": "004951-2026",
+    "lat": 32.7204,
+    "lng": -96.8608,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
     "date": "2026-01-10",
     "neighborhood": null
   },

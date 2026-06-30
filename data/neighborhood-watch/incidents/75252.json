@@ -1,5 +1,27 @@
 [
   {
+    "id": "817247-2025",
+    "lat": 33.001,
+    "lng": -96.7813,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "803467-2026",
+    "lat": 33.0095,
+    "lng": -96.7892,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
     "id": "068460-2026",
     "lat": 32.9871,
     "lng": -96.7727,
@@ -52,6 +74,61 @@
     "premise": "highway, street, alley etc",
     "hour": 21,
     "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "005175-2026",
+    "lat": 32.9871,
+    "lng": -96.7718,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "808422-2026",
+    "lat": 33.0057,
+    "lng": -96.7891,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "cyberspace",
+    "hour": 20,
+    "date": "2026-04-20",
+    "neighborhood": "Preston Highlands"
+  },
+  {
+    "id": "005448-2026",
+    "lat": 32.9873,
+    "lng": -96.7927,
+    "offense": "burglary - preliminary investigation",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 17,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "810154-2026",
+    "lat": 32.9843,
+    "lng": -96.757,
+    "offense": "theft of prop > or equal $750 <$2,500 (employee) pc 31.03(e3)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 7,
+    "date": "2025-11-26",
+    "neighborhood": null
+  },
+  {
+    "id": "103502-2025",
+    "lat": 33.0048,
+    "lng": -96.7829,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 1,
+    "date": "2025-07-21",
     "neighborhood": null
   },
   {
