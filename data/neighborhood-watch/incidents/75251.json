@@ -1,47 +1,14 @@
 [
   {
-    "id": "180518-2025",
-    "lat": 32.9173,
-    "lng": -96.7731,
+    "id": "800326-2026",
+    "lat": 32.9209,
+    "lng": -96.7733,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 20,
-    "date": "2025-12-15",
+    "hour": 17,
+    "date": "2026-01-01",
     "neighborhood": null
-  },
-  {
-    "id": "030411-2026",
-    "lat": 32.9222,
-    "lng": -96.7793,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-03-03",
-    "neighborhood": null
-  },
-  {
-    "id": "071588-2026",
-    "lat": 32.9231,
-    "lng": -96.7724,
-    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "091375-2026",
-    "lat": 32.9259,
-    "lng": -96.7712,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-06-24",
-    "neighborhood": "Valley View"
   },
   {
     "id": "154696-2025",
@@ -52,17 +19,6 @@
     "premise": "parking lot (all others)",
     "hour": 21,
     "date": "2025-10-26",
-    "neighborhood": null
-  },
-  {
-    "id": "092050-2026",
-    "lat": 32.9115,
-    "lng": -96.7704,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-06-13",
     "neighborhood": null
   },
   {
@@ -99,14 +55,14 @@
     "neighborhood": null
   },
   {
-    "id": "089009-2026",
-    "lat": 32.9259,
-    "lng": -96.7663,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
+    "id": "017656-2026",
+    "lat": 32.9251,
+    "lng": -96.7686,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-19",
+    "hour": 2,
+    "date": "2026-02-07",
     "neighborhood": null
   },
   {

@@ -1,38 +1,5 @@
 [
   {
-    "id": "810208-2026",
-    "lat": 32.7902,
-    "lng": -96.7794,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 13,
-    "date": "2026-04-16",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "812208-2026",
-    "lat": 32.7914,
-    "lng": -96.7707,
-    "offense": "theft of service > or equal $2,500 <$30k pc31.04(e4)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 22,
-    "date": "2026-05-20",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "088198-2026",
-    "lat": 32.7986,
-    "lng": -96.7712,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-17",
-    "neighborhood": "Peak's Addition"
-  },
-  {
     "id": "079988-2026",
     "lat": 32.7998,
     "lng": -96.7706,
@@ -53,5 +20,27 @@
     "hour": 19,
     "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "087174-2026",
+    "lat": 32.7998,
+    "lng": -96.7706,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-06-16",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "053303-2026",
+    "lat": 32.7921,
+    "lng": -96.7791,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-04-15",
+    "neighborhood": "Baylor / Meadows"
   }
 ]

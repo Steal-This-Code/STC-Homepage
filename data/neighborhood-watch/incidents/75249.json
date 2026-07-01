@@ -1,16 +1,5 @@
 [
   {
-    "id": "079089-2026",
-    "lat": 32.6228,
-    "lng": -96.9452,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-06-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
     "id": "162211-2025",
     "lat": 32.6573,
     "lng": -96.9658,
@@ -33,50 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "023611-2026",
-    "lat": 32.6288,
-    "lng": -96.9494,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-18",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "092899-2026",
-    "lat": 32.6356,
-    "lng": -96.9449,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-06-23",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
     "id": "820556-2025",
     "lat": 32.6531,
     "lng": -96.9443,
@@ -86,5 +31,16 @@
     "hour": 21,
     "date": "2025-10-03",
     "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "161212-2025",
+    "lat": 32.6248,
+    "lng": -96.9503,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 4,
+    "date": "2025-11-09",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]

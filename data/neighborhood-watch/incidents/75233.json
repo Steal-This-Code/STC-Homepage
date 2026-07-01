@@ -1,156 +1,13 @@
 [
   {
-    "id": "168018-2025",
-    "lat": 32.6913,
-    "lng": -96.8856,
+    "id": "181636-2025",
+    "lat": 32.7083,
+    "lng": -96.873,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2025-11-22",
-    "neighborhood": null
-  },
-  {
-    "id": "066600-2026",
-    "lat": 32.7186,
-    "lng": -96.8655,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "025445-2026",
-    "lat": 32.7153,
-    "lng": -96.8749,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
     "hour": 12,
-    "date": "2026-02-21",
-    "neighborhood": null
-  },
-  {
-    "id": "807364-2026",
-    "lat": 32.7065,
-    "lng": -96.8728,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 3,
-    "date": "2026-04-07",
-    "neighborhood": null
-  },
-  {
-    "id": "004031-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-08",
-    "neighborhood": null
-  },
-  {
-    "id": "045251-2026",
-    "lat": 32.6992,
-    "lng": -96.8811,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-03-29",
-    "neighborhood": null
-  },
-  {
-    "id": "160223-2025",
-    "lat": 32.7177,
-    "lng": -96.8634,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2025-11-06",
-    "neighborhood": null
-  },
-  {
-    "id": "148698-2025",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2025-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "091773-2026",
-    "lat": 32.6978,
-    "lng": -96.8785,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "092611-2026",
-    "lat": 32.697,
-    "lng": -96.8704,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-06-26",
-    "neighborhood": "Brettonwoods"
-  },
-  {
-    "id": "079170-2026",
-    "lat": 32.7127,
-    "lng": -96.8679,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 4,
-    "date": "2026-06-02",
-    "neighborhood": "Encino Hills"
-  },
-  {
-    "id": "007393-2026",
-    "lat": 32.6912,
-    "lng": -96.8814,
-    "offense": "theft from building <$100 (not shoplift)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 18,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "023910-2026",
-    "lat": 32.7065,
-    "lng": -96.8728,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-02-19",
-    "neighborhood": null
-  },
-  {
-    "id": "004031-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-08",
+    "date": "2025-12-20",
     "neighborhood": null
   },
   {
@@ -162,17 +19,6 @@
     "premise": "apartment complex/building",
     "hour": 23,
     "date": "2025-10-09",
-    "neighborhood": null
-  },
-  {
-    "id": "167378-2025",
-    "lat": 32.7204,
-    "lng": -96.8636,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2025-11-20",
     "neighborhood": null
   },
   {
@@ -195,17 +41,6 @@
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "071580-2026",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-05-18",
     "neighborhood": null
   },
   {

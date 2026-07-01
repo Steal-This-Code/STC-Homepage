@@ -1,126 +1,5 @@
 [
   {
-    "id": "811305-2026",
-    "lat": 32.8258,
-    "lng": -96.8224,
-    "offense": "harassment",
-    "group": "other",
-    "premise": null,
-    "hour": 11,
-    "date": "2026-05-26",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "800849-2026",
-    "lat": 32.8538,
-    "lng": -96.8403,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-01-12",
-    "neighborhood": "Shorecrest Estates"
-  },
-  {
-    "id": "175117-2025",
-    "lat": 32.8425,
-    "lng": -96.8242,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2025-12-06",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "068984-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "poss marijuana >2oz< or equal 4oz",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "018685-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "seized property (no offense)",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 8,
-    "date": "2026-02-09",
-    "neighborhood": null
-  },
-  {
-    "id": "068984-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "money laundering > or equal $150k < 300k pc34.02(e3)",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "015406-2026",
-    "lat": 32.85,
-    "lng": -96.8189,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "078202-2026",
-    "lat": 32.8356,
-    "lng": -96.8263,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 10,
-    "date": "2026-05-30",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
-    "id": "005401-2026",
-    "lat": 32.846,
-    "lng": -96.8321,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-01-01",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "042170-2026",
-    "lat": 32.8284,
-    "lng": -96.825,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2026-03-25",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "068984-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
     "id": "810307-2026",
     "lat": 32.8485,
     "lng": -96.8219,
@@ -198,17 +77,6 @@
     "neighborhood": "Elm Thicket or North Park"
   },
   {
-    "id": "812685-2026",
-    "lat": 32.8338,
-    "lng": -96.828,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 14,
-    "date": "2026-06-15",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
     "id": "096746-2025",
     "lat": 32.8499,
     "lng": -96.8203,
@@ -242,15 +110,15 @@
     "neighborhood": "Elm Thicket or North Park"
   },
   {
-    "id": "068984-2026",
-    "lat": 32.8447,
-    "lng": -96.8351,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 17,
-    "date": "2026-05-14",
-    "neighborhood": null
+    "id": "020475-2026",
+    "lat": 32.8362,
+    "lng": -96.8289,
+    "offense": "robbery of business (agg)",
+    "group": "violent",
+    "premise": "convenience store",
+    "hour": 21,
+    "date": "2026-02-12",
+    "neighborhood": "Highland Place / Bordeaux Village"
   },
   {
     "id": "078468-2026",
@@ -305,6 +173,17 @@
     "premise": "airport - love field",
     "hour": 0,
     "date": "2026-03-24",
+    "neighborhood": null
+  },
+  {
+    "id": "030805-2026",
+    "lat": 32.8327,
+    "lng": -96.8299,
+    "offense": "seized property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-03-04",
     "neighborhood": null
   }
 ]

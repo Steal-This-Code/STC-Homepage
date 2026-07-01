@@ -1,82 +1,5 @@
 [
   {
-    "id": "138782-2025",
-    "lat": 32.8366,
-    "lng": -96.78,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-09-25",
-    "neighborhood": null
-  },
-  {
-    "id": "805817-2026",
-    "lat": 32.817,
-    "lng": -96.7914,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-03-19",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "158381-2025",
-    "lat": 32.8234,
-    "lng": -96.7905,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-10-31",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "823892-2025",
-    "lat": 32.8483,
-    "lng": -96.8127,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2025-11-20",
-    "neighborhood": null
-  },
-  {
-    "id": "156914-2025",
-    "lat": 32.8263,
-    "lng": -96.7857,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 11,
-    "date": "2025-10-30",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "000239-2026",
-    "lat": 32.8175,
-    "lng": -96.7903,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-24",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "173815-2025",
-    "lat": 32.8214,
-    "lng": -96.7899,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-12-04",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "087844-2026",
     "lat": 32.8227,
     "lng": -96.7878,
@@ -132,17 +55,6 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "812682-2026",
-    "lat": 32.817,
-    "lng": -96.7914,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-06-23",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "810302-2026",
     "lat": 32.8231,
     "lng": -96.7887,
@@ -151,6 +63,39 @@
     "premise": "parking (business)",
     "hour": 16,
     "date": "2026-05-15",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "119233-2025",
+    "lat": 32.8456,
+    "lng": -96.7849,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 15,
+    "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "823892-2025",
+    "lat": 32.8483,
+    "lng": -96.8127,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "091529-2026",
+    "lat": 32.8227,
+    "lng": -96.7877,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-24",
     "neighborhood": "Knox Park"
   }
 ]

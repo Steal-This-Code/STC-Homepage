@@ -1,38 +1,5 @@
 [
   {
-    "id": "802534-2026",
-    "lat": 32.6934,
-    "lng": -96.8915,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "039322-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-20",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "092059-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-06-25",
-    "neighborhood": null
-  },
-  {
     "id": "801158-2026",
     "lat": 32.6667,
     "lng": -96.9409,
@@ -110,15 +77,37 @@
     "neighborhood": null
   },
   {
-    "id": "128615-2025",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2025-09-05",
+    "id": "002894-2026",
+    "lat": 32.668,
+    "lng": -96.8891,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-01-06",
     "neighborhood": null
+  },
+  {
+    "id": "812698-2026",
+    "lat": 32.667,
+    "lng": -96.9565,
+    "offense": "harassment",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "039322-2026",
+    "lat": 32.6953,
+    "lng": -96.9014,
+    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-03-20",
+    "neighborhood": "Country Creek"
   },
   {
     "id": "013732-2026",
