@@ -3,7 +3,7 @@
     "id": "046164-2026",
     "lat": 32.6642,
     "lng": -96.8944,
-    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
     "group": "other",
     "premise": "single family residence - occupied",
     "hour": 7,
