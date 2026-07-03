@@ -1,27 +1,5 @@
 [
   {
-    "id": "091902-2026",
-    "lat": 32.663,
-    "lng": -96.9462,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2026-06-25",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "090384-2026",
-    "lat": 32.624,
-    "lng": -96.9461,
-    "offense": "terroristic threat fear imminent sbi",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-06-19",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
     "id": "800695-2026",
     "lat": 32.6447,
     "lng": -96.9655,
@@ -33,25 +11,14 @@
     "neighborhood": null
   },
   {
-    "id": "079089-2026",
-    "lat": 32.6228,
-    "lng": -96.9452,
-    "offense": "harassment-repeated electronic comm - threat",
+    "id": "812710-2026",
+    "lat": 32.6491,
+    "lng": -96.9444,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-06-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "162211-2025",
-    "lat": 32.6573,
-    "lng": -96.9658,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2025-11-10",
-    "neighborhood": null
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-06-19",
+    "neighborhood": "Summit Parc"
   }
 ]
