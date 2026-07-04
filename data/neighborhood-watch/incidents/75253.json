@@ -1,13 +1,35 @@
 [
   {
-    "id": "089923-2026",
-    "lat": 32.6738,
-    "lng": -96.6061,
-    "offense": "theft of firearm",
+    "id": "078482-2026",
+    "lat": 32.663,
+    "lng": -96.6673,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "011864-2026",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-06-20",
+    "premise": "condominium/townhome parking",
+    "hour": 16,
+    "date": "2026-01-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "093720-2026",
+    "lat": 32.6836,
+    "lng": -96.6021,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-06-28",
     "neighborhood": "Kleberg"
   },
   {
@@ -19,6 +41,61 @@
     "premise": "parking (business)",
     "hour": 4,
     "date": "2026-06-26",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "086994-2026",
+    "lat": 32.6886,
+    "lng": -96.5579,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-06-14",
+    "neighborhood": null
+  },
+  {
+    "id": "087256-2026",
+    "lat": 32.6888,
+    "lng": -96.587,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-06-16",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "092203-2026",
+    "lat": 32.6788,
+    "lng": -96.5979,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 13,
+    "date": "2026-06-25",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "054139-2026",
+    "lat": 32.6736,
+    "lng": -96.6017,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 17,
+    "date": "2026-04-16",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "003625-2026",
+    "lat": 32.6709,
+    "lng": -96.5987,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-01-03",
     "neighborhood": "Kleberg"
   }
 ]
