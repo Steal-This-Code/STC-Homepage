@@ -1,5 +1,27 @@
 [
   {
+    "id": "811242-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-30",
+    "neighborhood": null
+  },
+  {
+    "id": "821924-2025",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-08-01",
+    "neighborhood": null
+  },
+  {
     "id": "093825-2026",
     "lat": 32.9247,
     "lng": -96.8234,
@@ -11,47 +33,36 @@
     "neighborhood": null
   },
   {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
+    "id": "093825-2026",
+    "lat": 32.9247,
+    "lng": -96.8234,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-06-27",
     "neighborhood": null
   },
   {
-    "id": "806823-2026",
-    "lat": 32.9104,
-    "lng": -96.853,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "002524-2026",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 12,
-    "date": "2026-03-31",
-    "neighborhood": "Glen Meadow Estates"
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-05",
+    "neighborhood": null
   },
   {
-    "id": "809956-2026",
-    "lat": 32.9108,
-    "lng": -96.8536,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "137975-2025",
+    "lat": 32.9248,
+    "lng": -96.8377,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 15,
-    "date": "2026-04-17",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 8,
-    "date": "2025-10-12",
+    "date": "2025-09-23",
     "neighborhood": null
   }
 ]

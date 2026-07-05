@@ -1,5 +1,60 @@
 [
   {
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "069343-2026",
+    "lat": 32.7937,
+    "lng": -96.7757,
+    "offense": "fail to id -fugitive from justice",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 9,
+    "date": "2026-05-15",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "082739-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-06-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "082739-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
+    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-06-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "082499-2026",
+    "lat": 32.7879,
+    "lng": -96.7799,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-06-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
     "id": "077530-2026",
     "lat": 32.7923,
     "lng": -96.7714,
@@ -11,36 +66,36 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "811715-2026",
-    "lat": 32.797,
-    "lng": -96.7683,
-    "offense": "bmv",
+    "id": "076366-2026",
+    "lat": 32.7928,
+    "lng": -96.7723,
+    "offense": "public intoxication",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-06-04",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-05-28",
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "088198-2026",
-    "lat": 32.7986,
-    "lng": -96.7712,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-17",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082499-2026",
-    "lat": 32.7879,
-    "lng": -96.7799,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
+    "id": "065532-2026",
+    "lat": 32.7921,
+    "lng": -96.7791,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-06-08",
+    "hour": 12,
+    "date": "2026-05-08",
     "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "082718-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-08",
+    "neighborhood": "Peak's Addition"
   }
 ]
