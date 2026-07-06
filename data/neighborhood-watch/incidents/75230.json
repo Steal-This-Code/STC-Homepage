@@ -77,14 +77,113 @@
     "neighborhood": null
   },
   {
-    "id": "071477-2026",
-    "lat": 32.9,
-    "lng": -96.7697,
-    "offense": "dwi",
+    "id": "086608-2026",
+    "lat": 32.9223,
+    "lng": -96.7825,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "093254-2026",
+    "lat": 32.8825,
+    "lng": -96.7802,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-06-27",
+    "neighborhood": "The Meadows"
+  },
+  {
+    "id": "079295-2026",
+    "lat": 32.9107,
+    "lng": -96.8117,
+    "offense": "unexplained death (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-05-19",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-06-01",
+    "neighborhood": "Melshire Estates"
+  },
+  {
+    "id": "004700-2026",
+    "lat": 32.9002,
+    "lng": -96.773,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 8,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "800648-2026",
+    "lat": 32.8869,
+    "lng": -96.7739,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2025-12-22",
+    "neighborhood": "High Hollows"
+  },
+  {
+    "id": "825462-2025",
+    "lat": 32.8903,
+    "lng": -96.7728,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2025-12-09",
+    "neighborhood": "High Hollows"
+  },
+  {
+    "id": "069961-2026",
+    "lat": 32.9156,
+    "lng": -96.8138,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 20,
+    "date": "2026-05-15",
+    "neighborhood": "Melshire Estates"
+  },
+  {
+    "id": "093341-2026",
+    "lat": 32.8911,
+    "lng": -96.7716,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 20,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
+    "id": "102306-2025",
+    "lat": 32.8954,
+    "lng": -96.7732,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2025-07-17",
+    "neighborhood": null
+  },
+  {
+    "id": "813013-2026",
+    "lat": 32.9109,
+    "lng": -96.8023,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 16,
+    "date": "2026-06-29",
     "neighborhood": null
   },
   {
@@ -110,58 +209,14 @@
     "neighborhood": null
   },
   {
-    "id": "093254-2026",
-    "lat": 32.8825,
-    "lng": -96.7802,
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-27",
-    "neighborhood": "The Meadows"
-  },
-  {
-    "id": "064987-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-05-07",
-    "neighborhood": null
-  },
-  {
-    "id": "801689-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
-    "id": "175925-2025",
-    "lat": 32.8947,
-    "lng": -96.7951,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2025-12-08",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "173712-2025",
-    "lat": 32.9224,
-    "lng": -96.7858,
-    "offense": "theft of material alum/brnze/copper <$20k enh pc31.03(f)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 0,
-    "date": "2025-11-03",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-12-03",
     "neighborhood": null
   }
 ]

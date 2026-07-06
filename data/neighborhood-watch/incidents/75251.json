@@ -66,47 +66,58 @@
     "neighborhood": null
   },
   {
-    "id": "800326-2026",
-    "lat": 32.9209,
-    "lng": -96.7733,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
     "id": "089009-2026",
     "lat": 32.9259,
     "lng": -96.7663,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
+    "offense": "poss marijuana <2oz",
+    "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2026-06-19",
     "neighborhood": null
   },
   {
-    "id": "028813-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "092428-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "apartment parking lot",
+    "premise": "hotel/motel/etc",
     "hour": 2,
-    "date": "2026-02-28",
+    "date": "2026-06-26",
     "neighborhood": null
   },
   {
-    "id": "036934-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
+    "id": "090060-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-03-14",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "093000-2026",
+    "lat": 32.9141,
+    "lng": -96.7699,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-06-27",
+    "neighborhood": null
+  },
+  {
+    "id": "004931-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 20,
+    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

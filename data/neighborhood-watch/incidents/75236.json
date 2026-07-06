@@ -44,47 +44,36 @@
     "neighborhood": null
   },
   {
-    "id": "128615-2025",
+    "id": "800819-2026",
+    "lat": 32.6977,
+    "lng": -96.8996,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 11,
+    "date": "2026-01-08",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "109338-2025",
+    "lat": 32.6917,
+    "lng": -96.9032,
+    "offense": "robbery of individual (agg)",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2025-08-01",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "070281-2026",
     "lat": 32.6675,
     "lng": -96.9282,
-    "offense": "bmv",
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2025-09-05",
-    "neighborhood": null
-  },
-  {
-    "id": "013732-2026",
-    "lat": 32.6742,
-    "lng": -96.9659,
-    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-01-25",
-    "neighborhood": null
-  },
-  {
-    "id": "015477-2026",
-    "lat": 32.6681,
-    "lng": -96.8912,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
-    "id": "043239-2026",
-    "lat": 32.665,
-    "lng": -96.9391,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-03-27",
+    "hour": 21,
+    "date": "2026-05-16",
     "neighborhood": null
   }
 ]

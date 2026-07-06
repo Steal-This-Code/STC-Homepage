@@ -66,17 +66,6 @@
     "neighborhood": null
   },
   {
-    "id": "070469-2026",
-    "lat": 32.8328,
-    "lng": -96.8742,
-    "offense": "dwi 2 or more prev conv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-05-17",
-    "neighborhood": null
-  },
-  {
     "id": "826869-2025",
     "lat": 32.8319,
     "lng": -96.8748,
@@ -110,6 +99,83 @@
     "neighborhood": "Southwestern Medical District"
   },
   {
+    "id": "090852-2026",
+    "lat": 32.8082,
+    "lng": -96.8885,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-05-15",
+    "neighborhood": null
+  },
+  {
+    "id": "166509-2025",
+    "lat": 32.8264,
+    "lng": -96.8809,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2025-11-13",
+    "neighborhood": null
+  },
+  {
+    "id": "090141-2026",
+    "lat": 32.8143,
+    "lng": -96.8732,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "175916-2025",
+    "lat": 32.8214,
+    "lng": -96.8633,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 6,
+    "date": "2025-12-09",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "091003-2026",
+    "lat": 32.8314,
+    "lng": -96.8729,
+    "offense": "harassment -preliminary investigation",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "153732-2025",
+    "lat": 32.8266,
+    "lng": -96.8732,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2025-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "064405-2026",
+    "lat": 32.8167,
+    "lng": -96.8905,
+    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k(emp) pc31.03(e4a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
     "id": "106379-2025",
     "lat": 32.8192,
     "lng": -96.8645,
@@ -132,102 +198,14 @@
     "neighborhood": null
   },
   {
-    "id": "175497-2025",
-    "lat": 32.8173,
-    "lng": -96.8675,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2025-11-28",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "006898-2026",
-    "lat": 32.8057,
-    "lng": -96.89,
-    "offense": "bmv",
+    "id": "000275-2026",
+    "lat": 32.8249,
+    "lng": -96.8699,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "094207-2026",
-    "lat": 32.8079,
-    "lng": -96.8772,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 18,
-    "date": "2026-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "103128-2025",
-    "lat": 32.8226,
-    "lng": -96.8768,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2025-07-19",
-    "neighborhood": null
-  },
-  {
-    "id": "030143-2026",
-    "lat": 32.8238,
-    "lng": -96.8772,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "801446-2026",
-    "lat": 32.8224,
-    "lng": -96.8801,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "business office",
+    "premise": "apartment residence",
     "hour": 14,
-    "date": "2025-12-10",
-    "neighborhood": null
-  },
-  {
-    "id": "090141-2026",
-    "lat": 32.8143,
-    "lng": -96.8732,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "007380-2026",
-    "lat": 32.8188,
-    "lng": -96.8709,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "044972-2026",
-    "lat": 32.8298,
-    "lng": -96.8866,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-03-30",
+    "date": "2026-01-01",
     "neighborhood": null
   }
 ]

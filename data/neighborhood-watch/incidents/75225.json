@@ -88,6 +88,116 @@
     "neighborhood": "Glen Lakes"
   },
   {
+    "id": "093396-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-06-27",
+    "neighborhood": null
+  },
+  {
+    "id": "094431-2026",
+    "lat": 32.859,
+    "lng": -96.7744,
+    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-06-15",
+    "neighborhood": "Caruth Hills"
+  },
+  {
+    "id": "183367-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "terroristic threat against pub serv (peace officer /judge",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "812239-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-06-16",
+    "neighborhood": null
+  },
+  {
+    "id": "092061-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 11,
+    "date": "2026-06-25",
+    "neighborhood": null
+  },
+  {
+    "id": "183367-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "fail to id -refuses to provide info",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "812539-2026",
+    "lat": 32.8678,
+    "lng": -96.788,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2026-06-19",
+    "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "091909-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 15,
+    "date": "2026-06-24",
+    "neighborhood": null
+  },
+  {
+    "id": "013039-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 17,
+    "date": "2026-01-28",
+    "neighborhood": null
+  },
+  {
+    "id": "064681-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
     "id": "825882-2025",
     "lat": 32.8696,
     "lng": -96.7707,
@@ -97,38 +207,5 @@
     "hour": 15,
     "date": "2025-12-13",
     "neighborhood": null
-  },
-  {
-    "id": "812185-2026",
-    "lat": 32.863,
-    "lng": -96.8082,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "financial institution",
-    "hour": 18,
-    "date": "2026-05-30",
-    "neighborhood": null
-  },
-  {
-    "id": "057927-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-04-23",
-    "neighborhood": null
-  },
-  {
-    "id": "011786-2026",
-    "lat": 32.8665,
-    "lng": -96.7914,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-01-24",
-    "neighborhood": "Preston Hollow"
   }
 ]
