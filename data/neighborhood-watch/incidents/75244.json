@@ -1,27 +1,5 @@
 [
   {
-    "id": "811242-2026",
-    "lat": 32.9118,
-    "lng": -96.8174,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-05-30",
-    "neighborhood": null
-  },
-  {
-    "id": "821924-2025",
-    "lat": 32.9118,
-    "lng": -96.8174,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2025-08-01",
-    "neighborhood": null
-  },
-  {
     "id": "093825-2026",
     "lat": 32.9247,
     "lng": -96.8234,
@@ -31,94 +9,6 @@
     "hour": 21,
     "date": "2026-06-27",
     "neighborhood": null
-  },
-  {
-    "id": "093825-2026",
-    "lat": 32.9247,
-    "lng": -96.8234,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "177730-2025",
-    "lat": 32.924,
-    "lng": -96.8366,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-12-12",
-    "neighborhood": null
-  },
-  {
-    "id": "808342-2026",
-    "lat": 32.9118,
-    "lng": -96.8174,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 4,
-    "date": "2026-04-10",
-    "neighborhood": null
-  },
-  {
-    "id": "067671-2026",
-    "lat": 32.9168,
-    "lng": -96.8178,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "809961-2026",
-    "lat": 32.9231,
-    "lng": -96.8363,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 22,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
-    "neighborhood": null
-  },
-  {
-    "id": "806823-2026",
-    "lat": 32.9104,
-    "lng": -96.853,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 12,
-    "date": "2026-03-31",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "809956-2026",
-    "lat": 32.9108,
-    "lng": -96.8536,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 15,
-    "date": "2026-04-17",
-    "neighborhood": "Glen Meadow Estates"
   },
   {
     "id": "147134-2025",

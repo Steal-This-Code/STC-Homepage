@@ -1,71 +1,5 @@
 [
   {
-    "id": "801067-2026",
-    "lat": 32.6832,
-    "lng": -96.5628,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 3,
-    "date": "2026-01-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "093720-2026",
-    "lat": 32.6836,
-    "lng": -96.6021,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-28",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "084197-2026",
-    "lat": 32.6693,
-    "lng": -96.6107,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 21,
-    "date": "2026-06-10",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "091812-2026",
-    "lat": 32.6903,
-    "lng": -96.5728,
-    "offense": "theft from person-purse snatc",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-06-24",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "011864-2026",
-    "lat": 32.6986,
-    "lng": -96.5777,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 16,
-    "date": "2026-01-24",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "822499-2025",
-    "lat": 32.6903,
-    "lng": -96.64,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-31",
-    "neighborhood": "Rylie"
-  },
-  {
     "id": "011864-2026",
     "lat": 32.6986,
     "lng": -96.5777,
@@ -96,17 +30,6 @@
     "premise": "parking (business)",
     "hour": 4,
     "date": "2026-06-26",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "003490-2026",
-    "lat": 32.6892,
-    "lng": -96.5632,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 17,
-    "date": "2026-01-07",
     "neighborhood": "Kleberg"
   }
 ]
