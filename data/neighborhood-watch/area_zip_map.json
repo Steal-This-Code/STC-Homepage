@@ -24,12 +24,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "103",
-    "area_name": "Liberty Heights",
-    "zip_codes": "75216",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "104",
     "area_name": "Kiest-Polk",
     "zip_codes": "75224",
@@ -39,12 +33,6 @@
     "area_id": "105",
     "area_name": "Oak Park Estates",
     "zip_codes": "75224",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "107",
-    "area_name": "Kessler Plaza",
-    "zip_codes": "75208",
     "area_type": "neighborhood"
   },
   {
@@ -74,7 +62,7 @@
   {
     "area_id": "112",
     "area_name": "Maple Lawn",
-    "zip_codes": "75209",
+    "zip_codes": ["75209", "75235"],
     "area_type": "neighborhood"
   },
   {
@@ -93,12 +81,6 @@
     "area_id": "117",
     "area_name": "Abrams-Brookside",
     "zip_codes": "75214",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "118",
-    "area_name": "Hollywood Heights / Santa Monica",
-    "zip_codes": "75223",
     "area_type": "neighborhood"
   },
   {
@@ -153,6 +135,12 @@
     "area_id": "128",
     "area_name": "Marsalis Park",
     "zip_codes": "75216",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "13",
+    "area_name": "East Kessler Park",
+    "zip_codes": "75208",
     "area_type": "neighborhood"
   },
   {
@@ -234,6 +222,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "149",
+    "area_name": "White Rock Village",
+    "zip_codes": "75228",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "15",
     "area_name": "La Bajada",
     "zip_codes": "75212",
@@ -242,7 +236,7 @@
   {
     "area_id": "153",
     "area_name": "Rylie",
-    "zip_codes": "75217",
+    "zip_codes": ["75217", "75253"],
     "area_type": "neighborhood"
   },
   {
@@ -261,6 +255,12 @@
     "area_id": "156",
     "area_name": "Cigarette Hill",
     "zip_codes": "75241",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "157",
+    "area_name": "Arden Terrace",
+    "zip_codes": "75216",
     "area_type": "neighborhood"
   },
   {
@@ -342,12 +342,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "178",
-    "area_name": "Forest Hills",
-    "zip_codes": "75218",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "18",
     "area_name": "Victory Park",
     "zip_codes": ["75201", "75219"],
@@ -375,6 +369,18 @@
     "area_id": "184",
     "area_name": "Wheatland Meadows",
     "zip_codes": "75241",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "185",
+    "area_name": "Oakland Terrace",
+    "zip_codes": "75232",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "186",
+    "area_name": "Woodland Canyon",
+    "zip_codes": "75232",
     "area_type": "neighborhood"
   },
   {
@@ -426,6 +432,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "200",
+    "area_name": "Shorecrest Estates",
+    "zip_codes": "75209",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "201",
     "area_name": "Bluffview",
     "zip_codes": "75209",
@@ -438,8 +450,26 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "204",
+    "area_name": "Caruth Terrace",
+    "zip_codes": "75214",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "205",
     "area_name": "Hillside",
+    "zip_codes": "75214",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "207",
+    "area_name": "White Rock",
+    "zip_codes": "75214",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "208",
+    "area_name": "The Cloisters",
     "zip_codes": "75214",
     "area_type": "neighborhood"
   },
@@ -465,6 +495,18 @@
     "area_id": "211",
     "area_name": "Casa Linda Estates",
     "zip_codes": "75218",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "213",
+    "area_name": "Alger Park / Ash Creek",
+    "zip_codes": "75228",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "215",
+    "area_name": "Crestview Park",
+    "zip_codes": "75228",
     "area_type": "neighborhood"
   },
   {
@@ -540,21 +582,33 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "231",
-    "area_name": "Ridgewood Park",
-    "zip_codes": "75214",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "232",
     "area_name": "Merriman Park / University Manor",
     "zip_codes": "75231",
     "area_type": "neighborhood"
   },
   {
+    "area_id": "233",
+    "area_name": "University Terrace",
+    "zip_codes": "75214",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "234",
+    "area_name": "The Peninsula",
+    "zip_codes": "75218",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "235",
     "area_name": "Old Lake Highlands",
     "zip_codes": ["75218", "75238"],
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "236",
+    "area_name": "Eastwood Estates",
+    "zip_codes": "75218",
     "area_type": "neighborhood"
   },
   {
@@ -588,6 +642,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "248",
+    "area_name": "Sparkman Club Estates",
+    "zip_codes": "75229",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "249",
     "area_name": "Joe's Creek-Walnut Garden",
     "zip_codes": "75229",
@@ -596,7 +656,7 @@
   {
     "area_id": "25",
     "area_name": "Baylor / Meadows",
-    "zip_codes": ["75204", "75226"],
+    "zip_codes": ["75204", "75226", "75246"],
     "area_type": "neighborhood"
   },
   {
@@ -612,15 +672,15 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "26",
-    "area_name": "Deep Ellum",
-    "zip_codes": ["75201", "75226"],
+    "area_id": "258",
+    "area_name": "Brookshire Park",
+    "zip_codes": "75230",
     "area_type": "neighborhood"
   },
   {
-    "area_id": "260",
-    "area_name": "High Hollows",
-    "zip_codes": "75230",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
+    "zip_codes": ["75201", "75226"],
     "area_type": "neighborhood"
   },
   {
@@ -632,6 +692,12 @@
   {
     "area_id": "262",
     "area_name": "Vickery Meadow(s)",
+    "zip_codes": "75231",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "266",
+    "area_name": "Merriman Park Estates",
     "zip_codes": "75231",
     "area_type": "neighborhood"
   },
@@ -684,12 +750,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "276",
-    "area_name": "Briarwood",
-    "zip_codes": "75228",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "277",
     "area_name": "Braeburn Glen",
     "zip_codes": "75228",
@@ -726,8 +786,14 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "288",
-    "area_name": "Forest Meadow",
+    "area_id": "289",
+    "area_name": "Stults Road",
+    "zip_codes": "75243",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "290",
+    "area_name": "Northwood Heights",
     "zip_codes": "75243",
     "area_type": "neighborhood"
   },
@@ -758,7 +824,7 @@
   {
     "area_id": "30",
     "area_name": "Edgewood Place",
-    "zip_codes": ["75215", "75217"],
+    "zip_codes": "75215",
     "area_type": "neighborhood"
   },
   {
@@ -804,9 +870,15 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "313",
+    "area_name": "Whispering Hills",
+    "zip_codes": "75243",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "318",
     "area_name": "Preston Citadel",
-    "zip_codes": "75240",
+    "zip_codes": ["75230", "75240"],
     "area_type": "neighborhood"
   },
   {
@@ -825,12 +897,6 @@
     "area_id": "321",
     "area_name": "Willow Falls",
     "zip_codes": "75240",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "322",
-    "area_name": "Northwood Hills",
-    "zip_codes": "75254",
     "area_type": "neighborhood"
   },
   {
@@ -870,12 +936,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "333",
-    "area_name": "Campbell Green",
-    "zip_codes": "75248",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "337",
     "area_name": "Meadow Glen",
     "zip_codes": "75287",
@@ -894,12 +954,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "344",
-    "area_name": "Highlands of McKamy",
-    "zip_codes": "75252",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "346",
     "area_name": "Preston Highlands",
     "zip_codes": "75252",
@@ -909,12 +963,6 @@
     "area_id": "35",
     "area_name": "Ruthmeade Place",
     "zip_codes": "75208",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "350",
-    "area_name": "Parkway Village",
-    "zip_codes": "75287",
     "area_type": "neighborhood"
   },
   {
@@ -956,12 +1004,6 @@
   {
     "area_id": "364",
     "area_name": "Glen Hills",
-    "zip_codes": "75232",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "365",
-    "area_name": "Elderwood",
     "zip_codes": "75232",
     "area_type": "neighborhood"
   },
@@ -1166,7 +1208,7 @@
   {
     "area_id": "62",
     "area_name": "Beckleywood",
-    "zip_codes": "75215",
+    "zip_codes": "75224",
     "area_type": "neighborhood"
   },
   {
@@ -1184,7 +1226,7 @@
   {
     "area_id": "65",
     "area_name": "La Loma",
-    "zip_codes": ["75208", "75212"],
+    "zip_codes": "75208",
     "area_type": "neighborhood"
   },
   {
@@ -1214,7 +1256,7 @@
   {
     "area_id": "70",
     "area_name": "Henderson",
-    "zip_codes": ["75204", "75206"],
+    "zip_codes": "75206",
     "area_type": "neighborhood"
   },
   {
@@ -1298,13 +1340,7 @@
   {
     "area_id": "89",
     "area_name": "Southwestern Medical District",
-    "zip_codes": ["75235", "75247"],
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "9",
-    "area_name": "The Bottoms",
-    "zip_codes": "75203",
+    "zip_codes": ["75207", "75235", "75247"],
     "area_type": "neighborhood"
   },
   {
@@ -1338,12 +1374,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "95",
-    "area_name": "Enclave at Grove Hill",
-    "zip_codes": "75227",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "96",
     "area_name": "Buckner Terrace",
     "zip_codes": ["75227", "75228"],
@@ -1374,9 +1404,15 @@
     "area_type": "zip"
   },
   {
+    "area_id": "75052",
+    "area_name": "ZCTA5 75052",
+    "zip_codes": "75052",
+    "area_type": "zip"
+  },
+  {
     "area_id": "75201",
     "area_name": "ZCTA5 75201",
-    "zip_codes": ["75201", "75202", "75204", "75226"],
+    "zip_codes": ["75201", "75202", "75219", "75226"],
     "area_type": "zip"
   },
   {
@@ -1406,19 +1442,19 @@
   {
     "area_id": "75206",
     "area_name": "ZCTA5 75206",
-    "zip_codes": ["75204", "75206", "75231"],
+    "zip_codes": ["75204", "75206"],
     "area_type": "zip"
   },
   {
     "area_id": "75207",
     "area_name": "ZCTA5 75207",
-    "zip_codes": ["75202", "75207"],
+    "zip_codes": "75207",
     "area_type": "zip"
   },
   {
     "area_id": "75208",
     "area_name": "ZCTA5 75208",
-    "zip_codes": ["75202", "75203", "75208", "75212"],
+    "zip_codes": ["75203", "75208"],
     "area_type": "zip"
   },
   {
@@ -1448,25 +1484,25 @@
   {
     "area_id": "75214",
     "area_name": "ZCTA5 75214",
-    "zip_codes": ["75206", "75214", "75226", "75231"],
+    "zip_codes": ["75206", "75214", "75218", "75231"],
     "area_type": "zip"
   },
   {
     "area_id": "75215",
     "area_name": "ZCTA5 75215",
-    "zip_codes": ["75208", "75215", "75217"],
+    "zip_codes": ["75202", "75208", "75215"],
     "area_type": "zip"
   },
   {
     "area_id": "75216",
     "area_name": "ZCTA5 75216",
-    "zip_codes": ["75203", "75216", "75224"],
+    "zip_codes": ["75203", "75216", "75224", "75241"],
     "area_type": "zip"
   },
   {
     "area_id": "75217",
     "area_name": "ZCTA5 75217",
-    "zip_codes": ["75217", "75227"],
+    "zip_codes": ["75217", "75253"],
     "area_type": "zip"
   },
   {
@@ -1478,13 +1514,13 @@
   {
     "area_id": "75219",
     "area_name": "ZCTA5 75219",
-    "zip_codes": ["75201", "75204", "75219"],
+    "zip_codes": ["75201", "75204", "75219", "75235"],
     "area_type": "zip"
   },
   {
     "area_id": "75220",
     "area_name": "ZCTA5 75220",
-    "zip_codes": "75220",
+    "zip_codes": ["75220", "75229"],
     "area_type": "zip"
   },
   {
@@ -1496,7 +1532,7 @@
   {
     "area_id": "75224",
     "area_name": "ZCTA5 75224",
-    "zip_codes": ["75215", "75216", "75224", "75226"],
+    "zip_codes": ["75216", "75224", "75226"],
     "area_type": "zip"
   },
   {
@@ -1520,7 +1556,7 @@
   {
     "area_id": "75228",
     "area_name": "ZCTA5 75228",
-    "zip_codes": "75228",
+    "zip_codes": ["75218", "75228"],
     "area_type": "zip"
   },
   {
@@ -1532,7 +1568,7 @@
   {
     "area_id": "75230",
     "area_name": "ZCTA5 75230",
-    "zip_codes": ["75230", "75231", "75240"],
+    "zip_codes": ["75230", "75231", "75240", "75251"],
     "area_type": "zip"
   },
   {
@@ -1568,7 +1604,7 @@
   {
     "area_id": "75236",
     "area_name": "ZCTA5 75236",
-    "zip_codes": ["75211", "75236"],
+    "zip_codes": ["75211", "75236", "75237"],
     "area_type": "zip"
   },
   {
@@ -1586,7 +1622,7 @@
   {
     "area_id": "75240",
     "area_name": "ZCTA5 75240",
-    "zip_codes": ["75240", "75243", "75251", "75254"],
+    "zip_codes": ["75230", "75240", "75243", "75251"],
     "area_type": "zip"
   },
   {
@@ -1610,7 +1646,7 @@
   {
     "area_id": "75246",
     "area_name": "ZCTA5 75246",
-    "zip_codes": "75246",
+    "zip_codes": ["75226", "75246"],
     "area_type": "zip"
   },
   {

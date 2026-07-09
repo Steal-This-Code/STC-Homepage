@@ -1,24 +1,13 @@
 [
   {
-    "id": "109338-2025",
-    "lat": 32.6917,
-    "lng": -96.9032,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2025-08-01",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "070281-2026",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "011611-2026",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "public intoxication",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-05-16",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-01-24",
     "neighborhood": null
   },
   {
@@ -162,17 +151,6 @@
     "premise": "apartment residence",
     "hour": 12,
     "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "128615-2025",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2025-09-05",
     "neighborhood": null
   }
 ]

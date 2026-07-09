@@ -1,25 +1,14 @@
 [
   {
-    "id": "811715-2026",
-    "lat": 32.797,
-    "lng": -96.7683,
-    "offense": "bmv",
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-06-04",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "088198-2026",
-    "lat": 32.7986,
-    "lng": -96.7712,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-17",
-    "neighborhood": "Peak's Addition"
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
   },
   {
     "id": "015672-2026",
