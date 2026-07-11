@@ -9,5 +9,38 @@
     "hour": 7,
     "date": "2025-10-14",
     "neighborhood": null
+  },
+  {
+    "id": "091622-2026",
+    "lat": 32.9098,
+    "lng": -96.8716,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "824874-2025",
+    "lat": 32.9136,
+    "lng": -96.8733,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-11-30",
+    "neighborhood": null
+  },
+  {
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
+    "neighborhood": null
   }
 ]

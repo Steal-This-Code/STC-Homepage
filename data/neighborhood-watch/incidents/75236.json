@@ -1,13 +1,13 @@
 [
   {
-    "id": "011611-2026",
-    "lat": 32.6637,
-    "lng": -96.8892,
-    "offense": "public intoxication",
+    "id": "070281-2026",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-01-24",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-05-16",
     "neighborhood": null
   },
   {
@@ -63,94 +63,6 @@
     "premise": "apartment parking lot",
     "hour": 13,
     "date": "2026-01-18",
-    "neighborhood": null
-  },
-  {
-    "id": "007084-2026",
-    "lat": 32.7079,
-    "lng": -96.8928,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 9,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "109338-2025",
-    "lat": 32.6917,
-    "lng": -96.9032,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2025-08-01",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "071916-2026",
-    "lat": 32.7,
-    "lng": -96.9218,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "045441-2026",
-    "lat": 32.687,
-    "lng": -96.9003,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-03-30",
-    "neighborhood": null
-  },
-  {
-    "id": "002894-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 21,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "039322-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-20",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "016008-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "089861-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "arson intend damage habitat/place of worship",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-06-21",
     "neighborhood": null
   }
 ]

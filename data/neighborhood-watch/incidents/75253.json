@@ -22,17 +22,6 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "091812-2026",
-    "lat": 32.6903,
-    "lng": -96.5728,
-    "offense": "theft from person-purse snatc",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-06-24",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "011864-2026",
     "lat": 32.6986,
     "lng": -96.5777,
@@ -53,6 +42,17 @@
     "hour": 7,
     "date": "2025-10-31",
     "neighborhood": "Rylie"
+  },
+  {
+    "id": "003490-2026",
+    "lat": 32.6892,
+    "lng": -96.5632,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Kleberg"
   },
   {
     "id": "086994-2026",
@@ -107,39 +107,6 @@
     "premise": "single family residence - occupied",
     "hour": 16,
     "date": "2026-01-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "071214-2026",
-    "lat": 32.6828,
-    "lng": -96.6172,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "field/woods",
-    "hour": 13,
-    "date": "2026-05-18",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "801067-2026",
-    "lat": 32.6832,
-    "lng": -96.5628,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 3,
-    "date": "2026-01-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "070018-2026",
-    "lat": 32.6963,
-    "lng": -96.5785,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-05-15",
     "neighborhood": "Kleberg"
   }
 ]
