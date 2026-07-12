@@ -1,68 +1,35 @@
 [
   {
-    "id": "070281-2026",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "802534-2026",
-    "lat": 32.6934,
+    "id": "016008-2026",
+    "lat": 32.6935,
     "lng": -96.8915,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "039322-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-20",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "801158-2026",
-    "lat": 32.6667,
-    "lng": -96.9409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "072104-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "009285-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "motor vehicle theft - attempt",
+    "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment parking lot",
-    "hour": 13,
-    "date": "2026-01-18",
+    "hour": 21,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "089861-2026",
+    "lat": 32.6935,
+    "lng": -96.8915,
+    "offense": "arson intend damage habitat/place of worship",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2025-09-05",
     "neighborhood": null
   }
 ]

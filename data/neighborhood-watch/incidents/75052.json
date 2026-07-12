@@ -1,16 +1,5 @@
 [
   {
-    "id": "812998-2026",
-    "lat": 32.6679,
-    "lng": -97.0093,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "atm separate from bank",
-    "hour": 9,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
     "id": "007928-2026",
     "lat": 32.6562,
     "lng": -96.9795,
