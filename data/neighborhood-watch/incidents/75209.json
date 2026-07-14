@@ -143,6 +143,72 @@
     "neighborhood": null
   },
   {
+    "id": "135750-2025",
+    "lat": 32.8257,
+    "lng": -96.8203,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 20,
+    "date": "2025-09-19",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "175117-2025",
+    "lat": 32.8425,
+    "lng": -96.8242,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 23,
+    "date": "2025-12-06",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "812685-2026",
+    "lat": 32.8338,
+    "lng": -96.828,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-15",
+    "neighborhood": "Highland Place / Bordeaux Village"
+  },
+  {
+    "id": "015406-2026",
+    "lat": 32.85,
+    "lng": -96.8189,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "078202-2026",
+    "lat": 32.8356,
+    "lng": -96.8263,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "condominium/townhome parking",
+    "hour": 10,
+    "date": "2026-05-30",
+    "neighborhood": "Highland Place / Bordeaux Village"
+  },
+  {
+    "id": "005401-2026",
+    "lat": 32.846,
+    "lng": -96.8321,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-01-01",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
     "id": "042170-2026",
     "lat": 32.8284,
     "lng": -96.825,
@@ -220,146 +286,36 @@
     "neighborhood": "Highland Place / Bordeaux Village"
   },
   {
-    "id": "046476-2026",
-    "lat": 32.8423,
-    "lng": -96.8312,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 20,
-    "date": "2026-04-01",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "812518-2026",
-    "lat": 32.8306,
-    "lng": -96.8286,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "087495-2026",
-    "lat": 32.8298,
-    "lng": -96.8225,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-06-16",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "175117-2025",
-    "lat": 32.8425,
-    "lng": -96.8242,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2025-12-06",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "020475-2026",
-    "lat": 32.8362,
-    "lng": -96.8289,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 21,
-    "date": "2026-02-12",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
-    "id": "812518-2026",
-    "lat": 32.8306,
-    "lng": -96.8286,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "078468-2026",
-    "lat": 32.8358,
-    "lng": -96.8263,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 1,
-    "date": "2026-05-31",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
-    "id": "016366-2026",
-    "lat": 32.8468,
-    "lng": -96.8326,
-    "offense": "unlawful installation of tracking device",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-21",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "016580-2026",
-    "lat": 32.8514,
-    "lng": -96.8167,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2026-02-01",
-    "neighborhood": "Devonshire"
-  },
-  {
-    "id": "016768-2026",
-    "lat": 32.8552,
-    "lng": -96.8464,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-02-05",
-    "neighborhood": null
-  },
-  {
-    "id": "089281-2026",
-    "lat": 32.8443,
-    "lng": -96.8222,
-    "offense": "bmv",
+    "id": "825854-2025",
+    "lat": 32.8518,
+    "lng": -96.8221,
+    "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 13,
+    "hour": 12,
+    "date": "2025-12-14",
+    "neighborhood": "Bluffview"
+  },
+  {
+    "id": "812518-2026",
+    "lat": 32.8306,
+    "lng": -96.8286,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
     "date": "2026-06-18",
-    "neighborhood": "Elm Thicket or North Park"
+    "neighborhood": null
   },
   {
-    "id": "114736-2025",
-    "lat": 32.8263,
-    "lng": -96.8196,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 16,
-    "date": "2025-08-10",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "175889-2025",
-    "lat": 32.827,
-    "lng": -96.8203,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-12-09",
-    "neighborhood": "Oak Lawn"
+    "id": "811636-2026",
+    "lat": 32.8518,
+    "lng": -96.8221,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 11,
+    "date": "2026-06-06",
+    "neighborhood": "Bluffview"
   }
 ]

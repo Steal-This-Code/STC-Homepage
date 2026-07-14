@@ -1,5 +1,27 @@
 [
   {
+    "id": "800695-2026",
+    "lat": 32.6447,
+    "lng": -96.9655,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "condominium/townhome residence",
+    "hour": 19,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "079089-2026",
+    "lat": 32.6228,
+    "lng": -96.9452,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-01",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
     "id": "162211-2025",
     "lat": 32.6573,
     "lng": -96.9658,
@@ -9,38 +31,5 @@
     "hour": 21,
     "date": "2025-11-10",
     "neighborhood": null
-  },
-  {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
-  },
-  {
-    "id": "820556-2025",
-    "lat": 32.6531,
-    "lng": -96.9443,
-    "offense": "accident inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-10-03",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "161212-2025",
-    "lat": 32.6248,
-    "lng": -96.9503,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2025-11-09",
-    "neighborhood": "Woods-Sugarberry"
   }
 ]
