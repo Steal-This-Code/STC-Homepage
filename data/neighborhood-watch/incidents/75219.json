@@ -1,13 +1,24 @@
 [
   {
-    "id": "813229-2026",
-    "lat": 32.8138,
-    "lng": -96.8211,
-    "offense": "harassment - threat",
+    "id": "168232-2025",
+    "lat": 32.7906,
+    "lng": -96.8115,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 18,
+    "date": "2025-11-22",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "808609-2026",
+    "lat": 32.8096,
+    "lng": -96.8113,
+    "offense": "harassment - non-threatening",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-07-02",
+    "hour": 1,
+    "date": "2026-04-22",
     "neighborhood": "Oak Lawn"
   },
   {
@@ -41,6 +52,17 @@
     "premise": "apartment complex/building",
     "hour": 18,
     "date": "2026-06-21",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "097658-2026",
+    "lat": 32.7888,
+    "lng": -96.8093,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-07-05",
     "neighborhood": "Oak Lawn"
   },
   {
@@ -231,6 +253,105 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "813749-2026",
+    "lat": 32.8143,
+    "lng": -96.8017,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "business office",
+    "hour": 14,
+    "date": "2026-07-09",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "800370-2026",
+    "lat": 32.8156,
+    "lng": -96.8105,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "pharmacy",
+    "hour": 18,
+    "date": "2025-12-29",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "816889-2025",
+    "lat": 32.7888,
+    "lng": -96.8093,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2025-08-08",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "071271-2026",
+    "lat": 32.8075,
+    "lng": -96.818,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 1,
+    "date": "2026-05-18",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "004689-2026",
+    "lat": 32.8134,
+    "lng": -96.8266,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-01-10",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "046006-2026",
+    "lat": 32.81,
+    "lng": -96.8071,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "department/discount store",
+    "hour": 10,
+    "date": "2026-04-01",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "810888-2026",
+    "lat": 32.8146,
+    "lng": -96.8051,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-05-26",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "042931-2026",
+    "lat": 32.809,
+    "lng": -96.8167,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 15,
+    "date": "2026-03-25",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "181520-2025",
+    "lat": 32.8144,
+    "lng": -96.8195,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2025-12-19",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "082537-2026",
     "lat": 32.8105,
     "lng": -96.8096,
@@ -297,6 +418,28 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "103349-2026",
+    "lat": 32.8164,
+    "lng": -96.8111,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 6,
+    "date": "2026-07-15",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "085598-2026",
+    "lat": 32.8071,
+    "lng": -96.8104,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-13",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "091935-2026",
     "lat": 32.8169,
     "lng": -96.815,
@@ -305,6 +448,28 @@
     "premise": "highway, street, alley etc",
     "hour": 19,
     "date": "2026-06-24",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "085598-2026",
+    "lat": 32.8071,
+    "lng": -96.8104,
+    "offense": "resist arrest search or transport",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-13",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "065770-2026",
+    "lat": 32.7874,
+    "lng": -96.8094,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-05-08",
     "neighborhood": "Oak Lawn"
   },
   {
@@ -338,6 +503,17 @@
     "premise": "apartment complex/building",
     "hour": 10,
     "date": "2026-04-21",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "074529-2026",
+    "lat": 32.8017,
+    "lng": -96.8098,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-05-24",
     "neighborhood": "Oak Lawn"
   },
   {
@@ -396,6 +572,17 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "051749-2026",
+    "lat": 32.808,
+    "lng": -96.8049,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-04-11",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "029043-2026",
     "lat": 32.8105,
     "lng": -96.8119,
@@ -418,6 +605,17 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "103252-2026",
+    "lat": 32.8076,
+    "lng": -96.8113,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 14,
+    "date": "2026-07-15",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "070079-2026",
     "lat": 32.8019,
     "lng": -96.8123,
@@ -426,6 +624,17 @@
     "premise": "park",
     "hour": 13,
     "date": "2026-05-16",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "013474-2026",
+    "lat": 32.8176,
+    "lng": -96.8231,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-01-28",
     "neighborhood": "Oak Lawn"
   },
   {
@@ -517,6 +726,28 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "094190-2026",
+    "lat": 32.8108,
+    "lng": -96.8068,
+    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-06-29",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "099439-2026",
+    "lat": 32.8148,
+    "lng": -96.8214,
+    "offense": "assault -pregnant person",
+    "group": "violent",
+    "premise": "park",
+    "hour": 15,
+    "date": "2026-07-08",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "006607-2026",
     "lat": 32.8074,
     "lng": -96.8157,
@@ -605,47 +836,14 @@
     "neighborhood": "Oak Lawn"
   },
   {
-    "id": "080011-2026",
-    "lat": 32.8145,
-    "lng": -96.8167,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "id": "812940-2026",
+    "lat": 32.8108,
+    "lng": -96.8109,
+    "offense": "theft from person-pickpocke",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 7,
-    "date": "2026-06-03",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "159639-2025",
-    "lat": 32.7882,
-    "lng": -96.8107,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2025-11-06",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "143132-2025",
-    "lat": 32.8157,
-    "lng": -96.8092,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2025-10-04",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "800312-2026",
-    "lat": 32.8102,
-    "lng": -96.8085,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-05",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 2,
+    "date": "2026-06-27",
     "neighborhood": "Oak Lawn"
   }
 ]

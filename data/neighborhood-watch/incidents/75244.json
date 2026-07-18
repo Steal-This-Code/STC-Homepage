@@ -75,16 +75,5 @@
     "hour": 22,
     "date": "2026-03-31",
     "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
-    "neighborhood": null
   }
 ]

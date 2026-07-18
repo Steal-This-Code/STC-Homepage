@@ -132,6 +132,17 @@
     "neighborhood": null
   },
   {
+    "id": "103238-2026",
+    "lat": 32.766,
+    "lng": -96.8732,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
     "id": "112080-2025",
     "lat": 32.7187,
     "lng": -96.8766,
@@ -173,6 +184,116 @@
     "premise": "single family residence - occupied",
     "hour": 21,
     "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "099345-2026",
+    "lat": 32.7659,
+    "lng": -96.9008,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "078890-2026",
+    "lat": 32.7571,
+    "lng": -96.8661,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 7,
+    "date": "2026-06-01",
+    "neighborhood": null
+  },
+  {
+    "id": "009767-2026",
+    "lat": 32.7137,
+    "lng": -96.8913,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-01-20",
+    "neighborhood": null
+  },
+  {
+    "id": "000130-2026",
+    "lat": 32.7263,
+    "lng": -96.8662,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "806808-2026",
+    "lat": 32.757,
+    "lng": -96.8597,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-03-30",
+    "neighborhood": null
+  },
+  {
+    "id": "094773-2026",
+    "lat": 32.7076,
+    "lng": -96.912,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
+    "id": "072494-2026",
+    "lat": 32.7513,
+    "lng": -96.9128,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-05-21",
+    "neighborhood": "Arcadia Park"
+  },
+  {
+    "id": "022539-2026",
+    "lat": 32.7198,
+    "lng": -96.8888,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
+    "id": "023346-2026",
+    "lat": 32.7481,
+    "lng": -96.8612,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-02-18",
+    "neighborhood": null
+  },
+  {
+    "id": "103590-2026",
+    "lat": 32.7575,
+    "lng": -96.8602,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-07-15",
     "neighborhood": null
   },
   {
@@ -228,6 +349,17 @@
     "premise": "parking (business)",
     "hour": 10,
     "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
+    "id": "100394-2026",
+    "lat": 32.7478,
+    "lng": -96.8589,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-07-07",
     "neighborhood": null
   },
   {
@@ -341,6 +473,17 @@
     "neighborhood": null
   },
   {
+    "id": "100385-2026",
+    "lat": 32.7497,
+    "lng": -96.9138,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-07-09",
+    "neighborhood": "Arcadia Park"
+  },
+  {
     "id": "084646-2026",
     "lat": 32.7183,
     "lng": -96.9076,
@@ -407,6 +550,17 @@
     "neighborhood": null
   },
   {
+    "id": "101980-2026",
+    "lat": 32.7528,
+    "lng": -96.874,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "other",
+    "hour": 19,
+    "date": "2026-07-12",
+    "neighborhood": null
+  },
+  {
     "id": "045366-2026",
     "lat": 32.7524,
     "lng": -96.8895,
@@ -415,6 +569,17 @@
     "premise": "industrial/manufacturing",
     "hour": 16,
     "date": "2026-03-29",
+    "neighborhood": null
+  },
+  {
+    "id": "103460-2026",
+    "lat": 32.7566,
+    "lng": -96.8605,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-07-15",
     "neighborhood": null
   },
   {
@@ -473,6 +638,17 @@
     "neighborhood": null
   },
   {
+    "id": "070866-2026",
+    "lat": 32.7604,
+    "lng": -96.8934,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-17",
+    "neighborhood": null
+  },
+  {
     "id": "005967-2026",
     "lat": 32.7354,
     "lng": -96.924,
@@ -528,6 +704,17 @@
     "neighborhood": null
   },
   {
+    "id": "070866-2026",
+    "lat": 32.7604,
+    "lng": -96.8934,
+    "offense": "poss cont sub pen grp 2 400g <",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-17",
+    "neighborhood": null
+  },
+  {
     "id": "005444-2026",
     "lat": 32.714,
     "lng": -96.889,
@@ -572,6 +759,17 @@
     "neighborhood": null
   },
   {
+    "id": "103280-2026",
+    "lat": 32.7658,
+    "lng": -96.8746,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
     "id": "143362-2025",
     "lat": 32.74,
     "lng": -96.8963,
@@ -580,6 +778,28 @@
     "premise": "single family residence - occupied",
     "hour": 22,
     "date": "2025-10-03",
+    "neighborhood": null
+  },
+  {
+    "id": "099073-2026",
+    "lat": 32.7499,
+    "lng": -96.8714,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-07-07",
+    "neighborhood": null
+  },
+  {
+    "id": "100394-2026",
+    "lat": 32.7478,
+    "lng": -96.8589,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-07-07",
     "neighborhood": null
   },
   {
@@ -625,6 +845,17 @@
     "hour": 1,
     "date": "2026-04-09",
     "neighborhood": "Beverly Hills"
+  },
+  {
+    "id": "100532-2026",
+    "lat": 32.7076,
+    "lng": -96.912,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-07-10",
+    "neighborhood": null
   },
   {
     "id": "185457-2025",
@@ -756,39 +987,6 @@
     "premise": "apartment complex/building",
     "hour": 12,
     "date": "2026-01-19",
-    "neighborhood": null
-  },
-  {
-    "id": "001900-2026",
-    "lat": 32.7338,
-    "lng": -96.9233,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-03",
-    "neighborhood": null
-  },
-  {
-    "id": "000708-2026",
-    "lat": 32.7302,
-    "lng": -96.8754,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-02",
-    "neighborhood": null
-  },
-  {
-    "id": "812255-2026",
-    "lat": 32.7367,
-    "lng": -96.8922,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2026-06-07",
     "neighborhood": null
   }
 ]

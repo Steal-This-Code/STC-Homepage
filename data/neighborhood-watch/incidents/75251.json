@@ -77,6 +77,17 @@
     "neighborhood": null
   },
   {
+    "id": "093758-2026",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2026-06-28",
+    "neighborhood": "Valley View"
+  },
+  {
     "id": "079832-2026",
     "lat": 32.9224,
     "lng": -96.7679,
@@ -85,6 +96,17 @@
     "premise": "apartment residence",
     "hour": 12,
     "date": "2026-02-26",
+    "neighborhood": null
+  },
+  {
+    "id": "078674-2026",
+    "lat": 32.9249,
+    "lng": -96.767,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-06-01",
     "neighborhood": null
   },
   {
@@ -107,17 +129,6 @@
     "premise": "highway, street, alley etc",
     "hour": 2,
     "date": "2026-02-07",
-    "neighborhood": null
-  },
-  {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

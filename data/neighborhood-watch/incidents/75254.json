@@ -22,6 +22,39 @@
     "neighborhood": "Northwood Hills"
   },
   {
+    "id": "103586-2026",
+    "lat": 32.939,
+    "lng": -96.8115,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 22,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
+    "id": "079324-2026",
+    "lat": 32.9425,
+    "lng": -96.8163,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-05-27",
+    "neighborhood": null
+  },
+  {
+    "id": "103608-2026",
+    "lat": 32.939,
+    "lng": -96.8115,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "condominium/townhome residence",
+    "hour": 8,
+    "date": "2026-07-16",
+    "neighborhood": null
+  },
+  {
     "id": "816356-2025",
     "lat": 32.9536,
     "lng": -96.8244,
@@ -99,6 +132,17 @@
     "neighborhood": null
   },
   {
+    "id": "813895-2026",
+    "lat": 32.9375,
+    "lng": -96.8089,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
     "id": "004255-2026",
     "lat": 32.9398,
     "lng": -96.8089,
@@ -129,6 +173,17 @@
     "premise": "grocery/supermarket",
     "hour": 14,
     "date": "2026-01-12",
+    "neighborhood": null
+  },
+  {
+    "id": "103376-2026",
+    "lat": 32.9435,
+    "lng": -96.8047,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 16,
+    "date": "2026-07-15",
     "neighborhood": null
   }
 ]

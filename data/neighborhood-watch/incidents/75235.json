@@ -1,16 +1,5 @@
 [
   {
-    "id": "804150-2026",
-    "lat": 32.8526,
-    "lng": -96.8528,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 12,
-    "date": "2025-12-08",
-    "neighborhood": null
-  },
-  {
     "id": "812145-2026",
     "lat": 32.818,
     "lng": -96.8251,
@@ -165,6 +154,28 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "016133-2026",
+    "lat": 32.8108,
+    "lng": -96.832,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "800924-2026",
+    "lat": 32.8245,
+    "lng": -96.8385,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 4,
+    "date": "2026-01-13",
+    "neighborhood": null
+  },
+  {
     "id": "093423-2026",
     "lat": 32.8257,
     "lng": -96.8646,
@@ -253,6 +264,28 @@
     "neighborhood": null
   },
   {
+    "id": "089138-2026",
+    "lat": 32.8069,
+    "lng": -96.8304,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-06-20",
+    "neighborhood": null
+  },
+  {
+    "id": "100971-2026",
+    "lat": 32.8063,
+    "lng": -96.8294,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 16,
+    "date": "2026-07-10",
+    "neighborhood": null
+  },
+  {
     "id": "176262-2025",
     "lat": 32.8262,
     "lng": -96.8477,
@@ -295,6 +328,17 @@
     "hour": 18,
     "date": "2026-04-03",
     "neighborhood": "Love Field"
+  },
+  {
+    "id": "814080-2026",
+    "lat": 32.816,
+    "lng": -96.8611,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "business office",
+    "hour": 12,
+    "date": "2026-07-02",
+    "neighborhood": "Southwestern Medical District"
   },
   {
     "id": "045225-2026",
@@ -506,6 +550,17 @@
     "neighborhood": "Southwestern Medical District"
   },
   {
+    "id": "101272-2026",
+    "lat": 32.8135,
+    "lng": -96.8476,
+    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-07-11",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
     "id": "083298-2026",
     "lat": 32.8298,
     "lng": -96.8495,
@@ -570,16 +625,5 @@
     "hour": 3,
     "date": "2026-02-01",
     "neighborhood": "Love Field"
-  },
-  {
-    "id": "086456-2026",
-    "lat": 32.8455,
-    "lng": -96.8496,
-    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 10,
-    "date": "2026-06-15",
-    "neighborhood": null
   }
 ]

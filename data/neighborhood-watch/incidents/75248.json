@@ -1,27 +1,5 @@
 [
   {
-    "id": "802919-2026",
-    "lat": 32.9695,
-    "lng": -96.812,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 10,
-    "date": "2025-11-25",
-    "neighborhood": null
-  },
-  {
-    "id": "802662-2026",
-    "lat": 32.9863,
-    "lng": -96.8037,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 22,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
     "id": "006791-2026",
     "lat": 32.9605,
     "lng": -96.7858,
@@ -99,6 +77,17 @@
     "neighborhood": "Chalfont Place"
   },
   {
+    "id": "094760-2026",
+    "lat": 32.9543,
+    "lng": -96.8039,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 7,
+    "date": "2026-06-30",
+    "neighborhood": null
+  },
+  {
     "id": "093120-2026",
     "lat": 32.9659,
     "lng": -96.7871,
@@ -108,17 +97,6 @@
     "hour": 11,
     "date": "2026-06-26",
     "neighborhood": null
-  },
-  {
-    "id": "070080-2026",
-    "lat": 32.9837,
-    "lng": -96.8063,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 14,
-    "date": "2026-05-16",
-    "neighborhood": "Preston Trail"
   },
   {
     "id": "811702-2026",
@@ -264,6 +242,17 @@
     "neighborhood": null
   },
   {
+    "id": "103363-2026",
+    "lat": 32.9697,
+    "lng": -96.7968,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-07-15",
+    "neighborhood": "Prestonwood"
+  },
+  {
     "id": "180859-2025",
     "lat": 32.9633,
     "lng": -96.8206,
@@ -275,36 +264,14 @@
     "neighborhood": "Chalfont Place"
   },
   {
-    "id": "800728-2026",
-    "lat": 32.9596,
-    "lng": -96.7852,
+    "id": "099177-2026",
+    "lat": 32.9852,
+    "lng": -96.7714,
     "offense": "bmv",
     "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 2,
-    "date": "2026-01-10",
-    "neighborhood": "Prestonwood Estates East"
-  },
-  {
-    "id": "002725-2026",
-    "lat": 32.9604,
-    "lng": -96.8148,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "800226-2026",
-    "lat": 32.9588,
-    "lng": -96.8169,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 6,
-    "date": "2026-01-04",
-    "neighborhood": null
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-07-07",
+    "neighborhood": "Highlands North"
   }
 ]

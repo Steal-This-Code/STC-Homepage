@@ -11,17 +11,6 @@
     "neighborhood": "Kidd Springs"
   },
   {
-    "id": "011495-2026",
-    "lat": 32.749,
-    "lng": -96.8272,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 1,
-    "date": "2026-01-24",
-    "neighborhood": "Bishop Arts District"
-  },
-  {
     "id": "803290-2026",
     "lat": 32.7442,
     "lng": -96.8354,
@@ -110,17 +99,6 @@
     "neighborhood": "Dallas Land & Loan"
   },
   {
-    "id": "807088-2026",
-    "lat": 32.7488,
-    "lng": -96.8428,
-    "offense": "bmv (att)",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-02",
-    "neighborhood": "Winnetka Heights"
-  },
-  {
     "id": "180391-2025",
     "lat": 32.7451,
     "lng": -96.8314,
@@ -130,6 +108,72 @@
     "hour": 18,
     "date": "2025-12-17",
     "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "817552-2025",
+    "lat": 32.7481,
+    "lng": -96.8349,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2025-08-25",
+    "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "002243-2026",
+    "lat": 32.7394,
+    "lng": -96.8322,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-01-04",
+    "neighborhood": "Ruthmeade Place"
+  },
+  {
+    "id": "811393-2026",
+    "lat": 32.773,
+    "lng": -96.8223,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-05-24",
+    "neighborhood": null
+  },
+  {
+    "id": "067727-2026",
+    "lat": 32.7655,
+    "lng": -96.8459,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-05-11",
+    "neighborhood": "Western Heights"
+  },
+  {
+    "id": "092017-2026",
+    "lat": 32.7738,
+    "lng": -96.8281,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2026-06-23",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "050096-2026",
+    "lat": 32.7383,
+    "lng": -96.8323,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 3,
+    "date": "2026-04-09",
+    "neighborhood": "Ruthmeade Place"
   },
   {
     "id": "045899-2026",
@@ -174,6 +218,28 @@
     "hour": 2,
     "date": "2026-06-27",
     "neighborhood": "Bishop Arts District"
+  },
+  {
+    "id": "813993-2026",
+    "lat": 32.7473,
+    "lng": -96.8351,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 22,
+    "date": "2026-07-04",
+    "neighborhood": "Dallas Land & Loan"
+  },
+  {
+    "id": "103779-2026",
+    "lat": 32.7734,
+    "lng": -96.8362,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "business office",
+    "hour": 8,
+    "date": "2026-07-16",
+    "neighborhood": "Western Heights"
   },
   {
     "id": "182618-2025",
@@ -330,6 +396,17 @@
     "neighborhood": "Dallas Land & Loan"
   },
   {
+    "id": "101890-2026",
+    "lat": 32.7432,
+    "lng": -96.8266,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-07-13",
+    "neighborhood": null
+  },
+  {
     "id": "088526-2026",
     "lat": 32.7442,
     "lng": -96.832,
@@ -418,6 +495,17 @@
     "neighborhood": "Dallas Land & Loan"
   },
   {
+    "id": "813155-2026",
+    "lat": 32.7373,
+    "lng": -96.84,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 2,
+    "date": "2026-06-27",
+    "neighborhood": null
+  },
+  {
     "id": "090920-2026",
     "lat": 32.7432,
     "lng": -96.8273,
@@ -438,6 +526,17 @@
     "hour": 23,
     "date": "2026-05-17",
     "neighborhood": null
+  },
+  {
+    "id": "088233-2026",
+    "lat": 32.7483,
+    "lng": -96.8243,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-06-18",
+    "neighborhood": "Dallas Land & Loan"
   },
   {
     "id": "064535-2026",
@@ -471,6 +570,17 @@
     "hour": 12,
     "date": "2025-10-01",
     "neighborhood": "Kings Highway"
+  },
+  {
+    "id": "001299-2026",
+    "lat": 32.7719,
+    "lng": -96.83,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-02",
+    "neighborhood": "La L'aceate"
   },
   {
     "id": "004413-2026",
@@ -539,6 +649,17 @@
     "neighborhood": "Kidd Springs"
   },
   {
+    "id": "092374-2026",
+    "lat": 32.7505,
+    "lng": -96.8274,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 23,
+    "date": "2026-06-06",
+    "neighborhood": "Kidd Springs"
+  },
+  {
     "id": "009181-2026",
     "lat": 32.7482,
     "lng": -96.8283,
@@ -583,6 +704,17 @@
     "neighborhood": "La L'aceate"
   },
   {
+    "id": "813034-2026",
+    "lat": 32.7655,
+    "lng": -96.8748,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 17,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
     "id": "090895-2026",
     "lat": 32.734,
     "lng": -96.8555,
@@ -603,6 +735,17 @@
     "hour": 14,
     "date": "2026-06-06",
     "neighborhood": "Hampton Hills"
+  },
+  {
+    "id": "086198-2026",
+    "lat": 32.7451,
+    "lng": -96.8285,
+    "offense": "dwi 2 or more prev conv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-14",
+    "neighborhood": "Dallas Land & Loan"
   },
   {
     "id": "071945-2026",
@@ -647,27 +790,5 @@
     "hour": 0,
     "date": "2026-05-30",
     "neighborhood": null
-  },
-  {
-    "id": "005847-2026",
-    "lat": 32.7495,
-    "lng": -96.8285,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-01-12",
-    "neighborhood": "Kidd Springs"
-  },
-  {
-    "id": "800383-2026",
-    "lat": 32.7745,
-    "lng": -96.8245,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-02",
-    "neighborhood": "La L'aceate"
   }
 ]

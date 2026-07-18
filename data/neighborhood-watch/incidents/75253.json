@@ -44,6 +44,61 @@
     "neighborhood": "Rylie"
   },
   {
+    "id": "086994-2026",
+    "lat": 32.6886,
+    "lng": -96.5579,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-06-14",
+    "neighborhood": null
+  },
+  {
+    "id": "087256-2026",
+    "lat": 32.6888,
+    "lng": -96.587,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-06-16",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "092203-2026",
+    "lat": 32.6788,
+    "lng": -96.5979,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 13,
+    "date": "2026-06-25",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "102544-2026",
+    "lat": 32.6774,
+    "lng": -96.6001,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 5,
+    "date": "2026-07-14",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "103450-2026",
+    "lat": 32.6739,
+    "lng": -96.5982,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-07-15",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "003625-2026",
     "lat": 32.6709,
     "lng": -96.5987,
@@ -52,6 +107,28 @@
     "premise": "single family residence - occupied",
     "hour": 16,
     "date": "2026-01-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "099630-2026",
+    "lat": 32.6697,
+    "lng": -96.6257,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-08",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "103804-2026",
+    "lat": 32.6978,
+    "lng": -96.5761,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-07-16",
     "neighborhood": "Kleberg"
   },
   {

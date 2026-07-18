@@ -33,6 +33,72 @@
     "neighborhood": null
   },
   {
+    "id": "007616-2026",
+    "lat": 32.9971,
+    "lng": -96.8207,
+    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-01-12",
+    "neighborhood": "Bent Tree North"
+  },
+  {
+    "id": "071966-2026",
+    "lat": 33.0148,
+    "lng": -96.8396,
+    "offense": "repeated viol.of certain c.o.or cond. or bond in fam. viol",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-05-20",
+    "neighborhood": null
+  },
+  {
+    "id": "113184-2025",
+    "lat": 33.0052,
+    "lng": -96.845,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2025-08-08",
+    "neighborhood": null
+  },
+  {
+    "id": "823091-2025",
+    "lat": 32.9876,
+    "lng": -96.8394,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 14,
+    "date": "2025-11-04",
+    "neighborhood": null
+  },
+  {
+    "id": "182849-2025",
+    "lat": 33.0078,
+    "lng": -96.8207,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2025-12-22",
+    "neighborhood": null
+  },
+  {
+    "id": "099619-2026",
+    "lat": 33.0078,
+    "lng": -96.8207,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
     "id": "014936-2026",
     "lat": 33.0028,
     "lng": -96.8253,
@@ -41,6 +107,17 @@
     "premise": "business office",
     "hour": 16,
     "date": "2026-01-13",
+    "neighborhood": null
+  },
+  {
+    "id": "813781-2026",
+    "lat": 32.9914,
+    "lng": -96.8722,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-07-09",
     "neighborhood": null
   },
   {
@@ -66,6 +143,17 @@
     "neighborhood": null
   },
   {
+    "id": "097619-2026",
+    "lat": 33.0101,
+    "lng": -96.8454,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "business office",
+    "hour": 3,
+    "date": "2026-06-28",
+    "neighborhood": null
+  },
+  {
     "id": "155219-2025",
     "lat": 33.0076,
     "lng": -96.8224,
@@ -75,6 +163,28 @@
     "hour": 14,
     "date": "2025-10-28",
     "neighborhood": null
+  },
+  {
+    "id": "003714-2026",
+    "lat": 33.008,
+    "lng": -96.8587,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "814072-2026",
+    "lat": 32.9945,
+    "lng": -96.8578,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-07-11",
+    "neighborhood": "Meadow Glen"
   },
   {
     "id": "013937-2026",
@@ -143,6 +253,17 @@
     "neighborhood": "Bent Tree North"
   },
   {
+    "id": "003714-2026",
+    "lat": 33.008,
+    "lng": -96.8587,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
     "id": "005188-2026",
     "lat": 33.0078,
     "lng": -96.8207,
@@ -209,6 +330,28 @@
     "neighborhood": null
   },
   {
+    "id": "093682-2026",
+    "lat": 33.0101,
+    "lng": -96.8454,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "business office",
+    "hour": 3,
+    "date": "2026-06-28",
+    "neighborhood": null
+  },
+  {
+    "id": "099036-2026",
+    "lat": 33.0107,
+    "lng": -96.8442,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 21,
+    "date": "2026-07-07",
+    "neighborhood": null
+  },
+  {
     "id": "808803-2026",
     "lat": 32.9945,
     "lng": -96.8578,
@@ -218,16 +361,5 @@
     "hour": 18,
     "date": "2026-04-24",
     "neighborhood": "Meadow Glen"
-  },
-  {
-    "id": "806677-2026",
-    "lat": 33.0099,
-    "lng": -96.8458,
-    "offense": "theft - wire fraud $2500 <$30k",
-    "group": "property",
-    "premise": "cyberspace",
-    "hour": 12,
-    "date": "2026-03-24",
-    "neighborhood": null
   }
 ]

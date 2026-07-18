@@ -1,5 +1,71 @@
 [
   {
+    "id": "138797-2025",
+    "lat": 32.7891,
+    "lng": -96.807,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "grocery/supermarket",
+    "hour": 10,
+    "date": "2025-09-26",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "817267-2025",
+    "lat": 32.7889,
+    "lng": -96.7969,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 19,
+    "date": "2025-08-21",
+    "neighborhood": "Dallas Arts District"
+  },
+  {
+    "id": "144622-2025",
+    "lat": 32.7815,
+    "lng": -96.7988,
+    "offense": "burglary - preliminary investigation",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2025-10-07",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "002461-2026",
+    "lat": 32.7829,
+    "lng": -96.7905,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-01-06",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "137284-2025",
+    "lat": 32.7755,
+    "lng": -96.7923,
+    "offense": "fraud use/poss identifying info # items < 5",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-09-23",
+    "neighborhood": "Civic Center District"
+  },
+  {
+    "id": "127352-2025",
+    "lat": 32.7811,
+    "lng": -96.7879,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 8,
+    "date": "2025-09-04",
+    "neighborhood": "Farmers Market District"
+  },
+  {
     "id": "811545-2026",
     "lat": 32.777,
     "lng": -96.7903,
@@ -20,6 +86,17 @@
     "hour": 18,
     "date": "2026-02-09",
     "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "813109-2026",
+    "lat": 32.7891,
+    "lng": -96.7991,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-25",
+    "neighborhood": "Dallas Arts District"
   },
   {
     "id": "157493-2025",
@@ -96,28 +173,6 @@
     "premise": "highway, street, alley etc",
     "hour": 2,
     "date": "2025-12-12",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "089900-2026",
-    "lat": 32.7768,
-    "lng": -96.7901,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-20",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "821062-2025",
-    "lat": 32.7899,
-    "lng": -96.7957,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 16,
-    "date": "2025-10-11",
     "neighborhood": "Dallas Arts District"
   },
   {
@@ -693,6 +748,204 @@
     "neighborhood": "Civic Center District"
   },
   {
+    "id": "117337-2025",
+    "lat": 32.7829,
+    "lng": -96.7923,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "other",
+    "hour": 2,
+    "date": "2025-08-16",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "818160-2025",
+    "lat": 32.789,
+    "lng": -96.7968,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "other",
+    "hour": 8,
+    "date": "2025-08-08",
+    "neighborhood": "Dallas Arts District"
+  },
+  {
+    "id": "174456-2025",
+    "lat": 32.78,
+    "lng": -96.7987,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 9,
+    "date": "2025-12-06",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "150379-2025",
+    "lat": 32.779,
+    "lng": -96.7964,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-18",
+    "neighborhood": "Civic Center District"
+  },
+  {
+    "id": "128928-2025",
+    "lat": 32.7814,
+    "lng": -96.7916,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2025-09-06",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "815289-2025",
+    "lat": 32.7891,
+    "lng": -96.7991,
+    "offense": "theft by deception (fraud) <$100",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2025-07-27",
+    "neighborhood": "Dallas Arts District"
+  },
+  {
+    "id": "138754-2025",
+    "lat": 32.7828,
+    "lng": -96.794,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 20,
+    "date": "2025-09-25",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "170630-2025",
+    "lat": 32.7811,
+    "lng": -96.7918,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2025-11-28",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "004181-2026",
+    "lat": 32.7803,
+    "lng": -96.7973,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 15,
+    "date": "2026-01-09",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "141305-2025",
+    "lat": 32.7817,
+    "lng": -96.7903,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-10-01",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "163213-2025",
+    "lat": 32.776,
+    "lng": -96.7891,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 9,
+    "date": "2025-11-13",
+    "neighborhood": "Farmers Market District"
+  },
+  {
+    "id": "167620-2025",
+    "lat": 32.7895,
+    "lng": -96.7955,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 16,
+    "date": "2025-11-21",
+    "neighborhood": "Dallas Arts District"
+  },
+  {
+    "id": "110761-2025",
+    "lat": 32.7812,
+    "lng": -96.7929,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2025-08-03",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "103310-2026",
+    "lat": 32.7896,
+    "lng": -96.7965,
+    "offense": "theft of service > or equal $100 <$750 pc31.04(e2)",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 15,
+    "date": "2026-07-15",
+    "neighborhood": "Dallas Arts District"
+  },
+  {
+    "id": "093461-2026",
+    "lat": 32.7821,
+    "lng": -96.7997,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-27",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "069797-2026",
+    "lat": 32.7811,
+    "lng": -96.7838,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-05-15",
+    "neighborhood": null
+  },
+  {
+    "id": "014385-2026",
+    "lat": 32.7824,
+    "lng": -96.7946,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-01-30",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "093052-2026",
+    "lat": 32.7773,
+    "lng": -96.7862,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-06-27",
+    "neighborhood": "Farmers Market District"
+  },
+  {
     "id": "047737-2026",
     "lat": 32.7757,
     "lng": -96.7924,
@@ -704,6 +957,28 @@
     "neighborhood": "Farmers Market District"
   },
   {
+    "id": "097062-2026",
+    "lat": 32.7936,
+    "lng": -96.8026,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-07-04",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "082256-2026",
+    "lat": 32.7997,
+    "lng": -96.8067,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-06-07",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "047278-2026",
     "lat": 32.7776,
     "lng": -96.7973,
@@ -713,6 +988,17 @@
     "hour": 17,
     "date": "2026-04-03",
     "neighborhood": "Civic Center District"
+  },
+  {
+    "id": "103023-2026",
+    "lat": 32.7822,
+    "lng": -96.7879,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-07-15",
+    "neighborhood": null
   },
   {
     "id": "091571-2026",
@@ -759,6 +1045,28 @@
     "neighborhood": "Commercial Center"
   },
   {
+    "id": "100633-2026",
+    "lat": 32.7814,
+    "lng": -96.7878,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 6,
+    "date": "2026-06-10",
+    "neighborhood": "Farmers Market District"
+  },
+  {
+    "id": "103634-2026",
+    "lat": 32.783,
+    "lng": -96.7964,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-07-16",
+    "neighborhood": "Commercial Center"
+  },
+  {
     "id": "090569-2026",
     "lat": 32.7806,
     "lng": -96.7919,
@@ -770,6 +1078,17 @@
     "neighborhood": "Farmers Market District"
   },
   {
+    "id": "103023-2026",
+    "lat": 32.7822,
+    "lng": -96.7879,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
     "id": "086336-2026",
     "lat": 32.7836,
     "lng": -96.7876,
@@ -779,6 +1098,17 @@
     "hour": 2,
     "date": "2026-06-15",
     "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "103624-2026",
+    "lat": 32.777,
+    "lng": -96.7957,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 8,
+    "date": "2026-07-16",
+    "neighborhood": "Civic Center District"
   },
   {
     "id": "091325-2026",
@@ -801,6 +1131,28 @@
     "hour": 4,
     "date": "2025-12-09",
     "neighborhood": "Farmers Market District"
+  },
+  {
+    "id": "099093-2026",
+    "lat": 32.7783,
+    "lng": -96.7948,
+    "offense": "evading arrest det w/veh/wtrcft w/prev conv or sbi pc38.04(b2a,b)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-07-07",
+    "neighborhood": "Civic Center District"
+  },
+  {
+    "id": "077189-2026",
+    "lat": 32.7951,
+    "lng": -96.8015,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-05-29",
+    "neighborhood": "State Thomas"
   },
   {
     "id": "085078-2026",
@@ -847,6 +1199,17 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "103989-2026",
+    "lat": 32.7852,
+    "lng": -96.7943,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 9,
+    "date": "2026-07-16",
+    "neighborhood": "Commercial Center"
+  },
+  {
     "id": "090569-2026",
     "lat": 32.7806,
     "lng": -96.7919,
@@ -869,487 +1232,14 @@
     "neighborhood": "Commercial Center"
   },
   {
-    "id": "818245-2025",
-    "lat": 32.7831,
-    "lng": -96.7948,
-    "offense": "lost property (no offense)",
+    "id": "170741-2025",
+    "lat": 32.777,
+    "lng": -96.7957,
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 2,
-    "date": "2025-09-07",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "818992-2025",
-    "lat": 32.7824,
-    "lng": -96.7921,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 0,
-    "date": "2025-09-13",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "144844-2025",
-    "lat": 32.7904,
-    "lng": -96.808,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 15,
-    "date": "2025-10-07",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "825386-2025",
-    "lat": 32.7827,
-    "lng": -96.7977,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2025-11-20",
-    "neighborhood": "Commercial Center"
-  },
-  {
-    "id": "128345-2025",
-    "lat": 32.7822,
-    "lng": -96.792,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 1,
-    "date": "2025-09-06",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "145699-2025",
-    "lat": 32.7802,
-    "lng": -96.7988,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-10-08",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "108549-2025",
-    "lat": 32.7806,
-    "lng": -96.7907,
-    "offense": "robbery of individual - preliminary investigation",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2025-07-30",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "151782-2025",
-    "lat": 32.789,
-    "lng": -96.8015,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2025-09-26",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "102152-2025",
-    "lat": 32.7808,
-    "lng": -96.7985,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 11,
-    "date": "2025-07-18",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "145321-2025",
-    "lat": 32.7808,
-    "lng": -96.7985,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2025-10-08",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "821108-2025",
-    "lat": 32.7944,
-    "lng": -96.8075,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2025-10-08",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "013772-2026",
-    "lat": 32.7864,
-    "lng": -96.7999,
-    "offense": "arson -all other structures - uninhabited",
-    "group": "property",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 20,
-    "date": "2026-01-26",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "148091-2025",
-    "lat": 32.7884,
-    "lng": -96.7975,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
+    "premise": "park",
     "hour": 9,
-    "date": "2025-10-14",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "151072-2025",
-    "lat": 32.7815,
-    "lng": -96.7919,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2025-10-20",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "816911-2025",
-    "lat": 32.7926,
-    "lng": -96.7931,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2025-08-17",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "822851-2025",
-    "lat": 32.798,
-    "lng": -96.8142,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2025-11-02",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "010701-2026",
-    "lat": 32.7781,
-    "lng": -96.7878,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-12",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "181442-2025",
-    "lat": 32.7853,
-    "lng": -96.7933,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-12-20",
-    "neighborhood": "Commercial Center"
-  },
-  {
-    "id": "111921-2025",
-    "lat": 32.7761,
-    "lng": -96.7919,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shelter - mission/homeless",
-    "hour": 18,
-    "date": "2025-08-05",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "123492-2025",
-    "lat": 32.7904,
-    "lng": -96.808,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2025-08-27",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "104924-2025",
-    "lat": 32.7843,
-    "lng": -96.7972,
-    "offense": "theft by deception (fraud) <$100",
-    "group": "property",
-    "premise": "convenience store",
-    "hour": 18,
-    "date": "2025-07-23",
-    "neighborhood": "Commercial Center"
-  },
-  {
-    "id": "006825-2026",
-    "lat": 32.7761,
-    "lng": -96.7919,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "shelter - mission/homeless",
-    "hour": 11,
-    "date": "2026-01-12",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "174942-2025",
-    "lat": 32.7899,
-    "lng": -96.7957,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 13,
-    "date": "2025-12-06",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "131253-2025",
-    "lat": 32.7904,
-    "lng": -96.808,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 18,
-    "date": "2025-09-11",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "802352-2026",
-    "lat": 32.7923,
-    "lng": -96.8076,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "140733-2025",
-    "lat": 32.7795,
-    "lng": -96.7967,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-09-30",
+    "date": "2025-11-27",
     "neighborhood": "Civic Center District"
-  },
-  {
-    "id": "160493-2025",
-    "lat": 32.782,
-    "lng": -96.7974,
-    "offense": "disorderly conduct",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-11-07",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "174942-2025",
-    "lat": 32.7899,
-    "lng": -96.7957,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 13,
-    "date": "2025-12-06",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "819165-2025",
-    "lat": 32.7779,
-    "lng": -96.7848,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2025-09-17",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "136229-2025",
-    "lat": 32.777,
-    "lng": -96.7903,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-09-19",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "003694-2026",
-    "lat": 32.7865,
-    "lng": -96.7969,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-01-08",
-    "neighborhood": "Commercial Center"
-  },
-  {
-    "id": "170591-2025",
-    "lat": 32.785,
-    "lng": -96.8008,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-11-28",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "125108-2025",
-    "lat": 32.7817,
-    "lng": -96.7943,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "hotel/motel/etc",
-    "hour": 20,
-    "date": "2025-08-30",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "181452-2025",
-    "lat": 32.7796,
-    "lng": -96.7966,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2025-12-19",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "176545-2025",
-    "lat": 32.7887,
-    "lng": -96.7962,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-12-10",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "162762-2025",
-    "lat": 32.777,
-    "lng": -96.7957,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 13,
-    "date": "2025-11-12",
-    "neighborhood": "Civic Center District"
-  },
-  {
-    "id": "145516-2025",
-    "lat": 32.7827,
-    "lng": -96.7914,
-    "offense": "injured person- public property (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-10-09",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "141937-2025",
-    "lat": 32.7795,
-    "lng": -96.7862,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-10-01",
-    "neighborhood": "Farmers Market District"
-  },
-  {
-    "id": "132046-2025",
-    "lat": 32.798,
-    "lng": -96.8142,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-08-25",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "820378-2025",
-    "lat": 32.8006,
-    "lng": -96.8066,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-10-01",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "140921-2025",
-    "lat": 32.777,
-    "lng": -96.7957,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "government/public building",
-    "hour": 10,
-    "date": "2025-09-30",
-    "neighborhood": "Civic Center District"
-  },
-  {
-    "id": "116674-2025",
-    "lat": 32.7895,
-    "lng": -96.7955,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2025-08-13",
-    "neighborhood": "Dallas Arts District"
-  },
-  {
-    "id": "120048-2025",
-    "lat": 32.7814,
-    "lng": -96.7956,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 22,
-    "date": "2025-08-20",
-    "neighborhood": "Main Street District"
-  },
-  {
-    "id": "821790-2025",
-    "lat": 32.7835,
-    "lng": -96.7911,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2025-10-21",
-    "neighborhood": "Main Street District"
   }
 ]

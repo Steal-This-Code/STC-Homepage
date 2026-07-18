@@ -33,6 +33,28 @@
     "neighborhood": null
   },
   {
+    "id": "101928-2026",
+    "lat": 32.7942,
+    "lng": -96.7603,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-07-12",
+    "neighborhood": null
+  },
+  {
+    "id": "084679-2026",
+    "lat": 32.8045,
+    "lng": -96.7319,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-06-12",
+    "neighborhood": null
+  },
+  {
     "id": "078374-2026",
     "lat": 32.793,
     "lng": -96.7424,
@@ -44,6 +66,17 @@
     "neighborhood": null
   },
   {
+    "id": "089285-2026",
+    "lat": 32.7907,
+    "lng": -96.7482,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-06-19",
+    "neighborhood": "Owenwood"
+  },
+  {
     "id": "824190-2025",
     "lat": 32.7837,
     "lng": -96.7352,
@@ -52,6 +85,39 @@
     "premise": "highway, street, alley etc",
     "hour": 3,
     "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "088721-2026",
+    "lat": 32.7865,
+    "lng": -96.768,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "103582-2026",
+    "lat": 32.8046,
+    "lng": -96.7414,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-07-16",
+    "neighborhood": "Hollywood Heights / Santa Monica"
+  },
+  {
+    "id": "006897-2026",
+    "lat": 32.7919,
+    "lng": -96.7493,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-01-14",
     "neighborhood": null
   },
   {
@@ -110,6 +176,17 @@
     "neighborhood": "Exposition Park"
   },
   {
+    "id": "080150-2026",
+    "lat": 32.7832,
+    "lng": -96.748,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
     "id": "019822-2026",
     "lat": 32.7955,
     "lng": -96.7369,
@@ -143,6 +220,17 @@
     "neighborhood": "Dolphin Heights"
   },
   {
+    "id": "087285-2026",
+    "lat": 32.7856,
+    "lng": -96.7563,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-16",
+    "neighborhood": null
+  },
+  {
     "id": "177768-2025",
     "lat": 32.7955,
     "lng": -96.7369,
@@ -152,27 +240,5 @@
     "hour": 12,
     "date": "2025-12-12",
     "neighborhood": null
-  },
-  {
-    "id": "017785-2026",
-    "lat": 32.7856,
-    "lng": -96.7444,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-02-07",
-    "neighborhood": "Owenwood"
-  },
-  {
-    "id": "147744-2025",
-    "lat": 32.7895,
-    "lng": -96.7374,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-10-13",
-    "neighborhood": "Owenwood"
   }
 ]

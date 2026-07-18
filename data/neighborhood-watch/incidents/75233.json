@@ -44,6 +44,39 @@
     "neighborhood": null
   },
   {
+    "id": "007393-2026",
+    "lat": 32.6912,
+    "lng": -96.8814,
+    "offense": "theft from building <$100 (not shoplift)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "167378-2025",
+    "lat": 32.7204,
+    "lng": -96.8636,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "093211-2026",
+    "lat": 32.709,
+    "lng": -96.8737,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-06-27",
+    "neighborhood": "Encino Hills"
+  },
+  {
     "id": "004031-2026",
     "lat": 32.7146,
     "lng": -96.862,
@@ -55,6 +88,28 @@
     "neighborhood": null
   },
   {
+    "id": "079170-2026",
+    "lat": 32.7127,
+    "lng": -96.8679,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-06-02",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "012524-2026",
+    "lat": 32.7064,
+    "lng": -96.8722,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-01-26",
+    "neighborhood": null
+  },
+  {
     "id": "146468-2025",
     "lat": 32.7083,
     "lng": -96.8707,
@@ -63,6 +118,17 @@
     "premise": "apartment complex/building",
     "hour": 23,
     "date": "2025-10-09",
+    "neighborhood": null
+  },
+  {
+    "id": "084571-2026",
+    "lat": 32.6912,
+    "lng": -96.8811,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-11",
     "neighborhood": null
   },
   {

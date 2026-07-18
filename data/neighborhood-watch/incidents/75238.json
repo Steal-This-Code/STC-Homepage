@@ -1,16 +1,5 @@
 [
   {
-    "id": "039520-2026",
-    "lat": 32.865,
-    "lng": -96.6876,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 19,
-    "date": "2026-03-20",
-    "neighborhood": "Highland Meadows"
-  },
-  {
     "id": "001830-2026",
     "lat": 32.8746,
     "lng": -96.6861,
@@ -638,6 +627,17 @@
     "neighborhood": "Lake Ridge Estates"
   },
   {
+    "id": "814151-2026",
+    "lat": 32.8654,
+    "lng": -96.6844,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-05",
+    "neighborhood": "Highland Meadows"
+  },
+  {
     "id": "123606-2025",
     "lat": 32.8631,
     "lng": -96.7157,
@@ -748,59 +748,92 @@
     "neighborhood": null
   },
   {
-    "id": "150064-2025",
-    "lat": 32.8673,
-    "lng": -96.6756,
-    "offense": "dwi",
+    "id": "173016-2025",
+    "lat": 32.8737,
+    "lng": -96.69,
+    "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-10-18",
+    "premise": "outdoor area public/private",
+    "hour": 11,
+    "date": "2025-12-03",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "069867-2026",
+    "lat": 32.8704,
+    "lng": -96.6832,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 2,
+    "date": "2026-05-16",
     "neighborhood": null
   },
   {
-    "id": "119547-2025",
-    "lat": 32.8629,
-    "lng": -96.7159,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 3,
-    "date": "2025-08-20",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "158477-2025",
-    "lat": 32.8818,
-    "lng": -96.7177,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2025-11-03",
-    "neighborhood": "Lake Highlands Estates"
-  },
-  {
-    "id": "160863-2025",
+    "id": "096200-2026",
     "lat": 32.8631,
     "lng": -96.7157,
     "offense": "found property (no offense)",
     "group": "other",
-    "premise": "government/public building",
-    "hour": 14,
-    "date": "2025-11-08",
+    "premise": "government facility",
+    "hour": 21,
+    "date": "2026-07-02",
     "neighborhood": "Lake Ridge Estates"
   },
   {
-    "id": "148307-2025",
-    "lat": 32.8641,
-    "lng": -96.7113,
-    "offense": "found property (no offense)",
+    "id": "101857-2026",
+    "lat": 32.8739,
+    "lng": -96.6836,
+    "offense": "traffic violation - non hazardous",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2025-10-14",
-    "neighborhood": "Old Lake Highlands"
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-07-12",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "067258-2026",
+    "lat": 32.895,
+    "lng": -96.7131,
+    "offense": "indecent exposure",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "069078-2026",
+    "lat": 32.88,
+    "lng": -96.6936,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 20,
+    "date": "2026-05-14",
+    "neighborhood": null
+  },
+  {
+    "id": "078144-2026",
+    "lat": 32.8555,
+    "lng": -96.7314,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "103014-2026",
+    "lat": 32.8782,
+    "lng": -96.7098,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "school - elementary/secondary",
+    "hour": 11,
+    "date": "2026-07-14",
+    "neighborhood": "Lake Ridge Estates North"
   },
   {
     "id": "069078-2026",
@@ -858,6 +891,17 @@
     "neighborhood": null
   },
   {
+    "id": "813652-2026",
+    "lat": 32.8875,
+    "lng": -96.7257,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "school - elementary/secondary",
+    "hour": 9,
+    "date": "2026-07-07",
+    "neighborhood": null
+  },
+  {
     "id": "183589-2025",
     "lat": 32.8742,
     "lng": -96.687,
@@ -891,6 +935,17 @@
     "neighborhood": null
   },
   {
+    "id": "092812-2026",
+    "lat": 32.8717,
+    "lng": -96.6846,
+    "offense": "poss cont sub pen grp 1 <1g dfz",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-06-26",
+    "neighborhood": "Highland Meadows"
+  },
+  {
     "id": "806665-2026",
     "lat": 32.8818,
     "lng": -96.7177,
@@ -900,6 +955,17 @@
     "hour": 13,
     "date": "2026-03-29",
     "neighborhood": "Lake Highlands Estates"
+  },
+  {
+    "id": "096714-2026",
+    "lat": 32.8631,
+    "lng": -96.7157,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-07-03",
+    "neighborhood": "Lake Ridge Estates"
   },
   {
     "id": "070448-2026",
@@ -946,6 +1012,17 @@
     "neighborhood": "Highland Meadows"
   },
   {
+    "id": "046632-2026",
+    "lat": 32.8742,
+    "lng": -96.687,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-03-26",
+    "neighborhood": "Highland Meadows"
+  },
+  {
     "id": "076215-2026",
     "lat": 32.8699,
     "lng": -96.6791,
@@ -955,6 +1032,28 @@
     "hour": 7,
     "date": "2026-05-27",
     "neighborhood": null
+  },
+  {
+    "id": "098187-2026",
+    "lat": 32.865,
+    "lng": -96.6929,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-07-06",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "090427-2026",
+    "lat": 32.8742,
+    "lng": -96.687,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-06-22",
+    "neighborhood": "Highland Meadows"
   },
   {
     "id": "006610-2026",
@@ -968,6 +1067,17 @@
     "neighborhood": "L Streets"
   },
   {
+    "id": "078700-2026",
+    "lat": 32.8631,
+    "lng": -96.7157,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 6,
+    "date": "2026-06-01",
+    "neighborhood": "Lake Ridge Estates"
+  },
+  {
     "id": "004704-2026",
     "lat": 32.8684,
     "lng": -96.6807,
@@ -976,6 +1086,50 @@
     "premise": "apartment parking lot",
     "hour": 14,
     "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "101806-2026",
+    "lat": 32.8717,
+    "lng": -96.6854,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-07-12",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "103109-2026",
+    "lat": 32.8637,
+    "lng": -96.6861,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 8,
+    "date": "2026-02-25",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "103123-2026",
+    "lat": 32.8687,
+    "lng": -96.7002,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 9,
+    "date": "2026-07-15",
+    "neighborhood": "Highland Meadows"
+  },
+  {
+    "id": "085942-2026",
+    "lat": 32.8687,
+    "lng": -96.6809,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 7,
+    "date": "2026-06-14",
     "neighborhood": null
   },
   {

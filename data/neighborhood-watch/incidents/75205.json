@@ -22,25 +22,14 @@
     "neighborhood": null
   },
   {
-    "id": "805594-2026",
-    "lat": 32.8187,
-    "lng": -96.7887,
-    "offense": "reckless damage",
+    "id": "030052-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "bmv",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-03-13",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "091451-2026",
-    "lat": 32.819,
-    "lng": -96.789,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 11,
-    "date": "2026-06-24",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-03-03",
     "neighborhood": "Knox Park"
   },
   {
@@ -53,6 +42,17 @@
     "hour": 0,
     "date": "2025-12-24",
     "neighborhood": "Knox Park"
+  },
+  {
+    "id": "100839-2026",
+    "lat": 32.8351,
+    "lng": -96.78,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-07-11",
+    "neighborhood": null
   },
   {
     "id": "078194-2026",

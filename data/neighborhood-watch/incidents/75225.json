@@ -1,27 +1,5 @@
 [
   {
-    "id": "182130-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2025-12-21",
-    "neighborhood": null
-  },
-  {
-    "id": "105955-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2025-07-25",
-    "neighborhood": null
-  },
-  {
     "id": "812733-2026",
     "lat": 32.8668,
     "lng": -96.7729,
@@ -53,6 +31,28 @@
     "hour": 9,
     "date": "2026-02-11",
     "neighborhood": "Caruth Hills"
+  },
+  {
+    "id": "013039-2026",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 17,
+    "date": "2026-01-28",
+    "neighborhood": null
+  },
+  {
+    "id": "813597-2026",
+    "lat": 32.8659,
+    "lng": -96.7999,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-06-26",
+    "neighborhood": "Preston Hollow"
   },
   {
     "id": "183268-2025",
@@ -132,6 +132,17 @@
     "neighborhood": null
   },
   {
+    "id": "813659-2026",
+    "lat": 32.8589,
+    "lng": -96.8101,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
     "id": "006718-2026",
     "lat": 32.8647,
     "lng": -96.8066,
@@ -154,6 +165,17 @@
     "neighborhood": "Caruth Hills"
   },
   {
+    "id": "814063-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 19,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
     "id": "823615-2025",
     "lat": 32.8696,
     "lng": -96.7707,
@@ -165,6 +187,17 @@
     "neighborhood": null
   },
   {
+    "id": "092586-2026",
+    "lat": 32.8659,
+    "lng": -96.7999,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 9,
+    "date": "2026-06-26",
+    "neighborhood": "Preston Hollow"
+  },
+  {
     "id": "072318-2026",
     "lat": 32.8659,
     "lng": -96.789,
@@ -174,5 +207,16 @@
     "hour": 17,
     "date": "2026-05-20",
     "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "103388-2026",
+    "lat": 32.8645,
+    "lng": -96.775,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-07-15",
+    "neighborhood": "Caruth Hills"
   }
 ]

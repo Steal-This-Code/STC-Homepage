@@ -11,17 +11,6 @@
     "neighborhood": "Emerald Isles"
   },
   {
-    "id": "011404-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 19,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
     "id": "125840-2025",
     "lat": 32.8585,
     "lng": -96.7239,
@@ -231,6 +220,17 @@
     "neighborhood": "Eastwood Estates"
   },
   {
+    "id": "081290-2026",
+    "lat": 32.8505,
+    "lng": -96.6829,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
     "id": "092029-2026",
     "lat": 32.8646,
     "lng": -96.6758,
@@ -308,6 +308,17 @@
     "neighborhood": "Lochwood"
   },
   {
+    "id": "813110-2026",
+    "lat": 32.8527,
+    "lng": -96.7265,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 20,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
     "id": "150184-2025",
     "lat": 32.8532,
     "lng": -96.6803,
@@ -352,28 +363,6 @@
     "neighborhood": "Casa View"
   },
   {
-    "id": "807835-2026",
-    "lat": 32.8499,
-    "lng": -96.7125,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-04-13",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "178774-2025",
-    "lat": 32.842,
-    "lng": -96.6911,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-14",
-    "neighborhood": null
-  },
-  {
     "id": "822876-2025",
     "lat": 32.7816,
     "lng": -96.7999,
@@ -383,6 +372,39 @@
     "hour": 23,
     "date": "2025-11-01",
     "neighborhood": "Main Street District"
+  },
+  {
+    "id": "154520-2025",
+    "lat": 32.8645,
+    "lng": -96.6826,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2025-10-23",
+    "neighborhood": null
+  },
+  {
+    "id": "088840-2026",
+    "lat": 32.8637,
+    "lng": -96.6826,
+    "offense": "other offense - misdemeanor",
+    "group": "other",
+    "premise": "liquor store",
+    "hour": 16,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "821078-2025",
+    "lat": 32.8344,
+    "lng": -96.7063,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 11,
+    "date": "2025-10-12",
+    "neighborhood": null
   },
   {
     "id": "800657-2026",
@@ -405,6 +427,17 @@
     "hour": 7,
     "date": "2025-12-18",
     "neighborhood": "Lochwood"
+  },
+  {
+    "id": "081114-2026",
+    "lat": 32.8631,
+    "lng": -96.6828,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-05",
+    "neighborhood": null
   },
   {
     "id": "069256-2026",
@@ -484,6 +517,28 @@
     "neighborhood": null
   },
   {
+    "id": "103790-2026",
+    "lat": 32.8262,
+    "lng": -96.7109,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 15,
+    "date": "2026-07-16",
+    "neighborhood": "Little Forest Hills"
+  },
+  {
+    "id": "097647-2026",
+    "lat": 32.8146,
+    "lng": -96.7239,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-05",
+    "neighborhood": "Forest Hills"
+  },
+  {
     "id": "046702-2026",
     "lat": 32.8243,
     "lng": -96.7032,
@@ -493,6 +548,17 @@
     "hour": 18,
     "date": "2026-04-02",
     "neighborhood": "Casa Linda Estates"
+  },
+  {
+    "id": "102572-2026",
+    "lat": 32.8416,
+    "lng": -96.7029,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-13",
+    "neighborhood": "Lake Park Estates"
   },
   {
     "id": "002561-2026",
@@ -506,25 +572,25 @@
     "neighborhood": null
   },
   {
-    "id": "001521-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-03",
-    "neighborhood": null
+    "id": "813848-2026",
+    "lat": 32.8485,
+    "lng": -96.6856,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 13,
+    "date": "2026-07-12",
+    "neighborhood": "Lochwood"
   },
   {
-    "id": "821078-2025",
-    "lat": 32.8344,
-    "lng": -96.7063,
-    "offense": "reckless damage",
+    "id": "097420-2026",
+    "lat": 32.8439,
+    "lng": -96.6941,
+    "offense": "discharge firearm in certain municipalities",
     "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 11,
-    "date": "2025-10-12",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2026-07-04",
     "neighborhood": null
   }
 ]

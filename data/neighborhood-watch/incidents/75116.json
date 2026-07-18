@@ -1,13 +1,13 @@
 [
   {
-    "id": "813332-2026",
-    "lat": 32.6611,
-    "lng": -96.9091,
-    "offense": "lost property (no offense)",
+    "id": "075982-2026",
+    "lat": 32.6588,
+    "lng": -96.9035,
+    "offense": "poss marijuana >4oz< or equal 5lbs",
     "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 17,
-    "date": "2026-06-12",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-05-28",
     "neighborhood": null
   }
 ]

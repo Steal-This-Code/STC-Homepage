@@ -33,6 +33,17 @@
     "neighborhood": null
   },
   {
+    "id": "814056-2026",
+    "lat": 32.8633,
+    "lng": -96.7555,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-07-04",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
     "id": "182096-2025",
     "lat": 32.875,
     "lng": -96.7684,
@@ -748,61 +759,6 @@
     "neighborhood": null
   },
   {
-    "id": "143943-2025",
-    "lat": 32.8683,
-    "lng": -96.7602,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 20,
-    "date": "2025-10-05",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "120029-2025",
-    "lat": 32.8573,
-    "lng": -96.7523,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 21,
-    "date": "2025-08-20",
-    "neighborhood": null
-  },
-  {
-    "id": "175301-2025",
-    "lat": 32.8637,
-    "lng": -96.7502,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2025-12-07",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "174022-2025",
-    "lat": 32.8776,
-    "lng": -96.7448,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "park",
-    "hour": 11,
-    "date": "2025-12-05",
-    "neighborhood": "Alexander's Village"
-  },
-  {
-    "id": "129885-2025",
-    "lat": 32.8638,
-    "lng": -96.7504,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2025-09-09",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
     "id": "802135-2026",
     "lat": 32.8677,
     "lng": -96.7528,
@@ -825,6 +781,193 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "814172-2026",
+    "lat": 32.8663,
+    "lng": -96.7629,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 16,
+    "date": "2026-07-10",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "800809-2026",
+    "lat": 32.877,
+    "lng": -96.7691,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 11,
+    "date": "2026-01-11",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "004379-2026",
+    "lat": 32.8718,
+    "lng": -96.7697,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-01-09",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "038008-2026",
+    "lat": 32.8912,
+    "lng": -96.769,
+    "offense": "burglary of a coin operated machine",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 1,
+    "date": "2026-03-18",
+    "neighborhood": null
+  },
+  {
+    "id": "099217-2026",
+    "lat": 32.8695,
+    "lng": -96.7589,
+    "offense": "fail to id -fugitive intent give false info",
+    "group": "other",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-07-08",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "014483-2026",
+    "lat": 32.8904,
+    "lng": -96.7691,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "045921-2026",
+    "lat": 32.8713,
+    "lng": -96.7345,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "173120-2025",
+    "lat": 32.8778,
+    "lng": -96.7328,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2025-12-02",
+    "neighborhood": null
+  },
+  {
+    "id": "101881-2026",
+    "lat": 32.8728,
+    "lng": -96.7683,
+    "offense": "other offense - misdemeanor",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-07-13",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "147193-2025",
+    "lat": 32.8871,
+    "lng": -96.7711,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 0,
+    "date": "2025-10-12",
+    "neighborhood": null
+  },
+  {
+    "id": "178548-2025",
+    "lat": 32.8586,
+    "lng": -96.7505,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2025-12-14",
+    "neighborhood": "Merriman Park / University Manor"
+  },
+  {
+    "id": "108005-2025",
+    "lat": 32.8869,
+    "lng": -96.7691,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 10,
+    "date": "2025-07-29",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "809342-2026",
+    "lat": 32.8917,
+    "lng": -96.7656,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-04-02",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "070971-2026",
+    "lat": 32.8689,
+    "lng": -96.7664,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-05-18",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "103531-2026",
+    "lat": 32.8698,
+    "lng": -96.7526,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-07-15",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "100504-2026",
+    "lat": 32.8758,
+    "lng": -96.7613,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-07-10",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "813680-2026",
+    "lat": 32.8847,
+    "lng": -96.7707,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 6,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
     "id": "078876-2026",
     "lat": 32.8652,
     "lng": -96.7531,
@@ -833,6 +976,17 @@
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2026-05-31",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "097664-2026",
+    "lat": 32.8676,
+    "lng": -96.7586,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-07-04",
     "neighborhood": "Vickery Meadow(s)"
   },
   {
@@ -891,6 +1045,17 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "081717-2026",
+    "lat": 32.8713,
+    "lng": -96.7583,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-06-06",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
     "id": "003366-2026",
     "lat": 32.8812,
     "lng": -96.7693,
@@ -921,6 +1086,17 @@
     "premise": "grocery/supermarket",
     "hour": 18,
     "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "100358-2026",
+    "lat": 32.8736,
+    "lng": -96.7412,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-07-10",
     "neighborhood": null
   },
   {
@@ -957,6 +1133,17 @@
     "neighborhood": "Merriman Park / University Manor"
   },
   {
+    "id": "090232-2026",
+    "lat": 32.8738,
+    "lng": -96.7698,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
     "id": "044140-2026",
     "lat": 32.8652,
     "lng": -96.7531,
@@ -966,6 +1153,17 @@
     "hour": 22,
     "date": "2026-03-28",
     "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "084401-2026",
+    "lat": 32.8861,
+    "lng": -96.7335,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-06-11",
+    "neighborhood": null
   },
   {
     "id": "802879-2026",
@@ -1177,6 +1375,17 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "096287-2026",
+    "lat": 32.8622,
+    "lng": -96.7447,
+    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 16,
+    "date": "2026-07-01",
+    "neighborhood": "Merriman Park / University Manor"
+  },
+  {
     "id": "004379-2026",
     "lat": 32.8718,
     "lng": -96.7697,
@@ -1309,6 +1518,28 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "084367-2026",
+    "lat": 32.8798,
+    "lng": -96.7676,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-06-11",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "103526-2026",
+    "lat": 32.876,
+    "lng": -96.7554,
+    "offense": "missing person - critical (no offense)",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 19,
+    "date": "2026-07-15",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
     "id": "072107-2026",
     "lat": 32.8737,
     "lng": -96.7615,
@@ -1317,6 +1548,17 @@
     "premise": "convenience store",
     "hour": 11,
     "date": "2026-05-20",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "098882-2026",
+    "lat": 32.8679,
+    "lng": -96.7478,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-07-07",
     "neighborhood": "Vickery Meadow(s)"
   },
   {
@@ -1364,6 +1606,17 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "103546-2026",
+    "lat": 32.8689,
+    "lng": -96.7491,
+    "offense": "terroristic threat fear imminent sbi",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 17,
+    "date": "2026-07-15",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
     "id": "003366-2026",
     "lat": 32.8812,
     "lng": -96.7693,
@@ -1394,6 +1647,17 @@
     "premise": "retail store",
     "hour": 20,
     "date": "2026-01-31",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "096834-2026",
+    "lat": 32.8633,
+    "lng": -96.7492,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-07-03",
     "neighborhood": "Vickery Meadow(s)"
   },
   {
@@ -1452,6 +1716,28 @@
     "neighborhood": "Merriman Park / University Manor"
   },
   {
+    "id": "814106-2026",
+    "lat": 32.8653,
+    "lng": -96.7551,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-07-13",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "087148-2026",
+    "lat": 32.863,
+    "lng": -96.7489,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-16",
+    "neighborhood": null
+  },
+  {
     "id": "006505-2026",
     "lat": 32.874,
     "lng": -96.7614,
@@ -1485,6 +1771,50 @@
     "neighborhood": "Vickery Meadow(s)"
   },
   {
+    "id": "087965-2026",
+    "lat": 32.8708,
+    "lng": -96.7598,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-06-17",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "813643-2026",
+    "lat": 32.8633,
+    "lng": -96.7555,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-07-08",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "101881-2026",
+    "lat": 32.8728,
+    "lng": -96.7683,
+    "offense": "poss cont sub pen grp 1 <1g dfz",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-07-13",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
+    "id": "814056-2026",
+    "lat": 32.8633,
+    "lng": -96.7555,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-07-04",
+    "neighborhood": "Vickery Meadow(s)"
+  },
+  {
     "id": "804163-2026",
     "lat": 32.8938,
     "lng": -96.7543,
@@ -1493,72 +1823,6 @@
     "premise": "commercial property occupied/vacant",
     "hour": 18,
     "date": "2026-02-25",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "090842-2026",
-    "lat": 32.8683,
-    "lng": -96.7602,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-06-22",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "177194-2025",
-    "lat": 32.8911,
-    "lng": -96.7673,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 0,
-    "date": "2025-12-11",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "826897-2025",
-    "lat": 32.8911,
-    "lng": -96.7673,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-12-28",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "003786-2026",
-    "lat": 32.8712,
-    "lng": -96.7591,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-01-08",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "827009-2025",
-    "lat": 32.887,
-    "lng": -96.7663,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2025-12-06",
-    "neighborhood": "Vickery Meadow(s)"
-  },
-  {
-    "id": "183565-2025",
-    "lat": 32.8683,
-    "lng": -96.7602,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2025-12-24",
     "neighborhood": "Vickery Meadow(s)"
   }
 ]

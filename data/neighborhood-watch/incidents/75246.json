@@ -11,6 +11,39 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
+    "id": "065532-2026",
+    "lat": 32.7921,
+    "lng": -96.7791,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-05-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "091550-2026",
+    "lat": 32.7895,
+    "lng": -96.7717,
+    "offense": "poss cont sub pen grp 4 <28g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-24",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "082718-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "015672-2026",
     "lat": 32.794,
     "lng": -96.7668,

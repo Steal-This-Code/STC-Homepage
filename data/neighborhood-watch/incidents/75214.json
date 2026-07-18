@@ -22,6 +22,17 @@
     "neighborhood": null
   },
   {
+    "id": "813059-2026",
+    "lat": 32.8034,
+    "lng": -96.7654,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
     "id": "010346-2026",
     "lat": 32.8433,
     "lng": -96.7421,
@@ -176,6 +187,61 @@
     "neighborhood": "Abrams-Brookside"
   },
   {
+    "id": "184284-2025",
+    "lat": 32.8213,
+    "lng": -96.7293,
+    "offense": "traf vio -duty on strike fix/hwy landscape < $200",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 20,
+    "date": "2025-12-26",
+    "neighborhood": null
+  },
+  {
+    "id": "020364-2026",
+    "lat": 32.7952,
+    "lng": -96.7635,
+    "offense": "poss cont sub pen grp 2-a < or equal 2 oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-02-12",
+    "neighborhood": null
+  },
+  {
+    "id": "811243-2026",
+    "lat": 32.8069,
+    "lng": -96.7311,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 11,
+    "date": "2026-06-02",
+    "neighborhood": null
+  },
+  {
+    "id": "098790-2026",
+    "lat": 32.8099,
+    "lng": -96.7374,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 12,
+    "date": "2026-06-26",
+    "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
+  },
+  {
+    "id": "158532-2025",
+    "lat": 32.8094,
+    "lng": -96.7301,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2025-11-03",
+    "neighborhood": null
+  },
+  {
     "id": "180482-2025",
     "lat": 32.815,
     "lng": -96.7464,
@@ -209,6 +275,17 @@
     "neighborhood": "Munger Place"
   },
   {
+    "id": "081700-2026",
+    "lat": 32.7966,
+    "lng": -96.7613,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 18,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
     "id": "113949-2025",
     "lat": 32.8359,
     "lng": -96.7505,
@@ -229,6 +306,17 @@
     "hour": 11,
     "date": "2026-06-24",
     "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
+  },
+  {
+    "id": "814131-2026",
+    "lat": 32.8141,
+    "lng": -96.7273,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "park",
+    "hour": 20,
+    "date": "2026-06-26",
+    "neighborhood": null
   },
   {
     "id": "067549-2026",
@@ -253,6 +341,17 @@
     "neighborhood": null
   },
   {
+    "id": "102868-2026",
+    "lat": 32.8535,
+    "lng": -96.7409,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-07-14",
+    "neighborhood": "University Terrace"
+  },
+  {
     "id": "002610-2026",
     "lat": 32.8439,
     "lng": -96.7414,
@@ -262,6 +361,28 @@
     "hour": 18,
     "date": "2026-01-05",
     "neighborhood": "Hillside"
+  },
+  {
+    "id": "100517-2026",
+    "lat": 32.7961,
+    "lng": -96.7587,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-07-10",
+    "neighborhood": null
+  },
+  {
+    "id": "082167-2026",
+    "lat": 32.8461,
+    "lng": -96.7277,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "park",
+    "hour": 16,
+    "date": "2026-06-07",
+    "neighborhood": null
   },
   {
     "id": "800803-2026",
@@ -286,6 +407,17 @@
     "neighborhood": "Abrams-Brookside"
   },
   {
+    "id": "081700-2026",
+    "lat": 32.7966,
+    "lng": -96.7613,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 18,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
     "id": "082255-2026",
     "lat": 32.8124,
     "lng": -96.7328,
@@ -306,6 +438,17 @@
     "hour": 13,
     "date": "2026-06-10",
     "neighborhood": null
+  },
+  {
+    "id": "093246-2026",
+    "lat": 32.8484,
+    "lng": -96.73,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "park",
+    "hour": 14,
+    "date": "2026-06-25",
+    "neighborhood": "The Cloisters"
   },
   {
     "id": "801053-2026",
