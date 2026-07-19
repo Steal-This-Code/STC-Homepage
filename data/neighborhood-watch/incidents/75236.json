@@ -1,14 +1,36 @@
 [
   {
-    "id": "813642-2026",
-    "lat": 32.6932,
-    "lng": -96.8923,
-    "offense": "bmv",
+    "id": "817909-2025",
+    "lat": 32.6834,
+    "lng": -96.9048,
+    "offense": "harassment - threat",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-07-08",
+    "premise": "other",
+    "hour": 8,
+    "date": "2025-08-28",
     "neighborhood": null
+  },
+  {
+    "id": "809803-2026",
+    "lat": 32.6936,
+    "lng": -96.9087,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 17,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "800819-2026",
+    "lat": 32.6977,
+    "lng": -96.8996,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 11,
+    "date": "2026-01-08",
+    "neighborhood": "Country Creek"
   },
   {
     "id": "802534-2026",
@@ -163,5 +185,49 @@
     "hour": 14,
     "date": "2026-03-20",
     "neighborhood": "Country Creek"
+  },
+  {
+    "id": "016008-2026",
+    "lat": 32.6935,
+    "lng": -96.8915,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "089861-2026",
+    "lat": 32.6935,
+    "lng": -96.8915,
+    "offense": "arson intend damage habitat/place of worship",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "128615-2025",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2025-09-05",
+    "neighborhood": null
+  },
+  {
+    "id": "013732-2026",
+    "lat": 32.6742,
+    "lng": -96.9659,
+    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-01-25",
+    "neighborhood": null
   }
 ]

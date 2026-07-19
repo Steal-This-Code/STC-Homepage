@@ -1,16 +1,5 @@
 [
   {
-    "id": "095482-2026",
-    "lat": 32.837,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 15,
-    "date": "2026-07-01",
-    "neighborhood": null
-  },
-  {
     "id": "071538-2026",
     "lat": 32.8361,
     "lng": -96.776,
@@ -41,17 +30,6 @@
     "premise": "apartment complex/building",
     "hour": 1,
     "date": "2025-12-29",
-    "neighborhood": "Henderson"
-  },
-  {
-    "id": "814121-2026",
-    "lat": 32.8135,
-    "lng": -96.7827,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 22,
-    "date": "2026-07-13",
     "neighborhood": "Henderson"
   },
   {
@@ -308,17 +286,6 @@
     "neighborhood": "The Village"
   },
   {
-    "id": "814107-2026",
-    "lat": 32.8107,
-    "lng": -96.7795,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "condominium/townhome building",
-    "hour": 11,
-    "date": "2026-07-06",
-    "neighborhood": "Henderson"
-  },
-  {
     "id": "028962-2026",
     "lat": 32.8189,
     "lng": -96.7832,
@@ -385,6 +352,292 @@
     "neighborhood": "Vickery Place"
   },
   {
+    "id": "802674-2026",
+    "lat": 32.815,
+    "lng": -96.7786,
+    "offense": "theft from person-pickpocke",
+    "group": "property",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 11,
+    "date": "2026-02-06",
+    "neighborhood": "Henderson"
+  },
+  {
+    "id": "130777-2025",
+    "lat": 32.8364,
+    "lng": -96.7773,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2025-09-10",
+    "neighborhood": "Glencoe Park"
+  },
+  {
+    "id": "118021-2025",
+    "lat": 32.8136,
+    "lng": -96.7706,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 12,
+    "date": "2025-08-17",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "130125-2025",
+    "lat": 32.8499,
+    "lng": -96.7687,
+    "offense": "urinating or defecating in public",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2025-09-09",
+    "neighborhood": null
+  },
+  {
+    "id": "165834-2025",
+    "lat": 32.8568,
+    "lng": -96.77,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2025-11-18",
+    "neighborhood": null
+  },
+  {
+    "id": "135993-2025",
+    "lat": 32.8576,
+    "lng": -96.7683,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2025-09-20",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "170414-2025",
+    "lat": 32.8134,
+    "lng": -96.772,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-11-26",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "812645-2026",
+    "lat": 32.8575,
+    "lng": -96.7543,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 17,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "120100-2025",
+    "lat": 32.8576,
+    "lng": -96.7683,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2025-08-20",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "002555-2026",
+    "lat": 32.815,
+    "lng": -96.7759,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-01-05",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "144943-2025",
+    "lat": 32.8321,
+    "lng": -96.7802,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-07",
+    "neighborhood": "Glencoe Park"
+  },
+  {
+    "id": "150080-2025",
+    "lat": 32.8501,
+    "lng": -96.7714,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2025-10-18",
+    "neighborhood": null
+  },
+  {
+    "id": "136799-2025",
+    "lat": 32.8356,
+    "lng": -96.779,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2025-09-22",
+    "neighborhood": null
+  },
+  {
+    "id": "155386-2025",
+    "lat": 32.8478,
+    "lng": -96.77,
+    "offense": "sleeping in a public place",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 21,
+    "date": "2025-10-27",
+    "neighborhood": null
+  },
+  {
+    "id": "151066-2025",
+    "lat": 32.8571,
+    "lng": -96.7563,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 9,
+    "date": "2025-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "173206-2025",
+    "lat": 32.8553,
+    "lng": -96.758,
+    "offense": "dwi 1 prev conv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2025-12-03",
+    "neighborhood": null
+  },
+  {
+    "id": "812755-2026",
+    "lat": 32.8347,
+    "lng": -96.7658,
+    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-06-23",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "130988-2025",
+    "lat": 32.8571,
+    "lng": -96.7696,
+    "offense": "fail to id -fugitive intent give false info",
+    "group": "other",
+    "premise": "business office",
+    "hour": 9,
+    "date": "2025-09-11",
+    "neighborhood": null
+  },
+  {
+    "id": "061578-2026",
+    "lat": 32.8568,
+    "lng": -96.7547,
+    "offense": "disorderly conduct discharge/display firearm (no assault)",
+    "group": "violent",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-04-30",
+    "neighborhood": null
+  },
+  {
+    "id": "120043-2025",
+    "lat": 32.8633,
+    "lng": -96.7696,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2025-08-20",
+    "neighborhood": null
+  },
+  {
+    "id": "171649-2025",
+    "lat": 32.8289,
+    "lng": -96.7702,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2025-11-30",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "003572-2026",
+    "lat": 32.8585,
+    "lng": -96.7633,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-01-07",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "090624-2026",
+    "lat": 32.8225,
+    "lng": -96.77,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-22",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "087571-2026",
+    "lat": 32.8147,
+    "lng": -96.7767,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-16",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "103497-2026",
+    "lat": 32.8157,
+    "lng": -96.7889,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-07-15",
+    "neighborhood": "Cochran Heights"
+  },
+  {
+    "id": "087452-2026",
+    "lat": 32.81,
+    "lng": -96.7659,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 5,
+    "date": "2026-06-17",
+    "neighborhood": "East Garrett Park"
+  },
+  {
     "id": "095033-2026",
     "lat": 32.8525,
     "lng": -96.7693,
@@ -396,15 +649,37 @@
     "neighborhood": "The Village"
   },
   {
-    "id": "806880-2026",
-    "lat": 32.821,
-    "lng": -96.7844,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
+    "id": "093607-2026",
+    "lat": 32.8074,
+    "lng": -96.7715,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-06-27",
+    "neighborhood": null
+  },
+  {
+    "id": "005102-2026",
+    "lat": 32.8137,
+    "lng": -96.7711,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 16,
+    "date": "2026-01-10",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "032325-2026",
+    "lat": 32.8137,
+    "lng": -96.7711,
+    "offense": "motor vehicle theft",
+    "group": "property",
     "premise": "parking (business)",
     "hour": 19,
-    "date": "2026-03-27",
-    "neighborhood": "Vickery Place"
+    "date": "2026-03-05",
+    "neighborhood": "Lowest Greenville West"
   },
   {
     "id": "156571-2025",
@@ -440,17 +715,6 @@
     "neighborhood": null
   },
   {
-    "id": "103645-2026",
-    "lat": 32.837,
-    "lng": -96.7707,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 9,
-    "date": "2026-07-16",
-    "neighborhood": null
-  },
-  {
     "id": "099079-2026",
     "lat": 32.8453,
     "lng": -96.7703,
@@ -460,28 +724,6 @@
     "hour": 23,
     "date": "2026-07-07",
     "neighborhood": null
-  },
-  {
-    "id": "089696-2026",
-    "lat": 32.8346,
-    "lng": -96.775,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-06-21",
-    "neighborhood": "Glencoe Park"
-  },
-  {
-    "id": "088283-2026",
-    "lat": 32.8525,
-    "lng": -96.7693,
-    "offense": "interfere w/ public duties",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-06-18",
-    "neighborhood": "The Village"
   },
   {
     "id": "004002-2026",
@@ -583,17 +825,6 @@
     "neighborhood": "The Village"
   },
   {
-    "id": "065612-2026",
-    "lat": 32.8113,
-    "lng": -96.7702,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-05-08",
-    "neighborhood": "Lowest Greenville West"
-  },
-  {
     "id": "148316-2025",
     "lat": 32.8365,
     "lng": -96.764,
@@ -682,28 +913,6 @@
     "neighborhood": "Lowest Greenville West"
   },
   {
-    "id": "066969-2026",
-    "lat": 32.8496,
-    "lng": -96.7696,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "100842-2026",
-    "lat": 32.8189,
-    "lng": -96.7832,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-07-11",
-    "neighborhood": "Vickery Place"
-  },
-  {
     "id": "811277-2026",
     "lat": 32.8386,
     "lng": -96.7624,
@@ -726,17 +935,6 @@
     "neighborhood": "Lowest Greenville West"
   },
   {
-    "id": "172550-2025",
-    "lat": 32.8145,
-    "lng": -96.7844,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 21,
-    "date": "2025-11-30",
-    "neighborhood": "Henderson"
-  },
-  {
     "id": "005159-2026",
     "lat": 32.8499,
     "lng": -96.7687,
@@ -745,17 +943,6 @@
     "premise": "grocery/supermarket",
     "hour": 13,
     "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "086730-2026",
-    "lat": 32.8071,
-    "lng": -96.7749,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-06-15",
     "neighborhood": null
   },
   {
@@ -825,17 +1012,6 @@
     "neighborhood": "Cochran Heights"
   },
   {
-    "id": "070236-2026",
-    "lat": 32.8376,
-    "lng": -96.7759,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 20,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
     "id": "032325-2026",
     "lat": 32.8137,
     "lng": -96.7711,
@@ -845,17 +1021,6 @@
     "hour": 19,
     "date": "2026-03-05",
     "neighborhood": "Lowest Greenville West"
-  },
-  {
-    "id": "074597-2026",
-    "lat": 32.8061,
-    "lng": -96.7757,
-    "offense": "traf vio -operate motor veh w/o fin resp",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-05-24",
-    "neighborhood": null
   },
   {
     "id": "811113-2026",
@@ -889,17 +1054,6 @@
     "hour": 12,
     "date": "2026-06-05",
     "neighborhood": "Lowest Greenville West"
-  },
-  {
-    "id": "087855-2026",
-    "lat": 32.8641,
-    "lng": -96.767,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-06-17",
-    "neighborhood": "The Village"
   },
   {
     "id": "804655-2026",
@@ -990,17 +1144,6 @@
     "neighborhood": "Lowest Greenville West"
   },
   {
-    "id": "084866-2026",
-    "lat": 32.8048,
-    "lng": -96.7725,
-    "offense": "vio bond/protective order",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
     "id": "073748-2026",
     "lat": 32.8499,
     "lng": -96.7687,
@@ -1032,28 +1175,6 @@
     "hour": 19,
     "date": "2026-05-16",
     "neighborhood": "Lower Greenville"
-  },
-  {
-    "id": "011953-2026",
-    "lat": 32.8222,
-    "lng": -96.7854,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-01-25",
-    "neighborhood": "Vickery Place"
-  },
-  {
-    "id": "111781-2025",
-    "lat": 32.8393,
-    "lng": -96.7765,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2025-08-05",
-    "neighborhood": null
   },
   {
     "id": "003572-2026",
@@ -1133,17 +1254,6 @@
     "neighborhood": "Glencoe Park"
   },
   {
-    "id": "086262-2026",
-    "lat": 32.8128,
-    "lng": -96.7805,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-14",
-    "neighborhood": "Henderson"
-  },
-  {
     "id": "100198-2026",
     "lat": 32.8216,
     "lng": -96.7851,
@@ -1155,14 +1265,201 @@
     "neighborhood": "Vickery Place"
   },
   {
-    "id": "067069-2026",
-    "lat": 32.8204,
-    "lng": -96.7863,
-    "offense": "dwi 1 prev conv",
+    "id": "014267-2026",
+    "lat": 32.8568,
+    "lng": -96.7547,
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "other",
+    "hour": 22,
+    "date": "2026-01-30",
+    "neighborhood": null
+  },
+  {
+    "id": "027660-2026",
+    "lat": 32.8525,
+    "lng": -96.7693,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-02-26",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "017437-2026",
+    "lat": 32.8097,
+    "lng": -96.7702,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-02-06",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "019149-2026",
+    "lat": 32.8163,
+    "lng": -96.7742,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-02-09",
+    "neighborhood": "Lowest Greenville West"
+  },
+  {
+    "id": "019409-2026",
+    "lat": 32.837,
+    "lng": -96.7707,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 18,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "811934-2026",
+    "lat": 32.8192,
+    "lng": -96.7831,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-05-22",
+    "neighborhood": "Vickery Place"
+  },
+  {
+    "id": "022941-2026",
+    "lat": 32.8448,
+    "lng": -96.77,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-05-11",
-    "neighborhood": "Cochran Heights"
+    "hour": 15,
+    "date": "2026-02-17",
+    "neighborhood": null
+  },
+  {
+    "id": "803064-2026",
+    "lat": 32.8096,
+    "lng": -96.7686,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "condominium/townhome building",
+    "hour": 10,
+    "date": "2026-02-11",
+    "neighborhood": "East Garrett Park"
+  },
+  {
+    "id": "008108-2026",
+    "lat": 32.8307,
+    "lng": -96.7697,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 19,
+    "date": "2026-01-16",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "103574-2025",
+    "lat": 32.8304,
+    "lng": -96.7676,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2025-07-20",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "001142-2026",
+    "lat": 32.8587,
+    "lng": -96.7596,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-01-03",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "804467-2026",
+    "lat": 32.8148,
+    "lng": -96.7697,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 17,
+    "date": "2026-03-01",
+    "neighborhood": "Lower Greenville"
+  },
+  {
+    "id": "175124-2025",
+    "lat": 32.8525,
+    "lng": -96.7693,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2025-12-07",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "814070-2026",
+    "lat": 32.8525,
+    "lng": -96.7693,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-07-11",
+    "neighborhood": "The Village"
+  },
+  {
+    "id": "802805-2026",
+    "lat": 32.8376,
+    "lng": -96.7759,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-02-09",
+    "neighborhood": null
+  },
+  {
+    "id": "153668-2025",
+    "lat": 32.8162,
+    "lng": -96.78,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 17,
+    "date": "2025-10-19",
+    "neighborhood": "Vickery Place"
+  },
+  {
+    "id": "099724-2026",
+    "lat": 32.8506,
+    "lng": -96.7626,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 22,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "806880-2026",
+    "lat": 32.821,
+    "lng": -96.7844,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-03-27",
+    "neighborhood": "Vickery Place"
   }
 ]

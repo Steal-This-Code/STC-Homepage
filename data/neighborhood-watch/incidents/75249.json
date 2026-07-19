@@ -1,14 +1,14 @@
 [
   {
-    "id": "812710-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "reckless damage",
+    "id": "102441-2026",
+    "lat": 32.6321,
+    "lng": -96.9496,
+    "offense": "discharge firearm in certain municipalities",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-06-19",
-    "neighborhood": "Summit Parc"
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-07-13",
+    "neighborhood": "Woods-Sugarberry"
   },
   {
     "id": "162211-2025",
@@ -42,5 +42,71 @@
     "hour": 10,
     "date": "2026-07-07",
     "neighborhood": "Harbor Glen"
+  },
+  {
+    "id": "021890-2026",
+    "lat": 32.6442,
+    "lng": -96.9681,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-02-14",
+    "neighborhood": null
+  },
+  {
+    "id": "162211-2025",
+    "lat": 32.6573,
+    "lng": -96.9658,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2025-11-10",
+    "neighborhood": null
+  },
+  {
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "023611-2026",
+    "lat": 32.6288,
+    "lng": -96.9494,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-18",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "820556-2025",
+    "lat": 32.6531,
+    "lng": -96.9443,
+    "offense": "accident inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-10-03",
+    "neighborhood": "Summit Parc"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": "826535-2025",
+    "lat": 32.7839,
+    "lng": -96.7863,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "convenience store",
+    "hour": 13,
+    "date": "2025-12-22",
+    "neighborhood": "Deep Ellum"
+  },
+  {
     "id": "800746-2026",
     "lat": 32.7841,
     "lng": -96.7865,
@@ -19,17 +30,6 @@
     "premise": "bar/nightclub/dancehall etc.",
     "hour": 1,
     "date": "2026-07-12",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "086329-2026",
-    "lat": 32.7846,
-    "lng": -96.7843,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-15",
     "neighborhood": "Deep Ellum"
   },
   {
@@ -242,36 +242,190 @@
     "neighborhood": "Grand Park South"
   },
   {
-    "id": "013632-2026",
-    "lat": 32.7844,
-    "lng": -96.7851,
-    "offense": "diversion public intox",
+    "id": "127757-2025",
+    "lat": 32.7857,
+    "lng": -96.7873,
+    "offense": "dwi 1 prev conv",
     "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-09-04",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "093051-2026",
+    "lat": 32.7845,
+    "lng": -96.7845,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-06-27",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "185257-2025",
+    "lat": 32.7798,
+    "lng": -96.7744,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 19,
+    "date": "2025-12-28",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "093057-2026",
+    "lat": 32.7844,
+    "lng": -96.7881,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
     "premise": "bar/nightclub/dancehall etc.",
     "hour": 2,
-    "date": "2026-01-30",
+    "date": "2026-06-27",
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "085198-2026",
-    "lat": 32.784,
-    "lng": -96.7857,
-    "offense": "diversion public intox",
+    "id": "168272-2025",
+    "lat": 32.7841,
+    "lng": -96.7834,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2025-11-22",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "089717-2026",
+    "lat": 32.7821,
+    "lng": -96.7829,
+    "offense": "bmv",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-06-13",
+    "hour": 4,
+    "date": "2026-06-21",
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "181600-2025",
-    "lat": 32.7832,
-    "lng": -96.7833,
+    "id": "088963-2026",
+    "lat": 32.7942,
+    "lng": -96.7636,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "grocery/supermarket",
+    "hour": 21,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "157107-2025",
+    "lat": 32.7782,
+    "lng": -96.7759,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-11-01",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "059143-2026",
+    "lat": 32.7838,
+    "lng": -96.784,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 1,
+    "date": "2026-04-26",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "112393-2025",
+    "lat": 32.7798,
+    "lng": -96.7744,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 15,
+    "date": "2025-08-05",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "093252-2026",
+    "lat": 32.7786,
+    "lng": -96.7766,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "shelter - mission/homeless",
+    "hour": 13,
+    "date": "2026-06-27",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "810248-2026",
+    "lat": 32.7846,
+    "lng": -96.7823,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 1,
+    "date": "2026-05-16",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "063395-2026",
+    "lat": 32.7844,
+    "lng": -96.7881,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-17",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-05-03",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "063395-2026",
+    "lat": 32.7844,
+    "lng": -96.7881,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-05-03",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "091438-2026",
+    "lat": 32.7798,
+    "lng": -96.7744,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 10,
+    "date": "2026-06-24",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "075678-2026",
+    "lat": 32.7838,
+    "lng": -96.7843,
+    "offense": "theft by deception (fraud) <$100",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 21,
+    "date": "2026-05-26",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "093037-2026",
+    "lat": 32.7822,
+    "lng": -96.7677,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-06-27",
     "neighborhood": "Deep Ellum"
   },
   {
@@ -308,17 +462,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "074650-2026",
-    "lat": 32.7841,
-    "lng": -96.7821,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-24",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "005018-2026",
     "lat": 32.7845,
     "lng": -96.7834,
@@ -341,17 +484,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "051244-2026",
-    "lat": 32.7841,
-    "lng": -96.7834,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-11",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "100224-2026",
     "lat": 32.7853,
     "lng": -96.7845,
@@ -371,17 +503,6 @@
     "premise": "highway, street, alley etc",
     "hour": 12,
     "date": "2026-06-04",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "091213-2026",
-    "lat": 32.784,
-    "lng": -96.7833,
-    "offense": "robbery (agg) of individual, preliminary investigation",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-06-23",
     "neighborhood": "Deep Ellum"
   },
   {
@@ -418,39 +539,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "077989-2026",
-    "lat": 32.7846,
-    "lng": -96.7839,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 23,
-    "date": "2026-05-30",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "028346-2026",
-    "lat": 32.7839,
-    "lng": -96.7863,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-02-28",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "095776-2026",
-    "lat": 32.7882,
-    "lng": -96.7837,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-07-01",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
     "id": "131299-2025",
     "lat": 32.784,
     "lng": -96.7833,
@@ -471,17 +559,6 @@
     "hour": 19,
     "date": "2026-03-25",
     "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "067611-2026",
-    "lat": 32.7845,
-    "lng": -96.7834,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-05-12",
-    "neighborhood": "Deep Ellum"
   },
   {
     "id": "063521-2026",
@@ -539,17 +616,6 @@
     "neighborhood": "Grand Park South"
   },
   {
-    "id": "814183-2026",
-    "lat": 32.7858,
-    "lng": -96.7877,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-07-12",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
     "id": "015354-2026",
     "lat": 32.7816,
     "lng": -96.7794,
@@ -594,39 +660,6 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "092233-2026",
-    "lat": 32.7847,
-    "lng": -96.7758,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2026-06-25",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "085751-2026",
-    "lat": 32.7845,
-    "lng": -96.7834,
-    "offense": "interfere w/ public duties",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-14",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "078634-2026",
-    "lat": 32.7828,
-    "lng": -96.78,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-06-01",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "150483-2025",
     "lat": 32.7833,
     "lng": -96.7863,
@@ -635,17 +668,6 @@
     "premise": "highway, street, alley etc",
     "hour": 2,
     "date": "2025-10-19",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "093496-2026",
-    "lat": 32.7843,
-    "lng": -96.7822,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-27",
     "neighborhood": "Deep Ellum"
   },
   {
@@ -660,39 +682,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "027255-2026",
-    "lat": 32.7841,
-    "lng": -96.7828,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 2,
-    "date": "2026-02-26",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "088581-2026",
-    "lat": 32.7913,
-    "lng": -96.767,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-06-19",
-    "neighborhood": null
-  },
-  {
-    "id": "081792-2026",
-    "lat": 32.7856,
-    "lng": -96.7748,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-06",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "085761-2026",
     "lat": 32.791,
     "lng": -96.7667,
@@ -704,17 +693,6 @@
     "neighborhood": null
   },
   {
-    "id": "076223-2026",
-    "lat": 32.7833,
-    "lng": -96.7801,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-05-27",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "088251-2026",
     "lat": 32.7786,
     "lng": -96.7766,
@@ -724,28 +702,6 @@
     "hour": 14,
     "date": "2026-06-18",
     "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "086115-2026",
-    "lat": 32.7841,
-    "lng": -96.7834,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-06-14",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "027784-2026",
-    "lat": 32.7843,
-    "lng": -96.7774,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-27",
-    "neighborhood": "Deep Ellum"
   },
   {
     "id": "014901-2026",
@@ -770,39 +726,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "074658-2026",
-    "lat": 32.7839,
-    "lng": -96.7863,
-    "offense": "other offense - misdemeanor",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-24",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "074747-2026",
-    "lat": 32.7845,
-    "lng": -96.7845,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-05-25",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "174366-2025",
-    "lat": 32.7849,
-    "lng": -96.7823,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2025-12-06",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "093332-2026",
     "lat": 32.7784,
     "lng": -96.7785,
@@ -814,17 +737,6 @@
     "neighborhood": "Grand Park South"
   },
   {
-    "id": "065284-2026",
-    "lat": 32.783,
-    "lng": -96.7857,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-05-08",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "104490-2025",
     "lat": 32.7053,
     "lng": -96.8279,
@@ -834,61 +746,6 @@
     "hour": 23,
     "date": "2025-07-22",
     "neighborhood": null
-  },
-  {
-    "id": "091046-2026",
-    "lat": 32.7836,
-    "lng": -96.7888,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-06-23",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "085759-2026",
-    "lat": 32.7845,
-    "lng": -96.7834,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-14",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "082347-2026",
-    "lat": 32.7843,
-    "lng": -96.7883,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2026-06-07",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "094953-2026",
-    "lat": 32.7787,
-    "lng": -96.7753,
-    "offense": "fail to id -refuses to provide info",
-    "group": "other",
-    "premise": "shelter - mission/homeless",
-    "hour": 14,
-    "date": "2026-06-30",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "085959-2026",
-    "lat": 32.7822,
-    "lng": -96.7787,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 12,
-    "date": "2026-06-14",
-    "neighborhood": "Deep Ellum"
   },
   {
     "id": "128822-2025",
@@ -957,28 +814,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "074658-2026",
-    "lat": 32.7839,
-    "lng": -96.7863,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-24",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "051812-2026",
-    "lat": 32.7839,
-    "lng": -96.7863,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 1,
-    "date": "2026-04-12",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "175050-2025",
     "lat": 32.7852,
     "lng": -96.7822,
@@ -1001,14 +836,190 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "076224-2026",
+    "id": "027255-2026",
+    "lat": 32.7841,
+    "lng": -96.7828,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 2,
+    "date": "2026-02-26",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "006031-2026",
+    "lat": 32.785,
+    "lng": -96.7828,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-01-13",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "116626-2025",
+    "lat": 32.7831,
+    "lng": -96.7913,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2025-08-14",
+    "neighborhood": "Main Street District"
+  },
+  {
+    "id": "086588-2026",
+    "lat": 32.7798,
+    "lng": -96.7744,
+    "offense": "poss cont sub not in pen grp",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-15",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "084260-2026",
+    "lat": 32.7928,
+    "lng": -96.7634,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
+    "id": "185084-2025",
+    "lat": 32.785,
+    "lng": -96.7821,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2025-12-27",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "121678-2025",
+    "lat": 32.7855,
+    "lng": -96.7822,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-08-24",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "106731-2025",
+    "lat": 32.7838,
+    "lng": -96.7834,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-07-27",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "101499-2026",
+    "lat": 32.7842,
+    "lng": -96.7861,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 1,
+    "date": "2026-07-12",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "096171-2026",
     "lat": 32.7833,
-    "lng": -96.7801,
+    "lng": -96.7782,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-07-02",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "070373-2026",
+    "lat": 32.7835,
+    "lng": -96.7864,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-16",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "121098-2025",
+    "lat": 32.784,
+    "lng": -96.7833,
     "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-08-22",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "119186-2025",
+    "lat": 32.7949,
+    "lng": -96.7634,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "139743-2025",
+    "lat": 32.7828,
+    "lng": -96.7846,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-09-28",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "009947-2026",
+    "lat": 32.7844,
+    "lng": -96.7881,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
     "hour": 21,
-    "date": "2026-05-27",
+    "date": "2026-01-16",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "124188-2025",
+    "lat": 32.7839,
+    "lng": -96.7863,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 22,
+    "date": "2025-08-28",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "821060-2025",
+    "lat": 32.7833,
+    "lng": -96.7712,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 16,
+    "date": "2025-10-11",
     "neighborhood": "Deep Ellum"
   }
 ]

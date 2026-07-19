@@ -55,6 +55,17 @@
     "neighborhood": null
   },
   {
+    "id": "093758-2026",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2026-06-28",
+    "neighborhood": "Valley View"
+  },
+  {
     "id": "800326-2026",
     "lat": 32.9209,
     "lng": -96.7733,
@@ -99,17 +110,6 @@
     "neighborhood": null
   },
   {
-    "id": "078674-2026",
-    "lat": 32.9249,
-    "lng": -96.767,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-01",
-    "neighborhood": null
-  },
-  {
     "id": "148028-2025",
     "lat": 32.9236,
     "lng": -96.7707,
@@ -130,5 +130,60 @@
     "hour": 2,
     "date": "2026-02-07",
     "neighborhood": null
+  },
+  {
+    "id": "093000-2026",
+    "lat": 32.9141,
+    "lng": -96.7699,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-06-27",
+    "neighborhood": null
+  },
+  {
+    "id": "802300-2026",
+    "lat": 32.9189,
+    "lng": -96.7714,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-02-02",
+    "neighborhood": null
+  },
+  {
+    "id": "089009-2026",
+    "lat": 32.9259,
+    "lng": -96.7663,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "093758-2026",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2026-06-28",
+    "neighborhood": "Valley View"
+  },
+  {
+    "id": "093758-2026",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2026-06-28",
+    "neighborhood": "Valley View"
   }
 ]

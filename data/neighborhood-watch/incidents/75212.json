@@ -77,15 +77,136 @@
     "neighborhood": "La Bajada"
   },
   {
-    "id": "091697-2026",
+    "id": "801105-2026",
+    "lat": 32.7831,
+    "lng": -96.8914,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 20,
+    "date": "2026-01-14",
+    "neighborhood": null
+  },
+  {
+    "id": "048795-2026",
+    "lat": 32.7803,
+    "lng": -96.909,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "other",
+    "hour": 20,
+    "date": "2026-04-04",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "103107-2026",
+    "lat": 32.7886,
+    "lng": -96.8482,
+    "offense": "man del cont sub pen grp 1-b > or equals 200<400g",
+    "group": "other",
+    "premise": "other",
+    "hour": 11,
+    "date": "2026-07-15",
+    "neighborhood": "Los Altos"
+  },
+  {
+    "id": "103347-2026",
+    "lat": 32.7796,
+    "lng": -96.8561,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2026-07-15",
+    "neighborhood": "Los Altos"
+  },
+  {
+    "id": "099645-2026",
+    "lat": 32.7821,
+    "lng": -96.8302,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-07-09",
+    "neighborhood": "La Bajada"
+  },
+  {
+    "id": "103107-2026",
+    "lat": 32.7886,
+    "lng": -96.8482,
+    "offense": "poss marijuana >4oz< or equal 5lbs",
+    "group": "other",
+    "premise": "other",
+    "hour": 11,
+    "date": "2026-07-15",
+    "neighborhood": "Los Altos"
+  },
+  {
+    "id": "103493-2026",
     "lat": 32.7672,
     "lng": -96.8995,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-06-24",
+    "hour": 22,
+    "date": "2026-07-15",
     "neighborhood": null
+  },
+  {
+    "id": "090345-2026",
+    "lat": 32.7786,
+    "lng": -96.8338,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 11,
+    "date": "2026-06-21",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "101235-2026",
+    "lat": 32.7775,
+    "lng": -96.8275,
+    "offense": "criminal trespass wdeadly weapon",
+    "group": "violent",
+    "premise": "abandoned/condemned structure",
+    "hour": 22,
+    "date": "2026-07-11",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "069816-2026",
+    "lat": 32.7827,
+    "lng": -96.877,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-15",
+    "neighborhood": "Westmoreland Heights"
+  },
+  {
+    "id": "072463-2026",
+    "lat": 32.7787,
+    "lng": -96.8369,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-20",
+    "neighborhood": "Los Altos"
+  },
+  {
+    "id": "103446-2026",
+    "lat": 32.7895,
+    "lng": -96.8511,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 21,
+    "date": "2026-07-15",
+    "neighborhood": "Los Altos"
   },
   {
     "id": "806856-2026",
@@ -99,6 +220,50 @@
     "neighborhood": null
   },
   {
+    "id": "091987-2026",
+    "lat": 32.7786,
+    "lng": -96.86,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-06-24",
+    "neighborhood": "Lake West"
+  },
+  {
+    "id": "068348-2026",
+    "lat": 32.7794,
+    "lng": -96.9118,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-05-11",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "800855-2026",
+    "lat": 32.7899,
+    "lng": -96.8562,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 2,
+    "date": "2025-09-05",
+    "neighborhood": "Los Altos"
+  },
+  {
+    "id": "107021-2025",
+    "lat": 32.7865,
+    "lng": -96.8464,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-07-26",
+    "neighborhood": "Los Altos"
+  },
+  {
     "id": "134610-2025",
     "lat": 32.7705,
     "lng": -96.8958,
@@ -108,17 +273,6 @@
     "hour": 17,
     "date": "2025-09-17",
     "neighborhood": null
-  },
-  {
-    "id": "077452-2026",
-    "lat": 32.7774,
-    "lng": -96.8277,
-    "offense": "other offense - misdemeanor",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-05-30",
-    "neighborhood": "La L'aceate"
   },
   {
     "id": "076872-2026",
@@ -319,17 +473,6 @@
     "neighborhood": "Los Altos"
   },
   {
-    "id": "103616-2026",
-    "lat": 32.7786,
-    "lng": -96.8327,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-07-15",
-    "neighborhood": "La L'aceate"
-  },
-  {
     "id": "150342-2025",
     "lat": 32.777,
     "lng": -96.9101,
@@ -363,17 +506,6 @@
     "neighborhood": "Lake West"
   },
   {
-    "id": "103789-2026",
-    "lat": 32.7807,
-    "lng": -96.8277,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 12,
-    "date": "2026-07-16",
-    "neighborhood": "La Bajada"
-  },
-  {
     "id": "048546-2026",
     "lat": 32.7817,
     "lng": -96.8357,
@@ -394,17 +526,6 @@
     "hour": 11,
     "date": "2026-07-01",
     "neighborhood": "La L'aceate"
-  },
-  {
-    "id": "103711-2026",
-    "lat": 32.7922,
-    "lng": -96.8612,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-07-03",
-    "neighborhood": "Lake West"
   },
   {
     "id": "031544-2026",
@@ -438,5 +559,137 @@
     "hour": 6,
     "date": "2026-05-09",
     "neighborhood": "Westmoreland Heights"
+  },
+  {
+    "id": "085441-2026",
+    "lat": 32.7775,
+    "lng": -96.8418,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-06-12",
+    "neighborhood": "Muncie"
+  },
+  {
+    "id": "134610-2025",
+    "lat": 32.7705,
+    "lng": -96.8958,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-09-17",
+    "neighborhood": null
+  },
+  {
+    "id": "015197-2026",
+    "lat": 32.7812,
+    "lng": -96.8922,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-02-01",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "152835-2025",
+    "lat": 32.7786,
+    "lng": -96.8288,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2025-10-22",
+    "neighborhood": "La L'aceate"
+  },
+  {
+    "id": "026475-2026",
+    "lat": 32.785,
+    "lng": -96.8716,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "shelter - mission/homeless",
+    "hour": 12,
+    "date": "2026-02-04",
+    "neighborhood": "Lake West"
+  },
+  {
+    "id": "148258-2025",
+    "lat": 32.7865,
+    "lng": -96.8564,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "006739-2026",
+    "lat": 32.7784,
+    "lng": -96.9156,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-01-13",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "006739-2026",
+    "lat": 32.7784,
+    "lng": -96.9156,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-01-13",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "019270-2026",
+    "lat": 32.78,
+    "lng": -96.8879,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "092068-2026",
+    "lat": 32.7784,
+    "lng": -96.9184,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 12,
+    "date": "2026-06-25",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "140629-2025",
+    "lat": 32.7707,
+    "lng": -96.9136,
+    "offense": "motor vehicle theft - preliminary invest",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2025-09-26",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "007237-2026",
+    "lat": 32.7776,
+    "lng": -96.8339,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-14",
+    "neighborhood": "La L'aceate"
   }
 ]

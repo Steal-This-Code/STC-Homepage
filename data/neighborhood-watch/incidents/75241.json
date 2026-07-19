@@ -44,17 +44,6 @@
     "neighborhood": null
   },
   {
-    "id": "049576-2026",
-    "lat": 32.6497,
-    "lng": -96.8212,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-07",
-    "neighborhood": "Wheatland Meadows"
-  },
-  {
     "id": "825023-2025",
     "lat": 32.6417,
     "lng": -96.7444,
@@ -75,17 +64,6 @@
     "hour": 18,
     "date": "2026-01-09",
     "neighborhood": null
-  },
-  {
-    "id": "814184-2026",
-    "lat": 32.6715,
-    "lng": -96.7804,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 20,
-    "date": "2026-07-11",
-    "neighborhood": "Cigarette Hill"
   },
   {
     "id": "090267-2026",
@@ -132,48 +110,290 @@
     "neighborhood": null
   },
   {
-    "id": "800377-2026",
-    "lat": 32.666,
-    "lng": -96.7988,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "id": "092856-2026",
+    "lat": 32.6438,
+    "lng": -96.7762,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "other",
-    "hour": 10,
-    "date": "2025-11-24",
-    "neighborhood": "Hidden Valley"
-  },
-  {
-    "id": "015989-2026",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government/public building",
-    "hour": 14,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "170533-2025",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "found property (no offense)",
-    "group": "other",
     "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-11-27",
+    "hour": 8,
+    "date": "2026-06-12",
     "neighborhood": null
   },
   {
-    "id": "171754-2025",
-    "lat": 32.6722,
-    "lng": -96.7598,
-    "offense": "poss of dangerous drug",
+    "id": "090095-2026",
+    "lat": 32.6771,
+    "lng": -96.807,
+    "offense": "vio protective order",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-06-21",
+    "neighborhood": "Glenview"
+  },
+  {
+    "id": "061398-2026",
+    "lat": 32.6759,
+    "lng": -96.7621,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-04-30",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "031488-2026",
+    "lat": 32.6662,
+    "lng": -96.7609,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-03-05",
+    "neighborhood": null
+  },
+  {
+    "id": "813494-2026",
+    "lat": 32.645,
+    "lng": -96.7808,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 22,
+    "date": "2026-07-03",
+    "neighborhood": null
+  },
+  {
+    "id": "823781-2025",
+    "lat": 32.6562,
+    "lng": -96.7511,
+    "offense": "reckless damage",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-11-30",
+    "hour": 19,
+    "date": "2025-11-12",
+    "neighborhood": "Cedar Creek Ranch"
+  },
+  {
+    "id": "185851-2025",
+    "lat": 32.6721,
+    "lng": -96.7696,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 13,
+    "date": "2025-12-25",
     "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "087509-2026",
+    "lat": 32.6743,
+    "lng": -96.7632,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 4,
+    "date": "2026-06-17",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "146634-2025",
+    "lat": 32.6769,
+    "lng": -96.7314,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-10-11",
+    "neighborhood": null
+  },
+  {
+    "id": "092555-2026",
+    "lat": 32.6357,
+    "lng": -96.7541,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 15,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "057871-2026",
+    "lat": 32.676,
+    "lng": -96.7636,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-04-23",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "095725-2026",
+    "lat": 32.6733,
+    "lng": -96.8221,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
+    "id": "098253-2026",
+    "lat": 32.6829,
+    "lng": -96.7948,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 0,
+    "date": "2026-07-04",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "100213-2026",
+    "lat": 32.6725,
+    "lng": -96.756,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-10",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "807501-2026",
+    "lat": 32.6442,
+    "lng": -96.7595,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 6,
+    "date": "2026-04-04",
+    "neighborhood": null
+  },
+  {
+    "id": "067054-2026",
+    "lat": 32.6759,
+    "lng": -96.8221,
+    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "827069-2025",
+    "lat": 32.6538,
+    "lng": -96.819,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 3,
+    "date": "2025-12-30",
+    "neighborhood": "Wheatland Meadows"
+  },
+  {
+    "id": "102673-2026",
+    "lat": 32.648,
+    "lng": -96.7583,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2026-07-12",
+    "neighborhood": null
+  },
+  {
+    "id": "069969-2026",
+    "lat": 32.6563,
+    "lng": -96.751,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-05-15",
+    "neighborhood": "Cedar Creek Ranch"
+  },
+  {
+    "id": "102386-2026",
+    "lat": 32.6852,
+    "lng": -96.7901,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-07-13",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "030320-2026",
+    "lat": 32.6634,
+    "lng": -96.7882,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "096725-2026",
+    "lat": 32.6799,
+    "lng": -96.7658,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-07-03",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "100231-2026",
+    "lat": 32.6816,
+    "lng": -96.8146,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-07-10",
+    "neighborhood": "Glenview"
+  },
+  {
+    "id": "134583-2025",
+    "lat": 32.6818,
+    "lng": -96.8031,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2025-09-18",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "005089-2026",
+    "lat": 32.6592,
+    "lng": -96.8167,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "012803-2026",
+    "lat": 32.6538,
+    "lng": -96.7514,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 19,
+    "date": "2026-01-27",
+    "neighborhood": null
   },
   {
     "id": "015223-2026",
@@ -185,28 +405,6 @@
     "hour": 0,
     "date": "2026-02-02",
     "neighborhood": null
-  },
-  {
-    "id": "043084-2026",
-    "lat": 32.6841,
-    "lng": -96.7882,
-    "offense": "traf vio -operate motor veh w/o fin resp",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-03-27",
-    "neighborhood": "Arden Terrace"
-  },
-  {
-    "id": "162636-2025",
-    "lat": 32.6805,
-    "lng": -96.8193,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-11-12",
-    "neighborhood": "Glenview"
   },
   {
     "id": "102202-2026",
@@ -231,17 +429,6 @@
     "neighborhood": null
   },
   {
-    "id": "159331-2025",
-    "lat": 32.6797,
-    "lng": -96.7858,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "field/woods",
-    "hour": 8,
-    "date": "2025-11-05",
-    "neighborhood": null
-  },
-  {
     "id": "099075-2026",
     "lat": 32.6785,
     "lng": -96.7937,
@@ -251,17 +438,6 @@
     "hour": 21,
     "date": "2026-07-07",
     "neighborhood": "Singing Hills"
-  },
-  {
-    "id": "164249-2025",
-    "lat": 32.6704,
-    "lng": -96.7828,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-11-15",
-    "neighborhood": "Cigarette Hill"
   },
   {
     "id": "103876-2025",
@@ -275,39 +451,6 @@
     "neighborhood": "Highland Hills"
   },
   {
-    "id": "009564-2026",
-    "lat": 32.6815,
-    "lng": -96.7242,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 8,
-    "date": "2026-01-20",
-    "neighborhood": null
-  },
-  {
-    "id": "103736-2026",
-    "lat": 32.6693,
-    "lng": -96.7818,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-07-16",
-    "neighborhood": "Cigarette Hill"
-  },
-  {
-    "id": "010928-2026",
-    "lat": 32.6738,
-    "lng": -96.7589,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-22",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "166861-2025",
     "lat": 32.6797,
     "lng": -96.7858,
@@ -317,28 +460,6 @@
     "hour": 8,
     "date": "2025-11-20",
     "neighborhood": null
-  },
-  {
-    "id": "173330-2025",
-    "lat": 32.6805,
-    "lng": -96.8224,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-04",
-    "neighborhood": "Glenview"
-  },
-  {
-    "id": "046313-2026",
-    "lat": 32.6739,
-    "lng": -96.7636,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-04-01",
-    "neighborhood": "Highland Hills"
   },
   {
     "id": "825568-2025",
@@ -374,17 +495,6 @@
     "neighborhood": null
   },
   {
-    "id": "178134-2025",
-    "lat": 32.6738,
-    "lng": -96.7589,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 19,
-    "date": "2025-12-13",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "071530-2026",
     "lat": 32.6721,
     "lng": -96.8052,
@@ -396,50 +506,6 @@
     "neighborhood": "Singing Hills"
   },
   {
-    "id": "045788-2026",
-    "lat": 32.6596,
-    "lng": -96.7519,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "171754-2025",
-    "lat": 32.6722,
-    "lng": -96.7598,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-11-30",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "024468-2026",
-    "lat": 32.6852,
-    "lng": -96.7901,
-    "offense": "fail to id -refuses to provide info",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 15,
-    "date": "2026-02-20",
-    "neighborhood": "Singing Hills"
-  },
-  {
-    "id": "018067-2026",
-    "lat": 32.6622,
-    "lng": -96.8218,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 22,
-    "date": "2026-02-07",
-    "neighborhood": null
-  },
-  {
     "id": "107500-2025",
     "lat": 32.6525,
     "lng": -96.7874,
@@ -449,17 +515,6 @@
     "hour": 16,
     "date": "2025-07-28",
     "neighborhood": null
-  },
-  {
-    "id": "019501-2026",
-    "lat": 32.6747,
-    "lng": -96.7623,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-02-10",
-    "neighborhood": "Highland Hills"
   },
   {
     "id": "071160-2026",
@@ -495,17 +550,6 @@
     "neighborhood": null
   },
   {
-    "id": "160548-2025",
-    "lat": 32.6718,
-    "lng": -96.7646,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-07",
-    "neighborhood": null
-  },
-  {
     "id": "116805-2025",
     "lat": 32.6711,
     "lng": -96.7795,
@@ -515,28 +559,6 @@
     "hour": 5,
     "date": "2025-08-15",
     "neighborhood": "Cigarette Hill"
-  },
-  {
-    "id": "103715-2026",
-    "lat": 32.6685,
-    "lng": -96.7448,
-    "offense": "identity theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-07-11",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "154878-2025",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 21,
-    "date": "2025-10-27",
-    "neighborhood": null
   },
   {
     "id": "045599-2026",
@@ -594,39 +616,6 @@
     "neighborhood": "Highland Hills"
   },
   {
-    "id": "814184-2026",
-    "lat": 32.6715,
-    "lng": -96.7804,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 20,
-    "date": "2026-07-11",
-    "neighborhood": "Cigarette Hill"
-  },
-  {
-    "id": "176104-2025",
-    "lat": 32.6722,
-    "lng": -96.7598,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2025-12-09",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "166843-2025",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 4g<200g",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 8,
-    "date": "2025-11-20",
-    "neighborhood": null
-  },
-  {
     "id": "100231-2026",
     "lat": 32.6816,
     "lng": -96.8146,
@@ -647,17 +636,6 @@
     "hour": 1,
     "date": "2025-08-16",
     "neighborhood": "Cigarette Hill"
-  },
-  {
-    "id": "020003-2026",
-    "lat": 32.6913,
-    "lng": -96.7733,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-02-12",
-    "neighborhood": "Arden Terrace"
   },
   {
     "id": "130474-2025",
@@ -682,28 +660,6 @@
     "neighborhood": null
   },
   {
-    "id": "051202-2026",
-    "lat": 32.6786,
-    "lng": -96.8201,
-    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-11",
-    "neighborhood": "Glenview"
-  },
-  {
-    "id": "013213-2026",
-    "lat": 32.6749,
-    "lng": -96.8057,
-    "offense": "poss marijuana >2oz< or equal 4oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-01-29",
-    "neighborhood": "Singing Hills"
-  },
-  {
     "id": "087067-2026",
     "lat": 32.6522,
     "lng": -96.8202,
@@ -724,17 +680,6 @@
     "hour": 23,
     "date": "2026-01-04",
     "neighborhood": null
-  },
-  {
-    "id": "010886-2026",
-    "lat": 32.6746,
-    "lng": -96.764,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-22",
-    "neighborhood": "Highland Hills"
   },
   {
     "id": "098603-2026",
@@ -759,17 +704,6 @@
     "neighborhood": "Highland Hills"
   },
   {
-    "id": "051202-2026",
-    "lat": 32.6786,
-    "lng": -96.8201,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-11",
-    "neighborhood": "Glenview"
-  },
-  {
     "id": "103380-2026",
     "lat": 32.6518,
     "lng": -96.7636,
@@ -778,39 +712,6 @@
     "premise": "highway, street, alley etc",
     "hour": 18,
     "date": "2026-07-15",
-    "neighborhood": null
-  },
-  {
-    "id": "173254-2025",
-    "lat": 32.6568,
-    "lng": -96.7501,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-12-03",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "050018-2026",
-    "lat": 32.6753,
-    "lng": -96.8066,
-    "offense": "fraud use/poss identifying info # items 10<50",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2026-04-08",
-    "neighborhood": "Glenview"
-  },
-  {
-    "id": "160548-2025",
-    "lat": 32.6718,
-    "lng": -96.7646,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-07",
     "neighborhood": null
   },
   {
@@ -834,17 +735,6 @@
     "hour": 22,
     "date": "2026-05-30",
     "neighborhood": null
-  },
-  {
-    "id": "103587-2026",
-    "lat": 32.6687,
-    "lng": -96.8044,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-07-15",
-    "neighborhood": "Singing Hills"
   },
   {
     "id": "128385-2025",
@@ -990,50 +880,6 @@
     "neighborhood": null
   },
   {
-    "id": "007017-2026",
-    "lat": 32.672,
-    "lng": -96.7475,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "park",
-    "hour": 3,
-    "date": "2026-01-15",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "048348-2026",
-    "lat": 32.6561,
-    "lng": -96.7496,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 4g<200g",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-05",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "176104-2025",
-    "lat": 32.6722,
-    "lng": -96.7598,
-    "offense": "fail to id -giving false/fictitious info pc 38.02(c)(2)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2025-12-09",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "026631-2026",
-    "lat": 32.6642,
-    "lng": -96.7571,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-02-24",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "093666-2026",
     "lat": 32.6759,
     "lng": -96.7594,
@@ -1067,17 +913,6 @@
     "neighborhood": "Highland Hills"
   },
   {
-    "id": "018568-2026",
-    "lat": 32.671,
-    "lng": -96.7613,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-02-08",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "092856-2026",
     "lat": 32.6438,
     "lng": -96.7762,
@@ -1087,17 +922,6 @@
     "hour": 8,
     "date": "2026-06-12",
     "neighborhood": null
-  },
-  {
-    "id": "175332-2025",
-    "lat": 32.6917,
-    "lng": -96.7734,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2025-12-08",
-    "neighborhood": "Arden Terrace"
   },
   {
     "id": "096219-2026",
@@ -1120,28 +944,6 @@
     "hour": 17,
     "date": "2026-01-14",
     "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "169192-2025",
-    "lat": 32.6852,
-    "lng": -96.7901,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 15,
-    "date": "2025-11-24",
-    "neighborhood": "Singing Hills"
-  },
-  {
-    "id": "051202-2026",
-    "lat": 32.6786,
-    "lng": -96.8201,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-11",
-    "neighborhood": "Glenview"
   },
   {
     "id": "116413-2025",
@@ -1177,17 +979,6 @@
     "neighborhood": "Wisdom Terrace"
   },
   {
-    "id": "016719-2026",
-    "lat": 32.6759,
-    "lng": -96.8221,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-05",
-    "neighborhood": null
-  },
-  {
     "id": "005946-2026",
     "lat": 32.6811,
     "lng": -96.7665,
@@ -1221,17 +1012,6 @@
     "neighborhood": null
   },
   {
-    "id": "159208-2025",
-    "lat": 32.6823,
-    "lng": -96.764,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2025-11-05",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "021170-2026",
     "lat": 32.6759,
     "lng": -96.8221,
@@ -1241,17 +1021,6 @@
     "hour": 3,
     "date": "2026-02-14",
     "neighborhood": null
-  },
-  {
-    "id": "179723-2025",
-    "lat": 32.6504,
-    "lng": -96.8207,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-12-16",
-    "neighborhood": "Wheatland Meadows"
   },
   {
     "id": "103561-2026",
@@ -1276,28 +1045,6 @@
     "neighborhood": "Highland Hills"
   },
   {
-    "id": "048279-2026",
-    "lat": 32.6808,
-    "lng": -96.8097,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-04-05",
-    "neighborhood": "Glenview"
-  },
-  {
-    "id": "175077-2025",
-    "lat": 32.6634,
-    "lng": -96.7882,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 15,
-    "date": "2025-12-07",
-    "neighborhood": null
-  },
-  {
     "id": "128599-2025",
     "lat": 32.6713,
     "lng": -96.7863,
@@ -1307,17 +1054,6 @@
     "hour": 16,
     "date": "2025-09-06",
     "neighborhood": null
-  },
-  {
-    "id": "175332-2025",
-    "lat": 32.6917,
-    "lng": -96.7734,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2025-12-08",
-    "neighborhood": "Arden Terrace"
   },
   {
     "id": "129159-2025",
@@ -1339,39 +1075,6 @@
     "premise": "single family residence - occupied",
     "hour": 12,
     "date": "2026-01-06",
-    "neighborhood": "Highland Hills"
-  },
-  {
-    "id": "174655-2025",
-    "lat": 32.6629,
-    "lng": -96.8015,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-12-06",
-    "neighborhood": null
-  },
-  {
-    "id": "155309-2025",
-    "lat": 32.6919,
-    "lng": -96.7728,
-    "offense": "prohibited weapon pc",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-10-28",
-    "neighborhood": "Arden Terrace"
-  },
-  {
-    "id": "010928-2026",
-    "lat": 32.6738,
-    "lng": -96.7589,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-22",
     "neighborhood": "Highland Hills"
   },
   {
@@ -1408,17 +1111,6 @@
     "neighborhood": null
   },
   {
-    "id": "174722-2025",
-    "lat": 32.6804,
-    "lng": -96.7634,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-12-06",
-    "neighborhood": "Highland Hills"
-  },
-  {
     "id": "117587-2025",
     "lat": 32.6428,
     "lng": -96.7766,
@@ -1428,28 +1120,6 @@
     "hour": 10,
     "date": "2025-08-16",
     "neighborhood": null
-  },
-  {
-    "id": "103709-2026",
-    "lat": 32.6587,
-    "lng": -96.7724,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 11,
-    "date": "2026-07-16",
-    "neighborhood": null
-  },
-  {
-    "id": "024230-2026",
-    "lat": 32.6754,
-    "lng": -96.8218,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-20",
-    "neighborhood": "Glenview"
   },
   {
     "id": "128510-2025",
@@ -1471,6 +1141,336 @@
     "premise": "highway, street, alley etc",
     "hour": 8,
     "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "087067-2026",
+    "lat": 32.6522,
+    "lng": -96.8202,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-11",
+    "neighborhood": "Wheatland Meadows"
+  },
+  {
+    "id": "164465-2025",
+    "lat": 32.6711,
+    "lng": -96.8215,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2025-11-15",
+    "neighborhood": null
+  },
+  {
+    "id": "146017-2025",
+    "lat": 32.6728,
+    "lng": -96.7624,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "park",
+    "hour": 23,
+    "date": "2025-10-09",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "183686-2025",
+    "lat": 32.6538,
+    "lng": -96.7514,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "103302-2026",
+    "lat": 32.6652,
+    "lng": -96.8015,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-05-01",
+    "neighborhood": "Hidden Valley"
+  },
+  {
+    "id": "100742-2026",
+    "lat": 32.679,
+    "lng": -96.8015,
+    "offense": "resist arrest search or transport",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-10",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "069979-2026",
+    "lat": 32.6561,
+    "lng": -96.7498,
+    "offense": "fail to id -giving false/fictitious info pc 38.02(c)(2)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 9,
+    "date": "2026-05-16",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "825023-2025",
+    "lat": 32.6417,
+    "lng": -96.7444,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2025-12-02",
+    "neighborhood": null
+  },
+  {
+    "id": "145997-2025",
+    "lat": 32.6728,
+    "lng": -96.7624,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 21,
+    "date": "2025-10-09",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "017796-2026",
+    "lat": 32.6786,
+    "lng": -96.8093,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-02-06",
+    "neighborhood": "Glenview"
+  },
+  {
+    "id": "806122-2026",
+    "lat": 32.6664,
+    "lng": -96.7664,
+    "offense": "theft of service > or equal $100 <$750 pc31.04(e2)",
+    "group": "property",
+    "premise": "condominium/townhome residence",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": null
+  },
+  {
+    "id": "103281-2026",
+    "lat": 32.6492,
+    "lng": -96.748,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "industrial/manufacturing",
+    "hour": 13,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
+    "id": "019198-2026",
+    "lat": 32.6793,
+    "lng": -96.7858,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 9,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "131653-2025",
+    "lat": 32.6851,
+    "lng": -96.7687,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "park",
+    "hour": 16,
+    "date": "2025-09-12",
+    "neighborhood": null
+  },
+  {
+    "id": "127593-2025",
+    "lat": 32.6423,
+    "lng": -96.7543,
+    "offense": "poss cont sub pen grp 2 400g <",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2025-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "168440-2025",
+    "lat": 32.6561,
+    "lng": -96.7498,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 8,
+    "date": "2025-11-23",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "090336-2026",
+    "lat": 32.6636,
+    "lng": -96.7815,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "112567-2025",
+    "lat": 32.6619,
+    "lng": -96.8224,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-08-06",
+    "neighborhood": null
+  },
+  {
+    "id": "000348-2026",
+    "lat": 32.6512,
+    "lng": -96.8208,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-01",
+    "neighborhood": "Wheatland Meadows"
+  },
+  {
+    "id": "017268-2026",
+    "lat": 32.6555,
+    "lng": -96.7549,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2026-02-05",
+    "neighborhood": "Cedar Creek Ranch"
+  },
+  {
+    "id": "146757-2025",
+    "lat": 32.6728,
+    "lng": -96.7624,
+    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 14,
+    "date": "2025-10-11",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "124817-2025",
+    "lat": 32.667,
+    "lng": -96.7574,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-08-30",
+    "neighborhood": "Highland Hills"
+  },
+  {
+    "id": "097883-2026",
+    "lat": 32.6941,
+    "lng": -96.7639,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-07-05",
+    "neighborhood": null
+  },
+  {
+    "id": "023230-2026",
+    "lat": 32.6651,
+    "lng": -96.7797,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "business office",
+    "hour": 7,
+    "date": "2026-02-18",
+    "neighborhood": "Cigarette Hill"
+  },
+  {
+    "id": "085431-2026",
+    "lat": 32.6784,
+    "lng": -96.801,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-08",
+    "neighborhood": "Singing Hills"
+  },
+  {
+    "id": "016725-2026",
+    "lat": 32.6538,
+    "lng": -96.7514,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-02-05",
+    "neighborhood": null
+  },
+  {
+    "id": "005089-2026",
+    "lat": 32.6592,
+    "lng": -96.8167,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "009580-2026",
+    "lat": 32.6516,
+    "lng": -96.7556,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 23,
+    "date": "2026-01-19",
+    "neighborhood": null
+  },
+  {
+    "id": "087067-2026",
+    "lat": 32.6522,
+    "lng": -96.8202,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-11",
+    "neighborhood": "Wheatland Meadows"
+  },
+  {
+    "id": "092041-2026",
+    "lat": 32.645,
+    "lng": -96.7808,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-06-25",
     "neighborhood": null
   }
 ]
