@@ -143,157 +143,25 @@
     "neighborhood": null
   },
   {
-    "id": "103434-2026",
-    "lat": 32.9446,
-    "lng": -96.8204,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-07-15",
-    "neighborhood": null
-  },
-  {
-    "id": "068885-2026",
-    "lat": 32.9394,
-    "lng": -96.8162,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "166497-2025",
+    "lat": 32.95,
+    "lng": -96.7839,
+    "offense": "dwi",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-05-13",
-    "neighborhood": null
-  },
-  {
-    "id": "004449-2026",
-    "lat": 32.9379,
-    "lng": -96.812,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "106930-2025",
-    "lat": 32.9425,
-    "lng": -96.8051,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2025-07-25",
-    "neighborhood": null
-  },
-  {
-    "id": "079324-2026",
-    "lat": 32.9425,
-    "lng": -96.8163,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-05-27",
-    "neighborhood": null
-  },
-  {
-    "id": "816356-2025",
-    "lat": 32.9536,
-    "lng": -96.8244,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-07-30",
-    "neighborhood": null
-  },
-  {
-    "id": "802462-2026",
-    "lat": 32.94,
-    "lng": -96.8186,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "081035-2026",
-    "lat": 32.9481,
-    "lng": -96.8208,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "bank/savings and loan",
-    "hour": 8,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "811871-2026",
-    "lat": 32.9457,
-    "lng": -96.8209,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "085334-2026",
-    "lat": 32.9455,
-    "lng": -96.817,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "007702-2026",
-    "lat": 32.9407,
-    "lng": -96.8143,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "005740-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-01-05",
+    "hour": 13,
+    "date": "2025-11-19",
     "neighborhood": null
   },
   {
-    "id": "813895-2026",
-    "lat": 32.9375,
-    "lng": -96.8089,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "id": "096428-2026",
+    "lat": 32.9444,
+    "lng": -96.8086,
+    "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-07-08",
-    "neighborhood": null
-  },
-  {
-    "id": "004255-2026",
-    "lat": 32.9398,
-    "lng": -96.8089,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2026-01-09",
+    "hour": 2,
+    "date": "2026-07-03",
     "neighborhood": null
   },
   {
@@ -360,28 +228,6 @@
     "premise": "department/discount store",
     "hour": 10,
     "date": "2026-02-12",
-    "neighborhood": null
-  },
-  {
-    "id": "008286-2026",
-    "lat": 32.9436,
-    "lng": -96.8134,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "006559-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-01-14",
     "neighborhood": null
   }
 ]

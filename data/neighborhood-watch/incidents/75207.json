@@ -1,5 +1,16 @@
 [
   {
+    "id": "021264-2026",
+    "lat": 32.8022,
+    "lng": -96.833,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 20,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
     "id": "800823-2026",
     "lat": 32.8112,
     "lng": -96.8461,
@@ -275,17 +286,6 @@
     "neighborhood": "Design District"
   },
   {
-    "id": "094162-2026",
-    "lat": 32.7772,
-    "lng": -96.8154,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "jail/prison/penitentiary/corrections fac",
-    "hour": 4,
-    "date": "2026-06-29",
-    "neighborhood": null
-  },
-  {
     "id": "101899-2026",
     "lat": 32.778,
     "lng": -96.8127,
@@ -295,6 +295,17 @@
     "hour": 3,
     "date": "2026-07-13",
     "neighborhood": null
+  },
+  {
+    "id": "092975-2026",
+    "lat": 32.7596,
+    "lng": -96.7927,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2026-06-26",
+    "neighborhood": "Cedars"
   },
   {
     "id": "158418-2025",
@@ -308,311 +319,58 @@
     "neighborhood": null
   },
   {
-    "id": "094004-2026",
-    "lat": 32.791,
-    "lng": -96.8348,
+    "id": "089773-2026",
+    "lat": 32.8007,
+    "lng": -96.8293,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-06-07",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "113475-2025",
+    "lat": 32.7688,
+    "lng": -96.8101,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2025-08-07",
+    "neighborhood": null
+  },
+  {
+    "id": "004614-2026",
+    "lat": 32.7671,
+    "lng": -96.807,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 9,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "121552-2025",
+    "lat": 32.7744,
+    "lng": -96.8131,
     "offense": "traf vio -reckless driving",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-28",
-    "neighborhood": null
-  },
-  {
-    "id": "067901-2026",
-    "lat": 32.8002,
-    "lng": -96.8278,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-05-11",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "093019-2026",
-    "lat": 32.7907,
-    "lng": -96.8204,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-27",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "809716-2026",
-    "lat": 32.8022,
-    "lng": -96.833,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-05-13",
-    "neighborhood": null
-  },
-  {
-    "id": "812731-2026",
-    "lat": 32.7944,
-    "lng": -96.8323,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-06-19",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "101510-2026",
-    "lat": 32.7767,
-    "lng": -96.8091,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 11,
-    "date": "2026-07-12",
-    "neighborhood": "Reunion District"
-  },
-  {
-    "id": "096014-2026",
-    "lat": 32.8034,
-    "lng": -96.8282,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 6,
-    "date": "2026-07-02",
-    "neighborhood": null
-  },
-  {
-    "id": "004010-2026",
-    "lat": 32.7999,
-    "lng": -96.825,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2026-01-08",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "015312-2026",
-    "lat": 32.7962,
-    "lng": -96.8259,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 20,
-    "date": "2026-02-01",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "135215-2025",
-    "lat": 32.8022,
-    "lng": -96.833,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
     "hour": 21,
-    "date": "2025-09-18",
+    "date": "2025-08-23",
     "neighborhood": null
   },
   {
-    "id": "801148-2026",
-    "lat": 32.7917,
-    "lng": -96.8149,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 23,
-    "date": "2026-01-14",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "178744-2025",
-    "lat": 32.7827,
-    "lng": -96.8174,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 22,
-    "date": "2025-12-13",
-    "neighborhood": null
-  },
-  {
-    "id": "076691-2026",
-    "lat": 32.7972,
-    "lng": -96.8219,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-27",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "161319-2025",
-    "lat": 32.797,
-    "lng": -96.8209,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-11-08",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "149774-2025",
-    "lat": 32.7919,
-    "lng": -96.828,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 16,
-    "date": "2025-10-17",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "069426-2026",
-    "lat": 32.8043,
-    "lng": -96.838,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "135215-2025",
-    "lat": 32.8022,
-    "lng": -96.833,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 21,
-    "date": "2025-09-18",
-    "neighborhood": null
-  },
-  {
-    "id": "811192-2026",
-    "lat": 32.7876,
-    "lng": -96.818,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-05-29",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "015874-2026",
-    "lat": 32.792,
-    "lng": -96.8212,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 4,
-    "date": "2026-02-01",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "814100-2026",
-    "lat": 32.7859,
-    "lng": -96.8204,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-07-11",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "801095-2026",
-    "lat": 32.7928,
-    "lng": -96.8155,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "arena/stadium/fairgrounds/coliseum",
-    "hour": 22,
-    "date": "2026-01-14",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "802218-2026",
-    "lat": 32.7904,
-    "lng": -96.8177,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-02-01",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "808782-2026",
-    "lat": 32.7927,
-    "lng": -96.8156,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2026-04-24",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "094923-2026",
-    "lat": 32.797,
-    "lng": -96.8209,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-06-29",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "007098-2026",
-    "lat": 32.8022,
-    "lng": -96.833,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 19,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "099246-2026",
-    "lat": 32.8027,
-    "lng": -96.8509,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 16,
-    "date": "2026-07-07",
-    "neighborhood": null
-  },
-  {
-    "id": "019182-2026",
-    "lat": 32.7645,
-    "lng": -96.8019,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-02-10",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "086297-2026",
+    "id": "821151-2025",
     "lat": 32.791,
     "lng": -96.8348,
-    "offense": "poss marijuana <2oz",
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-14",
+    "premise": "parking lot (park)",
+    "hour": 20,
+    "date": "2025-10-12",
     "neighborhood": null
   },
   {
@@ -814,36 +572,47 @@
     "neighborhood": "Design District"
   },
   {
-    "id": "801133-2026",
-    "lat": 32.7871,
-    "lng": -96.8218,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-01-14",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "803127-2026",
-    "lat": 32.7963,
-    "lng": -96.8257,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 16,
-    "date": "2026-02-05",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "108227-2025",
-    "lat": 32.7972,
-    "lng": -96.8242,
+    "id": "003279-2026",
+    "lat": 32.8027,
+    "lng": -96.8295,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "parking (business)",
-    "hour": 0,
-    "date": "2025-07-29",
+    "hour": 9,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "002063-2026",
+    "lat": 32.7865,
+    "lng": -96.8127,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 15,
+    "date": "2025-12-31",
     "neighborhood": "Design District"
+  },
+  {
+    "id": "808782-2026",
+    "lat": 32.7927,
+    "lng": -96.8156,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 11,
+    "date": "2026-04-24",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "162595-2025",
+    "lat": 32.7992,
+    "lng": -96.8193,
+    "offense": "dwi 1 prev conv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-11-12",
+    "neighborhood": null
   }
 ]

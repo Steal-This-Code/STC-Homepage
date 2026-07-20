@@ -121,61 +121,6 @@
     "neighborhood": null
   },
   {
-    "id": "002345-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "809540-2026",
-    "lat": 33.0067,
-    "lng": -96.7906,
-    "offense": "crim mischief > or equal $300k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-05-05",
-    "neighborhood": null
-  },
-  {
-    "id": "080946-2026",
-    "lat": 33.001,
-    "lng": -96.8022,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-04",
-    "neighborhood": null
-  },
-  {
-    "id": "005175-2026",
-    "lat": 32.9871,
-    "lng": -96.7718,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "808422-2026",
-    "lat": 33.0057,
-    "lng": -96.7891,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "cyberspace",
-    "hour": 20,
-    "date": "2026-04-20",
-    "neighborhood": "Preston Highlands"
-  },
-  {
     "id": "005448-2026",
     "lat": 32.9873,
     "lng": -96.7927,
@@ -240,27 +185,5 @@
     "hour": 15,
     "date": "2026-06-18",
     "neighborhood": null
-  },
-  {
-    "id": "073260-2026",
-    "lat": 33.0089,
-    "lng": -96.7971,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 23,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "011934-2026",
-    "lat": 32.9984,
-    "lng": -96.7879,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-01-25",
-    "neighborhood": "Preston Highlands"
   }
 ]
