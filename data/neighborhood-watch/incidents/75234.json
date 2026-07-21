@@ -1,38 +1,5 @@
 [
   {
-    "id": "090718-2026",
-    "lat": 32.9111,
-    "lng": -96.8608,
-    "offense": "robbery of individual - preliminary investigation",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "801112-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "004517-2026",
-    "lat": 32.9101,
-    "lng": -96.8608,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 23,
-    "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
     "id": "148093-2025",
     "lat": 32.9095,
     "lng": -96.885,
