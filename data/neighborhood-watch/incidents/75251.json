@@ -1,13 +1,101 @@
 [
   {
-    "id": "800326-2026",
-    "lat": 32.9209,
-    "lng": -96.7733,
+    "id": "092428-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 2,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
+    "id": "103230-2026",
+    "lat": 32.9101,
+    "lng": -96.7707,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-01",
+    "hour": 11,
+    "date": "2026-07-15",
+    "neighborhood": null
+  },
+  {
+    "id": "090060-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "813178-2026",
+    "lat": 32.9236,
+    "lng": -96.7764,
+    "offense": "accident inv damage to vehicle <$200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
+    "id": "099633-2026",
+    "lat": 32.9185,
+    "lng": -96.7699,
+    "offense": "fraud use/poss identifying info # items 10<50",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-07-09",
+    "neighborhood": null
+  },
+  {
+    "id": "023726-2026",
+    "lat": 32.9185,
+    "lng": -96.7699,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-02-19",
+    "neighborhood": null
+  },
+  {
+    "id": "154696-2025",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 21,
+    "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "079832-2026",
+    "lat": 32.9224,
+    "lng": -96.7679,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-02-26",
+    "neighborhood": null
+  },
+  {
+    "id": "148028-2025",
+    "lat": 32.9236,
+    "lng": -96.7707,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-10-14",
     "neighborhood": null
   },
   {
