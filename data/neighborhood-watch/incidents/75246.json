@@ -1,5 +1,27 @@
 [
   {
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "032978-2026",
+    "lat": 32.7949,
+    "lng": -96.7757,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 4,
+    "date": "2026-03-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "811715-2026",
     "lat": 32.797,
     "lng": -96.7683,
@@ -8,17 +30,6 @@
     "premise": "apartment complex/building",
     "hour": 5,
     "date": "2026-06-04",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "015672-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
   }
 ]
