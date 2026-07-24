@@ -682,17 +682,6 @@
     "neighborhood": null
   },
   {
-    "id": "099462-2026",
-    "lat": 32.8484,
-    "lng": -96.6996,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-07-01",
-    "neighborhood": "Eastwood Estates"
-  },
-  {
     "id": "813734-2026",
     "lat": 32.8284,
     "lng": -96.7104,
@@ -702,17 +691,6 @@
     "hour": 21,
     "date": "2026-07-10",
     "neighborhood": null
-  },
-  {
-    "id": "096233-2026",
-    "lat": 32.8512,
-    "lng": -96.6807,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-07-02",
-    "neighborhood": "Casa View"
   },
   {
     "id": "100376-2026",
@@ -836,6 +814,105 @@
     "neighborhood": null
   },
   {
+    "id": "069256-2026",
+    "lat": 32.8492,
+    "lng": -96.6829,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 4,
+    "date": "2026-05-15",
+    "neighborhood": "Casa View"
+  },
+  {
+    "id": "066877-2026",
+    "lat": 32.8292,
+    "lng": -96.7069,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 18,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "057962-2026",
+    "lat": 32.8334,
+    "lng": -96.7026,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 20,
+    "date": "2026-04-23",
+    "neighborhood": null
+  },
+  {
+    "id": "157664-2025",
+    "lat": 32.8411,
+    "lng": -96.7077,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2025-11-02",
+    "neighborhood": null
+  },
+  {
+    "id": "806954-2026",
+    "lat": 32.8276,
+    "lng": -96.7107,
+    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
+    "group": "other",
+    "premise": "business office",
+    "hour": 17,
+    "date": "2026-03-31",
+    "neighborhood": "Emerald Isles"
+  },
+  {
+    "id": "016109-2026",
+    "lat": 32.8252,
+    "lng": -96.709,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-02-01",
+    "neighborhood": "Little Forest Hills"
+  },
+  {
+    "id": "078437-2026",
+    "lat": 32.8339,
+    "lng": -96.7019,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "046702-2026",
+    "lat": 32.8243,
+    "lng": -96.7032,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 18,
+    "date": "2026-04-02",
+    "neighborhood": "Casa Linda Estates"
+  },
+  {
+    "id": "002561-2026",
+    "lat": 32.8292,
+    "lng": -96.7069,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
     "id": "001521-2026",
     "lat": 32.8352,
     "lng": -96.7053,
@@ -878,17 +955,6 @@
     "hour": 5,
     "date": "2026-07-09",
     "neighborhood": "Lochwood"
-  },
-  {
-    "id": "814079-2026",
-    "lat": 32.8304,
-    "lng": -96.7176,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 20,
-    "date": "2026-07-10",
-    "neighborhood": null
   },
   {
     "id": "804489-2026",
@@ -954,6 +1020,17 @@
     "premise": "outdoor area public/private",
     "hour": 2,
     "date": "2026-02-22",
+    "neighborhood": null
+  },
+  {
+    "id": "079536-2026",
+    "lat": 32.8383,
+    "lng": -96.6944,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 8,
+    "date": "2026-06-02",
     "neighborhood": null
   }
 ]

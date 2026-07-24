@@ -1,16 +1,5 @@
 [
   {
-    "id": "090718-2026",
-    "lat": 32.9111,
-    "lng": -96.8608,
-    "offense": "robbery of individual - preliminary investigation",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
     "id": "066057-2026",
     "lat": 32.9131,
     "lng": -96.8946,
@@ -55,25 +44,25 @@
     "neighborhood": null
   },
   {
-    "id": "054551-2026",
-    "lat": 32.9111,
-    "lng": -96.8608,
-    "offense": "natural death (no offense)",
+    "id": "094972-2026",
+    "lat": 32.9096,
+    "lng": -96.8936,
+    "offense": "bmv",
     "group": "other",
-    "premise": "apartment residence",
+    "premise": "other",
     "hour": 13,
-    "date": "2026-04-17",
+    "date": "2026-06-30",
     "neighborhood": null
   },
   {
-    "id": "005297-2026",
-    "lat": 32.9131,
-    "lng": -96.8946,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 0,
-    "date": "2026-01-10",
+    "id": "801112-2026",
+    "lat": 32.9098,
+    "lng": -96.8951,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-01-13",
     "neighborhood": null
   },
   {

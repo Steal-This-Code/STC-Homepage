@@ -55,17 +55,6 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "100892-2026",
-    "lat": 32.6736,
-    "lng": -96.6017,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 7,
-    "date": "2026-07-11",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "097418-2026",
     "lat": 32.6823,
     "lng": -96.601,
@@ -96,6 +85,17 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2026-07-15",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "099788-2026",
+    "lat": 32.677,
+    "lng": -96.5861,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-07-09",
     "neighborhood": "Kleberg"
   },
   {

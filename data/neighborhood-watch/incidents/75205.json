@@ -132,6 +132,50 @@
     "neighborhood": "Knox Park"
   },
   {
+    "id": "000239-2026",
+    "lat": 32.8175,
+    "lng": -96.7903,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "000239-2026",
+    "lat": 32.8175,
+    "lng": -96.7903,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "078194-2026",
+    "lat": 32.8207,
+    "lng": -96.7883,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-05-30",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "137312-2025",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 13,
+    "date": "2025-09-23",
+    "neighborhood": "Knox Park"
+  },
+  {
     "id": "810302-2026",
     "lat": 32.8231,
     "lng": -96.7887,

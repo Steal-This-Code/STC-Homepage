@@ -330,17 +330,6 @@
     "neighborhood": "Campbell Green"
   },
   {
-    "id": "012008-2026",
-    "lat": 32.9612,
-    "lng": -96.8074,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-01-25",
-    "neighborhood": null
-  },
-  {
     "id": "813777-2026",
     "lat": 32.9622,
     "lng": -96.8165,
@@ -352,6 +341,105 @@
     "neighborhood": "Chalfont Place"
   },
   {
+    "id": "800554-2026",
+    "lat": 32.9777,
+    "lng": -96.7704,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "community/ recreation center",
+    "hour": 11,
+    "date": "2026-01-05",
+    "neighborhood": null
+  },
+  {
+    "id": "809909-2026",
+    "lat": 32.961,
+    "lng": -96.7707,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-05-10",
+    "neighborhood": "Spring Creek"
+  },
+  {
+    "id": "071986-2026",
+    "lat": 32.9596,
+    "lng": -96.8088,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 5,
+    "date": "2026-05-20",
+    "neighborhood": null
+  },
+  {
+    "id": "806963-2026",
+    "lat": 32.9678,
+    "lng": -96.789,
+    "offense": "theft - wire fraud $2500 <$30k",
+    "group": "property",
+    "premise": "cyberspace",
+    "hour": 12,
+    "date": "2026-03-17",
+    "neighborhood": null
+  },
+  {
+    "id": "808922-2026",
+    "lat": 32.9658,
+    "lng": -96.8062,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome building",
+    "hour": 4,
+    "date": "2026-04-26",
+    "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "817482-2025",
+    "lat": 32.9639,
+    "lng": -96.7706,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 13,
+    "date": "2025-08-20",
+    "neighborhood": "Estates West"
+  },
+  {
+    "id": "084914-2026",
+    "lat": 32.9825,
+    "lng": -96.7867,
+    "offense": "forgery- preliminary investigation",
+    "group": "property",
+    "premise": "bank/savings and loan",
+    "hour": 8,
+    "date": "2026-04-06",
+    "neighborhood": null
+  },
+  {
+    "id": "075501-2026",
+    "lat": 32.9537,
+    "lng": -96.8004,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 14,
+    "date": "2026-05-25",
+    "neighborhood": null
+  },
+  {
+    "id": "812623-2026",
+    "lat": 32.9845,
+    "lng": -96.8036,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 17,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
     "id": "800728-2026",
     "lat": 32.9596,
     "lng": -96.7852,
@@ -361,39 +449,6 @@
     "hour": 2,
     "date": "2026-01-10",
     "neighborhood": "Prestonwood Estates East"
-  },
-  {
-    "id": "808855-2026",
-    "lat": 32.9597,
-    "lng": -96.7907,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 12,
-    "date": "2026-04-17",
-    "neighborhood": null
-  },
-  {
-    "id": "802213-2026",
-    "lat": 32.9859,
-    "lng": -96.778,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2026-01-02",
-    "neighborhood": "Highlands North"
-  },
-  {
-    "id": "802926-2026",
-    "lat": 32.9614,
-    "lng": -96.8211,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 4,
-    "date": "2026-02-09",
-    "neighborhood": "Chalfont Place"
   },
   {
     "id": "021411-2026",
@@ -449,5 +504,38 @@
     "hour": 11,
     "date": "2026-01-15",
     "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "813591-2026",
+    "lat": 32.9616,
+    "lng": -96.7908,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-07-07",
+    "neighborhood": null
+  },
+  {
+    "id": "049201-2026",
+    "lat": 32.9616,
+    "lng": -96.7908,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-04-06",
+    "neighborhood": null
+  },
+  {
+    "id": "032771-2026",
+    "lat": 32.956,
+    "lng": -96.8192,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 1,
+    "date": "2026-03-08",
+    "neighborhood": null
   }
 ]

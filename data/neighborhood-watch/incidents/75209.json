@@ -33,17 +33,6 @@
     "neighborhood": "Shorecrest Estates"
   },
   {
-    "id": "814488-2026",
-    "lat": 32.8306,
-    "lng": -96.8286,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-07-09",
-    "neighborhood": null
-  },
-  {
     "id": "812536-2026",
     "lat": 32.8306,
     "lng": -96.8286,
@@ -297,15 +286,37 @@
     "neighborhood": "Elm Thicket or North Park"
   },
   {
-    "id": "825854-2025",
-    "lat": 32.8518,
-    "lng": -96.8221,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "046476-2026",
+    "lat": 32.8423,
+    "lng": -96.8312,
+    "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-12-14",
-    "neighborhood": "Bluffview"
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2026-04-01",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "812518-2026",
+    "lat": 32.8306,
+    "lng": -96.8286,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
+    "id": "087495-2026",
+    "lat": 32.8298,
+    "lng": -96.8225,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-06-16",
+    "neighborhood": "Oak Lawn"
   },
   {
     "id": "812518-2026",
@@ -361,5 +372,16 @@
     "hour": 7,
     "date": "2026-02-05",
     "neighborhood": null
+  },
+  {
+    "id": "094870-2026",
+    "lat": 32.8306,
+    "lng": -96.8249,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-06-29",
+    "neighborhood": "Oak Lawn"
   }
 ]

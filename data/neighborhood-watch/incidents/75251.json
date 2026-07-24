@@ -121,6 +121,28 @@
     "neighborhood": null
   },
   {
+    "id": "079832-2026",
+    "lat": 32.9224,
+    "lng": -96.7679,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-02-26",
+    "neighborhood": null
+  },
+  {
+    "id": "148028-2025",
+    "lat": 32.9236,
+    "lng": -96.7707,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
     "id": "089009-2026",
     "lat": 32.9259,
     "lng": -96.7663,

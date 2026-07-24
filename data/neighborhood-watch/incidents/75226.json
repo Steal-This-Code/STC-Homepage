@@ -451,6 +451,39 @@
     "neighborhood": "Grand Park South"
   },
   {
+    "id": "091438-2026",
+    "lat": 32.7798,
+    "lng": -96.7744,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 10,
+    "date": "2026-06-24",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "085830-2026",
+    "lat": 32.7818,
+    "lng": -96.7827,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-06-14",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "075678-2026",
+    "lat": 32.7838,
+    "lng": -96.7843,
+    "offense": "theft by deception (fraud) <$100",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 21,
+    "date": "2026-05-26",
+    "neighborhood": "Deep Ellum"
+  },
+  {
     "id": "181600-2025",
     "lat": 32.7832,
     "lng": -96.7833,
@@ -462,6 +495,149 @@
     "neighborhood": "Deep Ellum"
   },
   {
+    "id": "813535-2026",
+    "lat": 32.7816,
+    "lng": -96.7794,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-07-05",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "004735-2026",
+    "lat": 32.7786,
+    "lng": -96.7766,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "shelter - mission/homeless",
+    "hour": 13,
+    "date": "2026-01-10",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "015354-2026",
+    "lat": 32.7816,
+    "lng": -96.7794,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-01-31",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "171494-2025",
+    "lat": 32.7849,
+    "lng": -96.7823,
+    "offense": "evading arrest detention",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-11-30",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "183529-2025",
+    "lat": 32.7868,
+    "lng": -96.7855,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 15,
+    "date": "2025-12-19",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "150483-2025",
+    "lat": 32.7833,
+    "lng": -96.7863,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-10-19",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "093037-2026",
+    "lat": 32.7822,
+    "lng": -96.7677,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-06-27",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "088251-2026",
+    "lat": 32.7786,
+    "lng": -96.7766,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-18",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "014901-2026",
+    "lat": 32.7823,
+    "lng": -96.7667,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 1,
+    "date": "2026-02-01",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "811655-2026",
+    "lat": 32.7847,
+    "lng": -96.7846,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 1,
+    "date": "2026-06-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "093332-2026",
+    "lat": 32.7784,
+    "lng": -96.7785,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "shelter - mission/homeless",
+    "hour": 17,
+    "date": "2026-06-27",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "128822-2025",
+    "lat": 32.784,
+    "lng": -96.7857,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 23,
+    "date": "2025-09-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "125216-2025",
+    "lat": 32.7838,
+    "lng": -96.784,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-08-31",
+    "neighborhood": "Deep Ellum"
+  },
+  {
     "id": "813909-2026",
     "lat": 32.7816,
     "lng": -96.7794,
@@ -470,28 +646,6 @@
     "premise": "apartment parking lot",
     "hour": 14,
     "date": "2026-05-14",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "106731-2025",
-    "lat": 32.7838,
-    "lng": -96.7834,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-07-27",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "101499-2026",
-    "lat": 32.7842,
-    "lng": -96.7861,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 1,
-    "date": "2026-07-12",
     "neighborhood": "Deep Ellum"
   },
   {
@@ -636,5 +790,27 @@
     "hour": 19,
     "date": "2026-05-10",
     "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "043451-2026",
+    "lat": 32.7838,
+    "lng": -96.7659,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 1,
+    "date": "2026-03-27",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "052486-2026",
+    "lat": 32.7794,
+    "lng": -96.7753,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 10,
+    "date": "2026-04-13",
+    "neighborhood": "Grand Park South"
   }
 ]

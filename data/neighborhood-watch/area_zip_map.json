@@ -186,6 +186,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "136",
+    "area_name": "Beverly Hills",
+    "zip_codes": "75211",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "137",
     "area_name": "El Tivoli Place",
     "zip_codes": "75211",
@@ -380,7 +386,7 @@
   {
     "area_id": "18",
     "area_name": "Victory Park",
-    "zip_codes": ["75201", "75219", "75292"],
+    "zip_codes": ["75219", "75292"],
     "area_type": "neighborhood"
   },
   {
@@ -446,7 +452,7 @@
   {
     "area_id": "20",
     "area_name": "State Thomas",
-    "zip_codes": "75204",
+    "zip_codes": ["75201", "75204"],
     "area_type": "neighborhood"
   },
   {
@@ -536,6 +542,12 @@
   {
     "area_id": "216",
     "area_name": "Polk Terrace",
+    "zip_codes": "75232",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "217",
+    "area_name": "Wheatland Hills",
     "zip_codes": "75232",
     "area_type": "neighborhood"
   },
@@ -746,7 +758,7 @@
   {
     "area_id": "27",
     "area_name": "Exposition Park",
-    "zip_codes": "75226",
+    "zip_codes": ["75223", "75226"],
     "area_type": "neighborhood"
   },
   {
@@ -852,6 +864,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "297",
+    "area_name": "Northaven Park",
+    "zip_codes": "75244",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "298",
     "area_name": "Royal Hills",
     "zip_codes": "75229",
@@ -933,6 +951,12 @@
     "area_id": "320",
     "area_name": "Valley View",
     "zip_codes": ["75240", "75251"],
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "321",
+    "area_name": "Willow Falls",
+    "zip_codes": "75240",
     "area_type": "neighborhood"
   },
   {
@@ -1230,6 +1254,12 @@
     "area_type": "neighborhood"
   },
   {
+    "area_id": "56",
+    "area_name": "Queen City",
+    "zip_codes": "75215",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "57",
     "area_name": "Colonial Hill",
     "zip_codes": "75215",
@@ -1286,7 +1316,7 @@
   {
     "area_id": "65",
     "area_name": "La Loma",
-    "zip_codes": "75212",
+    "zip_codes": ["75208", "75212"],
     "area_type": "neighborhood"
   },
   {
@@ -1464,12 +1494,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "75051",
-    "area_name": "ZCTA5 75051",
-    "zip_codes": "75051",
-    "area_type": "zip"
-  },
-  {
     "area_id": "75201",
     "area_name": "ZCTA5 75201",
     "zip_codes": ["75201", "75202"],
@@ -1496,7 +1520,7 @@
   {
     "area_id": "75205",
     "area_name": "ZCTA5 75205",
-    "zip_codes": "75205",
+    "zip_codes": ["75025", "75205"],
     "area_type": "zip"
   },
   {
@@ -1610,7 +1634,7 @@
   {
     "area_id": "75227",
     "area_name": "ZCTA5 75227",
-    "zip_codes": "75227",
+    "zip_codes": ["75223", "75227"],
     "area_type": "zip"
   },
   {
@@ -1622,7 +1646,7 @@
   {
     "area_id": "75229",
     "area_name": "ZCTA5 75229",
-    "zip_codes": "75229",
+    "zip_codes": ["75229", "75244"],
     "area_type": "zip"
   },
   {
@@ -1670,7 +1694,7 @@
   {
     "area_id": "75237",
     "area_name": "ZCTA5 75237",
-    "zip_codes": "75237",
+    "zip_codes": ["75232", "75237"],
     "area_type": "zip"
   },
   {
@@ -1712,7 +1736,7 @@
   {
     "area_id": "75247",
     "area_name": "ZCTA5 75247",
-    "zip_codes": "75247",
+    "zip_codes": ["75235", "75247"],
     "area_type": "zip"
   },
   {
