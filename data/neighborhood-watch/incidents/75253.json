@@ -1,27 +1,5 @@
 [
   {
-    "id": "801067-2026",
-    "lat": 32.6832,
-    "lng": -96.5628,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 3,
-    "date": "2026-01-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "084197-2026",
-    "lat": 32.6693,
-    "lng": -96.6107,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 21,
-    "date": "2026-06-10",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "011864-2026",
     "lat": 32.6986,
     "lng": -96.5777,
@@ -33,15 +11,48 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "822499-2025",
-    "lat": 32.6903,
-    "lng": -96.64,
-    "offense": "reckless damage",
+    "id": "097418-2026",
+    "lat": 32.6823,
+    "lng": -96.601,
+    "offense": "injured person - firearm injury (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-31",
-    "neighborhood": "Rylie"
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-07-04",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "003490-2026",
+    "lat": 32.6892,
+    "lng": -96.5632,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "099788-2026",
+    "lat": 32.677,
+    "lng": -96.5861,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-07-09",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "099630-2026",
+    "lat": 32.6697,
+    "lng": -96.6257,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-08",
+    "neighborhood": "Kleberg"
   },
   {
     "id": "087256-2026",
@@ -77,47 +88,36 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "098375-2026",
-    "lat": 32.6956,
-    "lng": -96.5741,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 16,
-    "date": "2026-07-03",
-    "neighborhood": "Kleberg"
+    "id": "108541-2026",
+    "lat": 32.7013,
+    "lng": -96.6039,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 15,
+    "date": "2026-07-24",
+    "neighborhood": null
   },
   {
-    "id": "010387-2026",
-    "lat": 32.6985,
-    "lng": -96.5753,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-21",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "089903-2026",
-    "lat": 32.6982,
-    "lng": -96.5831,
+    "id": "801067-2026",
+    "lat": 32.6832,
+    "lng": -96.5628,
     "offense": "bmv",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 7,
-    "date": "2026-06-21",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-14",
     "neighborhood": "Kleberg"
   },
   {
-    "id": "067485-2026",
-    "lat": 32.6861,
-    "lng": -96.5811,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
+    "id": "070018-2026",
+    "lat": 32.6963,
+    "lng": -96.5785,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-11",
+    "hour": 0,
+    "date": "2026-05-15",
     "neighborhood": "Kleberg"
   }
 ]

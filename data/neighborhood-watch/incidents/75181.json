@@ -3,17 +3,6 @@
     "id": "176899-2025",
     "lat": 32.7339,
     "lng": -96.5937,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-12-11",
-    "neighborhood": null
-  },
-  {
-    "id": "176899-2025",
-    "lat": 32.7339,
-    "lng": -96.5937,
     "offense": "unlawful carrying weapon",
     "group": "violent",
     "premise": "highway, street, alley etc",
