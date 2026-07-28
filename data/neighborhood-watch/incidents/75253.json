@@ -11,50 +11,6 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "097418-2026",
-    "lat": 32.6823,
-    "lng": -96.601,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-07-04",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "003490-2026",
-    "lat": 32.6892,
-    "lng": -96.5632,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 17,
-    "date": "2026-01-07",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "099788-2026",
-    "lat": 32.677,
-    "lng": -96.5861,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 11,
-    "date": "2026-07-09",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "099630-2026",
-    "lat": 32.6697,
-    "lng": -96.6257,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-07-08",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "087256-2026",
     "lat": 32.6888,
     "lng": -96.587,
@@ -88,15 +44,26 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "108541-2026",
-    "lat": 32.7013,
-    "lng": -96.6039,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 15,
-    "date": "2026-07-24",
-    "neighborhood": null
+    "id": "108121-2026",
+    "lat": 32.6837,
+    "lng": -96.586,
+    "offense": "unl elec trans sexually explicit vis mat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-07-20",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "071214-2026",
+    "lat": 32.6828,
+    "lng": -96.6172,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 13,
+    "date": "2026-05-18",
+    "neighborhood": "Kleberg"
   },
   {
     "id": "801067-2026",
@@ -107,17 +74,6 @@
     "premise": "outdoor area public/private",
     "hour": 3,
     "date": "2026-01-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "070018-2026",
-    "lat": 32.6963,
-    "lng": -96.5785,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-05-15",
     "neighborhood": "Kleberg"
   }
 ]

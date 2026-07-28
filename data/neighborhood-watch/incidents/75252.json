@@ -1,5 +1,16 @@
 [
   {
+    "id": "814698-2026",
+    "lat": 32.9986,
+    "lng": -96.7944,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-07-20",
+    "neighborhood": null
+  },
+  {
     "id": "090816-2026",
     "lat": 33.0067,
     "lng": -96.7962,
@@ -88,50 +99,6 @@
     "neighborhood": null
   },
   {
-    "id": "092167-2026",
-    "lat": 32.9897,
-    "lng": -96.7722,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-06-25",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "102203-2026",
-    "lat": 32.9871,
-    "lng": -96.7727,
-    "offense": "cruelty non-livestock animals - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-07-13",
-    "neighborhood": null
-  },
-  {
-    "id": "002345-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "809540-2026",
-    "lat": 33.0067,
-    "lng": -96.7906,
-    "offense": "crim mischief > or equal $300k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-05-05",
-    "neighborhood": null
-  },
-  {
     "id": "080946-2026",
     "lat": 33.001,
     "lng": -96.8022,
@@ -165,14 +132,36 @@
     "neighborhood": "Preston Highlands"
   },
   {
-    "id": "002707-2026",
-    "lat": 32.9894,
-    "lng": -96.8014,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 14,
-    "date": "2026-01-06",
+    "id": "005448-2026",
+    "lat": 32.9873,
+    "lng": -96.7927,
+    "offense": "burglary - preliminary investigation",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 17,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "810154-2026",
+    "lat": 32.9843,
+    "lng": -96.757,
+    "offense": "theft of prop > or equal $750 <$2,500 (employee) pc 31.03(e3)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 7,
+    "date": "2025-11-26",
+    "neighborhood": null
+  },
+  {
+    "id": "810994-2026",
+    "lat": 32.9977,
+    "lng": -96.7949,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "government/public building",
+    "hour": 10,
+    "date": "2026-05-28",
     "neighborhood": null
   },
   {
@@ -195,17 +184,6 @@
     "premise": "highway, street, alley etc",
     "hour": 22,
     "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "088350-2026",
-    "lat": 32.9881,
-    "lng": -96.7681,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-18",
     "neighborhood": null
   }
 ]

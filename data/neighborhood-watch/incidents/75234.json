@@ -11,61 +11,6 @@
     "neighborhood": null
   },
   {
-    "id": "812839-2026",
-    "lat": 32.9101,
-    "lng": -96.8618,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "bank/savings and loan",
-    "hour": 14,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "094303-2026",
-    "lat": 32.9101,
-    "lng": -96.8618,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 13,
-    "date": "2026-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "148093-2025",
-    "lat": 32.9095,
-    "lng": -96.885,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "004110-2026",
-    "lat": 32.9108,
-    "lng": -96.8959,
-    "offense": "possession of stolen property",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
-    "id": "094972-2026",
-    "lat": 32.9096,
-    "lng": -96.8936,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-06-30",
-    "neighborhood": null
-  },
-  {
     "id": "168613-2025",
     "lat": 32.9097,
     "lng": -96.8564,
@@ -110,25 +55,36 @@
     "neighborhood": null
   },
   {
-    "id": "054551-2026",
-    "lat": 32.9111,
-    "lng": -96.8608,
-    "offense": "natural death (no offense)",
+    "id": "801112-2026",
+    "lat": 32.9098,
+    "lng": -96.8951,
+    "offense": "bmv",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 13,
-    "date": "2026-04-17",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-01-13",
     "neighborhood": null
   },
   {
-    "id": "005297-2026",
-    "lat": 32.9131,
-    "lng": -96.8946,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 0,
-    "date": "2026-01-10",
+    "id": "004517-2026",
+    "lat": 32.9101,
+    "lng": -96.8608,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 23,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
     "neighborhood": null
   }
 ]
