@@ -1,5 +1,16 @@
 [
   {
+    "id": "119775-2025",
+    "lat": 32.8337,
+    "lng": -96.8737,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2025-08-19",
+    "neighborhood": null
+  },
+  {
     "id": "128241-2025",
     "lat": 32.8254,
     "lng": -96.8847,
@@ -11,36 +22,14 @@
     "neighborhood": null
   },
   {
-    "id": "826869-2025",
-    "lat": 32.8319,
-    "lng": -96.8748,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 19,
-    "date": "2025-12-26",
-    "neighborhood": null
-  },
-  {
-    "id": "814114-2026",
-    "lat": 32.8202,
-    "lng": -96.8661,
-    "offense": "reckless damage",
+    "id": "085938-2026",
+    "lat": 32.8301,
+    "lng": -96.8727,
+    "offense": "bmv",
     "group": "other",
-    "premise": "government/public building",
-    "hour": 8,
-    "date": "2026-07-07",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "166509-2025",
-    "lat": 32.8264,
-    "lng": -96.8809,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-11-13",
+    "premise": "hotel/motel/etc",
+    "hour": 12,
+    "date": "2026-06-13",
     "neighborhood": null
   },
   {
@@ -217,6 +206,17 @@
     "premise": "hotel/motel/etc",
     "hour": 21,
     "date": "2026-02-06",
+    "neighborhood": null
+  },
+  {
+    "id": "813677-2026",
+    "lat": 32.8111,
+    "lng": -96.8614,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 14,
+    "date": "2026-07-08",
     "neighborhood": null
   },
   {

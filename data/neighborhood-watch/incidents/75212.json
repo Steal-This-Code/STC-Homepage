@@ -1,36 +1,58 @@
 [
   {
-    "id": "801105-2026",
-    "lat": 32.7831,
-    "lng": -96.8914,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 20,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "048795-2026",
-    "lat": 32.7803,
-    "lng": -96.909,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "150342-2025",
+    "lat": 32.777,
+    "lng": -96.9101,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-04-04",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-10-18",
     "neighborhood": "Ledbetter"
   },
   {
-    "id": "103347-2026",
-    "lat": 32.7796,
-    "lng": -96.8561,
-    "offense": "criminal trespass warning",
+    "id": "013334-2026",
+    "lat": 32.7775,
+    "lng": -96.8418,
+    "offense": "criminal trespass affidavit",
     "group": "other",
-    "premise": "restaurant/food service/tabc location",
+    "premise": "apartment complex/building",
     "hour": 14,
-    "date": "2026-07-15",
-    "neighborhood": "Los Altos"
+    "date": "2026-01-29",
+    "neighborhood": "Muncie"
+  },
+  {
+    "id": "812840-2026",
+    "lat": 32.7753,
+    "lng": -96.8387,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 8,
+    "date": "2026-05-30",
+    "neighborhood": "Muncie"
+  },
+  {
+    "id": "804849-2026",
+    "lat": 32.769,
+    "lng": -96.8732,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "government facility",
+    "hour": 17,
+    "date": "2026-03-06",
+    "neighborhood": null
+  },
+  {
+    "id": "090726-2026",
+    "lat": 32.7807,
+    "lng": -96.8798,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "other",
+    "hour": 1,
+    "date": "2026-06-22",
+    "neighborhood": "Westmoreland Heights"
   },
   {
     "id": "090345-2026",
@@ -44,69 +66,25 @@
     "neighborhood": "La L'aceate"
   },
   {
-    "id": "072463-2026",
-    "lat": 32.7787,
-    "lng": -96.8369,
+    "id": "146983-2025",
+    "lat": 32.7814,
+    "lng": -96.828,
     "offense": "poss cont sub pen grp 1/1-b < 1g",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-20",
-    "neighborhood": "Los Altos"
+    "hour": 23,
+    "date": "2025-10-11",
+    "neighborhood": "La Bajada"
   },
   {
-    "id": "103446-2026",
-    "lat": 32.7895,
-    "lng": -96.8511,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 21,
-    "date": "2026-07-15",
-    "neighborhood": "Los Altos"
-  },
-  {
-    "id": "150342-2025",
-    "lat": 32.777,
-    "lng": -96.9101,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-10-18",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "809752-2026",
-    "lat": 32.7849,
-    "lng": -96.9068,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-05-11",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "066279-2026",
-    "lat": 32.7812,
-    "lng": -96.8922,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-09",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "002084-2026",
-    "lat": 32.7894,
-    "lng": -96.8564,
-    "offense": "burglary of building - forced entry",
+    "id": "801105-2026",
+    "lat": 32.7831,
+    "lng": -96.8914,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
     "group": "property",
     "premise": "business office",
-    "hour": 4,
-    "date": "2026-01-05",
+    "hour": 20,
+    "date": "2026-01-14",
     "neighborhood": null
   },
   {
@@ -231,17 +209,6 @@
     "neighborhood": "Muncie"
   },
   {
-    "id": "091987-2026",
-    "lat": 32.7786,
-    "lng": -96.86,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-06-24",
-    "neighborhood": "Lake West"
-  },
-  {
     "id": "068348-2026",
     "lat": 32.7794,
     "lng": -96.9118,
@@ -317,17 +284,6 @@
     "hour": 20,
     "date": "2026-01-11",
     "neighborhood": "Los Altos"
-  },
-  {
-    "id": "103323-2026",
-    "lat": 32.773,
-    "lng": -96.8643,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2026-07-15",
-    "neighborhood": null
   },
   {
     "id": "148258-2025",

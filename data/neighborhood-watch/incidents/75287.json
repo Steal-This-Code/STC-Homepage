@@ -1,14 +1,47 @@
 [
   {
-    "id": "003777-2026",
-    "lat": 33.0078,
-    "lng": -96.8207,
-    "offense": "motor vehicle theft",
+    "id": "813747-2026",
+    "lat": 32.9979,
+    "lng": -96.8444,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-01-07",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-07-04",
+    "neighborhood": "Midway Meadows"
+  },
+  {
+    "id": "801401-2026",
+    "lat": 32.9882,
+    "lng": -96.8431,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-01-19",
     "neighborhood": null
+  },
+  {
+    "id": "009148-2026",
+    "lat": 33.0037,
+    "lng": -96.8575,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 4,
+    "date": "2026-01-19",
+    "neighborhood": null
+  },
+  {
+    "id": "810229-2026",
+    "lat": 32.9945,
+    "lng": -96.8578,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 18,
+    "date": "2026-05-13",
+    "neighborhood": "Meadow Glen"
   },
   {
     "id": "030085-2026",
@@ -19,138 +52,6 @@
     "premise": "hotel/motel/etc",
     "hour": 23,
     "date": "2026-03-02",
-    "neighborhood": null
-  },
-  {
-    "id": "814208-2026",
-    "lat": 32.9996,
-    "lng": -96.8562,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 13,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "048252-2026",
-    "lat": 32.9959,
-    "lng": -96.8486,
-    "offense": "burglary - preliminary investigation",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 9,
-    "date": "2026-04-04",
-    "neighborhood": null
-  },
-  {
-    "id": "090968-2026",
-    "lat": 32.9975,
-    "lng": -96.8547,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "school/daycare",
-    "hour": 22,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "813473-2026",
-    "lat": 32.9945,
-    "lng": -96.8578,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-07-03",
-    "neighborhood": "Meadow Glen"
-  },
-  {
-    "id": "092471-2026",
-    "lat": 33.0103,
-    "lng": -96.8574,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "park",
-    "hour": 0,
-    "date": "2026-06-26",
-    "neighborhood": null
-  },
-  {
-    "id": "813654-2026",
-    "lat": 33.0118,
-    "lng": -96.8346,
-    "offense": "crim mischief <$100",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 4,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "097619-2026",
-    "lat": 33.0101,
-    "lng": -96.8454,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "business office",
-    "hour": 3,
-    "date": "2026-06-28",
-    "neighborhood": null
-  },
-  {
-    "id": "813595-2026",
-    "lat": 33.0103,
-    "lng": -96.8574,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 15,
-    "date": "2026-07-06",
-    "neighborhood": null
-  },
-  {
-    "id": "071601-2026",
-    "lat": 33.0148,
-    "lng": -96.8396,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "079661-2026",
-    "lat": 33.0115,
-    "lng": -96.859,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 1,
-    "date": "2026-06-03",
-    "neighborhood": null
-  },
-  {
-    "id": "069355-2026",
-    "lat": 33.0001,
-    "lng": -96.8688,
-    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "100411-2026",
-    "lat": 33.0087,
-    "lng": -96.8248,
-    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k (not emp) pc31.03(e4a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-07-09",
     "neighborhood": null
   },
   {
@@ -624,6 +525,17 @@
     "premise": "highway, street, alley etc",
     "hour": 12,
     "date": "2025-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "093682-2026",
+    "lat": 33.0101,
+    "lng": -96.8454,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "business office",
+    "hour": 3,
+    "date": "2026-06-28",
     "neighborhood": null
   },
   {

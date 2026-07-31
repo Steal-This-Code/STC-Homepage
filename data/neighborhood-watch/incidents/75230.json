@@ -1,58 +1,47 @@
 [
   {
-    "id": "821400-2025",
-    "lat": 32.893,
-    "lng": -96.7718,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 6,
-    "date": "2025-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "086608-2026",
-    "lat": 32.9223,
-    "lng": -96.7825,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-06-15",
-    "neighborhood": null
-  },
-  {
-    "id": "100148-2026",
-    "lat": 32.8815,
-    "lng": -96.771,
+    "id": "802875-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-07-09",
+    "hour": 9,
+    "date": "2026-02-10",
     "neighborhood": null
   },
   {
-    "id": "086608-2026",
-    "lat": 32.9223,
-    "lng": -96.7825,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "124600-2025",
+    "lat": 32.9244,
+    "lng": -96.8026,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
     "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-06-15",
-    "neighborhood": null
+    "hour": 16,
+    "date": "2025-08-29",
+    "neighborhood": "Preston Citadel"
   },
   {
-    "id": "093254-2026",
-    "lat": 32.8825,
-    "lng": -96.7802,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "802041-2026",
+    "lat": 32.8935,
+    "lng": -96.7863,
+    "offense": "bmv",
+    "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-27",
-    "neighborhood": "The Meadows"
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Brookshire Park"
+  },
+  {
+    "id": "825059-2025",
+    "lat": 32.8945,
+    "lng": -96.8033,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2025-12-03",
+    "neighborhood": "Preston Hollow North"
   },
   {
     "id": "004700-2026",
@@ -130,17 +119,6 @@
     "hour": 11,
     "date": "2026-06-12",
     "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "005501-2026",
-    "lat": 32.9097,
-    "lng": -96.7776,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
   },
   {
     "id": "070601-2026",
