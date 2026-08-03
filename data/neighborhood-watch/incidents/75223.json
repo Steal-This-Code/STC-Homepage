@@ -1,5 +1,60 @@
 [
   {
+    "id": "815139-2026",
+    "lat": 32.7806,
+    "lng": -96.7386,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-23",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "803038-2026",
+    "lat": 32.7929,
+    "lng": -96.7474,
+    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-02-05",
+    "neighborhood": null
+  },
+  {
+    "id": "806978-2026",
+    "lat": 32.7819,
+    "lng": -96.7522,
+    "offense": "criminal mischief > or equal $30k<$150k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-28",
+    "neighborhood": null
+  },
+  {
+    "id": "083945-2026",
+    "lat": 32.7871,
+    "lng": -96.7509,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "036776-2026",
+    "lat": 32.7818,
+    "lng": -96.7501,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "085404-2026",
     "lat": 32.7832,
     "lng": -96.7341,
@@ -86,6 +141,17 @@
     "hour": 15,
     "date": "2026-03-26",
     "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "011577-2026",
+    "lat": 32.7876,
+    "lng": -96.7605,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-01-23",
+    "neighborhood": "Jubilee Park"
   },
   {
     "id": "078374-2026",
@@ -240,60 +306,5 @@
     "hour": 3,
     "date": "2026-01-06",
     "neighborhood": null
-  },
-  {
-    "id": "002997-2026",
-    "lat": 32.7855,
-    "lng": -96.7383,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-06",
-    "neighborhood": "Owenwood"
-  },
-  {
-    "id": "013531-2026",
-    "lat": 32.7937,
-    "lng": -96.7508,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-22",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "075189-2026",
-    "lat": 32.7954,
-    "lng": -96.7571,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 19,
-    "date": "2026-05-25",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "820428-2025",
-    "lat": 32.7955,
-    "lng": -96.7369,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-10-02",
-    "neighborhood": null
-  },
-  {
-    "id": "011577-2026",
-    "lat": 32.7876,
-    "lng": -96.7605,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-01-23",
-    "neighborhood": "Jubilee Park"
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "802875-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-02-10",
+    "neighborhood": null
+  },
+  {
+    "id": "124600-2025",
+    "lat": 32.9244,
+    "lng": -96.8026,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2025-08-29",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "802041-2026",
+    "lat": 32.8935,
+    "lng": -96.7863,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Brookshire Park"
+  },
+  {
     "id": "821400-2025",
     "lat": 32.893,
     "lng": -96.7718,
@@ -231,47 +264,14 @@
     "neighborhood": null
   },
   {
-    "id": "825038-2025",
-    "lat": 32.9078,
-    "lng": -96.8059,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2025-12-04",
-    "neighborhood": null
-  },
-  {
-    "id": "179795-2025",
-    "lat": 32.9176,
-    "lng": -96.8022,
-    "offense": "terroristic threat -preliminary investigation",
-    "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 2,
-    "date": "2025-12-17",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "802811-2026",
-    "lat": 32.9018,
-    "lng": -96.7779,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Hillcrest Forest"
-  },
-  {
-    "id": "823776-2025",
-    "lat": 32.8945,
-    "lng": -96.8033,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
     "hour": 17,
-    "date": "2025-11-17",
-    "neighborhood": "Preston Hollow North"
+    "date": "2025-12-03",
+    "neighborhood": null
   }
 ]

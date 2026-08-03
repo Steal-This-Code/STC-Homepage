@@ -1,5 +1,71 @@
 [
   {
+    "id": "826150-2025",
+    "lat": 32.7441,
+    "lng": -96.8006,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2025-12-16",
+    "neighborhood": "The Heights"
+  },
+  {
+    "id": "143748-2025",
+    "lat": 32.7393,
+    "lng": -96.7951,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 11,
+    "date": "2025-10-05",
+    "neighborhood": null
+  },
+  {
+    "id": "091750-2026",
+    "lat": 32.7573,
+    "lng": -96.8229,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-24",
+    "neighborhood": null
+  },
+  {
+    "id": "091750-2026",
+    "lat": 32.7573,
+    "lng": -96.8229,
+    "offense": "poss cont sub pen grp 2 < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-24",
+    "neighborhood": null
+  },
+  {
+    "id": "089369-2026",
+    "lat": 32.7538,
+    "lng": -96.8172,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 0,
+    "date": "2026-05-20",
+    "neighborhood": "Lake Cliff"
+  },
+  {
+    "id": "091750-2026",
+    "lat": 32.7573,
+    "lng": -96.8229,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-24",
+    "neighborhood": null
+  },
+  {
     "id": "171293-2025",
     "lat": 32.7633,
     "lng": -96.8226,
@@ -119,17 +185,6 @@
     "hour": 15,
     "date": "2026-01-10",
     "neighborhood": "Tenth Street"
-  },
-  {
-    "id": "102731-2026",
-    "lat": 32.7424,
-    "lng": -96.8228,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-07-14",
-    "neighborhood": null
   },
   {
     "id": "811194-2026",
@@ -671,212 +726,14 @@
     "neighborhood": "The Heights"
   },
   {
-    "id": "067166-2026",
-    "lat": 32.751,
-    "lng": -96.8105,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "other",
+    "id": "821559-2025",
+    "lat": 32.7586,
+    "lng": -96.8108,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 12,
-    "date": "2026-05-09",
+    "date": "2025-10-18",
     "neighborhood": null
-  },
-  {
-    "id": "034021-2026",
-    "lat": 32.7391,
-    "lng": -96.8044,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2026-03-10",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "145438-2025",
-    "lat": 32.7432,
-    "lng": -96.8127,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "072329-2026",
-    "lat": 32.7348,
-    "lng": -96.8231,
-    "offense": "collision inv injury",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-05-20",
-    "neighborhood": null
-  },
-  {
-    "id": "023621-2026",
-    "lat": 32.7632,
-    "lng": -96.8227,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-02-18",
-    "neighborhood": null
-  },
-  {
-    "id": "008293-2026",
-    "lat": 32.7687,
-    "lng": -96.8228,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "124368-2025",
-    "lat": 32.7463,
-    "lng": -96.7896,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2025-08-29",
-    "neighborhood": "Skyline Heights"
-  },
-  {
-    "id": "018894-2026",
-    "lat": 32.7444,
-    "lng": -96.816,
-    "offense": "disorderly conduct",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-02-09",
-    "neighborhood": null
-  },
-  {
-    "id": "044295-2026",
-    "lat": 32.7578,
-    "lng": -96.8157,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 8,
-    "date": "2026-03-29",
-    "neighborhood": "Lake Cliff"
-  },
-  {
-    "id": "813613-2026",
-    "lat": 32.7605,
-    "lng": -96.8186,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-07-04",
-    "neighborhood": null
-  },
-  {
-    "id": "033076-2026",
-    "lat": 32.7426,
-    "lng": -96.8022,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-03-08",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "804635-2026",
-    "lat": 32.7454,
-    "lng": -96.8221,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 5,
-    "date": "2026-03-03",
-    "neighborhood": null
-  },
-  {
-    "id": "802888-2026",
-    "lat": 32.7439,
-    "lng": -96.7952,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2026-01-01",
-    "neighborhood": "Skyline Heights"
-  },
-  {
-    "id": "032586-2026",
-    "lat": 32.7395,
-    "lng": -96.7964,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-03-07",
-    "neighborhood": null
-  },
-  {
-    "id": "067308-2026",
-    "lat": 32.7514,
-    "lng": -96.8139,
-    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "088745-2026",
-    "lat": 32.7478,
-    "lng": -96.8145,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "convenience store",
-    "hour": 17,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "006275-2026",
-    "lat": 32.7674,
-    "lng": -96.8228,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "148786-2025",
-    "lat": 32.7419,
-    "lng": -96.8001,
-    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2025-10-15",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "138069-2025",
-    "lat": 32.7393,
-    "lng": -96.8058,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-09-25",
-    "neighborhood": "The Heights"
   }
 ]

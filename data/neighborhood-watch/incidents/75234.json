@@ -77,14 +77,14 @@
     "neighborhood": null
   },
   {
-    "id": "050504-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "other",
-    "hour": 17,
-    "date": "2026-04-09",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
     "neighborhood": null
   }
 ]

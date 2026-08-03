@@ -1,5 +1,27 @@
 [
   {
+    "id": "150749-2025",
+    "lat": 32.6814,
+    "lng": -96.8536,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 4,
+    "date": "2025-10-19",
+    "neighborhood": null
+  },
+  {
+    "id": "000646-2026",
+    "lat": 32.6378,
+    "lng": -96.857,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 8,
+    "date": "2025-11-02",
+    "neighborhood": null
+  },
+  {
     "id": "004767-2026",
     "lat": 32.6713,
     "lng": -96.8557,
@@ -319,17 +341,6 @@
     "neighborhood": null
   },
   {
-    "id": "066618-2026",
-    "lat": 32.6714,
-    "lng": -96.837,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 7,
-    "date": "2026-05-09",
-    "neighborhood": "Woodland Canyon"
-  },
-  {
     "id": "093608-2026",
     "lat": 32.6619,
     "lng": -96.8536,
@@ -636,104 +647,5 @@
     "hour": 15,
     "date": "2025-10-24",
     "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "137165-2025",
-    "lat": 32.6446,
-    "lng": -96.8562,
-    "offense": "diversion criminal trespass",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 7,
-    "date": "2025-09-23",
-    "neighborhood": null
-  },
-  {
-    "id": "072345-2026",
-    "lat": 32.6789,
-    "lng": -96.8565,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-05-20",
-    "neighborhood": null
-  },
-  {
-    "id": "032508-2026",
-    "lat": 32.6594,
-    "lng": -96.8319,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-07",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "007933-2026",
-    "lat": 32.6621,
-    "lng": -96.8239,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "181642-2025",
-    "lat": 32.6845,
-    "lng": -96.8258,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2025-12-20",
-    "neighborhood": null
-  },
-  {
-    "id": "096108-2026",
-    "lat": 32.6825,
-    "lng": -96.8409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-07-02",
-    "neighborhood": "Twin Oaks"
-  },
-  {
-    "id": "116074-2025",
-    "lat": 32.6873,
-    "lng": -96.8251,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-08-13",
-    "neighborhood": null
-  },
-  {
-    "id": "825651-2025",
-    "lat": 32.6844,
-    "lng": -96.8252,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 11,
-    "date": "2025-11-28",
-    "neighborhood": null
-  },
-  {
-    "id": "126922-2025",
-    "lat": 32.6409,
-    "lng": -96.8244,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2025-09-03",
-    "neighborhood": null
   }
 ]

@@ -196,16 +196,5 @@
     "hour": 2,
     "date": "2026-01-23",
     "neighborhood": null
-  },
-  {
-    "id": "043239-2026",
-    "lat": 32.665,
-    "lng": -96.9391,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-03-27",
-    "neighborhood": null
   }
 ]

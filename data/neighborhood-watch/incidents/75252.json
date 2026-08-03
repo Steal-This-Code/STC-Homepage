@@ -1,5 +1,38 @@
 [
   {
+    "id": "817247-2025",
+    "lat": 33.001,
+    "lng": -96.7813,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "803467-2026",
+    "lat": 33.0095,
+    "lng": -96.7892,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-02-15",
+    "neighborhood": null
+  },
+  {
+    "id": "088187-2026",
+    "lat": 32.9927,
+    "lng": -96.7935,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
     "id": "090816-2026",
     "lat": 33.0067,
     "lng": -96.7962,
@@ -163,93 +196,5 @@
     "hour": 15,
     "date": "2026-01-25",
     "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "006627-2026",
-    "lat": 32.9964,
-    "lng": -96.8013,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 5,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "808506-2026",
-    "lat": 32.9999,
-    "lng": -96.7942,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 19,
-    "date": "2026-04-18",
-    "neighborhood": null
-  },
-  {
-    "id": "808109-2026",
-    "lat": 33.0104,
-    "lng": -96.7925,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 17,
-    "date": "2026-04-07",
-    "neighborhood": null
-  },
-  {
-    "id": "048875-2026",
-    "lat": 32.9958,
-    "lng": -96.803,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-04-06",
-    "neighborhood": "Prestonwood West"
-  },
-  {
-    "id": "000703-2026",
-    "lat": 32.9891,
-    "lng": -96.7693,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 0,
-    "date": "2025-12-12",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "184576-2025",
-    "lat": 32.989,
-    "lng": -96.7878,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2025-12-27",
-    "neighborhood": "Preston Road Highlands"
-  },
-  {
-    "id": "053980-2026",
-    "lat": 32.9938,
-    "lng": -96.7806,
-    "offense": "fraud exploitation of child/elderly/disabled( pc 32.53(c))",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-04-14",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "005978-2026",
-    "lat": 33.0084,
-    "lng": -96.8006,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-01-12",
-    "neighborhood": null
   }
 ]

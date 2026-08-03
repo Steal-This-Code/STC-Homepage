@@ -1,5 +1,104 @@
 [
   {
+    "id": "104433-2026",
+    "lat": 32.9348,
+    "lng": -96.7861,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-07-17",
+    "neighborhood": null
+  },
+  {
+    "id": "152074-2025",
+    "lat": 32.9374,
+    "lng": -96.7532,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "812769-2026",
+    "lat": 32.9383,
+    "lng": -96.816,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "813304-2026",
+    "lat": 32.9302,
+    "lng": -96.8182,
+    "offense": "theft by deception (fraud) >or equal $100 <$750",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 20,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "182987-2025",
+    "lat": 32.9315,
+    "lng": -96.8161,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 14,
+    "date": "2025-12-23",
+    "neighborhood": null
+  },
+  {
+    "id": "813232-2026",
+    "lat": 32.9256,
+    "lng": -96.7897,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-06-29",
+    "neighborhood": null
+  },
+  {
+    "id": "087019-2026",
+    "lat": 32.9256,
+    "lng": -96.7686,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "812511-2026",
+    "lat": 32.9371,
+    "lng": -96.8202,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "812795-2026",
+    "lat": 32.9371,
+    "lng": -96.8202,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
     "id": "812769-2026",
     "lat": 32.9383,
     "lng": -96.816,
@@ -638,58 +737,25 @@
     "neighborhood": null
   },
   {
-    "id": "044902-2026",
-    "lat": 32.9304,
-    "lng": -96.8206,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 11,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "078387-2026",
-    "lat": 32.9339,
-    "lng": -96.8191,
-    "offense": "motor vehicle theft",
+    "id": "001563-2026",
+    "lat": 32.9372,
+    "lng": -96.8156,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
     "premise": "apartment parking lot",
-    "hour": 13,
-    "date": "2026-05-29",
+    "hour": 0,
+    "date": "2025-12-26",
     "neighborhood": null
   },
   {
-    "id": "148527-2025",
-    "lat": 32.9347,
-    "lng": -96.757,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "821782-2025",
-    "lat": 32.9381,
-    "lng": -96.7649,
-    "offense": "interfere w/ child custody",
+    "id": "825407-2025",
+    "lat": 32.9296,
+    "lng": -96.8205,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2025-10-23",
-    "neighborhood": null
-  },
-  {
-    "id": "043020-2026",
-    "lat": 32.9299,
-    "lng": -96.761,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-03-26",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2025-11-28",
     "neighborhood": null
   }
 ]

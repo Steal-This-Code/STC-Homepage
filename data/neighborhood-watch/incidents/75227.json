@@ -1,25 +1,47 @@
 [
   {
-    "id": "821210-2025",
-    "lat": 32.7868,
-    "lng": -96.6964,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
+    "id": "072490-2026",
+    "lat": 32.7655,
+    "lng": -96.6507,
+    "offense": "found property (no offense)",
+    "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2025-10-14",
-    "neighborhood": "Buckner Terrace"
+    "hour": 0,
+    "date": "2026-05-21",
+    "neighborhood": "Independence Park"
   },
   {
-    "id": "165404-2025",
-    "lat": 32.7589,
-    "lng": -96.682,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2025-11-17",
-    "neighborhood": "Pleasant Mound"
+    "id": "012226-2026",
+    "lat": 32.7552,
+    "lng": -96.6829,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2026-01-26",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
+    "id": "066023-2026",
+    "lat": 32.768,
+    "lng": -96.703,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "078986-2026",
+    "lat": 32.7877,
+    "lng": -96.6868,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-06-01",
+    "neighborhood": "Buckner Terrace"
   },
   {
     "id": "183454-2025",
@@ -196,17 +218,6 @@
     "hour": 15,
     "date": "2026-07-05",
     "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "802164-2026",
-    "lat": 32.7756,
-    "lng": -96.6949,
-    "offense": "theft of material alum/brnze/copper <$20k pc31.03(e4f)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-01-31",
-    "neighborhood": "Urbandale"
   },
   {
     "id": "103574-2026",
@@ -671,80 +682,47 @@
     "neighborhood": "Pleasant Mound"
   },
   {
-    "id": "091915-2026",
-    "lat": 32.7579,
-    "lng": -96.6924,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-06-25",
-    "neighborhood": "Piedmont / Scyene"
-  },
-  {
-    "id": "005281-2026",
-    "lat": 32.7817,
-    "lng": -96.7095,
-    "offense": "motor vehicle theft",
+    "id": "800296-2026",
+    "lat": 32.784,
+    "lng": -96.7089,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-10",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2025-12-24",
     "neighborhood": "Buckner Terrace"
   },
   {
-    "id": "004651-2026",
-    "lat": 32.7632,
-    "lng": -96.6456,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 18,
-    "date": "2026-01-07",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "033770-2026",
-    "lat": 32.7655,
-    "lng": -96.6647,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-03-09",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "050487-2026",
-    "lat": 32.7782,
-    "lng": -96.7102,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 19,
-    "date": "2026-04-09",
-    "neighborhood": null
-  },
-  {
-    "id": "080517-2026",
-    "lat": 32.7543,
-    "lng": -96.6994,
+    "id": "182509-2025",
+    "lat": 32.7636,
+    "lng": -96.691,
     "offense": "missing person (no offense)",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-15",
-    "neighborhood": "Piedmont / Scyene"
+    "hour": 18,
+    "date": "2025-12-06",
+    "neighborhood": "Urbandale"
   },
   {
-    "id": "006406-2026",
-    "lat": 32.7509,
-    "lng": -96.6569,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-01-13",
+    "id": "145464-2025",
+    "lat": 32.749,
+    "lng": -96.6828,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-10-08",
+    "neighborhood": null
+  },
+  {
+    "id": "185986-2025",
+    "lat": 32.7528,
+    "lng": -96.6503,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2025-11-30",
     "neighborhood": "Pleasant Mound"
   }
 ]

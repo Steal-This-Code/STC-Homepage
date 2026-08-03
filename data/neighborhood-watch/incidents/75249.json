@@ -1,5 +1,16 @@
 [
   {
+    "id": "822890-2025",
+    "lat": 32.6582,
+    "lng": -96.9486,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2025-10-29",
+    "neighborhood": "Summit Parc"
+  },
+  {
     "id": "050192-2026",
     "lat": 32.6412,
     "lng": -96.9725,
@@ -9,17 +20,6 @@
     "hour": 6,
     "date": "2026-03-19",
     "neighborhood": null
-  },
-  {
-    "id": "814161-2026",
-    "lat": 32.6464,
-    "lng": -96.9707,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-07-07",
-    "neighborhood": "Harbor Glen"
   },
   {
     "id": "021890-2026",
@@ -77,14 +77,14 @@
     "neighborhood": "Summit Parc"
   },
   {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
+    "id": "179665-2025",
+    "lat": 32.6488,
+    "lng": -96.9681,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2025-12-16",
+    "neighborhood": "Wind Ridge Estates"
   }
 ]

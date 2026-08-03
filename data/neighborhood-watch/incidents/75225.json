@@ -1,13 +1,13 @@
 [
   {
-    "id": "182130-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
+    "id": "812733-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2025-12-21",
+    "premise": "shopping mall",
+    "hour": 18,
+    "date": "2026-06-25",
     "neighborhood": null
   },
   {
@@ -295,60 +295,5 @@
     "hour": 23,
     "date": "2026-01-24",
     "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "013881-2026",
-    "lat": 32.8786,
-    "lng": -96.8089,
-    "offense": "false alarm or report emergency",
-    "group": "other",
-    "premise": "religious institution",
-    "hour": 15,
-    "date": "2026-01-30",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "153366-2025",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-10-24",
-    "neighborhood": null
-  },
-  {
-    "id": "006742-2026",
-    "lat": 32.8648,
-    "lng": -96.8084,
-    "offense": "possession of stolen property",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "086406-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 13,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "803511-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-02-09",
-    "neighborhood": null
   }
 ]
