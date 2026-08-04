@@ -55,6 +55,61 @@
     "neighborhood": null
   },
   {
+    "id": "067671-2026",
+    "lat": 32.9168,
+    "lng": -96.8178,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "809961-2026",
+    "lat": 32.9231,
+    "lng": -96.8363,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 22,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "147134-2025",
+    "lat": 32.9256,
+    "lng": -96.8325,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2025-10-12",
+    "neighborhood": null
+  },
+  {
+    "id": "806823-2026",
+    "lat": 32.9104,
+    "lng": -96.853,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 12,
+    "date": "2026-03-31",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "809956-2026",
+    "lat": 32.9108,
+    "lng": -96.8536,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 15,
+    "date": "2026-04-17",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
     "id": "019323-2026",
     "lat": 32.9125,
     "lng": -96.8514,
@@ -77,28 +132,6 @@
     "neighborhood": "Northaven Park"
   },
   {
-    "id": "811288-2026",
-    "lat": 32.9093,
-    "lng": -96.8546,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2026-06-01",
-    "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "046635-2026",
-    "lat": 32.9207,
-    "lng": -96.8471,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-03-31",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
     "id": "002524-2026",
     "lat": 32.924,
     "lng": -96.8366,
@@ -110,14 +143,58 @@
     "neighborhood": null
   },
   {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "157343-2025",
+    "lat": 32.9225,
+    "lng": -96.8362,
+    "offense": "unexplained death (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
+    "premise": "condominium/townhome building",
+    "hour": 20,
+    "date": "2025-11-01",
+    "neighborhood": null
+  },
+  {
+    "id": "808715-2026",
+    "lat": 32.9171,
+    "lng": -96.8198,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "school - elementary/secondary",
+    "hour": 14,
+    "date": "2026-04-10",
+    "neighborhood": null
+  },
+  {
+    "id": "802920-2026",
+    "lat": 32.938,
+    "lng": -96.8417,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-01-23",
+    "neighborhood": null
+  },
+  {
+    "id": "177730-2025",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2025-12-12",
+    "neighborhood": null
+  },
+  {
+    "id": "812153-2026",
+    "lat": 32.9232,
+    "lng": -96.8301,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-13",
     "neighborhood": null
   }
 ]
