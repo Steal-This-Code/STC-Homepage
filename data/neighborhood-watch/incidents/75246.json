@@ -22,25 +22,14 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "091550-2026",
-    "lat": 32.7895,
-    "lng": -96.7717,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "015672-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "credit card or debit card abuse",
+    "id": "811715-2026",
+    "lat": 32.797,
+    "lng": -96.7683,
+    "offense": "bmv",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-02",
+    "hour": 5,
+    "date": "2026-06-04",
     "neighborhood": "Peak's Addition"
   },
   {
