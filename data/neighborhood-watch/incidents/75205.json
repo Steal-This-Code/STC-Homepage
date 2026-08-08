@@ -66,17 +66,6 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "091529-2026",
-    "lat": 32.8227,
-    "lng": -96.7877,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-24",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "000239-2026",
     "lat": 32.8175,
     "lng": -96.7903,
@@ -85,6 +74,17 @@
     "premise": "apartment parking lot",
     "hour": 0,
     "date": "2025-12-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "137312-2025",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 13,
+    "date": "2025-09-23",
     "neighborhood": "Knox Park"
   }
 ]
