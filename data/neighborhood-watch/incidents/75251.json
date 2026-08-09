@@ -66,6 +66,17 @@
     "neighborhood": null
   },
   {
+    "id": "090060-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
     "id": "800326-2026",
     "lat": 32.9209,
     "lng": -96.7733,
@@ -118,17 +129,6 @@
     "premise": "apartment complex/building",
     "hour": 0,
     "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

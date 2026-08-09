@@ -163,5 +163,60 @@
     "hour": 15,
     "date": "2026-04-03",
     "neighborhood": "Brettonwoods"
+  },
+  {
+    "id": "093211-2026",
+    "lat": 32.709,
+    "lng": -96.8737,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-06-27",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "148698-2025",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2025-10-15",
+    "neighborhood": null
+  },
+  {
+    "id": "092008-2026",
+    "lat": 32.6959,
+    "lng": -96.8912,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2026-06-25",
+    "neighborhood": null
+  },
+  {
+    "id": "050181-2026",
+    "lat": 32.7153,
+    "lng": -96.8749,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 16,
+    "date": "2026-04-08",
+    "neighborhood": null
+  },
+  {
+    "id": "070348-2026",
+    "lat": 32.7076,
+    "lng": -96.8864,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-16",
+    "neighborhood": "Kiest Valley Estates"
   }
 ]

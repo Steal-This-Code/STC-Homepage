@@ -374,70 +374,15 @@
     "neighborhood": "Ridgewood Park"
   },
   {
-    "id": "003707-2026",
-    "lat": 32.8359,
-    "lng": -96.7505,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-01-08",
-    "neighborhood": "Lakewood"
-  },
-  {
-    "id": "049433-2026",
-    "lat": 32.7981,
-    "lng": -96.7648,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-03-28",
-    "neighborhood": "Munger Place"
-  },
-  {
-    "id": "092239-2026",
-    "lat": 32.8117,
-    "lng": -96.7323,
-    "offense": "attack by dog causes sbi",
+    "id": "184284-2025",
+    "lat": 32.8213,
+    "lng": -96.7293,
+    "offense": "traf vio -duty on strike fix/hwy landscape < $200",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-06-24",
-    "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
-  },
-  {
-    "id": "067549-2026",
-    "lat": 32.8008,
-    "lng": -96.7566,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "other",
-    "hour": 0,
-    "date": "2026-05-11",
+    "premise": "government/public building",
+    "hour": 20,
+    "date": "2025-12-26",
     "neighborhood": null
-  },
-  {
-    "id": "055767-2026",
-    "lat": 32.8039,
-    "lng": -96.7495,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "condominium/townhome residence",
-    "hour": 15,
-    "date": "2026-04-19",
-    "neighborhood": null
-  },
-  {
-    "id": "002610-2026",
-    "lat": 32.8439,
-    "lng": -96.7414,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-05",
-    "neighborhood": "Hillside"
   },
   {
     "id": "800803-2026",
@@ -528,14 +473,102 @@
     "neighborhood": "University Meadows"
   },
   {
-    "id": "105324-2026",
-    "lat": 32.7999,
-    "lng": -96.7575,
-    "offense": "possession of drug paraphernalia",
+    "id": "823575-2025",
+    "lat": 32.8069,
+    "lng": -96.7311,
+    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2025-11-15",
+    "neighborhood": null
+  },
+  {
+    "id": "068264-2026",
+    "lat": 32.8156,
+    "lng": -96.7522,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 9,
+    "date": "2026-05-13",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "825838-2025",
+    "lat": 32.836,
+    "lng": -96.7571,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2025-12-12",
+    "neighborhood": "Wilshire Heights"
+  },
+  {
+    "id": "183873-2025",
+    "lat": 32.805,
+    "lng": -96.7662,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2025-12-25",
+    "neighborhood": "Swiss Avenue"
+  },
+  {
+    "id": "012977-2026",
+    "lat": 32.8011,
+    "lng": -96.7538,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-28",
+    "neighborhood": null
+  },
+  {
+    "id": "802281-2026",
+    "lat": 32.8061,
+    "lng": -96.7523,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2026-01-17",
+    "neighborhood": "Junius Heights"
+  },
+  {
+    "id": "041060-2026",
+    "lat": 32.8039,
+    "lng": -96.7495,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 18,
+    "date": "2026-03-22",
+    "neighborhood": null
+  },
+  {
+    "id": "801204-2026",
+    "lat": 32.8302,
+    "lng": -96.7564,
+    "offense": "bmv",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-07-19",
+    "hour": 8,
+    "date": "2026-01-16",
+    "neighborhood": "Wilshire Heights"
+  },
+  {
+    "id": "092142-2026",
+    "lat": 32.8066,
+    "lng": -96.7293,
+    "offense": "tamper w/govt rec-ins doc-defraud/harm",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-06-25",
     "neighborhood": null
   }
 ]
