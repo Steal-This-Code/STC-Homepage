@@ -22,36 +22,14 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "053303-2026",
-    "lat": 32.7921,
-    "lng": -96.7791,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-15",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "085197-2026",
-    "lat": 32.7919,
-    "lng": -96.7788,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 23,
-    "date": "2026-06-12",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "014399-2026",
-    "lat": 32.7979,
+    "id": "811715-2026",
+    "lat": 32.797,
     "lng": -96.7683,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-01-28",
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 5,
+    "date": "2026-06-04",
     "neighborhood": "Peak's Addition"
   }
 ]
