@@ -1,5 +1,16 @@
 [
   {
+    "id": "092428-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 2,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
     "id": "800326-2026",
     "lat": 32.9209,
     "lng": -96.7733,
@@ -8,17 +19,6 @@
     "premise": "parking (business)",
     "hour": 17,
     "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
-    "id": "815534-2026",
-    "lat": 32.9174,
-    "lng": -96.772,
-    "offense": "harassment",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-08-04",
     "neighborhood": null
   },
   {
