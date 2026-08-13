@@ -1,5 +1,38 @@
 [
   {
+    "id": "182130-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2025-12-21",
+    "neighborhood": null
+  },
+  {
+    "id": "812733-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "shopping mall",
+    "hour": 18,
+    "date": "2026-06-25",
+    "neighborhood": null
+  },
+  {
+    "id": "815234-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 15,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
     "id": "812869-2026",
     "lat": 32.8668,
     "lng": -96.7729,
@@ -110,58 +143,69 @@
     "neighborhood": null
   },
   {
-    "id": "002506-2026",
-    "lat": 32.8614,
-    "lng": -96.7713,
-    "offense": "natural death (no offense)",
+    "id": "800957-2026",
+    "lat": 32.8677,
+    "lng": -96.7928,
+    "offense": "bmv",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 5,
-    "date": "2026-01-06",
-    "neighborhood": "Caruth Hills"
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-01-12",
+    "neighborhood": "Preston Hollow"
   },
   {
-    "id": "823615-2025",
+    "id": "071571-2026",
     "lat": 32.8696,
     "lng": -96.7707,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2025-11-15",
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 9,
+    "date": "2026-05-19",
     "neighborhood": null
   },
   {
-    "id": "092586-2026",
-    "lat": 32.8659,
-    "lng": -96.7999,
+    "id": "183367-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "813659-2026",
+    "lat": 32.8589,
+    "lng": -96.8101,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "006718-2026",
+    "lat": 32.8647,
+    "lng": -96.8066,
     "offense": "bmv",
     "group": "other",
-    "premise": "condominium/townhome parking",
-    "hour": 9,
-    "date": "2026-06-26",
-    "neighborhood": "Preston Hollow"
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-01-13",
+    "neighborhood": null
   },
   {
-    "id": "072318-2026",
-    "lat": 32.8659,
-    "lng": -96.789,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-05-20",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "812381-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "id": "825882-2025",
+    "lat": 32.8696,
+    "lng": -96.7707,
+    "offense": "theft of prop > or equal $2,500 <$30k (shoplift-not emp) pc31.03 (e4a)",
     "group": "property",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2026-06-12",
+    "premise": "retail store",
+    "hour": 15,
+    "date": "2025-12-13",
     "neighborhood": null
   }
 ]

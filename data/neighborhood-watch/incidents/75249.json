@@ -1,35 +1,13 @@
 [
   {
-    "id": "812710-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
+    "id": "822890-2025",
+    "lat": 32.6582,
+    "lng": -96.9486,
     "offense": "reckless damage",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-06-19",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
     "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
-  },
-  {
-    "id": "021890-2026",
-    "lat": 32.6442,
-    "lng": -96.9681,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-02-14",
-    "neighborhood": null
+    "hour": 14,
+    "date": "2025-10-29",
+    "neighborhood": "Summit Parc"
   }
 ]
