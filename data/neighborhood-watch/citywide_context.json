@@ -2,7 +2,7 @@
   {
     "month": "2025-08-01",
     "crime_group": "other",
-    "incidents": 125
+    "incidents": 117
   },
   {
     "month": "2025-08-01",
@@ -12,32 +12,32 @@
   {
     "month": "2025-08-01",
     "crime_group": "violent",
-    "incidents": 4
+    "incidents": 5
   },
   {
     "month": "2025-09-01",
     "crime_group": "other",
-    "incidents": 170
+    "incidents": 175
   },
   {
     "month": "2025-09-01",
     "crime_group": "property",
-    "incidents": 17
+    "incidents": 13
   },
   {
     "month": "2025-09-01",
     "crime_group": "violent",
-    "incidents": 8
+    "incidents": 7
   },
   {
     "month": "2025-10-01",
     "crime_group": "other",
-    "incidents": 223
+    "incidents": 216
   },
   {
     "month": "2025-10-01",
     "crime_group": "property",
-    "incidents": 32
+    "incidents": 29
   },
   {
     "month": "2025-10-01",
@@ -47,12 +47,12 @@
   {
     "month": "2025-11-01",
     "crime_group": "other",
-    "incidents": 255
+    "incidents": 260
   },
   {
     "month": "2025-11-01",
     "crime_group": "property",
-    "incidents": 17
+    "incidents": 13
   },
   {
     "month": "2025-11-01",
@@ -62,117 +62,117 @@
   {
     "month": "2025-12-01",
     "crime_group": "other",
-    "incidents": 230
+    "incidents": 247
   },
   {
     "month": "2025-12-01",
     "crime_group": "property",
-    "incidents": 68
+    "incidents": 59
   },
   {
     "month": "2025-12-01",
     "crime_group": "violent",
-    "incidents": 17
+    "incidents": 12
   },
   {
     "month": "2026-01-01",
     "crime_group": "other",
-    "incidents": 172
+    "incidents": 158
   },
   {
     "month": "2026-01-01",
     "crime_group": "property",
-    "incidents": 92
+    "incidents": 94
   },
   {
     "month": "2026-01-01",
     "crime_group": "violent",
-    "incidents": 17
+    "incidents": 19
   },
   {
     "month": "2026-02-01",
     "crime_group": "other",
-    "incidents": 52
+    "incidents": 85
   },
   {
     "month": "2026-02-01",
     "crime_group": "property",
-    "incidents": 17
+    "incidents": 25
   },
   {
     "month": "2026-02-01",
     "crime_group": "violent",
-    "incidents": 3
+    "incidents": 10
   },
   {
     "month": "2026-03-01",
     "crime_group": "other",
-    "incidents": 81
+    "incidents": 69
   },
   {
     "month": "2026-03-01",
     "crime_group": "property",
-    "incidents": 30
+    "incidents": 33
   },
   {
     "month": "2026-03-01",
     "crime_group": "violent",
-    "incidents": 3
+    "incidents": 6
   },
   {
     "month": "2026-04-01",
     "crime_group": "other",
-    "incidents": 67
+    "incidents": 69
   },
   {
     "month": "2026-04-01",
+    "crime_group": "property",
+    "incidents": 37
+  },
+  {
+    "month": "2026-04-01",
+    "crime_group": "violent",
+    "incidents": 8
+  },
+  {
+    "month": "2026-05-01",
+    "crime_group": "other",
+    "incidents": 164
+  },
+  {
+    "month": "2026-05-01",
     "crime_group": "property",
     "incidents": 39
   },
   {
-    "month": "2026-04-01",
+    "month": "2026-05-01",
     "crime_group": "violent",
     "incidents": 7
   },
   {
-    "month": "2026-05-01",
-    "crime_group": "other",
-    "incidents": 184
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "property",
-    "incidents": 51
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "violent",
-    "incidents": 11
-  },
-  {
     "month": "2026-06-01",
     "crime_group": "other",
-    "incidents": 240
+    "incidents": 229
   },
   {
     "month": "2026-06-01",
     "crime_group": "property",
-    "incidents": 166
+    "incidents": 149
   },
   {
     "month": "2026-06-01",
     "crime_group": "violent",
-    "incidents": 46
+    "incidents": 44
   },
   {
     "month": "2026-07-01",
     "crime_group": "other",
-    "incidents": 98
+    "incidents": 95
   },
   {
     "month": "2026-07-01",
     "crime_group": "property",
-    "incidents": 28
+    "incidents": 24
   },
   {
     "month": "2026-07-01",
@@ -182,6 +182,6 @@
   {
     "month": "2026-08-01",
     "crime_group": "other",
-    "incidents": 3
+    "incidents": 2
   }
 ]

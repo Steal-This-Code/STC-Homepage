@@ -99,50 +99,6 @@
     "neighborhood": "The Meadows"
   },
   {
-    "id": "179830-2025",
-    "lat": 32.924,
-    "lng": -96.8106,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-12-16",
-    "neighborhood": null
-  },
-  {
-    "id": "810524-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "specialty store (in a specific item)",
-    "hour": 12,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "070011-2026",
-    "lat": 32.9155,
-    "lng": -96.8094,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-05-15",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "801239-2026",
-    "lat": 32.8961,
-    "lng": -96.8025,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 10,
-    "date": "2026-01-17",
-    "neighborhood": null
-  },
-  {
     "id": "801124-2026",
     "lat": 32.8957,
     "lng": -96.8061,
@@ -154,14 +110,47 @@
     "neighborhood": null
   },
   {
-    "id": "174765-2025",
-    "lat": 32.8941,
-    "lng": -96.7749,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
+    "id": "179795-2025",
+    "lat": 32.9176,
+    "lng": -96.8022,
+    "offense": "terroristic threat -preliminary investigation",
+    "group": "other",
+    "premise": "school - elementary/secondary",
+    "hour": 2,
+    "date": "2025-12-17",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "802811-2026",
+    "lat": 32.9018,
+    "lng": -96.7779,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome residence",
+    "hour": 14,
+    "date": "2026-02-06",
+    "neighborhood": "Hillcrest Forest"
+  },
+  {
+    "id": "823776-2025",
+    "lat": 32.8945,
+    "lng": -96.8033,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
     "hour": 17,
-    "date": "2025-12-03",
-    "neighborhood": null
+    "date": "2025-11-17",
+    "neighborhood": "Preston Hollow North"
+  },
+  {
+    "id": "075889-2026",
+    "lat": 32.9163,
+    "lng": -96.7791,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 9,
+    "date": "2026-05-27",
+    "neighborhood": "Lake Forest"
   }
 ]

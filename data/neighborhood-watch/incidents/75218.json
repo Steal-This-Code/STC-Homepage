@@ -1,5 +1,16 @@
 [
   {
+    "id": "806954-2026",
+    "lat": 32.8276,
+    "lng": -96.7107,
+    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
+    "group": "other",
+    "premise": "business office",
+    "hour": 17,
+    "date": "2026-03-31",
+    "neighborhood": "Emerald Isles"
+  },
+  {
     "id": "011404-2026",
     "lat": 32.8352,
     "lng": -96.7053,
@@ -693,105 +704,6 @@
     "neighborhood": "Forest Hills"
   },
   {
-    "id": "180754-2025",
-    "lat": 32.8522,
-    "lng": -96.6996,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2025-12-18",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "069256-2026",
-    "lat": 32.8492,
-    "lng": -96.6829,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 4,
-    "date": "2026-05-15",
-    "neighborhood": "Casa View"
-  },
-  {
-    "id": "066877-2026",
-    "lat": 32.8292,
-    "lng": -96.7069,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 18,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "057962-2026",
-    "lat": 32.8334,
-    "lng": -96.7026,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 20,
-    "date": "2026-04-23",
-    "neighborhood": null
-  },
-  {
-    "id": "157664-2025",
-    "lat": 32.8411,
-    "lng": -96.7077,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-11-02",
-    "neighborhood": null
-  },
-  {
-    "id": "806954-2026",
-    "lat": 32.8276,
-    "lng": -96.7107,
-    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 17,
-    "date": "2026-03-31",
-    "neighborhood": "Emerald Isles"
-  },
-  {
-    "id": "016109-2026",
-    "lat": 32.8252,
-    "lng": -96.709,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-02-01",
-    "neighborhood": "Little Forest Hills"
-  },
-  {
-    "id": "078437-2026",
-    "lat": 32.8339,
-    "lng": -96.7019,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "046702-2026",
-    "lat": 32.8243,
-    "lng": -96.7032,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 18,
-    "date": "2026-04-02",
-    "neighborhood": "Casa Linda Estates"
-  },
-  {
     "id": "001521-2026",
     "lat": 32.8352,
     "lng": -96.7053,
@@ -803,14 +715,135 @@
     "neighborhood": null
   },
   {
-    "id": "821078-2025",
-    "lat": 32.8344,
-    "lng": -96.7063,
-    "offense": "reckless damage",
+    "id": "079536-2026",
+    "lat": 32.8383,
+    "lng": -96.6944,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 8,
+    "date": "2026-06-02",
+    "neighborhood": null
+  },
+  {
+    "id": "078437-2026",
+    "lat": 32.8339,
+    "lng": -96.7019,
+    "offense": "replica firearms",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "055577-2026",
+    "lat": 32.8454,
+    "lng": -96.69,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-04-19",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "807081-2026",
+    "lat": 32.8514,
+    "lng": -96.68,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 7,
+    "date": "2026-02-23",
+    "neighborhood": "Casa View"
+  },
+  {
+    "id": "025938-2026",
+    "lat": 32.8619,
+    "lng": -96.682,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-02-23",
+    "neighborhood": null
+  },
+  {
+    "id": "006850-2026",
+    "lat": 32.833,
+    "lng": -96.7013,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "006850-2026",
+    "lat": 32.833,
+    "lng": -96.7013,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "812177-2026",
+    "lat": 32.8527,
+    "lng": -96.7265,
+    "offense": "bmv",
     "group": "other",
     "premise": "parking lot (park)",
-    "hour": 11,
-    "date": "2025-10-12",
+    "hour": 15,
+    "date": "2026-06-13",
     "neighborhood": null
+  },
+  {
+    "id": "003082-2026",
+    "lat": 32.8471,
+    "lng": -96.69,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 9,
+    "date": "2026-01-07",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "180754-2025",
+    "lat": 32.8522,
+    "lng": -96.6996,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2025-12-18",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "802253-2026",
+    "lat": 32.8282,
+    "lng": -96.7022,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "other",
+    "hour": 7,
+    "date": "2026-01-30",
+    "neighborhood": "Casa Linda Estates"
+  },
+  {
+    "id": "807013-2026",
+    "lat": 32.8514,
+    "lng": -96.68,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 16,
+    "date": "2026-03-12",
+    "neighborhood": "Casa View"
   }
 ]

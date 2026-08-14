@@ -75,16 +75,5 @@
     "hour": 17,
     "date": "2026-01-01",
     "neighborhood": null
-  },
-  {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
-    "neighborhood": null
   }
 ]
