@@ -11,6 +11,17 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
+    "id": "032978-2026",
+    "lat": 32.7949,
+    "lng": -96.7757,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 4,
+    "date": "2026-03-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "811715-2026",
     "lat": 32.797,
     "lng": -96.7683,
@@ -22,36 +33,14 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "053303-2026",
-    "lat": 32.7921,
-    "lng": -96.7791,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "015672-2026",
+    "lat": 32.794,
+    "lng": -96.7668,
+    "offense": "credit card or debit card abuse",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-15",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "085197-2026",
-    "lat": 32.7919,
-    "lng": -96.7788,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 23,
-    "date": "2026-06-12",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "014399-2026",
-    "lat": 32.7979,
-    "lng": -96.7683,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-01-28",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
   }
 ]

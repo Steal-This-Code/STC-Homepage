@@ -44,6 +44,17 @@
     "neighborhood": "Rylie"
   },
   {
+    "id": "011864-2026",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "condominium/townhome parking",
+    "hour": 16,
+    "date": "2026-01-24",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "097418-2026",
     "lat": 32.6823,
     "lng": -96.601,
@@ -162,28 +173,6 @@
     "premise": "apartment parking lot",
     "hour": 7,
     "date": "2026-06-21",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "067485-2026",
-    "lat": 32.6861,
-    "lng": -96.5811,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-11",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "032900-2026",
-    "lat": 32.6759,
-    "lng": -96.6175,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-03-08",
     "neighborhood": "Kleberg"
   }
 ]
