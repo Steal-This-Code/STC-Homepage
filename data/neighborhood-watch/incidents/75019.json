@@ -1,16 +1,5 @@
 [
   {
-    "id": "062329-2026",
-    "lat": 32.9374,
-    "lng": -96.9831,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 2,
-    "date": "2026-05-02",
-    "neighborhood": null
-  },
-  {
     "id": "012375-2026",
     "lat": 32.6862,
     "lng": -96.5894,
