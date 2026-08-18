@@ -1,5 +1,16 @@
 [
   {
+    "id": "085938-2026",
+    "lat": 32.8301,
+    "lng": -96.8727,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 12,
+    "date": "2026-06-13",
+    "neighborhood": null
+  },
+  {
     "id": "826869-2025",
     "lat": 32.8319,
     "lng": -96.8748,
@@ -20,6 +31,50 @@
     "hour": 8,
     "date": "2026-07-07",
     "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "091003-2026",
+    "lat": 32.8314,
+    "lng": -96.8729,
+    "offense": "harassment -preliminary investigation",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "814102-2026",
+    "lat": 32.8225,
+    "lng": -96.8723,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
+    "id": "064405-2026",
+    "lat": 32.8167,
+    "lng": -96.8905,
+    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k(emp) pc31.03(e4a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
+    "id": "047758-2026",
+    "lat": 32.8226,
+    "lng": -96.8768,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 23,
+    "date": "2026-04-03",
+    "neighborhood": null
   },
   {
     "id": "814900-2026",
@@ -110,17 +165,6 @@
     "neighborhood": null
   },
   {
-    "id": "004166-2026",
-    "lat": 32.8259,
-    "lng": -96.8662,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-08",
-    "neighborhood": null
-  },
-  {
     "id": "000275-2026",
     "lat": 32.8249,
     "lng": -96.8699,
@@ -129,17 +173,6 @@
     "premise": "apartment residence",
     "hour": 14,
     "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
-    "id": "816258-2026",
-    "lat": 32.8172,
-    "lng": -96.888,
-    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 9,
-    "date": "2026-05-12",
     "neighborhood": null
   }
 ]

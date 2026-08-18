@@ -1,5 +1,38 @@
 [
   {
+    "id": "817247-2025",
+    "lat": 33.001,
+    "lng": -96.7813,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2025-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "088187-2026",
+    "lat": 32.9927,
+    "lng": -96.7935,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
+    "id": "813001-2026",
+    "lat": 33.0006,
+    "lng": -96.7768,
+    "offense": "theft - wire fraud $2500 <$30k",
+    "group": "property",
+    "premise": "cyberspace",
+    "hour": 10,
+    "date": "2026-04-06",
+    "neighborhood": null
+  },
+  {
     "id": "090816-2026",
     "lat": 33.0067,
     "lng": -96.7962,
@@ -88,6 +121,50 @@
     "neighborhood": "Highlands of McKamy"
   },
   {
+    "id": "002345-2026",
+    "lat": 32.9863,
+    "lng": -96.774,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-01-04",
+    "neighborhood": null
+  },
+  {
+    "id": "809540-2026",
+    "lat": 33.0067,
+    "lng": -96.7906,
+    "offense": "crim mischief > or equal $300k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-05-05",
+    "neighborhood": null
+  },
+  {
+    "id": "080946-2026",
+    "lat": 33.001,
+    "lng": -96.8022,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "005175-2026",
+    "lat": 32.9871,
+    "lng": -96.7718,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
     "id": "073260-2026",
     "lat": 33.0089,
     "lng": -96.7971,
@@ -129,17 +206,6 @@
     "premise": "grocery/supermarket",
     "hour": 19,
     "date": "2026-04-18",
-    "neighborhood": null
-  },
-  {
-    "id": "815390-2026",
-    "lat": 32.9998,
-    "lng": -96.8019,
-    "offense": null,
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-07-05",
     "neighborhood": null
   }
 ]
