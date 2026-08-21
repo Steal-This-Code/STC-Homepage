@@ -1,5 +1,82 @@
 [
   {
+    "id": "180518-2025",
+    "lat": 32.9173,
+    "lng": -96.7731,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2025-12-15",
+    "neighborhood": null
+  },
+  {
+    "id": "030411-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "087380-2026",
+    "lat": 32.9089,
+    "lng": -96.7699,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 1,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "093239-2026",
+    "lat": 32.9207,
+    "lng": -96.7707,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
+    "id": "090115-2026",
+    "lat": 32.9212,
+    "lng": -96.7726,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "092428-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 2,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
+    "id": "090060-2026",
+    "lat": 32.9218,
+    "lng": -96.7729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
     "id": "813178-2026",
     "lat": 32.9236,
     "lng": -96.7764,
@@ -19,39 +96,6 @@
     "premise": "apartment complex/building",
     "hour": 3,
     "date": "2026-07-09",
-    "neighborhood": null
-  },
-  {
-    "id": "148028-2025",
-    "lat": 32.9236,
-    "lng": -96.7707,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "017656-2026",
-    "lat": 32.9251,
-    "lng": -96.7686,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-07",
-    "neighborhood": null
-  },
-  {
-    "id": "802300-2026",
-    "lat": 32.9189,
-    "lng": -96.7714,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-02-02",
     "neighborhood": null
   },
   {
