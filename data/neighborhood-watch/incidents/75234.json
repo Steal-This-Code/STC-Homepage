@@ -1,13 +1,35 @@
 [
   {
-    "id": "815995-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "lost property (no offense)",
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "094972-2026",
+    "lat": 32.9096,
+    "lng": -96.8936,
+    "offense": "bmv",
     "group": "other",
     "premise": "other",
+    "hour": 13,
+    "date": "2026-06-30",
+    "neighborhood": null
+  },
+  {
+    "id": "103182-2026",
+    "lat": 32.9108,
+    "lng": -96.8959,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 11,
-    "date": "2026-08-08",
+    "date": "2026-07-15",
     "neighborhood": null
   },
   {
@@ -19,6 +41,28 @@
     "premise": "highway, street, alley etc",
     "hour": 17,
     "date": "2025-11-30",
+    "neighborhood": null
+  },
+  {
+    "id": "801112-2026",
+    "lat": 32.9098,
+    "lng": -96.8951,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-01-13",
+    "neighborhood": null
+  },
+  {
+    "id": "004517-2026",
+    "lat": 32.9101,
+    "lng": -96.8608,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 23,
+    "date": "2026-01-09",
     "neighborhood": null
   },
   {
