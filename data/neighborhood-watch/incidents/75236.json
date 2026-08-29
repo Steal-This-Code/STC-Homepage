@@ -1,16 +1,5 @@
 [
   {
-    "id": "817909-2025",
-    "lat": 32.6834,
-    "lng": -96.9048,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "other",
-    "hour": 8,
-    "date": "2025-08-28",
-    "neighborhood": null
-  },
-  {
     "id": "809803-2026",
     "lat": 32.6936,
     "lng": -96.9087,
@@ -42,6 +31,28 @@
     "hour": 21,
     "date": "2026-05-16",
     "neighborhood": null
+  },
+  {
+    "id": "802534-2026",
+    "lat": 32.6934,
+    "lng": -96.8915,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-02-02",
+    "neighborhood": null
+  },
+  {
+    "id": "039322-2026",
+    "lat": 32.6953,
+    "lng": -96.9014,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-03-20",
+    "neighborhood": "Country Creek"
   },
   {
     "id": "801158-2026",
@@ -96,94 +107,6 @@
     "premise": "apartment residence",
     "hour": 9,
     "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "071916-2026",
-    "lat": 32.7,
-    "lng": -96.9218,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "045441-2026",
-    "lat": 32.687,
-    "lng": -96.9003,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-03-30",
-    "neighborhood": null
-  },
-  {
-    "id": "098791-2026",
-    "lat": 32.6752,
-    "lng": -96.9605,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-07-07",
-    "neighborhood": null
-  },
-  {
-    "id": "002894-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 21,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "039322-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-20",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "016008-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "089861-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "arson intend damage habitat/place of worship",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "079993-2026",
-    "lat": 32.6637,
-    "lng": -96.8892,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-05-30",
     "neighborhood": null
   }
 ]

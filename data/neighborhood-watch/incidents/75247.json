@@ -1,5 +1,27 @@
 [
   {
+    "id": "815844-2026",
+    "lat": 32.8361,
+    "lng": -96.8729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 18,
+    "date": "2026-08-07",
+    "neighborhood": null
+  },
+  {
+    "id": "085938-2026",
+    "lat": 32.8301,
+    "lng": -96.8727,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 12,
+    "date": "2026-06-13",
+    "neighborhood": null
+  },
+  {
     "id": "826869-2025",
     "lat": 32.8319,
     "lng": -96.8748,
@@ -31,6 +53,50 @@
     "hour": 8,
     "date": "2026-07-07",
     "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "091003-2026",
+    "lat": 32.8314,
+    "lng": -96.8729,
+    "offense": "harassment -preliminary investigation",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "814102-2026",
+    "lat": 32.8225,
+    "lng": -96.8723,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
+    "id": "064405-2026",
+    "lat": 32.8167,
+    "lng": -96.8905,
+    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k(emp) pc31.03(e4a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
+    "id": "047758-2026",
+    "lat": 32.8226,
+    "lng": -96.8768,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 23,
+    "date": "2026-04-03",
+    "neighborhood": null
   },
   {
     "id": "079899-2026",
@@ -88,92 +154,15 @@
     "neighborhood": "Southwestern Medical District"
   },
   {
-    "id": "015142-2026",
-    "lat": 32.8213,
-    "lng": -96.8807,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 21,
-    "date": "2026-02-01",
-    "neighborhood": null
-  },
-  {
-    "id": "093273-2026",
-    "lat": 32.8249,
-    "lng": -96.8699,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "hotel/motel/etc",
-    "hour": 3,
-    "date": "2026-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "802820-2026",
-    "lat": 32.8365,
-    "lng": -96.8767,
-    "offense": "theft of prop (auto acc) > or equal $2,500 <$30k (not emp) pc31.03(e4a)",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 21,
-    "date": "2026-02-06",
-    "neighborhood": null
-  },
-  {
-    "id": "813677-2026",
-    "lat": 32.8111,
-    "lng": -96.8614,
+    "id": "814900-2026",
+    "lat": 32.8102,
+    "lng": -96.8509,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 14,
-    "date": "2026-07-08",
-    "neighborhood": null
-  },
-  {
-    "id": "019191-2026",
-    "lat": 32.8252,
-    "lng": -96.8793,
-    "offense": "forgery- preliminary investigation",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "100383-2026",
-    "lat": 32.8225,
-    "lng": -96.8723,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-07-09",
-    "neighborhood": null
-  },
-  {
-    "id": "175497-2025",
-    "lat": 32.8173,
-    "lng": -96.8675,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
+    "premise": "parking (business)",
     "hour": 8,
-    "date": "2025-11-28",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "175497-2025",
-    "lat": 32.8173,
-    "lng": -96.8675,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2025-11-28",
-    "neighborhood": "Southwestern Medical District"
+    "date": "2026-07-26",
+    "neighborhood": null
   },
   {
     "id": "813677-2026",

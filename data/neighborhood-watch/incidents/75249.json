@@ -1,24 +1,57 @@
 [
   {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
+    "id": "822890-2025",
+    "lat": 32.6582,
+    "lng": -96.9486,
+    "offense": "reckless damage",
+    "group": "other",
     "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
+    "hour": 14,
+    "date": "2025-10-29",
+    "neighborhood": "Summit Parc"
   },
   {
-    "id": "021890-2026",
-    "lat": 32.6442,
-    "lng": -96.9681,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "079089-2026",
+    "lat": 32.6228,
+    "lng": -96.9452,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-01",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "095722-2026",
+    "lat": 32.6246,
+    "lng": -96.9454,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-07-01",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "817242-2026",
+    "lat": 32.6314,
+    "lng": -96.95,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-08-26",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "178832-2025",
+    "lat": 32.6434,
+    "lng": -96.9466,
+    "offense": "found property (no offense)",
+    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-02-14",
-    "neighborhood": null
+    "hour": 3,
+    "date": "2025-12-15",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]
