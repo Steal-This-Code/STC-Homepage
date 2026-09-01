@@ -1,16 +1,5 @@
 [
   {
-    "id": "822890-2025",
-    "lat": 32.6582,
-    "lng": -96.9486,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2025-10-29",
-    "neighborhood": "Summit Parc"
-  },
-  {
     "id": "079089-2026",
     "lat": 32.6228,
     "lng": -96.9452,
@@ -30,17 +19,6 @@
     "premise": "single family residence - occupied",
     "hour": 20,
     "date": "2026-07-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "817242-2026",
-    "lat": 32.6314,
-    "lng": -96.95,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-08-26",
     "neighborhood": "Woods-Sugarberry"
   },
   {
@@ -96,28 +74,6 @@
     "premise": "highway, street, alley etc",
     "hour": 21,
     "date": "2025-10-03",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
-  },
-  {
-    "id": "009789-2026",
-    "lat": 32.657,
-    "lng": -96.9477,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-19",
     "neighborhood": "Summit Parc"
   }
 ]

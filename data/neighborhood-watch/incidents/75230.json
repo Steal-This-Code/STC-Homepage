@@ -1,38 +1,5 @@
 [
   {
-    "id": "824485-2025",
-    "lat": 32.8947,
-    "lng": -96.8031,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 9,
-    "date": "2025-10-27",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "802875-2026",
-    "lat": 32.9089,
-    "lng": -96.8035,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-02-10",
-    "neighborhood": null
-  },
-  {
-    "id": "802041-2026",
-    "lat": 32.8935,
-    "lng": -96.7863,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-29",
-    "neighborhood": "Brookshire Park"
-  },
-  {
     "id": "821400-2025",
     "lat": 32.893,
     "lng": -96.7718,
@@ -264,47 +231,14 @@
     "neighborhood": null
   },
   {
-    "id": "179795-2025",
-    "lat": 32.9176,
-    "lng": -96.8022,
-    "offense": "terroristic threat -preliminary investigation",
-    "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 2,
-    "date": "2025-12-17",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "802811-2026",
-    "lat": 32.9018,
-    "lng": -96.7779,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Hillcrest Forest"
-  },
-  {
-    "id": "823776-2025",
-    "lat": 32.8945,
-    "lng": -96.8033,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
     "hour": 17,
-    "date": "2025-11-17",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "075889-2026",
-    "lat": 32.9163,
-    "lng": -96.7791,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-05-27",
-    "neighborhood": "Lake Forest"
+    "date": "2025-12-03",
+    "neighborhood": null
   }
 ]

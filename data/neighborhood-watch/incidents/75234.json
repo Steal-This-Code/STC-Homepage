@@ -97,16 +97,5 @@
     "hour": 10,
     "date": "2026-05-03",
     "neighborhood": null
-  },
-  {
-    "id": "050504-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "other",
-    "hour": 17,
-    "date": "2026-04-09",
-    "neighborhood": null
   }
 ]
