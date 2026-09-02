@@ -1,5 +1,16 @@
 [
   {
+    "id": "811242-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-30",
+    "neighborhood": null
+  },
+  {
     "id": "099807-2026",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -44,69 +55,36 @@
     "neighborhood": null
   },
   {
-    "id": "067671-2026",
-    "lat": 32.9168,
-    "lng": -96.8178,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "809961-2026",
-    "lat": 32.9231,
-    "lng": -96.8363,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 22,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
-    "neighborhood": null
-  },
-  {
-    "id": "806823-2026",
-    "lat": 32.9104,
-    "lng": -96.853,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "811288-2026",
+    "lat": 32.9093,
+    "lng": -96.8546,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
     "group": "property",
-    "premise": "grocery/supermarket",
+    "premise": "restaurant/food service/tabc location",
     "hour": 12,
+    "date": "2026-06-01",
+    "neighborhood": "Northaven Park"
+  },
+  {
+    "id": "046635-2026",
+    "lat": 32.9207,
+    "lng": -96.8471,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 22,
     "date": "2026-03-31",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "809956-2026",
-    "lat": 32.9108,
-    "lng": -96.8536,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "002524-2026",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 15,
-    "date": "2026-04-17",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "101432-2026",
-    "lat": 32.9256,
-    "lng": -96.8306,
-    "offense": "collision inv injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-07-12",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-05",
     "neighborhood": null
   },
   {
