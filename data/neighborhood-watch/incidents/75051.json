@@ -1,13 +1,13 @@
 [
   {
-    "id": "079547-2026",
-    "lat": 32.7343,
-    "lng": -96.9873,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
+    "id": "008298-2026",
+    "lat": 32.7236,
+    "lng": -96.9767,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - vacant",
     "hour": 0,
-    "date": "2025-10-01",
+    "date": "2025-12-20",
     "neighborhood": null
   }
 ]
