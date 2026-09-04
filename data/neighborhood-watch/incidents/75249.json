@@ -22,17 +22,6 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "812710-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-06-19",
-    "neighborhood": "Summit Parc"
-  },
-  {
     "id": "077792-2026",
     "lat": 32.6328,
     "lng": -96.9506,

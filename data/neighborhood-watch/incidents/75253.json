@@ -1,16 +1,5 @@
 [
   {
-    "id": "011864-2026",
-    "lat": 32.6986,
-    "lng": -96.5777,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 16,
-    "date": "2026-01-24",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "097418-2026",
     "lat": 32.6823,
     "lng": -96.601,

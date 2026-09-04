@@ -1,49 +1,5 @@
 [
   {
-    "id": "093758-2026",
-    "lat": 32.9259,
-    "lng": -96.7712,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 4,
-    "date": "2026-06-28",
-    "neighborhood": "Valley View"
-  },
-  {
-    "id": "092428-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 2,
-    "date": "2026-06-26",
-    "neighborhood": null
-  },
-  {
-    "id": "090060-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "813178-2026",
-    "lat": 32.9236,
-    "lng": -96.7764,
-    "offense": "accident inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-07-02",
-    "neighborhood": null
-  },
-  {
     "id": "099633-2026",
     "lat": 32.9185,
     "lng": -96.7699,
