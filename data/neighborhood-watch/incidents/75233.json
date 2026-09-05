@@ -1,13 +1,79 @@
 [
   {
-    "id": "025445-2026",
-    "lat": 32.7153,
-    "lng": -96.8749,
-    "offense": "burglary of building - forced entry",
+    "id": "168018-2025",
+    "lat": 32.6913,
+    "lng": -96.8856,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "storage facility",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "031331-2026",
+    "lat": 32.7079,
+    "lng": -96.8762,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-03-04",
+    "neighborhood": null
+  },
+  {
+    "id": "090540-2026",
+    "lat": 32.7083,
+    "lng": -96.867,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "826262-2025",
+    "lat": 32.7022,
+    "lng": -96.8871,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2025-12-19",
+    "neighborhood": null
+  },
+  {
+    "id": "129790-2026",
+    "lat": 32.7019,
+    "lng": -96.8893,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-09-03",
+    "neighborhood": null
+  },
+  {
+    "id": "007192-2026",
+    "lat": 32.6995,
+    "lng": -96.8879,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-01-14",
+    "neighborhood": null
+  },
+  {
+    "id": "181636-2025",
+    "lat": 32.7083,
+    "lng": -96.873,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
     "hour": 12,
-    "date": "2026-02-21",
+    "date": "2025-12-20",
     "neighborhood": null
   },
   {
@@ -44,6 +110,17 @@
     "neighborhood": null
   },
   {
+    "id": "025107-2026",
+    "lat": 32.7055,
+    "lng": -96.8751,
+    "offense": "possession of stolen property",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-02-21",
+    "neighborhood": null
+  },
+  {
     "id": "148698-2025",
     "lat": 32.7169,
     "lng": -96.8735,
@@ -66,6 +143,17 @@
     "neighborhood": null
   },
   {
+    "id": "121854-2026",
+    "lat": 32.6918,
+    "lng": -96.8574,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "convenience store",
+    "hour": 13,
+    "date": "2026-08-19",
+    "neighborhood": null
+  },
+  {
     "id": "007393-2026",
     "lat": 32.6912,
     "lng": -96.8814,
@@ -74,6 +162,28 @@
     "premise": "business office",
     "hour": 18,
     "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "130390-2026",
+    "lat": 32.7052,
+    "lng": -96.8763,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 14,
+    "date": "2026-09-04",
+    "neighborhood": "Kiest Forest"
+  },
+  {
+    "id": "118437-2026",
+    "lat": 32.6918,
+    "lng": -96.8574,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "drug store/doctors office/hospital",
+    "hour": 9,
+    "date": "2026-08-13",
     "neighborhood": null
   },
   {
@@ -99,6 +209,17 @@
     "neighborhood": null
   },
   {
+    "id": "032888-2026",
+    "lat": 32.7058,
+    "lng": -96.8845,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-08",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
     "id": "146468-2025",
     "lat": 32.7083,
     "lng": -96.8707,
@@ -110,113 +231,36 @@
     "neighborhood": null
   },
   {
-    "id": "071580-2026",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-05-18",
-    "neighborhood": null
-  },
-  {
-    "id": "045376-2026",
-    "lat": 32.7136,
-    "lng": -96.8689,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "079569-2026",
-    "lat": 32.6956,
-    "lng": -96.879,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-02",
-    "neighborhood": null
-  },
-  {
-    "id": "018579-2026",
-    "lat": 32.7071,
-    "lng": -96.8749,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-07",
-    "neighborhood": null
-  },
-  {
-    "id": "016284-2026",
-    "lat": 32.7083,
-    "lng": -96.8689,
+    "id": "004031-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
     "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "apartment parking lot",
     "hour": 19,
-    "date": "2026-02-03",
+    "date": "2026-01-08",
     "neighborhood": null
   },
   {
-    "id": "093211-2026",
-    "lat": 32.709,
-    "lng": -96.8737,
+    "id": "004951-2026",
+    "lat": 32.7204,
+    "lng": -96.8608,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "000191-2026",
+    "lat": 32.6932,
+    "lng": -96.8853,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-06-27",
-    "neighborhood": "Encino Hills"
-  },
-  {
-    "id": "816096-2026",
-    "lat": 32.701,
-    "lng": -96.8836,
-    "offense": "bmv",
-    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-08-03",
-    "neighborhood": null
-  },
-  {
-    "id": "148698-2025",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2025-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "092008-2026",
-    "lat": 32.6959,
-    "lng": -96.8912,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-06-25",
-    "neighborhood": null
-  },
-  {
-    "id": "050181-2026",
-    "lat": 32.7153,
-    "lng": -96.8749,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "storage facility",
-    "hour": 16,
-    "date": "2026-04-08",
+    "hour": 9,
+    "date": "2026-01-01",
     "neighborhood": null
   }
 ]

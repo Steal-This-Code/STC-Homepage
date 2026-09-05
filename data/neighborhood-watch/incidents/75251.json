@@ -1,46 +1,112 @@
 [
   {
-    "id": "099633-2026",
-    "lat": 32.9185,
-    "lng": -96.7699,
-    "offense": "fraud use/poss identifying info # items 10<50",
+    "id": "093758-2026",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 3,
-    "date": "2026-07-09",
-    "neighborhood": null
+    "premise": "parking (business)",
+    "hour": 4,
+    "date": "2026-06-28",
+    "neighborhood": "Valley View"
   },
   {
-    "id": "028813-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-02-28",
-    "neighborhood": null
-  },
-  {
-    "id": "036934-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-03-14",
-    "neighborhood": null
-  },
-  {
-    "id": "813644-2026",
-    "lat": 32.9141,
-    "lng": -96.7699,
+    "id": "800326-2026",
+    "lat": 32.9209,
+    "lng": -96.7733,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-07-01",
+    "hour": 17,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "156250-2025",
+    "lat": 32.9231,
+    "lng": -96.7724,
+    "offense": "diversion criminal trespass",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2025-10-30",
+    "neighborhood": null
+  },
+  {
+    "id": "180024-2025",
+    "lat": 32.9259,
+    "lng": -96.7712,
+    "offense": "unl carry weapon w/ felony conv",
+    "group": "violent",
+    "premise": "hotel/motel/etc",
+    "hour": 14,
+    "date": "2025-12-17",
+    "neighborhood": "Valley View"
+  },
+  {
+    "id": "129623-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "business office",
+    "hour": 0,
+    "date": "2026-09-03",
+    "neighborhood": null
+  },
+  {
+    "id": "148028-2025",
+    "lat": 32.9236,
+    "lng": -96.7707,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2025-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "114774-2026",
+    "lat": 32.9207,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-08-05",
+    "neighborhood": null
+  },
+  {
+    "id": "817820-2026",
+    "lat": 32.9207,
+    "lng": -96.7707,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-09-03",
+    "neighborhood": null
+  },
+  {
+    "id": "017656-2026",
+    "lat": 32.9251,
+    "lng": -96.7686,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-02-07",
+    "neighborhood": null
+  },
+  {
+    "id": "166761-2025",
+    "lat": 32.9236,
+    "lng": -96.7788,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2025-11-20",
     "neighborhood": null
   }
 ]

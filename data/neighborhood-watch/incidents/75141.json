@@ -1,9 +1,20 @@
 [
   {
     "id": "017498-2026",
-    "lat": 32.65,
-    "lng": -96.707,
+    "lat": 32.6497,
+    "lng": -96.7074,
     "offense": "possession of stolen property",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 20,
+    "date": "2026-02-06",
+    "neighborhood": null
+  },
+  {
+    "id": "017498-2026",
+    "lat": 32.6497,
+    "lng": -96.7074,
+    "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "gas or service station",
     "hour": 20,

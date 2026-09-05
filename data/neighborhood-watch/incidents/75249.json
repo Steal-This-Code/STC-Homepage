@@ -1,13 +1,13 @@
 [
   {
-    "id": "079089-2026",
-    "lat": 32.6228,
-    "lng": -96.9452,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-06-01",
+    "id": "115293-2026",
+    "lat": 32.6467,
+    "lng": -96.9435,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-08-07",
     "neighborhood": "Woods-Sugarberry"
   },
   {
@@ -22,48 +22,37 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "023611-2026",
-    "lat": 32.6288,
-    "lng": -96.9494,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "070319-2026",
+    "lat": 32.648,
+    "lng": -96.9632,
+    "offense": "traf vio -reckless driving",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-18",
-    "neighborhood": "Woods-Sugarberry"
+    "hour": 23,
+    "date": "2026-05-16",
+    "neighborhood": null
   },
   {
-    "id": "077792-2026",
-    "lat": 32.6328,
-    "lng": -96.9506,
+    "id": "025468-2026",
+    "lat": 32.639,
+    "lng": -96.9502,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-29",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-21",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "820556-2025",
-    "lat": 32.6531,
-    "lng": -96.9443,
-    "offense": "accident inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-10-03",
-    "neighborhood": "Summit Parc"
+    "id": "115293-2026",
+    "lat": 32.6467,
+    "lng": -96.9435,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-08-07",
+    "neighborhood": "Woods-Sugarberry"
   },
   {
     "id": "050192-2026",
@@ -75,16 +64,5 @@
     "hour": 6,
     "date": "2026-03-19",
     "neighborhood": null
-  },
-  {
-    "id": "009789-2026",
-    "lat": 32.657,
-    "lng": -96.9477,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-19",
-    "neighborhood": "Summit Parc"
   }
 ]
