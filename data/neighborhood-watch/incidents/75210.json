@@ -110,15 +110,103 @@
     "neighborhood": "Frazier"
   },
   {
-    "id": "130470-2026",
-    "lat": 32.7689,
-    "lng": -96.7537,
-    "offense": "possession of drug paraphernalia",
+    "id": "082664-2026",
+    "lat": 32.7673,
+    "lng": -96.7493,
+    "offense": "resist arrest search or transport",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-09-04",
+    "hour": 14,
+    "date": "2026-06-08",
+    "neighborhood": "Bertrand"
+  },
+  {
+    "id": "124155-2026",
+    "lat": 32.7611,
+    "lng": -96.7418,
+    "offense": "obstruction or retaliation",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 7,
+    "date": "2026-08-23",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "099517-2026",
+    "lat": 32.7757,
+    "lng": -96.7529,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 18,
+    "date": "2026-07-01",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "143232-2025",
+    "lat": 32.7578,
+    "lng": -96.7406,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 15,
+    "date": "2025-10-04",
+    "neighborhood": null
+  },
+  {
+    "id": "069592-2026",
+    "lat": 32.7757,
+    "lng": -96.7453,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 4g<200g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-05-15",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "100776-2026",
+    "lat": 32.7675,
+    "lng": -96.7521,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-11",
     "neighborhood": "Frazier"
+  },
+  {
+    "id": "080322-2026",
+    "lat": 32.7642,
+    "lng": -96.7432,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 19,
+    "date": "2026-06-03",
+    "neighborhood": null
+  },
+  {
+    "id": "070913-2026",
+    "lat": 32.7748,
+    "lng": -96.7405,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2026-05-03",
+    "neighborhood": "Frazier"
+  },
+  {
+    "id": "103175-2026",
+    "lat": 32.7614,
+    "lng": -96.745,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-07-15",
+    "neighborhood": "Dixon Circle / Sunny Acres"
   },
   {
     "id": "070284-2026",
@@ -231,17 +319,6 @@
     "neighborhood": "Mill City"
   },
   {
-    "id": "130470-2026",
-    "lat": 32.7689,
-    "lng": -96.7537,
-    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-09-04",
-    "neighborhood": "Frazier"
-  },
-  {
     "id": "005793-2026",
     "lat": 32.7748,
     "lng": -96.7405,
@@ -251,28 +328,6 @@
     "hour": 15,
     "date": "2026-01-12",
     "neighborhood": "Frazier"
-  },
-  {
-    "id": "003130-2026",
-    "lat": 32.7706,
-    "lng": -96.7445,
-    "offense": "delivery marijuana >1/4 oz< or equal 5lbs",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-01-07",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "024084-2026",
-    "lat": 32.7723,
-    "lng": -96.7527,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-02-19",
-    "neighborhood": "Mill City"
   },
   {
     "id": "129809-2026",
@@ -306,61 +361,6 @@
     "hour": 20,
     "date": "2026-08-21",
     "neighborhood": "Mill City"
-  },
-  {
-    "id": "080480-2026",
-    "lat": 32.7747,
-    "lng": -96.7499,
-    "offense": "fail to id -giving false/fictitious info pc 38.02(c)(2)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-04",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "145334-2025",
-    "lat": 32.7775,
-    "lng": -96.761,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "arena/stadium/fairgrounds/coliseum",
-    "hour": 17,
-    "date": "2025-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "129940-2026",
-    "lat": 32.773,
-    "lng": -96.7466,
-    "offense": "unlawful poss firearm by felon",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-09-03",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "068278-2026",
-    "lat": 32.7695,
-    "lng": -96.7384,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-05-11",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "143232-2025",
-    "lat": 32.7578,
-    "lng": -96.7406,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 15,
-    "date": "2025-10-04",
-    "neighborhood": null
   },
   {
     "id": "127505-2026",
@@ -427,5 +427,38 @@
     "hour": 1,
     "date": "2026-05-11",
     "neighborhood": "Frazier"
+  },
+  {
+    "id": "002826-2026",
+    "lat": 32.7744,
+    "lng": -96.7439,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2026-01-06",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "101640-2026",
+    "lat": 32.77,
+    "lng": -96.755,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "other",
+    "hour": 12,
+    "date": "2026-07-12",
+    "neighborhood": "Frazier"
+  },
+  {
+    "id": "001257-2026",
+    "lat": 32.7746,
+    "lng": -96.7542,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-03",
+    "neighborhood": "Mill City"
   }
 ]

@@ -9,16 +9,5 @@
     "hour": 13,
     "date": "2026-01-24",
     "neighborhood": null
-  },
-  {
-    "id": "128626-2026",
-    "lat": 32.641,
-    "lng": -96.8054,
-    "offense": "prohibited weapon pc",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-08-31",
-    "neighborhood": null
   }
 ]

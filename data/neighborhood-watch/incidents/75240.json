@@ -176,28 +176,6 @@
     "neighborhood": null
   },
   {
-    "id": "147483-2025",
-    "lat": 32.9364,
-    "lng": -96.7542,
-    "offense": "evading arrest detention w/veh or watercraft",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-10-12",
-    "neighborhood": null
-  },
-  {
-    "id": "159815-2025",
-    "lat": 32.927,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "park",
-    "hour": 8,
-    "date": "2025-11-06",
-    "neighborhood": "Valley View"
-  },
-  {
     "id": "087019-2026",
     "lat": 32.9256,
     "lng": -96.7686,
@@ -206,6 +184,105 @@
     "premise": "parking (business)",
     "hour": 22,
     "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "130146-2026",
+    "lat": 32.928,
+    "lng": -96.813,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "021987-2026",
+    "lat": 32.9238,
+    "lng": -96.7918,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-02-15",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "100335-2026",
+    "lat": 32.9332,
+    "lng": -96.8101,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "convenience store",
+    "hour": 22,
+    "date": "2026-07-09",
+    "neighborhood": null
+  },
+  {
+    "id": "009108-2026",
+    "lat": 32.9327,
+    "lng": -96.7612,
+    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-01-19",
+    "neighborhood": null
+  },
+  {
+    "id": "005505-2026",
+    "lat": 32.937,
+    "lng": -96.7559,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-01-12",
+    "neighborhood": null
+  },
+  {
+    "id": "099837-2026",
+    "lat": 32.9366,
+    "lng": -96.821,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-07-09",
+    "neighborhood": null
+  },
+  {
+    "id": "130152-2026",
+    "lat": 32.9244,
+    "lng": -96.788,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "130152-2026",
+    "lat": 32.9244,
+    "lng": -96.788,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "821159-2025",
+    "lat": 32.9377,
+    "lng": -96.8179,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2025-10-13",
     "neighborhood": null
   },
   {
@@ -286,17 +363,6 @@
     "neighborhood": "Valley View"
   },
   {
-    "id": "178218-2025",
-    "lat": 32.9237,
-    "lng": -96.781,
-    "offense": "man del cont sub pen grp 1 1g < 4g use child",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2025-12-13",
-    "neighborhood": null
-  },
-  {
     "id": "071608-2026",
     "lat": 32.9389,
     "lng": -96.7633,
@@ -305,17 +371,6 @@
     "premise": "commercial property occupied/vacant",
     "hour": 9,
     "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "166726-2025",
-    "lat": 32.9398,
-    "lng": -96.7639,
-    "offense": "interfere w/ public duties",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-11-19",
     "neighborhood": null
   },
   {
@@ -440,17 +495,6 @@
     "neighborhood": null
   },
   {
-    "id": "150350-2025",
-    "lat": 32.9295,
-    "lng": -96.7689,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-10-18",
-    "neighborhood": null
-  },
-  {
     "id": "011284-2026",
     "lat": 32.9339,
     "lng": -96.8191,
@@ -539,80 +583,25 @@
     "neighborhood": null
   },
   {
-    "id": "149032-2025",
-    "lat": 32.9281,
-    "lng": -96.7673,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2025-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "071638-2026",
-    "lat": 32.9343,
-    "lng": -96.76,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "800586-2026",
-    "lat": 32.9291,
-    "lng": -96.8162,
+    "id": "801193-2026",
+    "lat": 32.9329,
+    "lng": -96.8166,
     "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-01-07",
-    "neighborhood": null
-  },
-  {
-    "id": "176314-2025",
-    "lat": 32.9299,
-    "lng": -96.761,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-12-09",
-    "neighborhood": null
-  },
-  {
-    "id": "163009-2025",
-    "lat": 32.9325,
-    "lng": -96.8115,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 8,
-    "date": "2025-11-12",
-    "neighborhood": null
-  },
-  {
-    "id": "186376-2025",
-    "lat": 32.9364,
-    "lng": -96.7542,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-12-31",
-    "neighborhood": null
-  },
-  {
-    "id": "821159-2025",
-    "lat": 32.9377,
-    "lng": -96.8179,
-    "offense": "reckless damage",
-    "group": "other",
     "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2025-10-13",
+    "hour": 9,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "069211-2026",
+    "lat": 32.9354,
+    "lng": -96.7646,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-05-15",
     "neighborhood": null
   },
   {
@@ -624,39 +613,6 @@
     "premise": "other",
     "hour": 0,
     "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "173775-2025",
-    "lat": 32.9283,
-    "lng": -96.7614,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-12-04",
-    "neighborhood": null
-  },
-  {
-    "id": "181604-2025",
-    "lat": 32.9296,
-    "lng": -96.8205,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 15,
-    "date": "2025-12-20",
-    "neighborhood": null
-  },
-  {
-    "id": "142239-2025",
-    "lat": 32.9329,
-    "lng": -96.8211,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-10-02",
     "neighborhood": null
   },
   {
@@ -702,17 +658,6 @@
     "hour": 9,
     "date": "2025-11-15",
     "neighborhood": "Willow Falls"
-  },
-  {
-    "id": "150931-2025",
-    "lat": 32.9366,
-    "lng": -96.7585,
-    "offense": "poss cont sub pen grp 1 <1g dfz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-10-19",
-    "neighborhood": null
   },
   {
     "id": "025083-2026",
@@ -781,14 +726,36 @@
     "neighborhood": null
   },
   {
-    "id": "181604-2025",
+    "id": "012899-2026",
+    "lat": 32.9246,
+    "lng": -96.8072,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 14,
+    "date": "2026-01-27",
+    "neighborhood": null
+  },
+  {
+    "id": "001563-2026",
+    "lat": 32.9372,
+    "lng": -96.8156,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2025-12-26",
+    "neighborhood": null
+  },
+  {
+    "id": "825407-2025",
     "lat": 32.9296,
     "lng": -96.8205,
-    "offense": "fail to id -refuses to provide info",
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "shopping mall",
-    "hour": 15,
-    "date": "2025-12-20",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2025-11-28",
     "neighborhood": null
   }
 ]

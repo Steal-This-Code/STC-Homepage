@@ -1,13 +1,68 @@
 [
   {
-    "id": "815995-2026",
+    "id": "021003-2026",
+    "lat": 32.9159,
+    "lng": -96.8608,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
+    "id": "077188-2026",
     "lat": 32.91,
     "lng": -96.8744,
-    "offense": "lost property (no offense)",
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "other",
-    "hour": 11,
-    "date": "2026-08-08",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-05-29",
+    "neighborhood": null
+  },
+  {
+    "id": "020998-2026",
+    "lat": 32.9095,
+    "lng": -96.8849,
+    "offense": "traf vio -display fictitious license plate",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
+    "id": "066057-2026",
+    "lat": 32.9131,
+    "lng": -96.8946,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "rental storage facility",
+    "hour": 10,
+    "date": "2026-05-03",
+    "neighborhood": null
+  },
+  {
+    "id": "812839-2026",
+    "lat": 32.9101,
+    "lng": -96.8618,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "bank/savings and loan",
+    "hour": 14,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "094303-2026",
+    "lat": 32.9101,
+    "lng": -96.8618,
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "bank/savings and loan",
+    "hour": 13,
+    "date": "2026-06-27",
     "neighborhood": null
   },
   {
@@ -19,17 +74,6 @@
     "premise": "highway, street, alley etc",
     "hour": 7,
     "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "125281-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-08-25",
     "neighborhood": null
   },
   {
@@ -52,28 +96,6 @@
     "premise": "highway, street, alley etc",
     "hour": 21,
     "date": "2026-02-13",
-    "neighborhood": null
-  },
-  {
-    "id": "130225-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-09-03",
-    "neighborhood": null
-  },
-  {
-    "id": "824874-2025",
-    "lat": 32.9136,
-    "lng": -96.8733,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2025-11-30",
     "neighborhood": null
   },
   {
@@ -118,6 +140,17 @@
     "premise": "other",
     "hour": 23,
     "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "148093-2025",
+    "lat": 32.9095,
+    "lng": -96.885,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-10-14",
     "neighborhood": null
   }
 ]

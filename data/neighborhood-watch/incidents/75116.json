@@ -1,46 +1,13 @@
 [
   {
-    "id": "075982-2026",
-    "lat": 32.6588,
-    "lng": -96.9035,
-    "offense": "prohibited weapon pc",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-05-28",
-    "neighborhood": null
-  },
-  {
-    "id": "075982-2026",
-    "lat": 32.6588,
-    "lng": -96.9035,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "id": "813332-2026",
+    "lat": 32.6611,
+    "lng": -96.9091,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-05-28",
-    "neighborhood": null
-  },
-  {
-    "id": "075982-2026",
-    "lat": 32.6588,
-    "lng": -96.9035,
-    "offense": "man del cont sub pen grp 2 or 2-a > or equal 4g<400g",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-05-28",
-    "neighborhood": null
-  },
-  {
-    "id": "075982-2026",
-    "lat": 32.6588,
-    "lng": -96.9035,
-    "offense": "poss marijuana >4oz< or equal 5lbs",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-05-28",
+    "premise": "grocery/supermarket",
+    "hour": 17,
+    "date": "2026-06-12",
     "neighborhood": null
   }
 ]

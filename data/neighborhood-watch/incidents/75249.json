@@ -11,6 +11,17 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
+    "id": "079089-2026",
+    "lat": 32.6228,
+    "lng": -96.9452,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-01",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
     "id": "095722-2026",
     "lat": 32.6246,
     "lng": -96.9454,
@@ -44,17 +55,6 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "115293-2026",
-    "lat": 32.6467,
-    "lng": -96.9435,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 12,
-    "date": "2026-08-07",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
     "id": "050192-2026",
     "lat": 32.6412,
     "lng": -96.9725,
@@ -63,6 +63,17 @@
     "premise": "outdoor area public/private",
     "hour": 6,
     "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "021890-2026",
+    "lat": 32.6442,
+    "lng": -96.9681,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-02-14",
     "neighborhood": null
   }
 ]

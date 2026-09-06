@@ -1,16 +1,5 @@
 [
   {
-    "id": "818121-2025",
-    "lat": 32.7195,
-    "lng": -96.8566,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 15,
-    "date": "2025-09-05",
-    "neighborhood": "Kiest Park"
-  },
-  {
     "id": "111124-2026",
     "lat": 32.7199,
     "lng": -96.8574,
@@ -88,17 +77,6 @@
     "neighborhood": "Kiest-Polk"
   },
   {
-    "id": "129740-2026",
-    "lat": 32.7031,
-    "lng": -96.8344,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 12,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
     "id": "017643-2026",
     "lat": 32.7169,
     "lng": -96.8349,
@@ -108,17 +86,6 @@
     "hour": 1,
     "date": "2026-02-07",
     "neighborhood": "Wynnewood Heights"
-  },
-  {
-    "id": "130365-2026",
-    "lat": 32.6999,
-    "lng": -96.8402,
-    "offense": "unlawful poss firearm by felon",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-09-04",
-    "neighborhood": "Kiest-Polk"
   },
   {
     "id": "063579-2026",
@@ -231,15 +198,279 @@
     "neighborhood": null
   },
   {
-    "id": "816274-2026",
-    "lat": 32.7209,
-    "lng": -96.8308,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
+    "id": "130212-2026",
+    "lat": 32.7206,
+    "lng": -96.8234,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 7,
+    "date": "2026-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "084360-2026",
+    "lat": 32.697,
+    "lng": -96.8404,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-06-11",
+    "neighborhood": null
+  },
+  {
+    "id": "118083-2026",
+    "lat": 32.7203,
+    "lng": -96.8342,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 15,
-    "date": "2026-08-14",
-    "neighborhood": "Wynnewood North"
+    "date": "2026-08-12",
+    "neighborhood": null
+  },
+  {
+    "id": "072173-2026",
+    "lat": 32.7057,
+    "lng": -96.857,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "park",
+    "hour": 13,
+    "date": "2026-05-20",
+    "neighborhood": "Druid Hills"
+  },
+  {
+    "id": "130115-2026",
+    "lat": 32.7082,
+    "lng": -96.84,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "129807-2026",
+    "lat": 32.7252,
+    "lng": -96.8441,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "other",
+    "hour": 15,
+    "date": "2026-09-02",
+    "neighborhood": "Elmwood"
+  },
+  {
+    "id": "092291-2026",
+    "lat": 32.7059,
+    "lng": -96.8239,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 9,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "048426-2026",
+    "lat": 32.6923,
+    "lng": -96.8286,
+    "offense": "assault (agg) -serious bodily injury",
+    "group": "violent",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-04-05",
+    "neighborhood": null
+  },
+  {
+    "id": "033935-2026",
+    "lat": 32.7173,
+    "lng": -96.8574,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 8,
+    "date": "2026-03-10",
+    "neighborhood": null
+  },
+  {
+    "id": "053053-2026",
+    "lat": 32.727,
+    "lng": -96.8521,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-04-14",
+    "neighborhood": "Elmwood"
+  },
+  {
+    "id": "130115-2026",
+    "lat": 32.7082,
+    "lng": -96.84,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "011052-2026",
+    "lat": 32.7132,
+    "lng": -96.8348,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 23,
+    "date": "2026-01-22",
+    "neighborhood": "Wynnewood Heights"
+  },
+  {
+    "id": "087942-2026",
+    "lat": 32.7223,
+    "lng": -96.8546,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-17",
+    "neighborhood": "Elmwood"
+  },
+  {
+    "id": "101391-2026",
+    "lat": 32.6877,
+    "lng": -96.8211,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-07-12",
+    "neighborhood": "Five Mile Creek"
+  },
+  {
+    "id": "129872-2026",
+    "lat": 32.7273,
+    "lng": -96.8445,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-09-03",
+    "neighborhood": "Elmwood"
+  },
+  {
+    "id": "010119-2026",
+    "lat": 32.7034,
+    "lng": -96.8366,
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-01-21",
+    "neighborhood": "Kiest-Polk"
+  },
+  {
+    "id": "022211-2026",
+    "lat": 32.7156,
+    "lng": -96.8299,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 0,
+    "date": "2026-02-16",
+    "neighborhood": null
+  },
+  {
+    "id": "130117-2026",
+    "lat": 32.7199,
+    "lng": -96.8574,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": null
+  },
+  {
+    "id": "071384-2026",
+    "lat": 32.7075,
+    "lng": -96.8339,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-05-18",
+    "neighborhood": "Wynnewood Heights"
+  },
+  {
+    "id": "030284-2026",
+    "lat": 32.728,
+    "lng": -96.8278,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 5,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "814445-2026",
+    "lat": 32.709,
+    "lng": -96.8407,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2026-07-10",
+    "neighborhood": "Kiest Park"
+  },
+  {
+    "id": "018573-2026",
+    "lat": 32.7227,
+    "lng": -96.857,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-02-09",
+    "neighborhood": null
+  },
+  {
+    "id": "027775-2026",
+    "lat": 32.7057,
+    "lng": -96.8558,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "park",
+    "hour": 0,
+    "date": "2026-02-27",
+    "neighborhood": "Druid Hills"
+  },
+  {
+    "id": "080612-2026",
+    "lat": 32.7291,
+    "lng": -96.8412,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 12,
+    "date": "2026-06-04",
+    "neighborhood": "Elmwood"
+  },
+  {
+    "id": "098562-2026",
+    "lat": 32.7044,
+    "lng": -96.8452,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-06",
+    "neighborhood": "Kiest-Polk"
   },
   {
     "id": "036334-2026",
@@ -528,17 +759,6 @@
     "neighborhood": "Beckley Terrace"
   },
   {
-    "id": "128248-2025",
-    "lat": 32.6911,
-    "lng": -96.8226,
-    "offense": "unlawful poss firearm by felon",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-09-05",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
     "id": "081020-2026",
     "lat": 32.696,
     "lng": -96.8403,
@@ -547,138 +767,6 @@
     "premise": "atm separate from bank",
     "hour": 16,
     "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "031012-2026",
-    "lat": 32.6877,
-    "lng": -96.8211,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-03-05",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "044460-2026",
-    "lat": 32.6991,
-    "lng": -96.8338,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 16,
-    "date": "2026-03-29",
-    "neighborhood": null
-  },
-  {
-    "id": "046694-2026",
-    "lat": 32.725,
-    "lng": -96.8339,
-    "offense": "shoplift contact $750 <$2500",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 17,
-    "date": "2026-04-02",
-    "neighborhood": "Wynnewood North"
-  },
-  {
-    "id": "011052-2026",
-    "lat": 32.7132,
-    "lng": -96.8348,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2026-01-22",
-    "neighborhood": "Wynnewood Heights"
-  },
-  {
-    "id": "095894-2026",
-    "lat": 32.6999,
-    "lng": -96.8402,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-07-02",
-    "neighborhood": "Kiest-Polk"
-  },
-  {
-    "id": "001744-2026",
-    "lat": 32.7324,
-    "lng": -96.8388,
-    "offense": "possession of stolen property",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 15,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "036334-2026",
-    "lat": 32.7249,
-    "lng": -96.8268,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-03-14",
-    "neighborhood": "Beckleywood"
-  },
-  {
-    "id": "010049-2026",
-    "lat": 32.71,
-    "lng": -96.8313,
-    "offense": "dwi 2 or more prev conv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-01-21",
-    "neighborhood": "Wynnewood Heights"
-  },
-  {
-    "id": "122040-2026",
-    "lat": 32.713,
-    "lng": -96.823,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-08-19",
-    "neighborhood": null
-  },
-  {
-    "id": "036334-2026",
-    "lat": 32.7249,
-    "lng": -96.8268,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-03-14",
-    "neighborhood": "Beckleywood"
-  },
-  {
-    "id": "123549-2026",
-    "lat": 32.7244,
-    "lng": -96.827,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-08-22",
-    "neighborhood": "Beckleywood"
-  },
-  {
-    "id": "007978-2026",
-    "lat": 32.6877,
-    "lng": -96.8256,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-01-17",
     "neighborhood": null
   },
   {
@@ -701,17 +789,6 @@
     "premise": "highway, street, alley etc",
     "hour": 19,
     "date": "2026-08-15",
-    "neighborhood": null
-  },
-  {
-    "id": "131793-2025",
-    "lat": 32.6912,
-    "lng": -96.8406,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-09-12",
     "neighborhood": null
   },
   {
@@ -801,17 +878,6 @@
     "hour": 16,
     "date": "2026-03-30",
     "neighborhood": "Druid Hills"
-  },
-  {
-    "id": "128248-2025",
-    "lat": 32.6911,
-    "lng": -96.8226,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-09-05",
-    "neighborhood": "Five Mile Creek"
   },
   {
     "id": "007959-2026",
@@ -910,6 +976,39 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2025-10-11",
+    "neighborhood": "Kiest-Polk"
+  },
+  {
+    "id": "112274-2026",
+    "lat": 32.6926,
+    "lng": -96.8559,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-08-01",
+    "neighborhood": "Druid Hills"
+  },
+  {
+    "id": "814332-2026",
+    "lat": 32.9212,
+    "lng": -96.8387,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-07-14",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "003122-2026",
+    "lat": 32.7004,
+    "lng": -96.8411,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-01-06",
     "neighborhood": "Kiest-Polk"
   }
 ]

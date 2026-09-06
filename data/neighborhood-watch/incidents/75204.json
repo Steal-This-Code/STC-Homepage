@@ -1,16 +1,5 @@
 [
   {
-    "id": "092649-2026",
-    "lat": 32.8041,
-    "lng": -96.7911,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 14,
-    "date": "2026-06-26",
-    "neighborhood": "Cityplace"
-  },
-  {
     "id": "812819-2026",
     "lat": 32.807,
     "lng": -96.7969,
@@ -154,17 +143,6 @@
     "neighborhood": "Fitzhugh / Capitol"
   },
   {
-    "id": "051116-2026",
-    "lat": 32.8041,
-    "lng": -96.7911,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 21,
-    "date": "2026-04-10",
-    "neighborhood": "Cityplace"
-  },
-  {
     "id": "125857-2026",
     "lat": 32.7977,
     "lng": -96.7794,
@@ -173,6 +151,259 @@
     "premise": "apartment complex/building",
     "hour": 0,
     "date": "2026-08-27",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "811883-2026",
+    "lat": 32.807,
+    "lng": -96.7969,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-12",
+    "neighborhood": "Cityplace"
+  },
+  {
+    "id": "121920-2026",
+    "lat": 32.8149,
+    "lng": -96.7891,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 11,
+    "date": "2026-08-19",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "119453-2026",
+    "lat": 32.807,
+    "lng": -96.7983,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-08-14",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "094611-2026",
+    "lat": 32.787,
+    "lng": -96.7914,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-29",
+    "neighborhood": null
+  },
+  {
+    "id": "080238-2026",
+    "lat": 32.8038,
+    "lng": -96.7966,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-03",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "099764-2026",
+    "lat": 32.7881,
+    "lng": -96.79,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 16,
+    "date": "2026-07-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "078274-2026",
+    "lat": 32.7874,
+    "lng": -96.7909,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 0,
+    "date": "2026-05-31",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "100247-2026",
+    "lat": 32.7878,
+    "lng": -96.7868,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-10",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "044167-2026",
+    "lat": 32.7855,
+    "lng": -96.7891,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "other",
+    "hour": 1,
+    "date": "2026-03-29",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "093563-2026",
+    "lat": 32.7976,
+    "lng": -96.801,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-06-28",
+    "neighborhood": "State Thomas"
+  },
+  {
+    "id": "124418-2026",
+    "lat": 32.8033,
+    "lng": -96.7857,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 23,
+    "date": "2026-08-23",
+    "neighborhood": "Cityplace"
+  },
+  {
+    "id": "823882-2025",
+    "lat": 32.7913,
+    "lng": -96.7904,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2025-11-19",
+    "neighborhood": "Bryan Place"
+  },
+  {
+    "id": "099896-2026",
+    "lat": 32.7979,
+    "lng": -96.8001,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-07-09",
+    "neighborhood": "State Thomas"
+  },
+  {
+    "id": "800909-2026",
+    "lat": 32.8036,
+    "lng": -96.8028,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-01-07",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "809249-2026",
+    "lat": 32.8027,
+    "lng": -96.7973,
+    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-04-28",
+    "neighborhood": "Uptown"
+  },
+  {
+    "id": "127940-2026",
+    "lat": 32.8019,
+    "lng": -96.7814,
+    "offense": "warrant dallas pd (criminal mischief)",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 19,
+    "date": "2026-08-30",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "811737-2026",
+    "lat": 32.807,
+    "lng": -96.7969,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-06-09",
+    "neighborhood": "Cityplace"
+  },
+  {
+    "id": "065726-2026",
+    "lat": 32.802,
+    "lng": -96.7796,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-05-07",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "820596-2025",
+    "lat": 32.8149,
+    "lng": -96.787,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 17,
+    "date": "2025-10-04",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "130187-2025",
+    "lat": 32.809,
+    "lng": -96.7956,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2025-09-09",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "817747-2026",
+    "lat": 32.8005,
+    "lng": -96.8062,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-07-31",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "022598-2026",
+    "lat": 32.7967,
+    "lng": -96.7887,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-02-16",
+    "neighborhood": null
+  },
+  {
+    "id": "801171-2026",
+    "lat": 32.8129,
+    "lng": -96.7854,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-01-14",
     "neighborhood": "Fitzhugh / Capitol"
   },
   {
@@ -196,28 +427,6 @@
     "hour": 12,
     "date": "2026-08-20",
     "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "817837-2026",
-    "lat": 32.7978,
-    "lng": -96.7986,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 4,
-    "date": "2026-08-16",
-    "neighborhood": "State Thomas"
-  },
-  {
-    "id": "166232-2025",
-    "lat": 32.8052,
-    "lng": -96.7893,
-    "offense": "poss cont sub pen grp 3 < 28g",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2025-11-19",
-    "neighborhood": "Cityplace"
   },
   {
     "id": "048752-2026",
@@ -273,28 +482,6 @@
     "hour": 19,
     "date": "2026-08-16",
     "neighborhood": "Fitzhugh / Capitol"
-  },
-  {
-    "id": "130450-2026",
-    "lat": 32.8109,
-    "lng": -96.7975,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-03",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "006970-2026",
-    "lat": 32.7872,
-    "lng": -96.79,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-01-14",
-    "neighborhood": "Baylor / Meadows"
   },
   {
     "id": "810970-2026",
@@ -495,28 +682,6 @@
     "neighborhood": "Fitzhugh / Capitol"
   },
   {
-    "id": "051116-2026",
-    "lat": 32.8041,
-    "lng": -96.7911,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 21,
-    "date": "2026-04-10",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "130450-2026",
-    "lat": 32.8109,
-    "lng": -96.7975,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-03",
-    "neighborhood": "Oak Lawn"
-  },
-  {
     "id": "140220-2025",
     "lat": 32.8004,
     "lng": -96.7752,
@@ -550,114 +715,37 @@
     "neighborhood": "Cityplace"
   },
   {
-    "id": "817727-2026",
-    "lat": 32.7959,
-    "lng": -96.7897,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-09-01",
-    "neighborhood": null
-  },
-  {
-    "id": "085110-2026",
-    "lat": 32.8008,
-    "lng": -96.7903,
-    "offense": "theft of prop <$100 - other than shoplift",
+    "id": "806574-2026",
+    "lat": 32.8077,
+    "lng": -96.7876,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
     "group": "property",
-    "premise": "apartment residence",
-    "hour": 18,
-    "date": "2026-06-12",
-    "neighborhood": "Roseland"
+    "premise": "grocery/supermarket",
+    "hour": 13,
+    "date": "2026-03-08",
+    "neighborhood": "Fitzhugh / Capitol"
   },
   {
-    "id": "121134-2026",
-    "lat": 32.8075,
-    "lng": -96.7939,
-    "offense": "traf vio -operate motor veh w/o fin resp",
+    "id": "076065-2026",
+    "lat": 32.808,
+    "lng": -96.7961,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 13,
+    "date": "2026-05-27",
+    "neighborhood": "Cityplace"
+  },
+  {
+    "id": "119906-2026",
+    "lat": 32.8123,
+    "lng": -96.7873,
+    "offense": "found property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-08-18",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "801187-2026",
-    "lat": 32.7953,
-    "lng": -96.7918,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 17,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "090461-2026",
-    "lat": 32.7969,
-    "lng": -96.785,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
     "hour": 21,
-    "date": "2026-06-21",
-    "neighborhood": "Bryan Place"
-  },
-  {
-    "id": "815664-2026",
-    "lat": 32.8066,
-    "lng": -96.7901,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-08-05",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "815078-2026",
-    "lat": 32.804,
-    "lng": -96.7996,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-07-23",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "800610-2026",
-    "lat": 32.7963,
-    "lng": -96.7881,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-01-07",
-    "neighborhood": "Bryan Place"
-  },
-  {
-    "id": "000658-2026",
-    "lat": 32.807,
-    "lng": -96.7968,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-23",
-    "neighborhood": "Cityplace"
-  },
-  {
-    "id": "814199-2026",
-    "lat": 32.8068,
-    "lng": -96.8024,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "trails",
-    "hour": 19,
-    "date": "2026-06-04",
-    "neighborhood": "Oak Lawn"
+    "date": "2026-08-15",
+    "neighborhood": "Fitzhugh / Capitol"
   },
   {
     "id": "099335-2026",
@@ -834,5 +922,93 @@
     "hour": 8,
     "date": "2026-06-04",
     "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "814124-2026",
+    "lat": 32.8041,
+    "lng": -96.7854,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-07-09",
+    "neighborhood": "Fitzhugh / Capitol"
+  },
+  {
+    "id": "123218-2026",
+    "lat": 32.7855,
+    "lng": -96.7891,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-08-21",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "087151-2026",
+    "lat": 32.7987,
+    "lng": -96.7853,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "815201-2026",
+    "lat": 32.7966,
+    "lng": -96.7905,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-07-30",
+    "neighborhood": null
+  },
+  {
+    "id": "805844-2026",
+    "lat": 32.7894,
+    "lng": -96.7903,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2026-03-14",
+    "neighborhood": "Bryan Place"
+  },
+  {
+    "id": "815362-2026",
+    "lat": 32.7948,
+    "lng": -96.7835,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome building",
+    "hour": 2,
+    "date": "2026-08-01",
+    "neighborhood": "Bryan Place"
+  },
+  {
+    "id": "813383-2026",
+    "lat": 32.7959,
+    "lng": -96.7897,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-06-28",
+    "neighborhood": null
+  },
+  {
+    "id": "814124-2026",
+    "lat": 32.8041,
+    "lng": -96.7854,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-07-09",
+    "neighborhood": "Fitzhugh / Capitol"
   }
 ]

@@ -9,5 +9,27 @@
     "hour": 17,
     "date": "2026-09-02",
     "neighborhood": null
+  },
+  {
+    "id": "129706-2026",
+    "lat": 32.6861,
+    "lng": -96.5894,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "other",
+    "hour": 5,
+    "date": "2026-09-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "002054-2026",
+    "lat": 32.9377,
+    "lng": -96.9832,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-01",
+    "neighborhood": null
   }
 ]

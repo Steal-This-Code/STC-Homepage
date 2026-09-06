@@ -1,5 +1,16 @@
 [
   {
+    "id": "817882-2026",
+    "lat": 32.9907,
+    "lng": -96.8058,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 15,
+    "date": "2026-08-15",
+    "neighborhood": null
+  },
+  {
     "id": "813001-2026",
     "lat": 33.0006,
     "lng": -96.7768,
@@ -66,28 +77,6 @@
     "neighborhood": null
   },
   {
-    "id": "162017-2025",
-    "lat": 32.9887,
-    "lng": -96.7709,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-11-10",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "154877-2025",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 14,
-    "date": "2025-10-27",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
     "id": "061658-2026",
     "lat": 32.9883,
     "lng": -96.7701,
@@ -99,37 +88,48 @@
     "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "175411-2025",
-    "lat": 33.0041,
-    "lng": -96.7975,
-    "offense": "false alarm or report",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2025-12-08",
-    "neighborhood": null
-  },
-  {
-    "id": "162017-2025",
-    "lat": 32.9887,
-    "lng": -96.7709,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-11-10",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "147919-2025",
+    "id": "005226-2026",
     "lat": 32.9889,
     "lng": -96.7833,
     "offense": "found property (no offense)",
     "group": "other",
     "premise": "government facility",
-    "hour": 21,
-    "date": "2025-10-13",
+    "hour": 15,
+    "date": "2026-01-11",
     "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "812719-2026",
+    "lat": 32.9977,
+    "lng": -96.7949,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "government/public building",
+    "hour": 0,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "092167-2026",
+    "lat": 32.9897,
+    "lng": -96.7722,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-06-25",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "817746-2026",
+    "lat": 33.0029,
+    "lng": -96.7965,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2026-08-22",
+    "neighborhood": null
   },
   {
     "id": "002345-2026",
@@ -165,17 +165,6 @@
     "neighborhood": "Prestonwood West"
   },
   {
-    "id": "152988-2025",
-    "lat": 33.0044,
-    "lng": -96.7812,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 23,
-    "date": "2025-10-23",
-    "neighborhood": null
-  },
-  {
     "id": "080946-2026",
     "lat": 33.001,
     "lng": -96.8022,
@@ -187,17 +176,6 @@
     "neighborhood": null
   },
   {
-    "id": "147588-2025",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 7,
-    "date": "2025-10-13",
-    "neighborhood": null
-  },
-  {
     "id": "005175-2026",
     "lat": 32.9871,
     "lng": -96.7718,
@@ -206,39 +184,6 @@
     "premise": "apartment parking lot",
     "hour": 12,
     "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "163370-2025",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2025-11-11",
-    "neighborhood": null
-  },
-  {
-    "id": "002707-2026",
-    "lat": 32.9894,
-    "lng": -96.8014,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 14,
-    "date": "2026-01-06",
-    "neighborhood": null
-  },
-  {
-    "id": "815390-2026",
-    "lat": 32.9998,
-    "lng": -96.8019,
-    "offense": null,
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-07-05",
     "neighborhood": null
   },
   {

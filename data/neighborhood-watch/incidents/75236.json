@@ -22,6 +22,50 @@
     "neighborhood": "Country Creek"
   },
   {
+    "id": "032807-2026",
+    "lat": 32.706,
+    "lng": -96.8919,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-03-08",
+    "neighborhood": null
+  },
+  {
+    "id": "070281-2026",
+    "lat": 32.6675,
+    "lng": -96.9282,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-05-16",
+    "neighborhood": null
+  },
+  {
+    "id": "011611-2026",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-01-24",
+    "neighborhood": null
+  },
+  {
+    "id": "127600-2026",
+    "lat": 32.706,
+    "lng": -96.9301,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-08-30",
+    "neighborhood": null
+  },
+  {
     "id": "011994-2026",
     "lat": 32.7069,
     "lng": -96.9522,
@@ -30,17 +74,6 @@
     "premise": "highway, street, alley etc",
     "hour": 19,
     "date": "2026-01-25",
-    "neighborhood": null
-  },
-  {
-    "id": "130518-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-08-30",
     "neighborhood": null
   },
   {
@@ -64,39 +97,6 @@
     "hour": 14,
     "date": "2026-03-20",
     "neighborhood": "Country Creek"
-  },
-  {
-    "id": "801158-2026",
-    "lat": 32.6667,
-    "lng": -96.9409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "072104-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "017859-2026",
-    "lat": 32.7079,
-    "lng": -96.8928,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-02-07",
-    "neighborhood": null
   },
   {
     "id": "071916-2026",

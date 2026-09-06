@@ -1,49 +1,5 @@
 [
   {
-    "id": "806954-2026",
-    "lat": 32.8276,
-    "lng": -96.7107,
-    "offense": "graffiti pecuniary loss >or equal $100 <$750 pc28.08(b2)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 17,
-    "date": "2026-03-31",
-    "neighborhood": "Emerald Isles"
-  },
-  {
-    "id": "011404-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 19,
-    "date": "2026-01-23",
-    "neighborhood": null
-  },
-  {
-    "id": "807835-2026",
-    "lat": 32.8499,
-    "lng": -96.7125,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-04-13",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "178774-2025",
-    "lat": 32.842,
-    "lng": -96.6911,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-14",
-    "neighborhood": null
-  },
-  {
     "id": "182666-2025",
     "lat": 32.8401,
     "lng": -96.6941,
@@ -308,6 +264,39 @@
     "neighborhood": null
   },
   {
+    "id": "119492-2026",
+    "lat": 32.8635,
+    "lng": -96.6771,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-08-15",
+    "neighborhood": null
+  },
+  {
+    "id": "069065-2026",
+    "lat": 32.8192,
+    "lng": -96.7093,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-05-11",
+    "neighborhood": "Little Forest Hills"
+  },
+  {
+    "id": "809611-2026",
+    "lat": 32.8123,
+    "lng": -96.7201,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2026-05-05",
+    "neighborhood": "Forest Hills"
+  },
+  {
     "id": "099882-2026",
     "lat": 32.8468,
     "lng": -96.6869,
@@ -429,39 +418,6 @@
     "neighborhood": null
   },
   {
-    "id": "126131-2026",
-    "lat": 32.8371,
-    "lng": -96.7052,
-    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 0,
-    "date": "2026-08-22",
-    "neighborhood": null
-  },
-  {
-    "id": "180754-2025",
-    "lat": 32.8522,
-    "lng": -96.6996,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2025-12-18",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "001521-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-03",
-    "neighborhood": null
-  },
-  {
     "id": "046702-2026",
     "lat": 32.8243,
     "lng": -96.7032,
@@ -504,5 +460,38 @@
     "hour": 7,
     "date": "2026-08-30",
     "neighborhood": "Lochwood"
+  },
+  {
+    "id": "093683-2026",
+    "lat": 32.8565,
+    "lng": -96.6827,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-06-28",
+    "neighborhood": null
+  },
+  {
+    "id": "025825-2026",
+    "lat": 32.8634,
+    "lng": -96.6808,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-02-23",
+    "neighborhood": null
+  },
+  {
+    "id": "821078-2025",
+    "lat": 32.8344,
+    "lng": -96.7063,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 11,
+    "date": "2025-10-12",
+    "neighborhood": null
   }
 ]

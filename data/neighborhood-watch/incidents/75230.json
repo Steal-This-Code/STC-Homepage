@@ -33,14 +33,58 @@
     "neighborhood": null
   },
   {
-    "id": "804184-2026",
-    "lat": 32.9089,
-    "lng": -96.8035,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "id": "100148-2026",
+    "lat": 32.8815,
+    "lng": -96.771,
+    "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-02-24",
+    "hour": 12,
+    "date": "2026-07-09",
+    "neighborhood": null
+  },
+  {
+    "id": "086608-2026",
+    "lat": 32.9223,
+    "lng": -96.7825,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "093254-2026",
+    "lat": 32.8825,
+    "lng": -96.7802,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-06-27",
+    "neighborhood": "The Meadows"
+  },
+  {
+    "id": "083171-2026",
+    "lat": 32.8903,
+    "lng": -96.7706,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 17,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "100414-2026",
+    "lat": 32.9092,
+    "lng": -96.7731,
+    "offense": "poss cont sub pen grp 2 < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-07-10",
     "neighborhood": null
   },
   {
@@ -110,17 +154,6 @@
     "neighborhood": "Melshire Estates"
   },
   {
-    "id": "040048-2026",
-    "lat": 32.9227,
-    "lng": -96.815,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 18,
-    "date": "2026-03-21",
-    "neighborhood": null
-  },
-  {
     "id": "802788-2026",
     "lat": 32.9089,
     "lng": -96.8035,
@@ -132,17 +165,6 @@
     "neighborhood": null
   },
   {
-    "id": "150100-2025",
-    "lat": 32.8925,
-    "lng": -96.771,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 6,
-    "date": "2025-10-18",
-    "neighborhood": null
-  },
-  {
     "id": "095558-2026",
     "lat": 32.8934,
     "lng": -96.7776,
@@ -151,17 +173,6 @@
     "premise": "condominium/townhome parking",
     "hour": 22,
     "date": "2026-06-30",
-    "neighborhood": null
-  },
-  {
-    "id": "172281-2025",
-    "lat": 32.8847,
-    "lng": -96.7707,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 18,
-    "date": "2025-12-01",
     "neighborhood": null
   },
   {
@@ -209,37 +220,26 @@
     "neighborhood": null
   },
   {
-    "id": "128256-2026",
-    "lat": 32.8823,
-    "lng": -96.7867,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-08-31",
+    "id": "801124-2026",
+    "lat": 32.8957,
+    "lng": -96.8061,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 15,
+    "date": "2026-01-13",
     "neighborhood": null
   },
   {
-    "id": "179289-2025",
-    "lat": 32.8815,
-    "lng": -96.771,
-    "offense": "found property (no offense)",
+    "id": "801239-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "crim mischief > or equal $2,500 < $30k",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2025-12-16",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-01-17",
     "neighborhood": null
-  },
-  {
-    "id": "171033-2025",
-    "lat": 32.9126,
-    "lng": -96.8111,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2025-11-28",
-    "neighborhood": "Melshire Estates"
   },
   {
     "id": "093101-2026",
@@ -305,6 +305,17 @@
     "premise": "parking (business)",
     "hour": 10,
     "date": "2026-07-17",
+    "neighborhood": null
+  },
+  {
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-12-03",
     "neighborhood": null
   }
 ]
