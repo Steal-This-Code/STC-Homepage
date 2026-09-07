@@ -1,5 +1,38 @@
 [
   {
+    "id": "087019-2026",
+    "lat": 32.9256,
+    "lng": -96.7686,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "812511-2026",
+    "lat": 32.9371,
+    "lng": -96.8202,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "812795-2026",
+    "lat": 32.9371,
+    "lng": -96.8202,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
     "id": "812769-2026",
     "lat": 32.9383,
     "lng": -96.816,
@@ -74,171 +107,6 @@
     "premise": "parking (business)",
     "hour": 16,
     "date": "2025-10-04",
-    "neighborhood": null
-  },
-  {
-    "id": "811988-2026",
-    "lat": 32.928,
-    "lng": -96.813,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 11,
-    "date": "2026-06-15",
-    "neighborhood": null
-  },
-  {
-    "id": "811999-2026",
-    "lat": 32.928,
-    "lng": -96.813,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2026-06-11",
-    "neighborhood": null
-  },
-  {
-    "id": "088464-2026",
-    "lat": 32.9244,
-    "lng": -96.7954,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-18",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "088464-2026",
-    "lat": 32.9244,
-    "lng": -96.7954,
-    "offense": "deadly conduct",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-18",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "812734-2026",
-    "lat": 32.934,
-    "lng": -96.8211,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 16,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "810214-2026",
-    "lat": 32.9244,
-    "lng": -96.7954,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-15",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "115269-2026",
-    "lat": 32.9334,
-    "lng": -96.8027,
-    "offense": "assault (agg) -serious bodily injury",
-    "group": "violent",
-    "premise": "apartment residence",
-    "hour": 20,
-    "date": "2026-08-05",
-    "neighborhood": null
-  },
-  {
-    "id": "035772-2026",
-    "lat": 32.932,
-    "lng": -96.7689,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-03-13",
-    "neighborhood": "Willow Falls"
-  },
-  {
-    "id": "011322-2026",
-    "lat": 32.9284,
-    "lng": -96.8178,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-01-21",
-    "neighborhood": null
-  },
-  {
-    "id": "087019-2026",
-    "lat": 32.9256,
-    "lng": -96.7686,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-06-15",
-    "neighborhood": null
-  },
-  {
-    "id": "130146-2026",
-    "lat": 32.928,
-    "lng": -96.813,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-09-04",
-    "neighborhood": null
-  },
-  {
-    "id": "021987-2026",
-    "lat": 32.9238,
-    "lng": -96.7918,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-02-15",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "100335-2026",
-    "lat": 32.9332,
-    "lng": -96.8101,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "convenience store",
-    "hour": 22,
-    "date": "2026-07-09",
-    "neighborhood": null
-  },
-  {
-    "id": "009108-2026",
-    "lat": 32.9327,
-    "lng": -96.7612,
-    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-01-19",
-    "neighborhood": null
-  },
-  {
-    "id": "005505-2026",
-    "lat": 32.937,
-    "lng": -96.7559,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-01-12",
     "neighborhood": null
   },
   {
@@ -583,6 +451,94 @@
     "neighborhood": null
   },
   {
+    "id": "071638-2026",
+    "lat": 32.9343,
+    "lng": -96.76,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2026-05-19",
+    "neighborhood": null
+  },
+  {
+    "id": "800586-2026",
+    "lat": 32.9291,
+    "lng": -96.8162,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "816701-2026",
+    "lat": 32.9296,
+    "lng": -96.8205,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-08-14",
+    "neighborhood": null
+  },
+  {
+    "id": "812626-2026",
+    "lat": 32.928,
+    "lng": -96.813,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "047935-2026",
+    "lat": 32.9275,
+    "lng": -96.7642,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 19,
+    "date": "2026-04-04",
+    "neighborhood": null
+  },
+  {
+    "id": "026474-2026",
+    "lat": 32.9347,
+    "lng": -96.757,
+    "offense": "crim mischief > or equal $300k",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 5,
+    "date": "2026-02-24",
+    "neighborhood": null
+  },
+  {
+    "id": "804126-2026",
+    "lat": 32.9302,
+    "lng": -96.8182,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 17,
+    "date": "2026-02-25",
+    "neighborhood": null
+  },
+  {
+    "id": "129414-2026",
+    "lat": 32.9325,
+    "lng": -96.8128,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 15,
+    "date": "2026-09-02",
+    "neighborhood": null
+  },
+  {
     "id": "801193-2026",
     "lat": 32.9329,
     "lng": -96.8166,
@@ -646,116 +602,6 @@
     "premise": "apartment residence",
     "hour": 22,
     "date": "2026-08-03",
-    "neighborhood": null
-  },
-  {
-    "id": "824076-2025",
-    "lat": 32.932,
-    "lng": -96.7684,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2025-11-15",
-    "neighborhood": "Willow Falls"
-  },
-  {
-    "id": "025083-2026",
-    "lat": 32.9391,
-    "lng": -96.7606,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2026-02-21",
-    "neighborhood": null
-  },
-  {
-    "id": "069379-2026",
-    "lat": 32.9315,
-    "lng": -96.8161,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "other",
-    "hour": 8,
-    "date": "2026-05-14",
-    "neighborhood": null
-  },
-  {
-    "id": "803035-2026",
-    "lat": 32.9307,
-    "lng": -96.7818,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-02-11",
-    "neighborhood": "Valley View"
-  },
-  {
-    "id": "071501-2026",
-    "lat": 32.9243,
-    "lng": -96.7875,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-05-19",
-    "neighborhood": "Preston Citadel"
-  },
-  {
-    "id": "810253-2026",
-    "lat": 32.9311,
-    "lng": -96.8171,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 18,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "812245-2026",
-    "lat": 32.9371,
-    "lng": -96.8202,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 20,
-    "date": "2026-06-17",
-    "neighborhood": null
-  },
-  {
-    "id": "012899-2026",
-    "lat": 32.9246,
-    "lng": -96.8072,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 14,
-    "date": "2026-01-27",
-    "neighborhood": null
-  },
-  {
-    "id": "001563-2026",
-    "lat": 32.9372,
-    "lng": -96.8156,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2025-12-26",
-    "neighborhood": null
-  },
-  {
-    "id": "825407-2025",
-    "lat": 32.9296,
-    "lng": -96.8205,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2025-11-28",
     "neighborhood": null
   }
 ]

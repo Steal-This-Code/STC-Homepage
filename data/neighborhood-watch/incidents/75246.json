@@ -1,5 +1,16 @@
 [
   {
+    "id": "104872-2026",
+    "lat": 32.7976,
+    "lng": -96.7725,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-07-18",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "816672-2026",
     "lat": 32.7923,
     "lng": -96.7714,
@@ -8,28 +19,6 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2026-08-17",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "064825-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-06",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "032978-2026",
-    "lat": 32.7949,
-    "lng": -96.7757,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-03-08",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -77,14 +66,25 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "122192-2026",
-    "lat": 32.7922,
-    "lng": -96.7749,
-    "offense": "fail to id -refuses to provide info",
+    "id": "015672-2026",
+    "lat": 32.794,
+    "lng": -96.7668,
+    "offense": "credit card or debit card abuse",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-08-20",
-    "neighborhood": "Baylor / Meadows"
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-02-02",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "816227-2026",
+    "lat": 32.797,
+    "lng": -96.7683,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-08-09",
+    "neighborhood": "Peak's Addition"
   }
 ]
