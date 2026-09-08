@@ -1,14 +1,102 @@
 [
   {
-    "id": "816709-2026",
-    "lat": 32.8117,
-    "lng": -96.7308,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "id": "813212-2026",
+    "lat": 32.8006,
+    "lng": -96.7685,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 7,
+    "date": "2026-06-30",
+    "neighborhood": null
+  },
+  {
+    "id": "800329-2026",
+    "lat": 32.8546,
+    "lng": -96.7463,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
+    "id": "813059-2026",
+    "lat": 32.8034,
+    "lng": -96.7654,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "010346-2026",
+    "lat": 32.8433,
+    "lng": -96.7421,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "business office",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-20",
+    "neighborhood": "Hillside"
+  },
+  {
+    "id": "815496-2026",
+    "lat": 32.8201,
+    "lng": -96.7611,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 5,
+    "date": "2026-08-02",
+    "neighborhood": "Lakewood Heights"
+  },
+  {
+    "id": "800810-2026",
+    "lat": 32.8484,
+    "lng": -96.7405,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 12,
-    "date": "2026-08-17",
-    "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
+    "date": "2025-12-22",
+    "neighborhood": "University Terrace"
+  },
+  {
+    "id": "062443-2026",
+    "lat": 32.8513,
+    "lng": -96.7295,
+    "offense": "indecent exposure",
+    "group": "other",
+    "premise": "park",
+    "hour": 12,
+    "date": "2026-05-02",
+    "neighborhood": "The Cloisters"
+  },
+  {
+    "id": "144731-2025",
+    "lat": 32.8359,
+    "lng": -96.7505,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2025-10-07",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "810237-2026",
+    "lat": 32.8366,
+    "lng": -96.7594,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-05-16",
+    "neighborhood": "Caruth Terrace"
   },
   {
     "id": "808361-2026",
@@ -176,6 +264,83 @@
     "neighborhood": "Ridgewood Park"
   },
   {
+    "id": "004314-2026",
+    "lat": 32.8169,
+    "lng": -96.7318,
+    "offense": "theft of firearm",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2025-12-13",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "158685-2025",
+    "lat": 32.8307,
+    "lng": -96.7316,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "park",
+    "hour": 9,
+    "date": "2025-11-04",
+    "neighborhood": null
+  },
+  {
+    "id": "129344-2026",
+    "lat": 32.801,
+    "lng": -96.763,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 11,
+    "date": "2026-09-02",
+    "neighborhood": "Munger Place"
+  },
+  {
+    "id": "003707-2026",
+    "lat": 32.8359,
+    "lng": -96.7505,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-01-08",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "005351-2026",
+    "lat": 32.8132,
+    "lng": -96.7342,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "entertainment/sports venue",
+    "hour": 13,
+    "date": "2026-01-11",
+    "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
+  },
+  {
+    "id": "811900-2026",
+    "lat": 32.8367,
+    "lng": -96.7515,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "specialty store (in a specific item)",
+    "hour": 14,
+    "date": "2026-06-03",
+    "neighborhood": "Hillside"
+  },
+  {
+    "id": "038274-2026",
+    "lat": 32.8501,
+    "lng": -96.7509,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-03-18",
+    "neighborhood": "Ridgewood Park"
+  },
+  {
     "id": "127451-2026",
     "lat": 32.8499,
     "lng": -96.7315,
@@ -185,17 +350,6 @@
     "hour": 21,
     "date": "2026-08-29",
     "neighborhood": "The Cloisters"
-  },
-  {
-    "id": "125019-2026",
-    "lat": 32.8244,
-    "lng": -96.7531,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "rest area",
-    "hour": 12,
-    "date": "2026-08-25",
-    "neighborhood": "Lakewood Heights"
   },
   {
     "id": "816975-2026",
@@ -220,28 +374,6 @@
     "neighborhood": null
   },
   {
-    "id": "122089-2026",
-    "lat": 32.8066,
-    "lng": -96.7549,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-08-19",
-    "neighborhood": "Junius Heights"
-  },
-  {
-    "id": "033111-2026",
-    "lat": 32.8547,
-    "lng": -96.7472,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2026-03-08",
-    "neighborhood": null
-  },
-  {
     "id": "813212-2026",
     "lat": 32.8006,
     "lng": -96.7685,
@@ -262,17 +394,6 @@
     "hour": 21,
     "date": "2026-07-08",
     "neighborhood": null
-  },
-  {
-    "id": "127743-2026",
-    "lat": 32.8149,
-    "lng": -96.7311,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 10,
-    "date": "2026-08-30",
-    "neighborhood": "Lakewood"
   },
   {
     "id": "817758-2026",
@@ -341,17 +462,6 @@
     "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
   },
   {
-    "id": "124203-2026",
-    "lat": 32.801,
-    "lng": -96.7676,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-08-23",
-    "neighborhood": null
-  },
-  {
     "id": "158532-2025",
     "lat": 32.8094,
     "lng": -96.7301,
@@ -407,102 +517,25 @@
     "neighborhood": "Lakewood"
   },
   {
-    "id": "049433-2026",
-    "lat": 32.7981,
-    "lng": -96.7648,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-03-28",
-    "neighborhood": "Munger Place"
-  },
-  {
-    "id": "092239-2026",
-    "lat": 32.8117,
-    "lng": -96.7323,
-    "offense": "attack by dog causes sbi",
+    "id": "090523-2026",
+    "lat": 32.8129,
+    "lng": -96.754,
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-06-24",
-    "neighborhood": "Lakewood Hills or Gastonwood / Coronado Hills"
-  },
-  {
-    "id": "067549-2026",
-    "lat": 32.8008,
-    "lng": -96.7566,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "other",
-    "hour": 0,
-    "date": "2026-05-11",
+    "premise": "bank/savings and loan",
+    "hour": 9,
+    "date": "2026-06-22",
     "neighborhood": null
   },
   {
-    "id": "055767-2026",
-    "lat": 32.8039,
-    "lng": -96.7495,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "condominium/townhome residence",
-    "hour": 15,
-    "date": "2026-04-19",
-    "neighborhood": null
-  },
-  {
-    "id": "119728-2026",
-    "lat": 32.8174,
-    "lng": -96.7535,
-    "offense": "poss cont sub not in pen grp",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-08-15",
-    "neighborhood": "Lakewood Heights"
-  },
-  {
-    "id": "002610-2026",
-    "lat": 32.8439,
-    "lng": -96.7414,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-05",
-    "neighborhood": "Hillside"
-  },
-  {
-    "id": "800803-2026",
-    "lat": 32.8553,
-    "lng": -96.7567,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 20,
-    "date": "2025-11-30",
-    "neighborhood": null
-  },
-  {
-    "id": "142227-2025",
-    "lat": 32.811,
-    "lng": -96.7495,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2025-10-02",
-    "neighborhood": "Abrams-Brookside"
-  },
-  {
-    "id": "001867-2026",
-    "lat": 32.822,
-    "lng": -96.7569,
+    "id": "085953-2026",
+    "lat": 32.8156,
+    "lng": -96.7356,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-01-03",
-    "neighborhood": "Lakewood Heights"
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-13",
+    "neighborhood": "Lakewood"
   }
 ]

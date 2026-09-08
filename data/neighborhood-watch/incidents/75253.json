@@ -1,5 +1,27 @@
 [
   {
+    "id": "113462-2026",
+    "lat": 32.6766,
+    "lng": -96.592,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 6,
+    "date": "2026-08-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "801067-2026",
+    "lat": 32.6832,
+    "lng": -96.5628,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 3,
+    "date": "2026-01-14",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "084197-2026",
     "lat": 32.6693,
     "lng": -96.6107,
@@ -41,6 +63,28 @@
     "premise": "condominium/townhome parking",
     "hour": 16,
     "date": "2026-01-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "099630-2026",
+    "lat": 32.6697,
+    "lng": -96.6257,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-08",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "119164-2026",
+    "lat": 32.6921,
+    "lng": -96.5916,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-08-14",
     "neighborhood": "Kleberg"
   },
   {

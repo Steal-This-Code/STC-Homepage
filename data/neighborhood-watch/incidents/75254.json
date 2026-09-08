@@ -1,5 +1,49 @@
 [
   {
+    "id": "817956-2026",
+    "lat": 32.9498,
+    "lng": -96.776,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "condominium/townhome residence",
+    "hour": 17,
+    "date": "2026-08-31",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "816724-2026",
+    "lat": 32.9412,
+    "lng": -96.7887,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "auto dealership new/used",
+    "hour": 15,
+    "date": "2026-06-19",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "000704-2026",
+    "lat": 32.9492,
+    "lng": -96.823,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-01-02",
+    "neighborhood": null
+  },
+  {
+    "id": "090375-2026",
+    "lat": 32.9366,
+    "lng": -96.8106,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 3,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
     "id": "077311-2026",
     "lat": 32.9487,
     "lng": -96.7764,
@@ -41,6 +85,72 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2025-12-03",
+    "neighborhood": null
+  },
+  {
+    "id": "077311-2026",
+    "lat": 32.9487,
+    "lng": -96.7764,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 20,
+    "date": "2026-05-29",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "085334-2026",
+    "lat": 32.9455,
+    "lng": -96.817,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-06-12",
+    "neighborhood": null
+  },
+  {
+    "id": "086694-2026",
+    "lat": 32.9409,
+    "lng": -96.8189,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "086694-2026",
+    "lat": 32.9409,
+    "lng": -96.8189,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "129513-2026",
+    "lat": 32.94,
+    "lng": -96.8088,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-08-31",
+    "neighborhood": null
+  },
+  {
+    "id": "104195-2026",
+    "lat": 32.9372,
+    "lng": -96.8074,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2026-07-17",
     "neighborhood": null
   },
   {
@@ -198,36 +308,14 @@
     "neighborhood": null
   },
   {
-    "id": "005740-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "id": "096428-2026",
+    "lat": 32.9444,
+    "lng": -96.8086,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "004255-2026",
-    "lat": 32.9398,
-    "lng": -96.8089,
-    "offense": "criminal trespass warning",
-    "group": "other",
     "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
-    "id": "003845-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 22,
-    "date": "2026-01-08",
+    "hour": 2,
+    "date": "2026-07-03",
     "neighborhood": null
   }
 ]

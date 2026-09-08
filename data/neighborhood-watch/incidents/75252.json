@@ -44,6 +44,116 @@
     "neighborhood": null
   },
   {
+    "id": "090816-2026",
+    "lat": 33.0067,
+    "lng": -96.7962,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-06-20",
+    "neighborhood": null
+  },
+  {
+    "id": "046997-2026",
+    "lat": 32.9864,
+    "lng": -96.7595,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-04-02",
+    "neighborhood": null
+  },
+  {
+    "id": "817868-2026",
+    "lat": 33.0104,
+    "lng": -96.7925,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-07-05",
+    "neighborhood": null
+  },
+  {
+    "id": "817746-2026",
+    "lat": 33.0029,
+    "lng": -96.7965,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2026-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "061658-2026",
+    "lat": 32.9883,
+    "lng": -96.7701,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-04-30",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "005226-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 15,
+    "date": "2026-01-11",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "812719-2026",
+    "lat": 32.9977,
+    "lng": -96.7949,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "government/public building",
+    "hour": 0,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "092167-2026",
+    "lat": 32.9897,
+    "lng": -96.7722,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-06-25",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "817746-2026",
+    "lat": 33.0029,
+    "lng": -96.7965,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2026-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "817868-2026",
+    "lat": 33.0104,
+    "lng": -96.7925,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-07-05",
+    "neighborhood": null
+  },
+  {
     "id": "002345-2026",
     "lat": 32.9863,
     "lng": -96.774,
@@ -99,36 +209,14 @@
     "neighborhood": null
   },
   {
-    "id": "808422-2026",
-    "lat": 33.0057,
-    "lng": -96.7891,
-    "offense": "harassment-repeated electronic comm - non-threatening",
+    "id": "069764-2026",
+    "lat": 33.0073,
+    "lng": -96.7954,
+    "offense": "dwi",
     "group": "other",
-    "premise": "cyberspace",
-    "hour": 20,
-    "date": "2026-04-20",
-    "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "005448-2026",
-    "lat": 32.9873,
-    "lng": -96.7927,
-    "offense": "burglary - preliminary investigation",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-01-11",
-    "neighborhood": null
-  },
-  {
-    "id": "810154-2026",
-    "lat": 32.9843,
-    "lng": -96.757,
-    "offense": "theft of prop > or equal $750 <$2,500 (employee) pc 31.03(e3)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 7,
-    "date": "2025-11-26",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-15",
     "neighborhood": null
   },
   {

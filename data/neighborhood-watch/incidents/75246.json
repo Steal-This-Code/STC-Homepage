@@ -1,5 +1,16 @@
 [
   {
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
     "id": "104872-2026",
     "lat": 32.7976,
     "lng": -96.7725,
@@ -19,6 +30,17 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2026-08-17",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "032978-2026",
+    "lat": 32.7949,
+    "lng": -96.7757,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 4,
+    "date": "2026-03-08",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -66,14 +88,36 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "015672-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "credit card or debit card abuse",
+    "id": "082499-2026",
+    "lat": 32.7879,
+    "lng": -96.7799,
+    "offense": "poss cont sub pen grp 1/1-b <1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-06-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "076366-2026",
+    "lat": 32.7928,
+    "lng": -96.7723,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-05-28",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "109386-2026",
+    "lat": 32.7941,
+    "lng": -96.7682,
+    "offense": "diversion public intox",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-02",
+    "hour": 22,
+    "date": "2026-07-26",
     "neighborhood": "Peak's Addition"
   },
   {
