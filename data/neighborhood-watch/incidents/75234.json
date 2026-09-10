@@ -1,46 +1,24 @@
 [
   {
-    "id": "815995-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 11,
-    "date": "2026-08-08",
-    "neighborhood": null
-  },
-  {
-    "id": "130056-2026",
-    "lat": 32.9159,
-    "lng": -96.8608,
-    "offense": "collision inv serious bodily injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-03",
-    "neighborhood": null
-  },
-  {
-    "id": "801112-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
+    "id": "094972-2026",
+    "lat": 32.9096,
+    "lng": -96.8936,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-01-13",
+    "premise": "other",
+    "hour": 13,
+    "date": "2026-06-30",
     "neighborhood": null
   },
   {
-    "id": "004517-2026",
-    "lat": 32.9101,
-    "lng": -96.8608,
-    "offense": "open building (no offense)",
+    "id": "824874-2025",
+    "lat": 32.9136,
+    "lng": -96.8733,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "other",
-    "hour": 23,
-    "date": "2026-01-09",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-11-30",
     "neighborhood": null
   },
   {
@@ -85,17 +63,6 @@
     "premise": "rental storage facility",
     "hour": 10,
     "date": "2026-05-03",
-    "neighborhood": null
-  },
-  {
-    "id": "129900-2026",
-    "lat": 32.9125,
-    "lng": -96.8928,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "financial institution",
-    "hour": 15,
-    "date": "2026-09-03",
     "neighborhood": null
   }
 ]
