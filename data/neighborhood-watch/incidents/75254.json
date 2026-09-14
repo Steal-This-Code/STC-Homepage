@@ -1,148 +1,5 @@
 [
   {
-    "id": "077311-2026",
-    "lat": 32.9487,
-    "lng": -96.7764,
-    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 20,
-    "date": "2026-05-29",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "811640-2026",
-    "lat": 32.9486,
-    "lng": -96.7698,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2026-06-04",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "077311-2026",
-    "lat": 32.9487,
-    "lng": -96.7764,
-    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 20,
-    "date": "2026-05-29",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "173296-2025",
-    "lat": 32.9512,
-    "lng": -96.8035,
-    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-03",
-    "neighborhood": null
-  },
-  {
-    "id": "077311-2026",
-    "lat": 32.9487,
-    "lng": -96.7764,
-    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 20,
-    "date": "2026-05-29",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "048738-2026",
-    "lat": 32.9498,
-    "lng": -96.8035,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-03-30",
-    "neighborhood": null
-  },
-  {
-    "id": "068885-2026",
-    "lat": 32.9394,
-    "lng": -96.8162,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-05-13",
-    "neighborhood": null
-  },
-  {
-    "id": "004449-2026",
-    "lat": 32.9379,
-    "lng": -96.812,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "079324-2026",
-    "lat": 32.9425,
-    "lng": -96.8163,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-05-27",
-    "neighborhood": null
-  },
-  {
-    "id": "802462-2026",
-    "lat": 32.94,
-    "lng": -96.8186,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "081035-2026",
-    "lat": 32.9481,
-    "lng": -96.8208,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "bank/savings and loan",
-    "hour": 8,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "085334-2026",
-    "lat": 32.9455,
-    "lng": -96.817,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "007702-2026",
-    "lat": 32.9407,
-    "lng": -96.8143,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
     "id": "005740-2026",
     "lat": 32.944,
     "lng": -96.8163,
@@ -206,17 +63,6 @@
     "premise": "apartment complex/building",
     "hour": 2,
     "date": "2026-07-03",
-    "neighborhood": null
-  },
-  {
-    "id": "064900-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "fraud use/poss identifying info # items 5<10",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 8,
-    "date": "2026-05-07",
     "neighborhood": null
   },
   {
@@ -295,5 +141,16 @@
     "hour": 23,
     "date": "2025-09-17",
     "neighborhood": null
+  },
+  {
+    "id": "005738-2026",
+    "lat": 32.9499,
+    "lng": -96.7704,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2026-01-07",
+    "neighborhood": "Northwood Hills"
   }
 ]

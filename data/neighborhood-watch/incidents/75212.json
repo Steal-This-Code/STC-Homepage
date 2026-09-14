@@ -1,49 +1,5 @@
 [
   {
-    "id": "090726-2026",
-    "lat": 32.7807,
-    "lng": -96.8798,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 1,
-    "date": "2026-06-22",
-    "neighborhood": "Westmoreland Heights"
-  },
-  {
-    "id": "090345-2026",
-    "lat": 32.7786,
-    "lng": -96.8338,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2026-06-21",
-    "neighborhood": "La L'aceate"
-  },
-  {
-    "id": "146983-2025",
-    "lat": 32.7814,
-    "lng": -96.828,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-10-11",
-    "neighborhood": "La Bajada"
-  },
-  {
-    "id": "801105-2026",
-    "lat": 32.7831,
-    "lng": -96.8914,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 20,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
     "id": "806856-2026",
     "lat": 32.769,
     "lng": -96.8951,
@@ -53,61 +9,6 @@
     "hour": 19,
     "date": "2026-03-31",
     "neighborhood": null
-  },
-  {
-    "id": "080892-2026",
-    "lat": 32.7775,
-    "lng": -96.8418,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-04",
-    "neighborhood": "Muncie"
-  },
-  {
-    "id": "068348-2026",
-    "lat": 32.7794,
-    "lng": -96.9118,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-05-11",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "131192-2026",
-    "lat": 32.7797,
-    "lng": -96.9054,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-05",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "076872-2026",
-    "lat": 32.7705,
-    "lng": -96.9139,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-25",
-    "neighborhood": "Ledbetter"
-  },
-  {
-    "id": "095461-2026",
-    "lat": 32.7775,
-    "lng": -96.8421,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-07-01",
-    "neighborhood": "Muncie"
   },
   {
     "id": "167091-2025",
@@ -141,17 +42,6 @@
     "hour": 14,
     "date": "2025-10-14",
     "neighborhood": null
-  },
-  {
-    "id": "131192-2026",
-    "lat": 32.7797,
-    "lng": -96.9054,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-05",
-    "neighborhood": "Ledbetter"
   },
   {
     "id": "085441-2026",
@@ -242,28 +132,6 @@
     "neighborhood": "La Bajada"
   },
   {
-    "id": "127524-2026",
-    "lat": 32.782,
-    "lng": -96.8346,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-08-30",
-    "neighborhood": "La Bajada"
-  },
-  {
-    "id": "130109-2026",
-    "lat": 32.7787,
-    "lng": -96.8357,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-09-04",
-    "neighborhood": "La Bajada"
-  },
-  {
     "id": "031544-2026",
     "lat": 32.7942,
     "lng": -96.8945,
@@ -297,17 +165,6 @@
     "neighborhood": "Lake West"
   },
   {
-    "id": "123820-2026",
-    "lat": 32.7821,
-    "lng": -96.8349,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-08-23",
-    "neighborhood": "La Bajada"
-  },
-  {
     "id": "078455-2026",
     "lat": 32.7846,
     "lng": -96.8329,
@@ -316,17 +173,6 @@
     "premise": "commercial property occupied/vacant",
     "hour": 3,
     "date": "2026-05-31",
-    "neighborhood": "La Bajada"
-  },
-  {
-    "id": "124512-2026",
-    "lat": 32.7816,
-    "lng": -96.833,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-08-24",
     "neighborhood": "La Bajada"
   },
   {
@@ -339,17 +185,6 @@
     "hour": 0,
     "date": "2026-05-25",
     "neighborhood": "La Bajada"
-  },
-  {
-    "id": "128527-2026",
-    "lat": 32.7925,
-    "lng": -96.8743,
-    "offense": "poss cont sub pen grp 3 < 28g",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 20,
-    "date": "2026-08-31",
-    "neighborhood": "Ledbetter Gardens"
   },
   {
     "id": "081651-2026",
@@ -493,5 +328,16 @@
     "hour": 8,
     "date": "2026-06-15",
     "neighborhood": null
+  },
+  {
+    "id": "018822-2026",
+    "lat": 32.7801,
+    "lng": -96.8434,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-02-08",
+    "neighborhood": "Los Altos"
   }
 ]

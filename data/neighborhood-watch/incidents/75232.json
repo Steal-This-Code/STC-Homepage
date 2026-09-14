@@ -1,115 +1,5 @@
 [
   {
-    "id": "004767-2026",
-    "lat": 32.6713,
-    "lng": -96.8557,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2026-01-10",
-    "neighborhood": "Elderwood"
-  },
-  {
-    "id": "120183-2026",
-    "lat": 32.6482,
-    "lng": -96.8359,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-08-14",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "071202-2026",
-    "lat": 32.6367,
-    "lng": -96.8371,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-05-18",
-    "neighborhood": null
-  },
-  {
-    "id": "069734-2026",
-    "lat": 32.666,
-    "lng": -96.8574,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (park)",
-    "hour": 19,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "064355-2026",
-    "lat": 32.6483,
-    "lng": -96.8325,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-05-06",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "822349-2025",
-    "lat": 32.6538,
-    "lng": -96.836,
-    "offense": "theft by deception (fraud) <$100",
-    "group": "property",
-    "premise": "financial institution",
-    "hour": 21,
-    "date": "2025-10-30",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "043679-2026",
-    "lat": 32.6673,
-    "lng": -96.8279,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-03-28",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "034084-2026",
-    "lat": 32.6623,
-    "lng": -96.826,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-03-10",
-    "neighborhood": null
-  },
-  {
-    "id": "093060-2026",
-    "lat": 32.6652,
-    "lng": -96.8392,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-26",
-    "neighborhood": "Woodland Canyon"
-  },
-  {
-    "id": "817967-2026",
-    "lat": 32.6874,
-    "lng": -96.8535,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "other",
-    "hour": 11,
-    "date": "2026-09-04",
-    "neighborhood": "Club Oaks"
-  },
-  {
     "id": "162361-2025",
     "lat": 32.6753,
     "lng": -96.8233,
@@ -371,6 +261,17 @@
     "premise": "shopping mall",
     "hour": 11,
     "date": "2025-11-28",
+    "neighborhood": null
+  },
+  {
+    "id": "081781-2026",
+    "lat": 32.6415,
+    "lng": -96.8281,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-06-05",
     "neighborhood": null
   }
 ]
