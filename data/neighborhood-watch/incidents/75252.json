@@ -1,5 +1,27 @@
 [
   {
+    "id": "080946-2026",
+    "lat": 33.001,
+    "lng": -96.8022,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "005175-2026",
+    "lat": 32.9871,
+    "lng": -96.7718,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
     "id": "808422-2026",
     "lat": 33.0057,
     "lng": -96.7891,
@@ -11,59 +33,26 @@
     "neighborhood": "Preston Highlands"
   },
   {
-    "id": "005448-2026",
-    "lat": 32.9873,
-    "lng": -96.7927,
-    "offense": "burglary - preliminary investigation",
+    "id": "073260-2026",
+    "lat": 33.0089,
+    "lng": -96.7971,
+    "offense": "burglary of building - forced entry",
     "group": "property",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-01-11",
+    "premise": "storage facility",
+    "hour": 23,
+    "date": "2026-03-31",
     "neighborhood": null
   },
   {
-    "id": "810154-2026",
-    "lat": 32.9843,
-    "lng": -96.757,
-    "offense": "theft of prop > or equal $750 <$2,500 (employee) pc 31.03(e3)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 7,
-    "date": "2025-11-26",
-    "neighborhood": null
-  },
-  {
-    "id": "815867-2026",
-    "lat": 33.0105,
-    "lng": -96.7977,
-    "offense": "harassment - non-threatening",
+    "id": "011934-2026",
+    "lat": 32.9984,
+    "lng": -96.7879,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "cyberspace",
-    "hour": 16,
-    "date": "2026-08-08",
-    "neighborhood": null
-  },
-  {
-    "id": "810994-2026",
-    "lat": 32.9977,
-    "lng": -96.7949,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "government/public building",
-    "hour": 10,
-    "date": "2026-05-28",
-    "neighborhood": null
-  },
-  {
-    "id": "821094-2025",
-    "lat": 32.9957,
-    "lng": -96.7939,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 7,
-    "date": "2025-10-05",
-    "neighborhood": null
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-25",
+    "neighborhood": "Preston Highlands"
   },
   {
     "id": "006627-2026",
@@ -162,6 +151,17 @@
     "premise": "single family residence - occupied",
     "hour": 0,
     "date": "2026-01-12",
+    "neighborhood": null
+  },
+  {
+    "id": "162138-2025",
+    "lat": 33.0048,
+    "lng": -96.7829,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 0,
+    "date": "2025-11-11",
     "neighborhood": null
   }
 ]

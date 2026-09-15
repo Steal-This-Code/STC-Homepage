@@ -1,13 +1,68 @@
 [
   {
-    "id": "071214-2026",
-    "lat": 32.6828,
-    "lng": -96.6172,
-    "offense": "criminal trespass warning",
+    "id": "087256-2026",
+    "lat": 32.6888,
+    "lng": -96.587,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-06-16",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "092203-2026",
+    "lat": 32.6788,
+    "lng": -96.5979,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "field/woods",
+    "premise": "single family residence - vacant",
     "hour": 13,
-    "date": "2026-05-18",
+    "date": "2026-06-25",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "003625-2026",
+    "lat": 32.6709,
+    "lng": -96.5987,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-01-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "130171-2026",
+    "lat": 32.6882,
+    "lng": -96.573,
+    "offense": "attack by dog causes bodily injury",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-09-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "119213-2026",
+    "lat": 32.6913,
+    "lng": -96.5765,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-08-14",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "098375-2026",
+    "lat": 32.6956,
+    "lng": -96.5741,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 16,
+    "date": "2026-07-03",
     "neighborhood": "Kleberg"
   },
   {

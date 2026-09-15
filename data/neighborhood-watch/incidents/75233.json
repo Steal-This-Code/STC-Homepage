@@ -11,25 +11,80 @@
     "neighborhood": null
   },
   {
+    "id": "007393-2026",
+    "lat": 32.6912,
+    "lng": -96.8814,
+    "offense": "theft from building <$100 (not shoplift)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 18,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "093211-2026",
+    "lat": 32.709,
+    "lng": -96.8737,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-06-27",
+    "neighborhood": "Encino Hills"
+  },
+  {
     "id": "004031-2026",
     "lat": 32.7146,
     "lng": -96.862,
-    "offense": "bmv",
-    "group": "other",
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
     "premise": "apartment parking lot",
     "hour": 19,
     "date": "2026-01-08",
     "neighborhood": null
   },
   {
-    "id": "004951-2026",
-    "lat": 32.7204,
-    "lng": -96.8608,
-    "offense": "poss marijuana <2oz",
+    "id": "146468-2025",
+    "lat": 32.7083,
+    "lng": -96.8707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2025-10-09",
+    "neighborhood": null
+  },
+  {
+    "id": "071580-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "lost property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-10",
+    "hour": 15,
+    "date": "2026-05-18",
+    "neighborhood": null
+  },
+  {
+    "id": "045376-2026",
+    "lat": 32.7136,
+    "lng": -96.8689,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-31",
+    "neighborhood": null
+  },
+  {
+    "id": "079569-2026",
+    "lat": 32.6956,
+    "lng": -96.879,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-02",
     "neighborhood": null
   },
   {
