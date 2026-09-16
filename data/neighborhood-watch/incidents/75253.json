@@ -33,61 +33,6 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "130171-2026",
-    "lat": 32.6882,
-    "lng": -96.573,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-09-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "119213-2026",
-    "lat": 32.6913,
-    "lng": -96.5765,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-08-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "098375-2026",
-    "lat": 32.6956,
-    "lng": -96.5741,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 16,
-    "date": "2026-07-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "010387-2026",
-    "lat": 32.6985,
-    "lng": -96.5753,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-21",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "089903-2026",
-    "lat": 32.6982,
-    "lng": -96.5831,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 7,
-    "date": "2026-06-21",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "009928-2026",
     "lat": 32.6956,
     "lng": -96.5741,

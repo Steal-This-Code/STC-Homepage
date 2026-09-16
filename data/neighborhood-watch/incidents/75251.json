@@ -22,39 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "028813-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-02-28",
-    "neighborhood": null
-  },
-  {
-    "id": "036934-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-03-14",
-    "neighborhood": null
-  },
-  {
-    "id": "813644-2026",
-    "lat": 32.9141,
-    "lng": -96.7699,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-07-01",
-    "neighborhood": null
-  },
-  {
     "id": "129609-2026",
     "lat": 32.9223,
     "lng": -96.7716,

@@ -77,70 +77,26 @@
     "neighborhood": null
   },
   {
-    "id": "825463-2025",
-    "lat": 32.6464,
-    "lng": -96.8496,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 11,
-    "date": "2025-12-07",
-    "neighborhood": null
-  },
-  {
-    "id": "080861-2026",
-    "lat": 32.681,
-    "lng": -96.8539,
-    "offense": "motor vehicle theft",
+    "id": "092514-2026",
+    "lat": 32.6586,
+    "lng": -96.8319,
+    "offense": "burglary of habitation - forced entry",
     "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2026-06-04",
-    "neighborhood": null
+    "premise": "single family residence - vacant",
+    "hour": 8,
+    "date": "2026-06-26",
+    "neighborhood": "Polk Terrace"
   },
   {
-    "id": "069643-2026",
-    "lat": 32.6627,
-    "lng": -96.8412,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "074356-2026",
-    "lat": 32.6627,
-    "lng": -96.8236,
-    "offense": "robbery of business",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 12,
-    "date": "2026-05-24",
-    "neighborhood": null
-  },
-  {
-    "id": "822524-2025",
-    "lat": 32.6402,
-    "lng": -96.8401,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-10-30",
-    "neighborhood": null
-  },
-  {
-    "id": "072345-2026",
-    "lat": 32.6789,
-    "lng": -96.8565,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "id": "814687-2026",
+    "lat": 32.6498,
+    "lng": -96.8427,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "other",
     "hour": 17,
-    "date": "2026-05-20",
-    "neighborhood": null
+    "date": "2026-07-19",
+    "neighborhood": "Wheatland Hills"
   },
   {
     "id": "007933-2026",
@@ -229,5 +185,16 @@
     "hour": 23,
     "date": "2026-01-06",
     "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "004786-2026",
+    "lat": 32.6477,
+    "lng": -96.8287,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-01-10",
+    "neighborhood": null
   }
 ]

@@ -209,138 +209,6 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "169259-2025",
-    "lat": 32.79,
-    "lng": -96.7684,
-    "offense": "dwi 1 prev conv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-24",
-    "neighborhood": null
-  },
-  {
-    "id": "084260-2026",
-    "lat": 32.7928,
-    "lng": -96.7634,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-06-10",
-    "neighborhood": null
-  },
-  {
-    "id": "185084-2025",
-    "lat": 32.785,
-    "lng": -96.7821,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 22,
-    "date": "2025-12-27",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "070373-2026",
-    "lat": 32.7835,
-    "lng": -96.7864,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-05-16",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "009947-2026",
-    "lat": 32.7844,
-    "lng": -96.7881,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-16",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "821060-2025",
-    "lat": 32.7833,
-    "lng": -96.7712,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 16,
-    "date": "2025-10-11",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "054968-2026",
-    "lat": 32.7845,
-    "lng": -96.7834,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-04-18",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "022825-2026",
-    "lat": 32.7882,
-    "lng": -96.7697,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 18,
-    "date": "2026-02-16",
-    "neighborhood": null
-  },
-  {
-    "id": "073755-2026",
-    "lat": 32.7816,
-    "lng": -96.7794,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-05-23",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "179256-2025",
-    "lat": 32.7932,
-    "lng": -96.7665,
-    "offense": "robbery of individual",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2025-12-15",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "173067-2025",
-    "lat": 32.783,
-    "lng": -96.7857,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 1,
-    "date": "2025-12-03",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "066889-2026",
-    "lat": 32.7837,
-    "lng": -96.7841,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-05-10",
-    "neighborhood": "Deep Ellum"
-  },
-  {
     "id": "043451-2026",
     "lat": 32.7838,
     "lng": -96.7659,
@@ -470,6 +338,17 @@
     "premise": "parking (business)",
     "hour": 1,
     "date": "2026-03-28",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "826801-2025",
+    "lat": 32.7838,
+    "lng": -96.7856,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 17,
+    "date": "2025-12-23",
     "neighborhood": "Deep Ellum"
   }
 ]

@@ -88,80 +88,14 @@
     "neighborhood": null
   },
   {
-    "id": "160530-2025",
+    "id": "128002-2026",
     "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "shopping mall",
-    "hour": 18,
-    "date": "2025-11-07",
-    "neighborhood": null
-  },
-  {
-    "id": "815695-2026",
-    "lat": 32.8678,
-    "lng": -96.788,
-    "offense": "bmv",
+    "lng": -96.7951,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-08-03",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "812185-2026",
-    "lat": 32.863,
-    "lng": -96.8082,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "financial institution",
-    "hour": 18,
-    "date": "2026-05-30",
-    "neighborhood": null
-  },
-  {
-    "id": "057927-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-04-23",
-    "neighborhood": null
-  },
-  {
-    "id": "011786-2026",
-    "lat": 32.8665,
-    "lng": -96.7914,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-01-24",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "128441-2026",
-    "lat": 32.8714,
-    "lng": -96.7707,
-    "offense": "collision inv injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-08-31",
-    "neighborhood": null
-  },
-  {
-    "id": "013881-2026",
-    "lat": 32.8786,
-    "lng": -96.8089,
-    "offense": "false alarm or report emergency",
-    "group": "other",
-    "premise": "religious institution",
-    "hour": 15,
-    "date": "2026-01-30",
+    "premise": "drug store/doctors office/hospital",
+    "hour": 21,
+    "date": "2026-08-30",
     "neighborhood": "Preston Hollow"
   },
   {

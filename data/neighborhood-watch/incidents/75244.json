@@ -11,28 +11,6 @@
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "002524-2026",
-    "lat": 32.924,
-    "lng": -96.8366,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "101432-2026",
-    "lat": 32.9256,
-    "lng": -96.8306,
-    "offense": "collision inv injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-07-12",
-    "neighborhood": null
-  },
-  {
     "id": "157343-2025",
     "lat": 32.9225,
     "lng": -96.8362,

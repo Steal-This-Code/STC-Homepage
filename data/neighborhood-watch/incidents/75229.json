@@ -209,17 +209,6 @@
     "neighborhood": null
   },
   {
-    "id": "125801-2026",
-    "lat": 32.8812,
-    "lng": -96.8868,
-    "offense": "fraud use/poss identifying info # items 5<10",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-08-26",
-    "neighborhood": null
-  },
-  {
     "id": "002158-2026",
     "lat": 32.9074,
     "lng": -96.8854,
@@ -228,17 +217,6 @@
     "premise": "parking (business)",
     "hour": 17,
     "date": "2025-12-30",
-    "neighborhood": null
-  },
-  {
-    "id": "130515-2026",
-    "lat": 32.8888,
-    "lng": -96.8851,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 7,
-    "date": "2026-09-04",
     "neighborhood": null
   },
   {
@@ -286,157 +264,36 @@
     "neighborhood": null
   },
   {
-    "id": "168217-2025",
-    "lat": 32.9095,
-    "lng": -96.8853,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-22",
-    "neighborhood": null
-  },
-  {
-    "id": "047130-2026",
-    "lat": 32.9088,
-    "lng": -96.8716,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "personal services",
-    "hour": 5,
-    "date": "2026-04-03",
-    "neighborhood": null
-  },
-  {
-    "id": "803114-2026",
-    "lat": 32.9089,
-    "lng": -96.858,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "department/discount store",
+    "id": "098771-2026",
+    "lat": 32.9015,
+    "lng": -96.8421,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "other",
     "hour": 13,
-    "date": "2026-02-12",
-    "neighborhood": "Park Forest"
+    "date": "2026-07-01",
+    "neighborhood": "Northaven Park"
   },
   {
-    "id": "812141-2026",
-    "lat": 32.8809,
-    "lng": -96.8569,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2026-06-03",
-    "neighborhood": "Joe's Creek-Walnut Garden"
-  },
-  {
-    "id": "085509-2026",
-    "lat": 32.8811,
-    "lng": -96.9052,
-    "offense": "bmv",
+    "id": "102056-2026",
+    "lat": 32.8954,
+    "lng": -96.8932,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "parking lot (park)",
-    "hour": 9,
-    "date": "2026-06-13",
-    "neighborhood": null
-  },
-  {
-    "id": "081181-2026",
-    "lat": 32.8955,
-    "lng": -96.8838,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
     "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-06-05",
+    "hour": 11,
+    "date": "2026-07-13",
     "neighborhood": null
   },
   {
-    "id": "807038-2026",
-    "lat": 32.9089,
-    "lng": -96.858,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 17,
-    "date": "2026-04-02",
-    "neighborhood": "Park Forest"
-  },
-  {
-    "id": "019447-2026",
-    "lat": 32.8998,
-    "lng": -96.8328,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-02-10",
-    "neighborhood": "Royal Northaven"
-  },
-  {
-    "id": "813645-2026",
-    "lat": 32.9014,
-    "lng": -96.8597,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-07-08",
-    "neighborhood": "Royal Hills"
-  },
-  {
-    "id": "800905-2026",
-    "lat": 32.9074,
-    "lng": -96.8854,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 12,
-    "date": "2025-12-28",
-    "neighborhood": null
-  },
-  {
-    "id": "068445-2026",
-    "lat": 32.8819,
-    "lng": -96.8967,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-05-12",
-    "neighborhood": null
-  },
-  {
-    "id": "091645-2026",
-    "lat": 32.881,
-    "lng": -96.8902,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-24",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "800352-2026",
-    "lat": 32.8884,
-    "lng": -96.8875,
-    "offense": "bmv",
+    "id": "820686-2025",
+    "lat": 32.8939,
+    "lng": -96.8968,
+    "offense": "accident inv damage to vehicle <$200",
     "group": "other",
     "premise": "parking (business)",
     "hour": 1,
-    "date": "2025-11-15",
-    "neighborhood": null
-  },
-  {
-    "id": "811935-2026",
-    "lat": 32.8918,
-    "lng": -96.9043,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 2,
-    "date": "2026-05-29",
+    "date": "2025-10-04",
     "neighborhood": null
   },
   {

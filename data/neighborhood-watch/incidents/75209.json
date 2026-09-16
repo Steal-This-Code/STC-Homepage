@@ -132,81 +132,15 @@
     "neighborhood": "Bluffview"
   },
   {
-    "id": "024113-2026",
-    "lat": 32.8448,
-    "lng": -96.8352,
-    "offense": "poss marijuana >5lbs< or equal 50lbs",
-    "group": "other",
-    "premise": "airport - love field",
-    "hour": 19,
-    "date": "2026-02-19",
-    "neighborhood": null
-  },
-  {
-    "id": "175341-2025",
-    "lat": 32.8501,
-    "lng": -96.8213,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "entertainment/sports venue",
-    "hour": 0,
-    "date": "2025-12-05",
-    "neighborhood": null
-  },
-  {
-    "id": "078468-2026",
-    "lat": 32.8358,
-    "lng": -96.8263,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 1,
-    "date": "2026-05-31",
-    "neighborhood": "Highland Place / Bordeaux Village"
-  },
-  {
-    "id": "016366-2026",
-    "lat": 32.8468,
-    "lng": -96.8326,
-    "offense": "unlawful installation of tracking device",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-01-21",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "016580-2026",
-    "lat": 32.8514,
-    "lng": -96.8167,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2026-02-01",
-    "neighborhood": "Devonshire"
-  },
-  {
-    "id": "016768-2026",
-    "lat": 32.8552,
-    "lng": -96.8464,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-02-05",
-    "neighborhood": null
-  },
-  {
-    "id": "094870-2026",
+    "id": "812518-2026",
     "lat": 32.8306,
-    "lng": -96.8249,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
+    "lng": -96.8286,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
     "hour": 18,
-    "date": "2026-06-29",
-    "neighborhood": "Oak Lawn"
+    "date": "2026-06-18",
+    "neighborhood": null
   },
   {
     "id": "089281-2026",

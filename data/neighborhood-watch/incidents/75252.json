@@ -33,50 +33,6 @@
     "neighborhood": "Preston Highlands"
   },
   {
-    "id": "073260-2026",
-    "lat": 33.0089,
-    "lng": -96.7971,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 23,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "011934-2026",
-    "lat": 32.9984,
-    "lng": -96.7879,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-01-25",
-    "neighborhood": "Preston Highlands"
-  },
-  {
-    "id": "006627-2026",
-    "lat": 32.9964,
-    "lng": -96.8013,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 5,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "808506-2026",
-    "lat": 32.9999,
-    "lng": -96.7942,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 19,
-    "date": "2026-04-18",
-    "neighborhood": null
-  },
-  {
     "id": "817201-2026",
     "lat": 33.0056,
     "lng": -96.8037,
