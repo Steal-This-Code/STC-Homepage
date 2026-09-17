@@ -20,5 +20,16 @@
     "hour": 20,
     "date": "2026-01-16",
     "neighborhood": "Hunter's Bend"
+  },
+  {
+    "id": "007928-2026",
+    "lat": 32.6562,
+    "lng": -96.9795,
+    "offense": "intoxication assault w/veh serious bodily injury",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-01-16",
+    "neighborhood": "Hunter's Bend"
   }
 ]
