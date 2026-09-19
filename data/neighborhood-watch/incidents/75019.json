@@ -1,16 +1,5 @@
 [
   {
-    "id": "062329-2026",
-    "lat": 32.9374,
-    "lng": -96.9831,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 2,
-    "date": "2026-05-02",
-    "neighborhood": null
-  },
-  {
     "id": "129706-2026",
     "lat": 32.6861,
     "lng": -96.5894,
@@ -20,27 +9,5 @@
     "hour": 5,
     "date": "2026-09-03",
     "neighborhood": "Kleberg"
-  },
-  {
-    "id": "129706-2026",
-    "lat": 32.6861,
-    "lng": -96.5894,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 5,
-    "date": "2026-09-03",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "818834-2026",
-    "lat": 32.9406,
-    "lng": -96.9827,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 6,
-    "date": "2026-09-10",
-    "neighborhood": null
   }
 ]
