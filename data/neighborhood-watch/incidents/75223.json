@@ -11,6 +11,17 @@
     "neighborhood": "Dolphin Heights"
   },
   {
+    "id": "086669-2026",
+    "lat": 32.7936,
+    "lng": -96.7473,
+    "offense": "evading arrest detention",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
     "id": "806978-2026",
     "lat": 32.7819,
     "lng": -96.7522,
@@ -187,59 +198,15 @@
     "neighborhood": "Mount Auburn"
   },
   {
-    "id": "130803-2026",
-    "lat": 32.7954,
-    "lng": -96.7364,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "park",
-    "hour": 11,
-    "date": "2026-09-04",
-    "neighborhood": null
-  },
-  {
-    "id": "078374-2026",
-    "lat": 32.793,
-    "lng": -96.7424,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "park",
-    "hour": 18,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "136372-2026",
-    "lat": 32.7832,
-    "lng": -96.7341,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2026-09-15",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "824190-2025",
-    "lat": 32.7837,
-    "lng": -96.7352,
-    "offense": "reckless damage",
+    "id": "147744-2025",
+    "lat": 32.7895,
+    "lng": -96.7374,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "183190-2025",
-    "lat": 32.7985,
-    "lng": -96.7544,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2025-12-23",
-    "neighborhood": "Mount Auburn"
+    "hour": 15,
+    "date": "2025-10-13",
+    "neighborhood": "Owenwood"
   },
   {
     "id": "800840-2026",
@@ -251,5 +218,27 @@
     "hour": 3,
     "date": "2026-01-06",
     "neighborhood": null
+  },
+  {
+    "id": "002997-2026",
+    "lat": 32.7855,
+    "lng": -96.7383,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-01-06",
+    "neighborhood": "Owenwood"
+  },
+  {
+    "id": "086212-2026",
+    "lat": 32.7991,
+    "lng": -96.7504,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 21,
+    "date": "2026-06-14",
+    "neighborhood": "Mount Auburn"
   }
 ]

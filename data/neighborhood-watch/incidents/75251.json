@@ -99,36 +99,14 @@
     "neighborhood": null
   },
   {
-    "id": "129623-2026",
-    "lat": 32.9223,
-    "lng": -96.7716,
-    "offense": "criminal trespass warning",
+    "id": "136569-2026",
+    "lat": 32.9236,
+    "lng": -96.7764,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "business office",
-    "hour": 0,
-    "date": "2026-09-03",
-    "neighborhood": null
-  },
-  {
-    "id": "131624-2026",
-    "lat": 32.9115,
-    "lng": -96.7704,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 5,
-    "date": "2026-08-29",
-    "neighborhood": null
-  },
-  {
-    "id": "802300-2026",
-    "lat": 32.9189,
-    "lng": -96.7714,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-02-02",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-09-16",
     "neighborhood": null
   },
   {
@@ -154,6 +132,17 @@
     "neighborhood": null
   },
   {
+    "id": "818491-2026",
+    "lat": 32.9209,
+    "lng": -96.769,
+    "offense": "harassment - threat",
+    "group": "other",
+    "premise": "business office",
+    "hour": 9,
+    "date": "2026-08-21",
+    "neighborhood": null
+  },
+  {
     "id": "036934-2026",
     "lat": 32.9223,
     "lng": -96.7716,
@@ -165,14 +154,14 @@
     "neighborhood": null
   },
   {
-    "id": "004931-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
+    "id": "813644-2026",
+    "lat": 32.9141,
+    "lng": -96.7699,
     "offense": "bmv",
     "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-01-10",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-07-01",
     "neighborhood": null
   }
 ]

@@ -11,14 +11,14 @@
     "neighborhood": null
   },
   {
-    "id": "177730-2025",
-    "lat": 32.924,
-    "lng": -96.8366,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "099807-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
     "premise": "parking (business)",
-    "hour": 12,
-    "date": "2025-12-12",
+    "hour": 11,
+    "date": "2026-07-09",
     "neighborhood": null
   },
   {
@@ -99,39 +99,6 @@
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "019323-2026",
-    "lat": 32.9125,
-    "lng": -96.8514,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "136046-2026",
-    "lat": 32.9164,
-    "lng": -96.8196,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 7,
-    "date": "2026-09-15",
-    "neighborhood": null
-  },
-  {
-    "id": "002524-2026",
-    "lat": 32.924,
-    "lng": -96.8366,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
     "id": "101432-2026",
     "lat": 32.9256,
     "lng": -96.8306,
@@ -140,17 +107,6 @@
     "premise": "highway, street, alley etc",
     "hour": 5,
     "date": "2026-07-12",
-    "neighborhood": null
-  },
-  {
-    "id": "147134-2025",
-    "lat": 32.9256,
-    "lng": -96.8325,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-10-12",
     "neighborhood": null
   }
 ]

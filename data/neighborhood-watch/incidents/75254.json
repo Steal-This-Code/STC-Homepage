@@ -1,16 +1,5 @@
 [
   {
-    "id": "818853-2026",
-    "lat": 32.9425,
-    "lng": -96.8163,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 10,
-    "date": "2026-09-12",
-    "neighborhood": null
-  },
-  {
     "id": "090375-2026",
     "lat": 32.9366,
     "lng": -96.8106,
@@ -121,113 +110,14 @@
     "neighborhood": null
   },
   {
-    "id": "079324-2026",
-    "lat": 32.9425,
-    "lng": -96.8163,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-05-27",
-    "neighborhood": null
-  },
-  {
-    "id": "802462-2026",
-    "lat": 32.94,
-    "lng": -96.8186,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "081035-2026",
-    "lat": 32.9481,
-    "lng": -96.8208,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "bank/savings and loan",
-    "hour": 8,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "085334-2026",
-    "lat": 32.9455,
-    "lng": -96.817,
+    "id": "096428-2026",
+    "lat": 32.9444,
+    "lng": -96.8086,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "131977-2026",
-    "lat": 32.9379,
-    "lng": -96.8106,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-09-05",
-    "neighborhood": null
-  },
-  {
-    "id": "007702-2026",
-    "lat": 32.9407,
-    "lng": -96.8143,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "005740-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "825577-2025",
-    "lat": 32.9563,
-    "lng": -96.8153,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2025-12-08",
-    "neighborhood": null
-  },
-  {
-    "id": "020166-2026",
-    "lat": 32.9563,
-    "lng": -96.8153,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "department/discount store",
-    "hour": 10,
-    "date": "2026-02-12",
-    "neighborhood": null
-  },
-  {
-    "id": "006559-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-01-14",
+    "hour": 2,
+    "date": "2026-07-03",
     "neighborhood": null
   },
   {
@@ -239,6 +129,39 @@
     "premise": "apartment parking lot",
     "hour": 8,
     "date": "2026-05-07",
+    "neighborhood": null
+  },
+  {
+    "id": "008286-2026",
+    "lat": 32.9436,
+    "lng": -96.8134,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "182595-2025",
+    "lat": 32.951,
+    "lng": -96.8009,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "retail store",
+    "hour": 17,
+    "date": "2025-12-22",
+    "neighborhood": null
+  },
+  {
+    "id": "004449-2026",
+    "lat": 32.9379,
+    "lng": -96.812,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-01-10",
     "neighborhood": null
   }
 ]

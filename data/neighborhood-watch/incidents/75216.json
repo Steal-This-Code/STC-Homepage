@@ -11,28 +11,6 @@
     "neighborhood": null
   },
   {
-    "id": "818915-2026",
-    "lat": 32.6899,
-    "lng": -96.8144,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 19,
-    "date": "2026-09-13",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "818855-2026",
-    "lat": 32.7254,
-    "lng": -96.8328,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-07-27",
-    "neighborhood": "Wynnewood North"
-  },
-  {
     "id": "036873-2026",
     "lat": 32.7293,
     "lng": -96.8103,
@@ -143,6 +121,17 @@
     "neighborhood": "Fruitdale"
   },
   {
+    "id": "084047-2026",
+    "lat": 32.712,
+    "lng": -96.7754,
+    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
     "id": "067637-2026",
     "lat": 32.7064,
     "lng": -96.8012,
@@ -152,17 +141,6 @@
     "hour": 2,
     "date": "2026-05-12",
     "neighborhood": null
-  },
-  {
-    "id": "818877-2026",
-    "lat": 32.7146,
-    "lng": -96.7583,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 6,
-    "date": "2026-09-15",
-    "neighborhood": "Fruitdale"
   },
   {
     "id": "129425-2026",
@@ -220,17 +198,6 @@
     "neighborhood": "Five Mile Creek"
   },
   {
-    "id": "126136-2026",
-    "lat": 32.7147,
-    "lng": -96.7614,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-08-27",
-    "neighborhood": "Fruitdale"
-  },
-  {
     "id": "127557-2026",
     "lat": 32.6949,
     "lng": -96.7729,
@@ -262,17 +229,6 @@
     "hour": 13,
     "date": "2026-09-02",
     "neighborhood": null
-  },
-  {
-    "id": "126136-2026",
-    "lat": 32.7147,
-    "lng": -96.7614,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-08-27",
-    "neighborhood": "Fruitdale"
   },
   {
     "id": "004095-2026",
@@ -327,6 +283,17 @@
     "premise": "highway, street, alley etc",
     "hour": 21,
     "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "138925-2026",
+    "lat": 32.7064,
+    "lng": -96.7977,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-09-20",
     "neighborhood": null
   },
   {
@@ -462,424 +429,6 @@
     "neighborhood": null
   },
   {
-    "id": "087083-2026",
-    "lat": 32.6964,
-    "lng": -96.77,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-06-15",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "007463-2026",
-    "lat": 32.7212,
-    "lng": -96.8169,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "080089-2026",
-    "lat": 32.7112,
-    "lng": -96.7961,
-    "offense": "deadly conduct discharge firearm (damage)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "130160-2026",
-    "lat": 32.6948,
-    "lng": -96.7723,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 3,
-    "date": "2026-09-04",
-    "neighborhood": null
-  },
-  {
-    "id": "178495-2025",
-    "lat": 32.6996,
-    "lng": -96.7734,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-13",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "184535-2025",
-    "lat": 32.7199,
-    "lng": -96.8193,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "015693-2026",
-    "lat": 32.6948,
-    "lng": -96.7937,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-02-01",
-    "neighborhood": "Lisbon"
-  },
-  {
-    "id": "086627-2026",
-    "lat": 32.739,
-    "lng": -96.803,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-15",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "078175-2026",
-    "lat": 32.7137,
-    "lng": -96.7737,
-    "offense": "crim mischief -preliminary investigation",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "180269-2025",
-    "lat": 32.7114,
-    "lng": -96.7974,
-    "offense": "deadly conduct discharge firearm (damage)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2025-12-18",
-    "neighborhood": null
-  },
-  {
-    "id": "005643-2026",
-    "lat": 32.6885,
-    "lng": -96.8132,
-    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-01-12",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "007920-2026",
-    "lat": 32.7146,
-    "lng": -96.7629,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-16",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "082337-2026",
-    "lat": 32.7028,
-    "lng": -96.8122,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-06-07",
-    "neighborhood": null
-  },
-  {
-    "id": "067426-2026",
-    "lat": 32.7116,
-    "lng": -96.8068,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-05-11",
-    "neighborhood": null
-  },
-  {
-    "id": "818739-2026",
-    "lat": 32.7084,
-    "lng": -96.8008,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-09-14",
-    "neighborhood": null
-  },
-  {
-    "id": "813336-2026",
-    "lat": 32.693,
-    "lng": -96.7752,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-05-24",
-    "neighborhood": null
-  },
-  {
-    "id": "005593-2026",
-    "lat": 32.7139,
-    "lng": -96.7671,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "apartment residence",
-    "hour": 7,
-    "date": "2026-01-12",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "092100-2026",
-    "lat": 32.7132,
-    "lng": -96.8226,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 15,
-    "date": "2026-06-25",
-    "neighborhood": null
-  },
-  {
-    "id": "162279-2025",
-    "lat": 32.7132,
-    "lng": -96.8077,
-    "offense": "poss cont sub pen grp 1 <1g dfz",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2025-11-11",
-    "neighborhood": null
-  },
-  {
-    "id": "050884-2026",
-    "lat": 32.6956,
-    "lng": -96.7729,
-    "offense": "indecent exposure",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-04-10",
-    "neighborhood": null
-  },
-  {
-    "id": "133752-2026",
-    "lat": 32.7165,
-    "lng": -96.7568,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-09-10",
-    "neighborhood": null
-  },
-  {
-    "id": "066844-2026",
-    "lat": 32.6983,
-    "lng": -96.764,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 17,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "097128-2026",
-    "lat": 32.7225,
-    "lng": -96.7595,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 11,
-    "date": "2026-07-04",
-    "neighborhood": null
-  },
-  {
-    "id": "124662-2026",
-    "lat": 32.7015,
-    "lng": -96.806,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 17,
-    "date": "2026-08-24",
-    "neighborhood": null
-  },
-  {
-    "id": "136626-2026",
-    "lat": 32.7174,
-    "lng": -96.7771,
-    "offense": "terroristic threat fear imminent sbi",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 12,
-    "date": "2026-09-16",
-    "neighborhood": "Cedar Crest Country Club Estates"
-  },
-  {
-    "id": "086627-2026",
-    "lat": 32.739,
-    "lng": -96.803,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-15",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "069494-2026",
-    "lat": 32.7388,
-    "lng": -96.8054,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-05-15",
-    "neighborhood": "The Heights"
-  },
-  {
-    "id": "184798-2025",
-    "lat": 32.708,
-    "lng": -96.8073,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2025-12-27",
-    "neighborhood": null
-  },
-  {
-    "id": "127671-2026",
-    "lat": 32.7142,
-    "lng": -96.7758,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "department/discount store",
-    "hour": 6,
-    "date": "2026-08-30",
-    "neighborhood": null
-  },
-  {
-    "id": "076007-2026",
-    "lat": 32.6937,
-    "lng": -96.7753,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-05-26",
-    "neighborhood": null
-  },
-  {
-    "id": "008299-2026",
-    "lat": 32.7242,
-    "lng": -96.7638,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2026-01-17",
-    "neighborhood": null
-  },
-  {
-    "id": "087527-2026",
-    "lat": 32.712,
-    "lng": -96.7747,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-06-17",
-    "neighborhood": null
-  },
-  {
-    "id": "058763-2026",
-    "lat": 32.7158,
-    "lng": -96.7632,
-    "offense": "robbery (agg) of individual, preliminary investigation",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 9,
-    "date": "2026-04-24",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "015021-2026",
-    "lat": 32.7339,
-    "lng": -96.8091,
-    "offense": "terroristic threat fear imminent sbi",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-02-01",
-    "neighborhood": "Cedar Haven"
-  },
-  {
-    "id": "007920-2026",
-    "lat": 32.7146,
-    "lng": -96.7629,
-    "offense": "fleeing police officer",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-01-16",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "818609-2026",
-    "lat": 32.6896,
-    "lng": -96.8163,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-09-02",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "176321-2025",
-    "lat": 32.7214,
-    "lng": -96.7684,
-    "offense": "motor vehicle theft - preliminary invest",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2025-12-07",
-    "neighborhood": null
-  },
-  {
-    "id": "068581-2026",
-    "lat": 32.7049,
-    "lng": -96.8159,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-04-15",
-    "neighborhood": null
-  },
-  {
     "id": "821871-2025",
     "lat": 32.6962,
     "lng": -96.7687,
@@ -902,180 +451,15 @@
     "neighborhood": null
   },
   {
-    "id": "093384-2026",
-    "lat": 32.7146,
-    "lng": -96.771,
-    "offense": "bmv",
+    "id": "086627-2026",
+    "lat": 32.739,
+    "lng": -96.803,
+    "offense": "tamper fabricate physical evid with intent to impair",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-26",
-    "neighborhood": null
-  },
-  {
-    "id": "057968-2026",
-    "lat": 32.7382,
-    "lng": -96.8046,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-04-23",
+    "hour": 16,
+    "date": "2026-06-15",
     "neighborhood": "The Heights"
-  },
-  {
-    "id": "144085-2025",
-    "lat": 32.6996,
-    "lng": -96.8072,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 18,
-    "date": "2025-10-03",
-    "neighborhood": null
-  },
-  {
-    "id": "023485-2026",
-    "lat": 32.7198,
-    "lng": -96.8042,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 15,
-    "date": "2026-02-18",
-    "neighborhood": "Cedar Crest Village"
-  },
-  {
-    "id": "092736-2026",
-    "lat": 32.6922,
-    "lng": -96.8168,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-26",
-    "neighborhood": "Marsalis Park"
-  },
-  {
-    "id": "144044-2025",
-    "lat": 32.7132,
-    "lng": -96.8221,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 11,
-    "date": "2025-09-30",
-    "neighborhood": null
-  },
-  {
-    "id": "025808-2026",
-    "lat": 32.6966,
-    "lng": -96.775,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 1,
-    "date": "2026-02-23",
-    "neighborhood": null
-  },
-  {
-    "id": "092736-2026",
-    "lat": 32.6922,
-    "lng": -96.8168,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-26",
-    "neighborhood": "Marsalis Park"
-  },
-  {
-    "id": "068284-2026",
-    "lat": 32.7011,
-    "lng": -96.8109,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-05-12",
-    "neighborhood": null
-  },
-  {
-    "id": "077638-2026",
-    "lat": 32.6873,
-    "lng": -96.8117,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "park",
-    "hour": 16,
-    "date": "2026-05-06",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "090734-2026",
-    "lat": 32.6958,
-    "lng": -96.7723,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 2,
-    "date": "2026-06-23",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "031759-2026",
-    "lat": 32.7143,
-    "lng": -96.7578,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-03-06",
-    "neighborhood": "Fruitdale"
-  },
-  {
-    "id": "167166-2025",
-    "lat": 32.6949,
-    "lng": -96.8212,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2025-11-20",
-    "neighborhood": "Marsalis Park"
-  },
-  {
-    "id": "097786-2026",
-    "lat": 32.7117,
-    "lng": -96.7842,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-07-04",
-    "neighborhood": null
-  },
-  {
-    "id": "124636-2026",
-    "lat": 32.6866,
-    "lng": -96.8092,
-    "offense": "theft of prop (att) > or equal $100 <$750 (not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-08-24",
-    "neighborhood": "Five Mile Creek"
-  },
-  {
-    "id": "050886-2026",
-    "lat": 32.6986,
-    "lng": -96.7592,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2026-04-10",
-    "neighborhood": null
   },
   {
     "id": "087516-2026",
@@ -1108,6 +492,17 @@
     "premise": "parking (business)",
     "hour": 12,
     "date": "2026-06-26",
+    "neighborhood": null
+  },
+  {
+    "id": "817793-2026",
+    "lat": 32.7147,
+    "lng": -96.7718,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "airport - love field",
+    "hour": 15,
+    "date": "2026-09-01",
     "neighborhood": null
   },
   {
@@ -1155,6 +550,39 @@
     "neighborhood": null
   },
   {
+    "id": "131226-2026",
+    "lat": 32.7048,
+    "lng": -96.8044,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-09-05",
+    "neighborhood": null
+  },
+  {
+    "id": "135494-2026",
+    "lat": 32.7371,
+    "lng": -96.8093,
+    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-09-14",
+    "neighborhood": "The Heights"
+  },
+  {
+    "id": "129692-2026",
+    "lat": 32.6937,
+    "lng": -96.8212,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 9,
+    "date": "2026-09-01",
+    "neighborhood": "Marsalis Park"
+  },
+  {
     "id": "182451-2025",
     "lat": 32.6937,
     "lng": -96.7753,
@@ -1177,6 +605,17 @@
     "neighborhood": null
   },
   {
+    "id": "149999-2025",
+    "lat": 32.703,
+    "lng": -96.8002,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-10-16",
+    "neighborhood": "Liberty Heights"
+  },
+  {
     "id": "091555-2026",
     "lat": 32.7053,
     "lng": -96.7996,
@@ -1186,6 +625,17 @@
     "hour": 16,
     "date": "2026-06-21",
     "neighborhood": null
+  },
+  {
+    "id": "133337-2026",
+    "lat": 32.737,
+    "lng": -96.8003,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-09-09",
+    "neighborhood": "The Heights"
   },
   {
     "id": "175933-2025",
@@ -1199,14 +649,157 @@
     "neighborhood": "Marsalis Park"
   },
   {
-    "id": "103723-2026",
-    "lat": 32.6893,
-    "lng": -96.814,
-    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "id": "133666-2026",
+    "lat": 32.7272,
+    "lng": -96.812,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-09-10",
+    "neighborhood": null
+  },
+  {
+    "id": "162279-2025",
+    "lat": 32.7132,
+    "lng": -96.8077,
+    "offense": "accidental death (no offense)",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-07-16",
+    "hour": 9,
+    "date": "2025-11-11",
+    "neighborhood": null
+  },
+  {
+    "id": "007920-2026",
+    "lat": 32.7146,
+    "lng": -96.7629,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-01-16",
+    "neighborhood": "Fruitdale"
+  },
+  {
+    "id": "090734-2026",
+    "lat": 32.6958,
+    "lng": -96.7723,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 2,
+    "date": "2026-06-23",
+    "neighborhood": "Fruitdale"
+  },
+  {
+    "id": "100883-2026",
+    "lat": 32.6979,
+    "lng": -96.8132,
+    "offense": "arson -motor veh",
+    "group": "property",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 7,
+    "date": "2026-07-11",
+    "neighborhood": null
+  },
+  {
+    "id": "007920-2026",
+    "lat": 32.7146,
+    "lng": -96.7629,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-01-16",
+    "neighborhood": "Fruitdale"
+  },
+  {
+    "id": "004830-2026",
+    "lat": 32.6867,
+    "lng": -96.8208,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "hotel/motel/etc",
+    "hour": 15,
+    "date": "2026-01-10",
     "neighborhood": "Five Mile Creek"
+  },
+  {
+    "id": "027008-2026",
+    "lat": 32.7061,
+    "lng": -96.7962,
+    "offense": "poss marijuana >4oz< or equal 5lbs",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-02-25",
+    "neighborhood": null
+  },
+  {
+    "id": "133098-2026",
+    "lat": 32.7084,
+    "lng": -96.8008,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-09-09",
+    "neighborhood": null
+  },
+  {
+    "id": "007331-2026",
+    "lat": 32.6923,
+    "lng": -96.7989,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-01-15",
+    "neighborhood": "Lisbon"
+  },
+  {
+    "id": "027008-2026",
+    "lat": 32.7061,
+    "lng": -96.7962,
+    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-02-25",
+    "neighborhood": null
+  },
+  {
+    "id": "012579-2026",
+    "lat": 32.7084,
+    "lng": -96.8008,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "business office",
+    "hour": 15,
+    "date": "2026-01-27",
+    "neighborhood": null
+  },
+  {
+    "id": "136668-2026",
+    "lat": 32.695,
+    "lng": -96.79,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 10,
+    "date": "2026-09-16",
+    "neighborhood": null
+  },
+  {
+    "id": "803016-2026",
+    "lat": 32.6993,
+    "lng": -96.7597,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-02-11",
+    "neighborhood": null
   }
 ]
