@@ -11,17 +11,6 @@
     "neighborhood": "Preston Hollow North"
   },
   {
-    "id": "819070-2026",
-    "lat": 32.8947,
-    "lng": -96.8031,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 18,
-    "date": "2026-09-13",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
     "id": "802875-2026",
     "lat": 32.9089,
     "lng": -96.8035,
@@ -31,17 +20,6 @@
     "hour": 9,
     "date": "2026-02-10",
     "neighborhood": null
-  },
-  {
-    "id": "818991-2026",
-    "lat": 32.8947,
-    "lng": -96.8031,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 10,
-    "date": "2026-08-21",
-    "neighborhood": "Preston Hollow North"
   },
   {
     "id": "802041-2026",
@@ -55,25 +33,14 @@
     "neighborhood": "Brookshire Park"
   },
   {
-    "id": "134400-2026",
-    "lat": 32.9096,
-    "lng": -96.8145,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-09-12",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "100148-2026",
-    "lat": 32.8815,
-    "lng": -96.771,
+    "id": "821400-2025",
+    "lat": 32.893,
+    "lng": -96.7718,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-07-09",
+    "premise": "parking lot (all others)",
+    "hour": 6,
+    "date": "2025-10-15",
     "neighborhood": null
   },
   {
@@ -88,91 +55,25 @@
     "neighborhood": null
   },
   {
-    "id": "093254-2026",
-    "lat": 32.8825,
-    "lng": -96.7802,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-27",
-    "neighborhood": "The Meadows"
-  },
-  {
-    "id": "083171-2026",
-    "lat": 32.8903,
-    "lng": -96.7706,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 17,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "004700-2026",
-    "lat": 32.9002,
-    "lng": -96.773,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 8,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "800648-2026",
-    "lat": 32.8869,
-    "lng": -96.7739,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2025-12-22",
-    "neighborhood": "High Hollows"
-  },
-  {
-    "id": "825462-2025",
-    "lat": 32.8903,
-    "lng": -96.7728,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2025-12-09",
-    "neighborhood": "High Hollows"
-  },
-  {
-    "id": "069961-2026",
-    "lat": 32.9156,
-    "lng": -96.8138,
+    "id": "100148-2026",
+    "lat": 32.8815,
+    "lng": -96.771,
     "offense": "bmv",
-    "group": "other",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-05-15",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "802788-2026",
-    "lat": 32.9089,
-    "lng": -96.8035,
-    "offense": "reckless damage",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-02-09",
+    "hour": 12,
+    "date": "2026-07-09",
     "neighborhood": null
   },
   {
-    "id": "095558-2026",
-    "lat": 32.8934,
-    "lng": -96.7776,
-    "offense": "bmv",
+    "id": "804184-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
     "group": "other",
-    "premise": "condominium/townhome parking",
-    "hour": 22,
-    "date": "2026-06-30",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-02-24",
     "neighborhood": null
   },
   {
@@ -184,6 +85,39 @@
     "premise": "construction site",
     "hour": 15,
     "date": "2026-01-13",
+    "neighborhood": null
+  },
+  {
+    "id": "062081-2026",
+    "lat": 32.893,
+    "lng": -96.8039,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-05-01",
+    "neighborhood": null
+  },
+  {
+    "id": "093254-2026",
+    "lat": 32.8825,
+    "lng": -96.7802,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-06-27",
+    "neighborhood": "The Meadows"
+  },
+  {
+    "id": "064987-2026",
+    "lat": 32.8961,
+    "lng": -96.8025,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-05-07",
     "neighborhood": null
   },
   {
@@ -220,47 +154,14 @@
     "neighborhood": null
   },
   {
-    "id": "137661-2026",
-    "lat": 32.8974,
-    "lng": -96.7705,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-09-18",
-    "neighborhood": null
-  },
-  {
-    "id": "825038-2025",
-    "lat": 32.9078,
-    "lng": -96.8059,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2025-12-04",
-    "neighborhood": null
-  },
-  {
-    "id": "818628-2026",
-    "lat": 32.9109,
-    "lng": -96.8023,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "id": "174765-2025",
+    "lat": 32.8941,
+    "lng": -96.7749,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 9,
-    "date": "2026-09-13",
-    "neighborhood": null
-  },
-  {
-    "id": "133748-2026",
-    "lat": 32.9117,
-    "lng": -96.7745,
-    "offense": "unlawful restraint",
-    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-09-10",
+    "hour": 17,
+    "date": "2025-12-03",
     "neighborhood": null
   }
 ]
