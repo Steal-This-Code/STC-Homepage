@@ -1,5 +1,38 @@
 [
   {
+    "id": "811242-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-05-30",
+    "neighborhood": null
+  },
+  {
+    "id": "168377-2025",
+    "lat": 32.9176,
+    "lng": -96.8557,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2025-11-23",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "181835-2025",
+    "lat": 32.9179,
+    "lng": -96.855,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-12-20",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
     "id": "099807-2026",
     "lat": 32.9118,
     "lng": -96.8174,
@@ -11,59 +44,48 @@
     "neighborhood": null
   },
   {
-    "id": "019323-2026",
-    "lat": 32.9125,
-    "lng": -96.8514,
-    "offense": "missing person (no offense)",
+    "id": "106143-2026",
+    "lat": 32.9242,
+    "lng": -96.8396,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-02-06",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "136046-2026",
-    "lat": 32.9164,
-    "lng": -96.8196,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 7,
-    "date": "2026-09-15",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-07-20",
     "neighborhood": null
   },
   {
-    "id": "019184-2026",
-    "lat": 32.9093,
-    "lng": -96.8546,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 9,
-    "date": "2026-02-10",
-    "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "811288-2026",
-    "lat": 32.9093,
-    "lng": -96.8546,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "id": "808342-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2026-06-01",
-    "neighborhood": "Northaven Park"
+    "premise": "retail store",
+    "hour": 4,
+    "date": "2026-04-10",
+    "neighborhood": null
   },
   {
-    "id": "046635-2026",
-    "lat": 32.9207,
-    "lng": -96.8471,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
+    "id": "067671-2026",
+    "lat": 32.9168,
+    "lng": -96.8178,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-05-11",
+    "neighborhood": null
+  },
+  {
+    "id": "809961-2026",
+    "lat": 32.9231,
+    "lng": -96.8363,
+    "offense": "harassment - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
     "hour": 22,
-    "date": "2026-03-31",
-    "neighborhood": "Glen Meadow Estates"
+    "date": "2026-05-11",
+    "neighborhood": null
   },
   {
     "id": "147134-2025",
@@ -75,5 +97,27 @@
     "hour": 8,
     "date": "2025-10-12",
     "neighborhood": null
+  },
+  {
+    "id": "806823-2026",
+    "lat": 32.9104,
+    "lng": -96.853,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 12,
+    "date": "2026-03-31",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "809956-2026",
+    "lat": 32.9108,
+    "lng": -96.8536,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 15,
+    "date": "2026-04-17",
+    "neighborhood": "Glen Meadow Estates"
   }
 ]

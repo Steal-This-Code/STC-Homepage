@@ -1,5 +1,71 @@
 [
   {
+    "id": "100839-2026",
+    "lat": 32.8351,
+    "lng": -96.78,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-07-11",
+    "neighborhood": null
+  },
+  {
+    "id": "818074-2026",
+    "lat": 32.8214,
+    "lng": -96.7877,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 19,
+    "date": "2026-09-03",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "801728-2026",
+    "lat": 32.8214,
+    "lng": -96.7899,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 9,
+    "date": "2026-01-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "139285-2025",
+    "lat": 32.8266,
+    "lng": -96.7865,
+    "offense": "crim mischief -preliminary investigation",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 3,
+    "date": "2025-09-27",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "123032-2026",
+    "lat": 32.8274,
+    "lng": -96.7839,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 16,
+    "date": "2026-08-21",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "100839-2026",
+    "lat": 32.8351,
+    "lng": -96.78,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-07-11",
+    "neighborhood": null
+  },
+  {
     "id": "138782-2025",
     "lat": 32.8366,
     "lng": -96.78,
@@ -33,28 +99,6 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "804232-2026",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 0,
-    "date": "2026-02-26",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "091562-2026",
-    "lat": 32.8227,
-    "lng": -96.7878,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 14,
-    "date": "2026-06-24",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "801728-2026",
     "lat": 32.8214,
     "lng": -96.7899,
@@ -63,6 +107,17 @@
     "premise": "apartment residence",
     "hour": 9,
     "date": "2026-01-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "091529-2026",
+    "lat": 32.8227,
+    "lng": -96.7877,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-24",
     "neighborhood": "Knox Park"
   }
 ]

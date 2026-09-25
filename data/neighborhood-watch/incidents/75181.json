@@ -1,13 +1,13 @@
 [
   {
-    "id": "176899-2025",
-    "lat": 32.7339,
-    "lng": -96.5937,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-12-11",
+    "id": "819364-2026",
+    "lat": 32.7265,
+    "lng": -96.6026,
+    "offense": "theft of service > or equal $100 <$750 pc31.04(e2)",
+    "group": "property",
+    "premise": "other",
+    "hour": 3,
+    "date": "2026-09-19",
     "neighborhood": null
   }
 ]

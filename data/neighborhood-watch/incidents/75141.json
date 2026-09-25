@@ -9,16 +9,5 @@
     "hour": 20,
     "date": "2026-02-06",
     "neighborhood": null
-  },
-  {
-    "id": "017498-2026",
-    "lat": 32.6497,
-    "lng": -96.7074,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 20,
-    "date": "2026-02-06",
-    "neighborhood": null
   }
 ]
