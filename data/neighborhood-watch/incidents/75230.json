@@ -11,28 +11,6 @@
     "neighborhood": "Preston Hollow North"
   },
   {
-    "id": "819464-2026",
-    "lat": 32.8984,
-    "lng": -96.8036,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-09-24",
-    "neighborhood": null
-  },
-  {
-    "id": "152742-2025",
-    "lat": 32.9216,
-    "lng": -96.8173,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2025-10-23",
-    "neighborhood": null
-  },
-  {
     "id": "104798-2026",
     "lat": 32.8831,
     "lng": -96.7707,
@@ -55,92 +33,15 @@
     "neighborhood": null
   },
   {
-    "id": "149581-2025",
-    "lat": 32.9117,
-    "lng": -96.7745,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 6,
-    "date": "2025-10-17",
-    "neighborhood": null
-  },
-  {
-    "id": "179289-2025",
-    "lat": 32.8815,
-    "lng": -96.771,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2025-12-16",
-    "neighborhood": null
-  },
-  {
-    "id": "172281-2025",
-    "lat": 32.8847,
-    "lng": -96.7707,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 18,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "153558-2025",
-    "lat": 32.8807,
-    "lng": -96.7836,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 6,
-    "date": "2025-10-25",
-    "neighborhood": null
-  },
-  {
-    "id": "140747-2026",
-    "lat": 32.8903,
-    "lng": -96.7706,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 11,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "150100-2025",
-    "lat": 32.8925,
-    "lng": -96.771,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 6,
-    "date": "2025-10-18",
-    "neighborhood": null
-  },
-  {
-    "id": "171033-2025",
-    "lat": 32.9126,
-    "lng": -96.8111,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2025-11-28",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "819463-2026",
-    "lat": 32.9076,
-    "lng": -96.7792,
+    "id": "802875-2026",
+    "lat": 32.9089,
+    "lng": -96.8035,
     "offense": "bmv",
     "group": "other",
-    "premise": "single family residence - occupied",
+    "premise": "parking (business)",
     "hour": 9,
-    "date": "2026-09-23",
-    "neighborhood": "Hillcrest Forest"
+    "date": "2026-02-10",
+    "neighborhood": null
   },
   {
     "id": "818917-2026",
@@ -176,103 +77,15 @@
     "neighborhood": null
   },
   {
-    "id": "819071-2026",
-    "lat": 32.8947,
-    "lng": -96.8031,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "id": "801124-2026",
+    "lat": 32.8957,
+    "lng": -96.8061,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
     "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 19,
-    "date": "2026-09-13",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "083062-2026",
-    "lat": 32.8831,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 21,
-    "date": "2026-06-08",
+    "premise": "construction site",
+    "hour": 15,
+    "date": "2026-01-13",
     "neighborhood": null
-  },
-  {
-    "id": "821400-2025",
-    "lat": 32.893,
-    "lng": -96.7718,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 6,
-    "date": "2025-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "100148-2026",
-    "lat": 32.8815,
-    "lng": -96.771,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-07-09",
-    "neighborhood": null
-  },
-  {
-    "id": "086608-2026",
-    "lat": 32.9223,
-    "lng": -96.7825,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-06-15",
-    "neighborhood": null
-  },
-  {
-    "id": "093254-2026",
-    "lat": 32.8825,
-    "lng": -96.7802,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-27",
-    "neighborhood": "The Meadows"
-  },
-  {
-    "id": "083171-2026",
-    "lat": 32.8903,
-    "lng": -96.7706,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 17,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "004700-2026",
-    "lat": 32.9002,
-    "lng": -96.773,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 8,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "800648-2026",
-    "lat": 32.8869,
-    "lng": -96.7739,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2025-12-22",
-    "neighborhood": "High Hollows"
   },
   {
     "id": "825462-2025",
@@ -316,6 +129,39 @@
     "premise": "condominium/townhome parking",
     "hour": 22,
     "date": "2026-06-30",
+    "neighborhood": null
+  },
+  {
+    "id": "813470-2026",
+    "lat": 32.8947,
+    "lng": -96.8031,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "grocery/supermarket",
+    "hour": 11,
+    "date": "2026-06-12",
+    "neighborhood": "Preston Hollow North"
+  },
+  {
+    "id": "070601-2026",
+    "lat": 32.9,
+    "lng": -96.7697,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-05-17",
+    "neighborhood": null
+  },
+  {
+    "id": "019572-2026",
+    "lat": 32.9132,
+    "lng": -96.7722,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 4,
+    "date": "2026-02-11",
     "neighborhood": null
   }
 ]

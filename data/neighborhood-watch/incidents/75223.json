@@ -66,17 +66,6 @@
     "neighborhood": "Mount Auburn"
   },
   {
-    "id": "136290-2026",
-    "lat": 32.7829,
-    "lng": -96.7369,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 4,
-    "date": "2026-09-15",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
     "id": "815139-2026",
     "lat": 32.7806,
     "lng": -96.7386,
@@ -99,28 +88,6 @@
     "neighborhood": null
   },
   {
-    "id": "140663-2026",
-    "lat": 32.7919,
-    "lng": -96.7563,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-09-24",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "015519-2026",
-    "lat": 32.7905,
-    "lng": -96.7554,
-    "offense": "unlawful carrying weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-02-02",
-    "neighborhood": "Jubilee Park"
-  },
-  {
     "id": "152699-2025",
     "lat": 32.7811,
     "lng": -96.7512,
@@ -129,6 +96,72 @@
     "premise": "outdoor area public/private",
     "hour": 13,
     "date": "2025-10-23",
+    "neighborhood": null
+  },
+  {
+    "id": "093815-2026",
+    "lat": 32.7864,
+    "lng": -96.756,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2026-06-28",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "087285-2026",
+    "lat": 32.7856,
+    "lng": -96.7563,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-16",
+    "neighborhood": null
+  },
+  {
+    "id": "103582-2026",
+    "lat": 32.8046,
+    "lng": -96.7414,
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-07-16",
+    "neighborhood": "Hollywood Heights / Santa Monica"
+  },
+  {
+    "id": "806978-2026",
+    "lat": 32.7819,
+    "lng": -96.7522,
+    "offense": "criminal mischief > or equal $30k<$150k",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-03-28",
+    "neighborhood": null
+  },
+  {
+    "id": "094225-2026",
+    "lat": 32.8068,
+    "lng": -96.7376,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-06-28",
+    "neighborhood": "Hollywood Heights / Santa Monica"
+  },
+  {
+    "id": "083945-2026",
+    "lat": 32.7871,
+    "lng": -96.7509,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-06-06",
     "neighborhood": null
   },
   {
@@ -154,28 +187,6 @@
     "neighborhood": null
   },
   {
-    "id": "143480-2025",
-    "lat": 32.7972,
-    "lng": -96.7382,
-    "offense": "violation of city ordinance",
-    "group": "other",
-    "premise": "park",
-    "hour": 2,
-    "date": "2025-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "085404-2026",
-    "lat": 32.7832,
-    "lng": -96.7341,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-06-13",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
     "id": "147744-2025",
     "lat": 32.7895,
     "lng": -96.7374,
@@ -185,105 +196,6 @@
     "hour": 15,
     "date": "2025-10-13",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "167447-2025",
-    "lat": 32.7813,
-    "lng": -96.7375,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2025-11-21",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "183190-2025",
-    "lat": 32.7985,
-    "lng": -96.7544,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2025-12-23",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "085404-2026",
-    "lat": 32.7832,
-    "lng": -96.7341,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-06-13",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "042764-2026",
-    "lat": 32.7965,
-    "lng": -96.7548,
-    "offense": "accidental death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-03-26",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "011577-2026",
-    "lat": 32.7876,
-    "lng": -96.7605,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-01-23",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "042764-2026",
-    "lat": 32.7965,
-    "lng": -96.7548,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-03-26",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "129820-2026",
-    "lat": 32.7858,
-    "lng": -96.7658,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-09-03",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "078374-2026",
-    "lat": 32.793,
-    "lng": -96.7424,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "park",
-    "hour": 18,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "071389-2026",
-    "lat": 32.786,
-    "lng": -96.7661,
-    "offense": "accidental death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-05-13",
-    "neighborhood": "Jubilee Park"
   },
   {
     "id": "173487-2025",
@@ -339,5 +251,16 @@
     "hour": 15,
     "date": "2026-03-26",
     "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "130803-2026",
+    "lat": 32.7954,
+    "lng": -96.7364,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "park",
+    "hour": 11,
+    "date": "2026-09-04",
+    "neighborhood": null
   }
 ]

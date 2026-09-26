@@ -1,16 +1,5 @@
 [
   {
-    "id": "140129-2026",
-    "lat": 32.7959,
-    "lng": -96.7748,
-    "offense": "arson -motor veh",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2026-09-23",
-    "neighborhood": "Peak's Addition"
-  },
-  {
     "id": "069343-2026",
     "lat": 32.7937,
     "lng": -96.7757,
@@ -110,17 +99,6 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "138704-2026",
-    "lat": 32.794,
-    "lng": -96.7765,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-09-20",
-    "neighborhood": "Peak's Addition"
-  },
-  {
     "id": "820473-2025",
     "lat": 32.7927,
     "lng": -96.7738,
@@ -132,25 +110,25 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "816672-2026",
-    "lat": 32.7923,
-    "lng": -96.7714,
-    "offense": "lost property (no offense)",
+    "id": "122192-2026",
+    "lat": 32.7922,
+    "lng": -96.7749,
+    "offense": "fail to id -refuses to provide info",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-08-17",
-    "neighborhood": "Peak's Addition"
+    "hour": 3,
+    "date": "2026-08-20",
+    "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "082739-2026",
-    "lat": 32.7961,
-    "lng": -96.7674,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-06-08",
+    "id": "104872-2026",
+    "lat": 32.7976,
+    "lng": -96.7725,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-07-18",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -165,28 +143,6 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "032978-2026",
-    "lat": 32.7949,
-    "lng": -96.7757,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-03-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "109510-2026",
-    "lat": 32.7951,
-    "lng": -96.7773,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-07-26",
-    "neighborhood": "Peak's Addition"
-  },
-  {
     "id": "811715-2026",
     "lat": 32.797,
     "lng": -96.7683,
@@ -195,6 +151,28 @@
     "premise": "apartment complex/building",
     "hour": 5,
     "date": "2026-06-04",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "805546-2026",
+    "lat": 32.7979,
+    "lng": -96.7699,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-03-05",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "130182-2026",
+    "lat": 32.7968,
+    "lng": -96.7734,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-09-04",
     "neighborhood": "Peak's Addition"
   }
 ]

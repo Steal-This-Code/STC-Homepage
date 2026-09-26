@@ -33,17 +33,6 @@
     "neighborhood": "Southwestern Medical District"
   },
   {
-    "id": "819443-2026",
-    "lat": 32.8237,
-    "lng": -96.8639,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "business office",
-    "hour": 13,
-    "date": "2026-09-15",
-    "neighborhood": null
-  },
-  {
     "id": "140585-2026",
     "lat": 32.8226,
     "lng": -96.8768,
@@ -198,6 +187,28 @@
     "neighborhood": null
   },
   {
+    "id": "181929-2025",
+    "lat": 32.8035,
+    "lng": -96.8736,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-12-21",
+    "neighborhood": null
+  },
+  {
+    "id": "152993-2025",
+    "lat": 32.8286,
+    "lng": -96.8719,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 0,
+    "date": "2025-10-24",
+    "neighborhood": null
+  },
+  {
     "id": "140376-2026",
     "lat": 32.8034,
     "lng": -96.8738,
@@ -231,39 +242,6 @@
     "neighborhood": null
   },
   {
-    "id": "826869-2025",
-    "lat": 32.8319,
-    "lng": -96.8748,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 19,
-    "date": "2025-12-26",
-    "neighborhood": null
-  },
-  {
-    "id": "091003-2026",
-    "lat": 32.8314,
-    "lng": -96.8729,
-    "offense": "harassment -preliminary investigation",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "102091-2026",
-    "lat": 32.8283,
-    "lng": -96.8799,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 13,
-    "date": "2026-07-11",
-    "neighborhood": null
-  },
-  {
     "id": "127813-2026",
     "lat": 32.8362,
     "lng": -96.8809,
@@ -294,6 +272,17 @@
     "premise": "parking (business)",
     "hour": 3,
     "date": "2026-05-06",
+    "neighborhood": null
+  },
+  {
+    "id": "047758-2026",
+    "lat": 32.8226,
+    "lng": -96.8768,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 23,
+    "date": "2026-04-03",
     "neighborhood": null
   }
 ]

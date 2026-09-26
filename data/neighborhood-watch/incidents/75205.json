@@ -33,17 +33,6 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "139285-2025",
-    "lat": 32.8266,
-    "lng": -96.7865,
-    "offense": "crim mischief -preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 3,
-    "date": "2025-09-27",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "123032-2026",
     "lat": 32.8274,
     "lng": -96.7839,
@@ -66,36 +55,14 @@
     "neighborhood": null
   },
   {
-    "id": "138782-2025",
-    "lat": 32.8366,
-    "lng": -96.78,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-09-25",
-    "neighborhood": null
-  },
-  {
-    "id": "805594-2026",
-    "lat": 32.8187,
-    "lng": -96.7887,
-    "offense": "reckless damage",
+    "id": "813390-2026",
+    "lat": 32.8214,
+    "lng": -96.7899,
+    "offense": "lost property (no offense)",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-03-13",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "805817-2026",
-    "lat": 32.817,
-    "lng": -96.7914,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-03-19",
+    "hour": 9,
+    "date": "2026-07-04",
     "neighborhood": "Knox Park"
   },
   {
@@ -107,17 +74,6 @@
     "premise": "apartment residence",
     "hour": 9,
     "date": "2026-01-23",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "091529-2026",
-    "lat": 32.8227,
-    "lng": -96.7877,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-24",
     "neighborhood": "Knox Park"
   }
 ]
