@@ -1,27 +1,5 @@
 [
   {
-    "id": "181666-2025",
-    "lat": 32.875,
-    "lng": -96.8588,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2025-12-20",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "006481-2026",
-    "lat": 32.8547,
-    "lng": -96.8794,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
     "id": "027361-2026",
     "lat": 32.8779,
     "lng": -96.8786,
@@ -30,17 +8,6 @@
     "premise": "commercial property occupied/vacant",
     "hour": 18,
     "date": "2025-10-29",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "180072-2025",
-    "lat": 32.8578,
-    "lng": -96.8621,
-    "offense": "dwi 2 or more prev conv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2025-12-17",
     "neighborhood": "Bachman"
   },
   {
@@ -66,50 +33,6 @@
     "neighborhood": "Bachman"
   },
   {
-    "id": "138169-2026",
-    "lat": 32.8587,
-    "lng": -96.8668,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2026-09-19",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "176657-2025",
-    "lat": 32.8572,
-    "lng": -96.8646,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2025-12-10",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "136577-2026",
-    "lat": 32.8718,
-    "lng": -96.8679,
-    "offense": "unauth temp shelter on public prop",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-09-16",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "134513-2026",
-    "lat": 32.8548,
-    "lng": -96.8803,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-09-12",
-    "neighborhood": null
-  },
-  {
     "id": "806127-2026",
     "lat": 32.8587,
     "lng": -96.8945,
@@ -119,28 +42,6 @@
     "hour": 0,
     "date": "2026-03-23",
     "neighborhood": null
-  },
-  {
-    "id": "134958-2026",
-    "lat": 32.8616,
-    "lng": -96.8877,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-09-13",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "138505-2026",
-    "lat": 32.8616,
-    "lng": -96.8877,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-19",
-    "neighborhood": "Bachman"
   },
   {
     "id": "138690-2026",
@@ -154,256 +55,14 @@
     "neighborhood": "Bachman"
   },
   {
-    "id": "023081-2026",
-    "lat": 32.8745,
-    "lng": -96.8733,
-    "offense": "deadly conduct discharge firearm (damage)",
+    "id": "821260-2025",
+    "lat": 32.8668,
+    "lng": -96.8648,
+    "offense": "accident inv damage to vehicle <$200",
     "group": "other",
-    "premise": "other",
+    "premise": "highway, street, alley etc",
     "hour": 12,
-    "date": "2026-02-17",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "007030-2026",
-    "lat": 32.8627,
-    "lng": -96.8689,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-01-15",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "140808-2025",
-    "lat": 32.8621,
-    "lng": -96.8914,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 5,
-    "date": "2025-09-26",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "173327-2025",
-    "lat": 32.8664,
-    "lng": -96.8616,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-04",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "075276-2026",
-    "lat": 32.8576,
-    "lng": -96.8738,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-05-26",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "168378-2025",
-    "lat": 32.858,
-    "lng": -96.8999,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "139040-2026",
-    "lat": 32.8634,
-    "lng": -96.8967,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "138355-2026",
-    "lat": 32.8798,
-    "lng": -96.8781,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-09-19",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "137984-2026",
-    "lat": 32.8561,
-    "lng": -96.8683,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-09-18",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "168293-2025",
-    "lat": 32.8744,
-    "lng": -96.8726,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2025-11-23",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "140464-2026",
-    "lat": 32.8548,
-    "lng": -96.8706,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 6,
-    "date": "2026-09-23",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "026978-2026",
-    "lat": 32.8535,
-    "lng": -96.8788,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-02-25",
-    "neighborhood": null
-  },
-  {
-    "id": "007030-2026",
-    "lat": 32.8627,
-    "lng": -96.8689,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-01-15",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "131756-2026",
-    "lat": 32.8608,
-    "lng": -96.8887,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-06",
-    "neighborhood": null
-  },
-  {
-    "id": "180215-2025",
-    "lat": 32.8578,
-    "lng": -96.8731,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 22,
-    "date": "2025-12-17",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "139998-2026",
-    "lat": 32.8551,
-    "lng": -96.8739,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-09-22",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "134215-2026",
-    "lat": 32.8535,
-    "lng": -96.8788,
-    "offense": "poss marijuana >4oz< or equal 5lbs",
-    "group": "other",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2026-09-11",
-    "neighborhood": null
-  },
-  {
-    "id": "139649-2026",
-    "lat": 32.8616,
-    "lng": -96.8877,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-09-22",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "810329-2026",
-    "lat": 32.8627,
-    "lng": -96.8987,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 20,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "055106-2026",
-    "lat": 32.8605,
-    "lng": -96.8896,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-04-18",
-    "neighborhood": null
-  },
-  {
-    "id": "818972-2026",
-    "lat": 32.8548,
-    "lng": -96.8803,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "government/public building",
-    "hour": 18,
-    "date": "2026-09-17",
-    "neighborhood": null
-  },
-  {
-    "id": "167817-2025",
-    "lat": 32.8666,
-    "lng": -96.8818,
-    "offense": "dwi w/open container",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-11-22",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "175093-2025",
-    "lat": 32.8653,
-    "lng": -96.8567,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 15,
-    "date": "2025-12-07",
+    "date": "2025-10-13",
     "neighborhood": "Bachman"
   },
   {
@@ -418,17 +77,6 @@
     "neighborhood": null
   },
   {
-    "id": "139210-2026",
-    "lat": 32.8591,
-    "lng": -96.884,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "other",
-    "hour": 6,
-    "date": "2026-09-21",
-    "neighborhood": null
-  },
-  {
     "id": "810113-2026",
     "lat": 32.8562,
     "lng": -96.8644,
@@ -437,17 +85,6 @@
     "premise": "cyberspace",
     "hour": 8,
     "date": "2026-05-13",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "133527-2026",
-    "lat": 32.8775,
-    "lng": -96.8966,
-    "offense": "poss cont sub pen grp 3 < 28g",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 11,
-    "date": "2026-09-10",
     "neighborhood": "Bachman"
   },
   {
@@ -473,50 +110,6 @@
     "neighborhood": "Bachman"
   },
   {
-    "id": "135035-2026",
-    "lat": 32.8799,
-    "lng": -96.8651,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-13",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "182703-2025",
-    "lat": 32.8666,
-    "lng": -96.8905,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-22",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "178739-2025",
-    "lat": 32.8616,
-    "lng": -96.8877,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-14",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "181773-2025",
-    "lat": 32.8788,
-    "lng": -96.8853,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2025-12-20",
-    "neighborhood": "Bachman"
-  },
-  {
     "id": "802133-2026",
     "lat": 32.8771,
     "lng": -96.8162,
@@ -528,17 +121,6 @@
     "neighborhood": "Preston Hollow"
   },
   {
-    "id": "135912-2026",
-    "lat": 32.8666,
-    "lng": -96.8905,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "other",
-    "hour": 22,
-    "date": "2026-09-14",
-    "neighborhood": "Bachman"
-  },
-  {
     "id": "113138-2026",
     "lat": 32.8676,
     "lng": -96.8661,
@@ -547,50 +129,6 @@
     "premise": "parking (business)",
     "hour": 8,
     "date": "2026-07-20",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "139095-2026",
-    "lat": 32.8685,
-    "lng": -96.8855,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-09-20",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "156862-2025",
-    "lat": 32.8593,
-    "lng": -96.8845,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-10-31",
-    "neighborhood": null
-  },
-  {
-    "id": "182292-2025",
-    "lat": 32.8602,
-    "lng": -96.8821,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 1,
-    "date": "2025-12-22",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "138586-2026",
-    "lat": 32.8616,
-    "lng": -96.8877,
-    "offense": "violation of city ordinance",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-20",
     "neighborhood": "Bachman"
   },
   {
@@ -605,80 +143,267 @@
     "neighborhood": null
   },
   {
-    "id": "175945-2025",
-    "lat": 32.862,
-    "lng": -96.8905,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-12-09",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "002840-2026",
-    "lat": 32.8603,
-    "lng": -96.8734,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-01-06",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "172356-2025",
-    "lat": 32.8654,
-    "lng": -96.9082,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "id": "098242-2026",
+    "lat": 32.8563,
+    "lng": -96.8646,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
     "hour": 22,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "184800-2025",
-    "lat": 32.868,
-    "lng": -96.8813,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-12-27",
+    "date": "2026-07-05",
     "neighborhood": "Bachman"
   },
   {
-    "id": "819403-2026",
-    "lat": 32.8654,
-    "lng": -96.8993,
-    "offense": "reckless damage",
+    "id": "133669-2026",
+    "lat": 32.8745,
+    "lng": -96.87,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-09-10",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "092624-2026",
+    "lat": 32.8626,
+    "lng": -96.8859,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-06-12",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "108926-2026",
+    "lat": 32.8552,
+    "lng": -96.8792,
+    "offense": "dwi w/open container",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-09-17",
+    "hour": 0,
+    "date": "2026-07-26",
     "neighborhood": null
   },
   {
-    "id": "105103-2026",
-    "lat": 32.87,
-    "lng": -96.9196,
+    "id": "004241-2026",
+    "lat": 32.8621,
+    "lng": -96.8574,
     "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 0,
-    "date": "2026-07-18",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-01-04",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "170609-2025",
+    "lat": 32.8578,
+    "lng": -96.8621,
+    "offense": "dwi w/open container",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2025-11-28",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "152659-2025",
+    "lat": 32.8611,
+    "lng": -96.8942,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2025-10-03",
     "neighborhood": null
   },
   {
-    "id": "815115-2026",
+    "id": "092491-2026",
+    "lat": 32.8778,
+    "lng": -96.8846,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "other",
+    "hour": 0,
+    "date": "2026-06-26",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "090433-2026",
+    "lat": 32.8704,
+    "lng": -96.8953,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-06-22",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "812335-2026",
+    "lat": 32.8767,
+    "lng": -96.8375,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-06-16",
+    "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "800181-2026",
+    "lat": 32.8749,
+    "lng": -96.8503,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 20,
+    "date": "2025-12-30",
+    "neighborhood": "Midway Hollow"
+  },
+  {
+    "id": "099939-2026",
+    "lat": 32.8597,
+    "lng": -96.8894,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-07-09",
+    "neighborhood": null
+  },
+  {
+    "id": "092427-2026",
+    "lat": 32.8666,
+    "lng": -96.8872,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "business office",
+    "hour": 2,
+    "date": "2026-06-26",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "088871-2026",
+    "lat": 32.8578,
+    "lng": -96.8731,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-06-19",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "152659-2025",
+    "lat": 32.8611,
+    "lng": -96.8942,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2025-10-03",
+    "neighborhood": null
+  },
+  {
+    "id": "088612-2026",
+    "lat": 32.8629,
+    "lng": -96.8973,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 1,
+    "date": "2026-06-19",
+    "neighborhood": null
+  },
+  {
+    "id": "812187-2026",
     "lat": 32.8775,
     "lng": -96.8966,
     "offense": "bmv",
     "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-06-17",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "083848-2026",
+    "lat": 32.8653,
+    "lng": -96.8516,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-06-10",
+    "neighborhood": "Midway Hollow"
+  },
+  {
+    "id": "099469-2026",
+    "lat": 32.8586,
+    "lng": -96.8629,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-07-08",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "091949-2026",
+    "lat": 32.8548,
+    "lng": -96.8803,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-06-25",
+    "neighborhood": null
+  },
+  {
+    "id": "813601-2026",
+    "lat": 32.8587,
+    "lng": -96.8945,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
     "premise": "hotel/motel/etc",
-    "hour": 3,
-    "date": "2026-07-26",
+    "hour": 7,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "125573-2026",
+    "lat": 32.871,
+    "lng": -96.8671,
+    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 enh (not emp) pc 31.03(f)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-08-23",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "068697-2026",
+    "lat": 32.8701,
+    "lng": -96.9141,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 5,
+    "date": "2026-05-13",
+    "neighborhood": null
+  },
+  {
+    "id": "089011-2026",
+    "lat": 32.8578,
+    "lng": -96.8744,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 22,
+    "date": "2026-06-19",
     "neighborhood": "Bachman"
   },
   {
@@ -691,6 +416,72 @@
     "hour": 12,
     "date": "2025-10-14",
     "neighborhood": "Bachman"
+  },
+  {
+    "id": "000025-2026",
+    "lat": 32.8745,
+    "lng": -96.8685,
+    "offense": "poss cont sub pen grp 2 < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-01-01",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "071519-2026",
+    "lat": 32.8572,
+    "lng": -96.8671,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 18,
+    "date": "2026-05-14",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "112122-2026",
+    "lat": 32.8624,
+    "lng": -96.8911,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-07-31",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "097536-2026",
+    "lat": 32.8599,
+    "lng": -96.8757,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 1,
+    "date": "2026-07-05",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "130016-2026",
+    "lat": 32.8603,
+    "lng": -96.8672,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-09-03",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "185611-2025",
+    "lat": 32.8641,
+    "lng": -96.8381,
+    "offense": "collision inv injury",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2025-12-29",
+    "neighborhood": "Midway Hollow"
   },
   {
     "id": "103246-2026",
@@ -1131,5 +922,93 @@
     "hour": 8,
     "date": "2026-07-15",
     "neighborhood": "Bachman"
+  },
+  {
+    "id": "100250-2026",
+    "lat": 32.8605,
+    "lng": -96.9001,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-07-10",
+    "neighborhood": null
+  },
+  {
+    "id": "812429-2026",
+    "lat": 32.8642,
+    "lng": -96.9021,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 15,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "004819-2026",
+    "lat": 32.8604,
+    "lng": -96.8707,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-01-10",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "006021-2026",
+    "lat": 32.8775,
+    "lng": -96.858,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 2,
+    "date": "2026-01-13",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "083509-2026",
+    "lat": 32.8662,
+    "lng": -96.8759,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 1,
+    "date": "2026-06-10",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "092506-2026",
+    "lat": 32.871,
+    "lng": -96.8911,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-06-25",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "130016-2026",
+    "lat": 32.8603,
+    "lng": -96.8672,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-09-03",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "812891-2026",
+    "lat": 32.8714,
+    "lng": -96.8547,
+    "offense": "theft of material alum/brnze/copper <$20k pc31.03(e4f)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 18,
+    "date": "2026-06-23",
+    "neighborhood": "Midway Hollow"
   }
 ]

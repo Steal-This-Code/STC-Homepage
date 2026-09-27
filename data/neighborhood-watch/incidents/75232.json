@@ -11,17 +11,6 @@
     "neighborhood": "Glen Hills"
   },
   {
-    "id": "137589-2026",
-    "lat": 32.6613,
-    "lng": -96.8245,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 8,
-    "date": "2026-09-18",
-    "neighborhood": null
-  },
-  {
     "id": "000646-2026",
     "lat": 32.6378,
     "lng": -96.857,
@@ -55,26 +44,180 @@
     "neighborhood": "Club Oaks"
   },
   {
-    "id": "139339-2026",
-    "lat": 32.6472,
-    "lng": -96.8567,
-    "offense": "disorderly conduct discharge/display firearm (no assault)",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-09-21",
+    "id": "004767-2026",
+    "lat": 32.6713,
+    "lng": -96.8557,
+    "offense": "injured person - at home (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2026-01-10",
+    "neighborhood": "Elderwood"
+  },
+  {
+    "id": "816080-2026",
+    "lat": 32.6904,
+    "lng": -96.8568,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 1,
+    "date": "2026-08-12",
+    "neighborhood": "Club Oaks"
+  },
+  {
+    "id": "031514-2026",
+    "lat": 32.676,
+    "lng": -96.8242,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2026-03-05",
+    "neighborhood": "Beckley Heights"
+  },
+  {
+    "id": "000833-2026",
+    "lat": 32.6378,
+    "lng": -96.857,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 0,
+    "date": "2025-10-15",
     "neighborhood": null
   },
   {
-    "id": "814687-2026",
-    "lat": 32.6498,
-    "lng": -96.8427,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "other",
+    "id": "074356-2026",
+    "lat": 32.6627,
+    "lng": -96.8236,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "convenience store",
+    "hour": 12,
+    "date": "2026-05-24",
+    "neighborhood": null
+  },
+  {
+    "id": "004800-2026",
+    "lat": 32.6815,
+    "lng": -96.8429,
+    "offense": "dog bite - injured person",
+    "group": "other",
+    "premise": "single family residence - occupied",
     "hour": 17,
-    "date": "2026-07-19",
-    "neighborhood": "Wheatland Hills"
+    "date": "2026-01-10",
+    "neighborhood": "Twin Oaks"
+  },
+  {
+    "id": "120183-2026",
+    "lat": 32.6482,
+    "lng": -96.8359,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 12,
+    "date": "2026-08-14",
+    "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "091016-2026",
+    "lat": 32.6607,
+    "lng": -96.8512,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "090599-2026",
+    "lat": 32.6488,
+    "lng": -96.8396,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "business office",
+    "hour": 20,
+    "date": "2026-06-22",
+    "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "825620-2025",
+    "lat": 32.6713,
+    "lng": -96.8559,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "condominium/townhome residence",
+    "hour": 13,
+    "date": "2025-12-09",
+    "neighborhood": "Elderwood"
+  },
+  {
+    "id": "103490-2026",
+    "lat": 32.6617,
+    "lng": -96.8387,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 22,
+    "date": "2026-07-15",
+    "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "083975-2026",
+    "lat": 32.6481,
+    "lng": -96.837,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-10",
+    "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "185438-2025",
+    "lat": 32.6791,
+    "lng": -96.8449,
+    "offense": "unlawful carrying weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2025-12-29",
+    "neighborhood": "Twin Oaks"
+  },
+  {
+    "id": "186017-2025",
+    "lat": 32.6547,
+    "lng": -96.8368,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2025-12-28",
+    "neighborhood": "Polk Terrace"
+  },
+  {
+    "id": "089365-2026",
+    "lat": 32.6872,
+    "lng": -96.8468,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-19",
+    "neighborhood": "Oak Park North"
+  },
+  {
+    "id": "089365-2026",
+    "lat": 32.6872,
+    "lng": -96.8468,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-19",
+    "neighborhood": "Oak Park North"
   },
   {
     "id": "080452-2026",
@@ -163,5 +306,49 @@
     "hour": 3,
     "date": "2026-03-28",
     "neighborhood": "Beckley Heights"
+  },
+  {
+    "id": "034084-2026",
+    "lat": 32.6623,
+    "lng": -96.826,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-03-10",
+    "neighborhood": null
+  },
+  {
+    "id": "093060-2026",
+    "lat": 32.6652,
+    "lng": -96.8392,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-06-26",
+    "neighborhood": "Woodland Canyon"
+  },
+  {
+    "id": "162361-2025",
+    "lat": 32.6753,
+    "lng": -96.8233,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 13,
+    "date": "2025-11-11",
+    "neighborhood": "Beckley Heights"
+  },
+  {
+    "id": "081211-2026",
+    "lat": 32.6716,
+    "lng": -96.8514,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-05",
+    "neighborhood": null
   }
 ]

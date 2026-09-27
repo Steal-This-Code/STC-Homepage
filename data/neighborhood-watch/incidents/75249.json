@@ -33,6 +33,28 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
+    "id": "812710-2026",
+    "lat": 32.6491,
+    "lng": -96.9444,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-06-19",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "079089-2026",
+    "lat": 32.6228,
+    "lng": -96.9452,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-06-01",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
     "id": "095722-2026",
     "lat": 32.6246,
     "lng": -96.9454,

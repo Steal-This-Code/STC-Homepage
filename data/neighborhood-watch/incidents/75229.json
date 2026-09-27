@@ -1,38 +1,5 @@
 [
   {
-    "id": "001594-2026",
-    "lat": 32.8953,
-    "lng": -96.8902,
-    "offense": "robbery of business (agg)",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 10,
-    "date": "2026-01-04",
-    "neighborhood": null
-  },
-  {
-    "id": "175221-2025",
-    "lat": 32.8936,
-    "lng": -96.8923,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2025-12-07",
-    "neighborhood": null
-  },
-  {
-    "id": "177860-2025",
-    "lat": 32.8875,
-    "lng": -96.8619,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-13",
-    "neighborhood": "Joe's Creek-Walnut Garden"
-  },
-  {
     "id": "817936-2026",
     "lat": 32.9051,
     "lng": -96.8963,
@@ -66,17 +33,6 @@
     "neighborhood": null
   },
   {
-    "id": "171849-2025",
-    "lat": 32.881,
-    "lng": -96.8902,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-30",
-    "neighborhood": "Bachman"
-  },
-  {
     "id": "101412-2026",
     "lat": 32.8808,
     "lng": -96.8798,
@@ -86,127 +42,6 @@
     "hour": 4,
     "date": "2026-07-12",
     "neighborhood": "Bachman"
-  },
-  {
-    "id": "173894-2025",
-    "lat": 32.8864,
-    "lng": -96.8903,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2025-12-05",
-    "neighborhood": null
-  },
-  {
-    "id": "070132-2026",
-    "lat": 32.8955,
-    "lng": -96.9057,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "170605-2025",
-    "lat": 32.8961,
-    "lng": -96.8776,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-11-28",
-    "neighborhood": null
-  },
-  {
-    "id": "825402-2025",
-    "lat": 32.9052,
-    "lng": -96.8799,
-    "offense": "accident inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-12-07",
-    "neighborhood": null
-  },
-  {
-    "id": "078773-2026",
-    "lat": 32.9088,
-    "lng": -96.8573,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-06-01",
-    "neighborhood": "Park Forest"
-  },
-  {
-    "id": "180214-2025",
-    "lat": 32.889,
-    "lng": -96.8905,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-12-17",
-    "neighborhood": null
-  },
-  {
-    "id": "176575-2025",
-    "lat": 32.8961,
-    "lng": -96.8716,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "department/discount store",
-    "hour": 10,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "818607-2026",
-    "lat": 32.8911,
-    "lng": -96.8883,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-09-12",
-    "neighborhood": null
-  },
-  {
-    "id": "140098-2026",
-    "lat": 32.9041,
-    "lng": -96.8946,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-09-23",
-    "neighborhood": null
-  },
-  {
-    "id": "171904-2025",
-    "lat": 32.8953,
-    "lng": -96.8903,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "180672-2025",
-    "lat": 32.881,
-    "lng": -96.8943,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2025-12-18",
-    "neighborhood": null
   },
   {
     "id": "011056-2026",
@@ -228,50 +63,6 @@
     "premise": "highway, street, alley etc",
     "hour": 12,
     "date": "2026-02-18",
-    "neighborhood": null
-  },
-  {
-    "id": "138607-2026",
-    "lat": 32.889,
-    "lng": -96.8905,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "134873-2026",
-    "lat": 32.8897,
-    "lng": -96.8939,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-09-12",
-    "neighborhood": null
-  },
-  {
-    "id": "171849-2025",
-    "lat": 32.881,
-    "lng": -96.8902,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-30",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "136556-2026",
-    "lat": 32.8959,
-    "lng": -96.8903,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-09-16",
     "neighborhood": null
   },
   {
@@ -319,113 +110,69 @@
     "neighborhood": null
   },
   {
-    "id": "087438-2026",
-    "lat": 32.8916,
-    "lng": -96.8649,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 4,
-    "date": "2026-06-16",
-    "neighborhood": "Sparkman Club Estates"
+    "id": "800744-2026",
+    "lat": 32.8805,
+    "lng": -96.8168,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "construction site",
+    "hour": 14,
+    "date": "2026-01-10",
+    "neighborhood": "Mayflower Estates"
   },
   {
-    "id": "814069-2026",
-    "lat": 32.8808,
-    "lng": -96.8661,
-    "offense": "reckless damage",
+    "id": "092926-2026",
+    "lat": 32.8864,
+    "lng": -96.8987,
+    "offense": "recovered out of town stolen vehicle (no offense)",
     "group": "other",
-    "premise": "condominium/townhome residence",
-    "hour": 0,
-    "date": "2026-07-11",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-06-26",
     "neighborhood": null
   },
   {
-    "id": "137261-2026",
-    "lat": 32.9094,
-    "lng": -96.8684,
+    "id": "176550-2025",
+    "lat": 32.8982,
+    "lng": -96.8811,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 14,
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "078773-2026",
+    "lat": 32.9088,
+    "lng": -96.8573,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-09-17",
-    "neighborhood": null
-  },
-  {
-    "id": "093708-2026",
-    "lat": 32.8893,
-    "lng": -96.9021,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-06-28",
-    "neighborhood": null
-  },
-  {
-    "id": "139138-2026",
-    "lat": 32.889,
-    "lng": -96.8905,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-21",
-    "neighborhood": null
-  },
-  {
-    "id": "085068-2026",
-    "lat": 32.8961,
-    "lng": -96.8936,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
     "hour": 9,
-    "date": "2026-06-11",
-    "neighborhood": null
+    "date": "2026-06-01",
+    "neighborhood": "Park Forest"
   },
   {
-    "id": "808288-2026",
-    "lat": 32.8996,
-    "lng": -96.8951,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
+    "id": "816305-2026",
+    "lat": 32.9074,
+    "lng": -96.8854,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 14,
-    "date": "2026-01-01",
+    "premise": "retail store",
+    "hour": 17,
+    "date": "2026-07-21",
     "neighborhood": null
   },
   {
-    "id": "089679-2026",
-    "lat": 32.8939,
-    "lng": -96.8968,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 2,
-    "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "098771-2026",
-    "lat": 32.9015,
-    "lng": -96.8421,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-07-01",
-    "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "102056-2026",
-    "lat": 32.8954,
-    "lng": -96.8932,
-    "offense": "criminal trespass warning",
+    "id": "812838-2026",
+    "lat": 32.883,
+    "lng": -96.8967,
+    "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-07-13",
+    "hour": 22,
+    "date": "2026-06-17",
     "neighborhood": null
   },
   {
@@ -437,6 +184,105 @@
     "premise": "parking (business)",
     "hour": 1,
     "date": "2025-10-04",
+    "neighborhood": null
+  },
+  {
+    "id": "030575-2026",
+    "lat": 32.8879,
+    "lng": -96.8816,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-03-04",
+    "neighborhood": null
+  },
+  {
+    "id": "813623-2026",
+    "lat": 32.9045,
+    "lng": -96.8571,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-07-07",
+    "neighborhood": "Park Forest"
+  },
+  {
+    "id": "005353-2026",
+    "lat": 32.8856,
+    "lng": -96.8961,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 19,
+    "date": "2026-01-11",
+    "neighborhood": null
+  },
+  {
+    "id": "088454-2026",
+    "lat": 32.8955,
+    "lng": -96.9098,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "parking (business)",
+    "hour": 21,
+    "date": "2026-06-18",
+    "neighborhood": null
+  },
+  {
+    "id": "812498-2026",
+    "lat": 32.9074,
+    "lng": -96.8854,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 19,
+    "date": "2026-06-15",
+    "neighborhood": null
+  },
+  {
+    "id": "813714-2026",
+    "lat": 32.8834,
+    "lng": -96.8814,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "industrial/manufacturing",
+    "hour": 11,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "004662-2026",
+    "lat": 32.8959,
+    "lng": -96.8903,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 11,
+    "date": "2026-01-10",
+    "neighborhood": null
+  },
+  {
+    "id": "094131-2026",
+    "lat": 32.8893,
+    "lng": -96.9021,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-28",
+    "neighborhood": null
+  },
+  {
+    "id": "007810-2026",
+    "lat": 32.8834,
+    "lng": -96.8814,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-01-15",
     "neighborhood": null
   },
   {
@@ -702,5 +548,71 @@
     "hour": 11,
     "date": "2026-02-04",
     "neighborhood": null
+  },
+  {
+    "id": "032790-2026",
+    "lat": 32.8948,
+    "lng": -96.8107,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-03-08",
+    "neighborhood": null
+  },
+  {
+    "id": "007810-2026",
+    "lat": 32.8834,
+    "lng": -96.8814,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 9,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "004132-2026",
+    "lat": 32.8961,
+    "lng": -96.8708,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "006194-2026",
+    "lat": 32.8971,
+    "lng": -96.8959,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-01-13",
+    "neighborhood": null
+  },
+  {
+    "id": "815332-2026",
+    "lat": 32.9048,
+    "lng": -96.875,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2026-07-20",
+    "neighborhood": null
+  },
+  {
+    "id": "002504-2026",
+    "lat": 32.8814,
+    "lng": -96.8573,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 5,
+    "date": "2026-01-06",
+    "neighborhood": "Joe's Creek-Walnut Garden"
   }
 ]
