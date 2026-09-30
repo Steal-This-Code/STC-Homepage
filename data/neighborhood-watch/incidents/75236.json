@@ -1,27 +1,5 @@
 [
   {
-    "id": "139808-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "819504-2026",
-    "lat": 32.663,
-    "lng": -96.9343,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-08-15",
-    "neighborhood": null
-  },
-  {
     "id": "141326-2026",
     "lat": 32.698,
     "lng": -96.8989,
@@ -31,17 +9,6 @@
     "hour": 8,
     "date": "2026-09-18",
     "neighborhood": "Country Creek"
-  },
-  {
-    "id": "143275-2026",
-    "lat": 32.6642,
-    "lng": -96.9356,
-    "offense": "harassment-repeated electronic comm - non-threatening",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-08-25",
-    "neighborhood": null
   },
   {
     "id": "138627-2026",
@@ -55,6 +22,39 @@
     "neighborhood": null
   },
   {
+    "id": "139808-2026",
+    "lat": 32.668,
+    "lng": -96.8891,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-09-20",
+    "neighborhood": null
+  },
+  {
+    "id": "809803-2026",
+    "lat": 32.6936,
+    "lng": -96.9087,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 17,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "800819-2026",
+    "lat": 32.6977,
+    "lng": -96.8996,
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 11,
+    "date": "2026-01-08",
+    "neighborhood": "Country Creek"
+  },
+  {
     "id": "070281-2026",
     "lat": 32.6675,
     "lng": -96.9282,
@@ -63,39 +63,6 @@
     "premise": "apartment parking lot",
     "hour": 21,
     "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "802534-2026",
-    "lat": 32.6934,
-    "lng": -96.8915,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "039322-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-20",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "801158-2026",
-    "lat": 32.6667,
-    "lng": -96.9409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-15",
     "neighborhood": null
   },
   {
@@ -250,6 +217,39 @@
     "premise": "highway, street, alley etc",
     "hour": 19,
     "date": "2026-05-30",
+    "neighborhood": null
+  },
+  {
+    "id": "107790-2026",
+    "lat": 32.667,
+    "lng": -96.9565,
+    "offense": "theft by deception (fraud) <$100",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 8,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "128150-2026",
+    "lat": 32.6701,
+    "lng": -96.8909,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "convenience store",
+    "hour": 6,
+    "date": "2026-08-31",
+    "neighborhood": null
+  },
+  {
+    "id": "126843-2026",
+    "lat": 32.6652,
+    "lng": -96.8893,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 20,
+    "date": "2026-08-28",
     "neighborhood": null
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "id": "138663-2026",
-    "lat": 32.6307,
-    "lng": -96.9488,
-    "offense": "deadly conduct discharge firearm (assault)",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-09-20",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "812710-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-06-19",
-    "neighborhood": "Summit Parc"
-  },
-  {
     "id": "079089-2026",
     "lat": 32.6228,
     "lng": -96.9452,
@@ -31,39 +9,6 @@
     "hour": 19,
     "date": "2026-06-01",
     "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "095722-2026",
-    "lat": 32.6246,
-    "lng": -96.9454,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-07-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "070319-2026",
-    "lat": 32.648,
-    "lng": -96.9632,
-    "offense": "traf vio -reckless driving",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "819696-2026",
-    "lat": 32.6576,
-    "lng": -96.9756,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "other",
-    "hour": 1,
-    "date": "2026-09-26",
-    "neighborhood": "Hunter's Bend"
   },
   {
     "id": "050192-2026",
@@ -86,5 +31,38 @@
     "hour": 13,
     "date": "2026-02-14",
     "neighborhood": null
+  },
+  {
+    "id": "136517-2026",
+    "lat": 32.6551,
+    "lng": -96.9685,
+    "offense": "injured person - at home (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-09-16",
+    "neighborhood": "Mountain Ridge"
+  },
+  {
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "077792-2026",
+    "lat": 32.6328,
+    "lng": -96.9506,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-05-29",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]
