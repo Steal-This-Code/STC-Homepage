@@ -1,5 +1,60 @@
 [
   {
+    "id": "168018-2025",
+    "lat": 32.6913,
+    "lng": -96.8856,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "817754-2026",
+    "lat": 32.7121,
+    "lng": -96.8819,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-09-01",
+    "neighborhood": null
+  },
+  {
+    "id": "813395-2026",
+    "lat": 32.7129,
+    "lng": -96.8774,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2026-06-03",
+    "neighborhood": null
+  },
+  {
+    "id": "161224-2025",
+    "lat": 32.7107,
+    "lng": -96.8742,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "other",
+    "hour": 6,
+    "date": "2025-11-09",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "809382-2026",
+    "lat": 32.7063,
+    "lng": -96.8879,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 6,
+    "date": "2026-05-01",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
     "id": "814281-2026",
     "lat": 32.7169,
     "lng": -96.8735,
@@ -55,69 +110,14 @@
     "neighborhood": null
   },
   {
-    "id": "826262-2025",
-    "lat": 32.7022,
-    "lng": -96.8871,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2025-12-19",
-    "neighborhood": null
-  },
-  {
-    "id": "803444-2026",
-    "lat": 32.6953,
-    "lng": -96.8878,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2025-12-30",
-    "neighborhood": null
-  },
-  {
-    "id": "079766-2026",
-    "lat": 32.7126,
-    "lng": -96.8761,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-06-03",
-    "neighborhood": null
-  },
-  {
-    "id": "129803-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-08-27",
-    "neighborhood": null
-  },
-  {
-    "id": "129770-2026",
-    "lat": 32.7058,
-    "lng": -96.8669,
-    "offense": "attack by dangerous dog",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-09-03",
-    "neighborhood": null
-  },
-  {
-    "id": "025445-2026",
-    "lat": 32.7153,
-    "lng": -96.8749,
-    "offense": "burglary of building - forced entry",
+    "id": "181636-2025",
+    "lat": 32.7083,
+    "lng": -96.873,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "storage facility",
+    "premise": "outdoor area public/private",
     "hour": 12,
-    "date": "2026-02-21",
+    "date": "2025-12-20",
     "neighborhood": null
   },
   {

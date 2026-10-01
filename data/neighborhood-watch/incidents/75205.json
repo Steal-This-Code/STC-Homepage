@@ -1,5 +1,38 @@
 [
   {
+    "id": "819635-2026",
+    "lat": 32.8257,
+    "lng": -96.7879,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-08-20",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "818074-2026",
+    "lat": 32.8214,
+    "lng": -96.7877,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 19,
+    "date": "2026-09-03",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "801728-2026",
+    "lat": 32.8214,
+    "lng": -96.7899,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 9,
+    "date": "2026-01-23",
+    "neighborhood": "Knox Park"
+  },
+  {
     "id": "813390-2026",
     "lat": 32.8214,
     "lng": -96.7899,
@@ -55,14 +88,14 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "091529-2026",
-    "lat": 32.8227,
-    "lng": -96.7877,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
+    "id": "117381-2026",
+    "lat": 32.82,
+    "lng": -96.7906,
+    "offense": "bmv",
+    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-24",
+    "hour": 21,
+    "date": "2026-08-10",
     "neighborhood": "Knox Park"
   },
   {

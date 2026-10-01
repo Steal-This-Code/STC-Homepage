@@ -1,5 +1,60 @@
 [
   {
+    "id": "065532-2026",
+    "lat": 32.7921,
+    "lng": -96.7791,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-05-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "082499-2026",
+    "lat": 32.7879,
+    "lng": -96.7799,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-06-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "817876-2026",
+    "lat": 32.7959,
+    "lng": -96.7748,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-09-04",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "098714-2026",
+    "lat": 32.7937,
+    "lng": -96.7757,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 0,
+    "date": "2026-07-01",
+    "neighborhood": "Peak's Addition"
+  },
+  {
     "id": "133920-2026",
     "lat": 32.7888,
     "lng": -96.7768,
@@ -52,39 +107,6 @@
     "premise": "highway, street, alley etc",
     "hour": 23,
     "date": "2026-08-17",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "141461-2026",
-    "lat": 32.7959,
-    "lng": -96.7748,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-09-25",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "032978-2026",
-    "lat": 32.7949,
-    "lng": -96.7757,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-03-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "015672-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-02",
     "neighborhood": "Peak's Addition"
   },
   {

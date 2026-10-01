@@ -1,5 +1,27 @@
 [
   {
+    "id": "113462-2026",
+    "lat": 32.6766,
+    "lng": -96.592,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 6,
+    "date": "2026-08-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "141692-2026",
+    "lat": 32.6753,
+    "lng": -96.6026,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-09-25",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "138655-2026",
     "lat": 32.6686,
     "lng": -96.6134,
@@ -88,39 +110,6 @@
     "neighborhood": "Kleberg"
   },
   {
-    "id": "119164-2026",
-    "lat": 32.6921,
-    "lng": -96.5916,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-08-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "097418-2026",
-    "lat": 32.6823,
-    "lng": -96.601,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-07-04",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "135603-2026",
-    "lat": 32.6538,
-    "lng": -96.6513,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 8,
-    "date": "2026-09-14",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "071214-2026",
     "lat": 32.6828,
     "lng": -96.6172,
@@ -173,6 +162,28 @@
     "premise": "highway, street, alley etc",
     "hour": 19,
     "date": "2026-09-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "119213-2026",
+    "lat": 32.6913,
+    "lng": -96.5765,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-08-14",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "098375-2026",
+    "lat": 32.6956,
+    "lng": -96.5741,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 16,
+    "date": "2026-07-03",
     "neighborhood": "Kleberg"
   }
 ]

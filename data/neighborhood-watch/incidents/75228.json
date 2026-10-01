@@ -1,5 +1,60 @@
 [
   {
+    "id": "007133-2026",
+    "lat": 32.8031,
+    "lng": -96.7129,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 11,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "089838-2026",
+    "lat": 32.8484,
+    "lng": -96.642,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "142526-2026",
+    "lat": 32.8035,
+    "lng": -96.7172,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-09-27",
+    "neighborhood": null
+  },
+  {
+    "id": "084112-2026",
+    "lat": 32.8128,
+    "lng": -96.6987,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-06-11",
+    "neighborhood": "Eastwood Hills"
+  },
+  {
+    "id": "115069-2026",
+    "lat": 32.8556,
+    "lng": -96.6498,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-08-06",
+    "neighborhood": null
+  },
+  {
     "id": "095387-2026",
     "lat": 32.796,
     "lng": -96.6887,
@@ -1298,17 +1353,6 @@
     "neighborhood": null
   },
   {
-    "id": "141220-2025",
-    "lat": 32.8113,
-    "lng": -96.7015,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2025-09-30",
-    "neighborhood": "Hillridge"
-  },
-  {
     "id": "147298-2025",
     "lat": 32.8546,
     "lng": -96.6499,
@@ -1493,17 +1537,6 @@
     "premise": "highway, street, alley etc",
     "hour": 3,
     "date": "2025-11-15",
-    "neighborhood": null
-  },
-  {
-    "id": "140690-2026",
-    "lat": 32.7946,
-    "lng": -96.6994,
-    "offense": "assault (agg) -serious bodily injury",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 6,
-    "date": "2026-09-24",
     "neighborhood": null
   },
   {
@@ -1903,358 +1936,6 @@
     "neighborhood": "Casa View Oaks"
   },
   {
-    "id": "170532-2025",
-    "lat": 32.8167,
-    "lng": -96.6883,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2025-11-27",
-    "neighborhood": null
-  },
-  {
-    "id": "090915-2026",
-    "lat": 32.8013,
-    "lng": -96.7117,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 8,
-    "date": "2026-06-20",
-    "neighborhood": "Claremont Addition"
-  },
-  {
-    "id": "122565-2026",
-    "lat": 32.7939,
-    "lng": -96.7204,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 13,
-    "date": "2026-08-20",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "088633-2026",
-    "lat": 32.8102,
-    "lng": -96.6928,
-    "offense": "deadly conduct discharge firearm (damage)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-06-18",
-    "neighborhood": "Eastwood Hills"
-  },
-  {
-    "id": "088186-2026",
-    "lat": 32.8626,
-    "lng": -96.6616,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 10,
-    "date": "2026-04-07",
-    "neighborhood": null
-  },
-  {
-    "id": "100343-2026",
-    "lat": 32.8158,
-    "lng": -96.6982,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "single family residence - vacant",
-    "hour": 6,
-    "date": "2026-07-10",
-    "neighborhood": "Casa Linda Forest"
-  },
-  {
-    "id": "094956-2026",
-    "lat": 32.8264,
-    "lng": -96.6765,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-27",
-    "neighborhood": "Casa View Oaks"
-  },
-  {
-    "id": "040903-2026",
-    "lat": 32.7927,
-    "lng": -96.6931,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-03-23",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "812085-2026",
-    "lat": 32.816,
-    "lng": -96.6731,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "cyberspace",
-    "hour": 11,
-    "date": "2026-06-16",
-    "neighborhood": null
-  },
-  {
-    "id": "119746-2026",
-    "lat": 32.7939,
-    "lng": -96.7204,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 20,
-    "date": "2026-08-14",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "099655-2026",
-    "lat": 32.8143,
-    "lng": -96.6907,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 9,
-    "date": "2026-07-07",
-    "neighborhood": "Eastwood Hills"
-  },
-  {
-    "id": "813592-2026",
-    "lat": 32.8494,
-    "lng": -96.6434,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 7,
-    "date": "2026-07-07",
-    "neighborhood": null
-  },
-  {
-    "id": "812747-2026",
-    "lat": 32.8397,
-    "lng": -96.686,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-06-16",
-    "neighborhood": "Casa View Haven"
-  },
-  {
-    "id": "807522-2026",
-    "lat": 32.8099,
-    "lng": -96.6839,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "813651-2026",
-    "lat": 32.7961,
-    "lng": -96.7021,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-07-08",
-    "neighborhood": "Lakeland Hills"
-  },
-  {
-    "id": "091527-2026",
-    "lat": 32.7951,
-    "lng": -96.6981,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "hotel/motel/etc",
-    "hour": 13,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "827017-2025",
-    "lat": 32.8506,
-    "lng": -96.6598,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2025-12-11",
-    "neighborhood": "Briarwood"
-  },
-  {
-    "id": "093126-2026",
-    "lat": 32.7958,
-    "lng": -96.695,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-06-26",
-    "neighborhood": null
-  },
-  {
-    "id": "091923-2026",
-    "lat": 32.7946,
-    "lng": -96.6994,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 6,
-    "date": "2026-06-25",
-    "neighborhood": null
-  },
-  {
-    "id": "004070-2026",
-    "lat": 32.8039,
-    "lng": -96.6844,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 16,
-    "date": "2025-12-01",
-    "neighborhood": null
-  },
-  {
-    "id": "813201-2026",
-    "lat": 32.8552,
-    "lng": -96.6493,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "088081-2026",
-    "lat": 32.8494,
-    "lng": -96.6434,
-    "offense": "poss cont sub pen grp 2 < 1g *drug free zone*",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "090464-2026",
-    "lat": 32.8073,
-    "lng": -96.6709,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 5,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "069980-2026",
-    "lat": 32.7938,
-    "lng": -96.7163,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-05-16",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "066776-2026",
-    "lat": 32.793,
-    "lng": -96.6894,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2026-05-10",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "014986-2026",
-    "lat": 32.7932,
-    "lng": -96.6955,
-    "offense": "terroristic threat fear imminent sbi",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 14,
-    "date": "2026-02-01",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "079785-2026",
-    "lat": 32.855,
-    "lng": -96.6525,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-06-02",
-    "neighborhood": null
-  },
-  {
-    "id": "007125-2026",
-    "lat": 32.7936,
-    "lng": -96.6863,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 9,
-    "date": "2026-01-15",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "039431-2026",
-    "lat": 32.8496,
-    "lng": -96.6799,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-03-20",
-    "neighborhood": "Casa View"
-  },
-  {
-    "id": "807407-2026",
-    "lat": 32.8646,
-    "lng": -96.6651,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 12,
-    "date": "2026-04-03",
-    "neighborhood": null
-  },
-  {
-    "id": "004679-2026",
-    "lat": 32.8034,
-    "lng": -96.6819,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 12,
-    "date": "2026-01-10",
-    "neighborhood": null
-  },
-  {
-    "id": "006888-2026",
-    "lat": 32.8014,
-    "lng": -96.7125,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-01-14",
-    "neighborhood": "Claremont Addition"
-  },
-  {
     "id": "086502-2026",
     "lat": 32.8027,
     "lng": -96.6897,
@@ -2528,17 +2209,6 @@
     "hour": 21,
     "date": "2025-12-28",
     "neighborhood": "Casa View Oaks"
-  },
-  {
-    "id": "819687-2026",
-    "lat": 32.8422,
-    "lng": -96.6654,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 13,
-    "date": "2026-09-21",
-    "neighborhood": null
   },
   {
     "id": "114051-2026",
@@ -2858,5 +2528,137 @@
     "hour": 15,
     "date": "2026-09-14",
     "neighborhood": null
+  },
+  {
+    "id": "810697-2026",
+    "lat": 32.806,
+    "lng": -96.6891,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 2,
+    "date": "2026-05-22",
+    "neighborhood": null
+  },
+  {
+    "id": "069498-2026",
+    "lat": 32.8403,
+    "lng": -96.6772,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-05-14",
+    "neighborhood": null
+  },
+  {
+    "id": "099524-2026",
+    "lat": 32.8471,
+    "lng": -96.6416,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 20,
+    "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "052004-2026",
+    "lat": 32.8433,
+    "lng": -96.6657,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-04-12",
+    "neighborhood": null
+  },
+  {
+    "id": "103096-2026",
+    "lat": 32.8553,
+    "lng": -96.6494,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "other",
+    "hour": 10,
+    "date": "2026-07-13",
+    "neighborhood": null
+  },
+  {
+    "id": "066299-2026",
+    "lat": 32.8078,
+    "lng": -96.668,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 17,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "160312-2025",
+    "lat": 32.8026,
+    "lng": -96.6882,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2025-11-07",
+    "neighborhood": null
+  },
+  {
+    "id": "029144-2026",
+    "lat": 32.8197,
+    "lng": -96.6776,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-03-01",
+    "neighborhood": null
+  },
+  {
+    "id": "031716-2026",
+    "lat": 32.8301,
+    "lng": -96.68,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-03-04",
+    "neighborhood": "Casa View Haven"
+  },
+  {
+    "id": "806674-2026",
+    "lat": 32.802,
+    "lng": -96.7125,
+    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
+    "group": "property",
+    "premise": "entertainment/sports venue",
+    "hour": 17,
+    "date": "2026-03-29",
+    "neighborhood": "Claremont Addition"
+  },
+  {
+    "id": "098018-2026",
+    "lat": 32.8361,
+    "lng": -96.6722,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "other",
+    "hour": 23,
+    "date": "2026-07-05",
+    "neighborhood": null
+  },
+  {
+    "id": "023877-2026",
+    "lat": 32.793,
+    "lng": -96.6894,
+    "offense": "theft of prop > or equal $100 <$750 enh (shoplift-not emp) pc31.03(f)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2026-02-19",
+    "neighborhood": "Buckner Terrace"
   }
 ]

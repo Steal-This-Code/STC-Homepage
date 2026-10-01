@@ -1,5 +1,16 @@
 [
   {
+    "id": "139297-2026",
+    "lat": 32.9406,
+    "lng": -96.9827,
+    "offense": "deadly conduct",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-09-18",
+    "neighborhood": null
+  },
+  {
     "id": "819500-2026",
     "lat": 32.9291,
     "lng": -96.9899,
@@ -19,17 +30,6 @@
     "premise": "parking lot (all others)",
     "hour": 8,
     "date": "2026-09-01",
-    "neighborhood": null
-  },
-  {
-    "id": "062329-2026",
-    "lat": 32.9374,
-    "lng": -96.9831,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 2,
-    "date": "2026-05-02",
     "neighborhood": null
   },
   {

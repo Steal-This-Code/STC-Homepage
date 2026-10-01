@@ -110,72 +110,6 @@
     "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "817746-2026",
-    "lat": 33.0029,
-    "lng": -96.7965,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2026-08-22",
-    "neighborhood": null
-  },
-  {
-    "id": "061658-2026",
-    "lat": 32.9883,
-    "lng": -96.7701,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-04-30",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "005226-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 15,
-    "date": "2026-01-11",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "812719-2026",
-    "lat": 32.9977,
-    "lng": -96.7949,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "government/public building",
-    "hour": 0,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "092167-2026",
-    "lat": 32.9897,
-    "lng": -96.7722,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-06-25",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "817746-2026",
-    "lat": 33.0029,
-    "lng": -96.7965,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2026-08-22",
-    "neighborhood": null
-  },
-  {
     "id": "808422-2026",
     "lat": 33.0057,
     "lng": -96.7891,
@@ -262,5 +196,16 @@
     "hour": 23,
     "date": "2026-03-31",
     "neighborhood": null
+  },
+  {
+    "id": "011934-2026",
+    "lat": 32.9984,
+    "lng": -96.7879,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-25",
+    "neighborhood": "Preston Highlands"
   }
 ]

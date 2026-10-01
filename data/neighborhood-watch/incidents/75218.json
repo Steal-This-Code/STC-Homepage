@@ -1,5 +1,27 @@
 [
   {
+    "id": "121839-2026",
+    "lat": 32.8454,
+    "lng": -96.69,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-07-30",
+    "neighborhood": "Lochwood"
+  },
+  {
+    "id": "130368-2026",
+    "lat": 32.8636,
+    "lng": -96.68,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "auto dealership new/used",
+    "hour": 9,
+    "date": "2026-01-01",
+    "neighborhood": null
+  },
+  {
     "id": "805568-2026",
     "lat": 32.8485,
     "lng": -96.6856,
@@ -580,105 +602,6 @@
     "premise": "highway, street, alley etc",
     "hour": 3,
     "date": "2025-10-29",
-    "neighborhood": null
-  },
-  {
-    "id": "034876-2026",
-    "lat": 32.8459,
-    "lng": -96.7069,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-03-12",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "002561-2026",
-    "lat": 32.8292,
-    "lng": -96.7069,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-01-05",
-    "neighborhood": null
-  },
-  {
-    "id": "818077-2026",
-    "lat": 32.8388,
-    "lng": -96.7019,
-    "offense": "theft - wire fraud $150k <$300k",
-    "group": "property",
-    "premise": "cyberspace",
-    "hour": 16,
-    "date": "2026-08-10",
-    "neighborhood": "Lake Park Estates"
-  },
-  {
-    "id": "069065-2026",
-    "lat": 32.8192,
-    "lng": -96.7093,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-05-11",
-    "neighborhood": "Little Forest Hills"
-  },
-  {
-    "id": "809611-2026",
-    "lat": 32.8123,
-    "lng": -96.7201,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-05-05",
-    "neighborhood": "Forest Hills"
-  },
-  {
-    "id": "819088-2026",
-    "lat": 32.8539,
-    "lng": -96.7209,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "park",
-    "hour": 10,
-    "date": "2026-09-19",
-    "neighborhood": null
-  },
-  {
-    "id": "099882-2026",
-    "lat": 32.8468,
-    "lng": -96.6869,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 5,
-    "date": "2026-07-09",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "069256-2026",
-    "lat": 32.8492,
-    "lng": -96.6829,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 4,
-    "date": "2026-05-15",
-    "neighborhood": "Casa View"
-  },
-  {
-    "id": "066877-2026",
-    "lat": 32.8292,
-    "lng": -96.7069,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 18,
-    "date": "2026-05-10",
     "neighborhood": null
   },
   {

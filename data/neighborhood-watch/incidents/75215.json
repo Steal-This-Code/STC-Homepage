@@ -1,14 +1,69 @@
 [
   {
-    "id": "819214-2026",
-    "lat": 32.7606,
-    "lng": -96.7464,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "040936-2026",
+    "lat": 32.7686,
+    "lng": -96.7684,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
     "group": "other",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2026-09-22",
-    "neighborhood": "Rose Garden"
+    "premise": "commercial property occupied/vacant",
+    "hour": 5,
+    "date": "2026-03-23",
+    "neighborhood": null
+  },
+  {
+    "id": "007374-2026",
+    "lat": 32.7438,
+    "lng": -96.7578,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-01-15",
+    "neighborhood": null
+  },
+  {
+    "id": "136834-2026",
+    "lat": 32.7554,
+    "lng": -96.757,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-09-16",
+    "neighborhood": "Exline / Charles Rice"
+  },
+  {
+    "id": "130860-2026",
+    "lat": 32.7593,
+    "lng": -96.7518,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-09-04",
+    "neighborhood": "RUFCO"
+  },
+  {
+    "id": "814303-2026",
+    "lat": 32.7685,
+    "lng": -96.7884,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-06-27",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "136173-2026",
+    "lat": 32.7548,
+    "lng": -96.76,
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2026-09-15",
+    "neighborhood": "Exline / Charles Rice"
   },
   {
     "id": "130014-2026",
@@ -31,17 +86,6 @@
     "hour": 0,
     "date": "2026-09-20",
     "neighborhood": "Ideal"
-  },
-  {
-    "id": "136345-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-09-15",
-    "neighborhood": "Cedars"
   },
   {
     "id": "130014-2026",
@@ -97,17 +141,6 @@
     "hour": 11,
     "date": "2025-11-10",
     "neighborhood": null
-  },
-  {
-    "id": "136032-2026",
-    "lat": 32.7512,
-    "lng": -96.7655,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
-    "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2026-09-15",
-    "neighborhood": "Colonial Hill"
   },
   {
     "id": "154782-2025",
@@ -349,347 +382,6 @@
     "premise": "parking lot (all others)",
     "hour": 19,
     "date": "2026-06-24",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "066248-2026",
-    "lat": 32.7529,
-    "lng": -96.7515,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "other",
-    "hour": 14,
-    "date": "2026-05-09",
-    "neighborhood": "Ideal"
-  },
-  {
-    "id": "808828-2026",
-    "lat": 32.7501,
-    "lng": -96.7553,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 19,
-    "date": "2026-04-18",
-    "neighborhood": "Ideal"
-  },
-  {
-    "id": "088157-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-17",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "070747-2026",
-    "lat": 32.7587,
-    "lng": -96.7511,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-05-17",
-    "neighborhood": "RUFCO"
-  },
-  {
-    "id": "095993-2026",
-    "lat": 32.7613,
-    "lng": -96.7789,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2026-07-02",
-    "neighborhood": "Edgewood Place"
-  },
-  {
-    "id": "093262-2026",
-    "lat": 32.7453,
-    "lng": -96.7541,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2026-06-27",
-    "neighborhood": "Bonton"
-  },
-  {
-    "id": "096681-2026",
-    "lat": 32.7627,
-    "lng": -96.7708,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 16,
-    "date": "2026-07-03",
-    "neighborhood": "Exline / Charles Rice"
-  },
-  {
-    "id": "089247-2026",
-    "lat": 32.7731,
-    "lng": -96.768,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 9,
-    "date": "2026-06-20",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "089858-2026",
-    "lat": 32.7727,
-    "lng": -96.7856,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "park",
-    "hour": 13,
-    "date": "2026-06-21",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "063709-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-05-04",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "067425-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-05-11",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "069028-2026",
-    "lat": 32.7505,
-    "lng": -96.7635,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "construction site",
-    "hour": 16,
-    "date": "2026-05-11",
-    "neighborhood": "Colonial Hill"
-  },
-  {
-    "id": "181353-2025",
-    "lat": 32.753,
-    "lng": -96.7684,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2025-12-20",
-    "neighborhood": "Colonial Hill"
-  },
-  {
-    "id": "090645-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 <1g",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-06-22",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "811915-2026",
-    "lat": 32.7547,
-    "lng": -96.7532,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-06-10",
-    "neighborhood": "Ideal"
-  },
-  {
-    "id": "078404-2026",
-    "lat": 32.6836,
-    "lng": -96.6194,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 9,
-    "date": "2026-05-31",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "104265-2026",
-    "lat": 32.7483,
-    "lng": -96.7534,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "business office",
-    "hour": 7,
-    "date": "2026-07-17",
-    "neighborhood": "Ideal"
-  },
-  {
-    "id": "148192-2025",
-    "lat": 32.7266,
-    "lng": -96.8264,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2025-10-14",
-    "neighborhood": "Beckleywood"
-  },
-  {
-    "id": "063655-2026",
-    "lat": 32.7369,
-    "lng": -96.7546,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 0,
-    "date": "2026-05-02",
-    "neighborhood": "Bonton"
-  },
-  {
-    "id": "045612-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-03-31",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "129394-2026",
-    "lat": 32.7724,
-    "lng": -96.7688,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-09-02",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "120915-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-08-17",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "065753-2026",
-    "lat": 32.7452,
-    "lng": -96.7583,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-05-08",
-    "neighborhood": null
-  },
-  {
-    "id": "817673-2026",
-    "lat": 32.7604,
-    "lng": -96.7561,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 6,
-    "date": "2026-08-18",
-    "neighborhood": "RUFCO"
-  },
-  {
-    "id": "071444-2026",
-    "lat": 32.7716,
-    "lng": -96.7831,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 23,
-    "date": "2026-05-18",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "045612-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "delivery marijuana >1/4 oz< or equal 5lbs *drug free zone*",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-03-31",
-    "neighborhood": "Cedars"
-  },
-  {
-    "id": "134274-2026",
-    "lat": 32.7614,
-    "lng": -96.766,
-    "offense": "arson intend damage habitat/place of worship",
-    "group": "property",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 20,
-    "date": "2026-09-11",
-    "neighborhood": "Exline / Charles Rice"
-  },
-  {
-    "id": "006352-2026",
-    "lat": 32.7521,
-    "lng": -96.7649,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2026-01-07",
-    "neighborhood": "Colonial Hill"
-  },
-  {
-    "id": "078335-2026",
-    "lat": 32.7486,
-    "lng": -96.7624,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-05-30",
-    "neighborhood": null
-  },
-  {
-    "id": "177233-2025",
-    "lat": 32.763,
-    "lng": -96.7736,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 9,
-    "date": "2025-12-11",
-    "neighborhood": null
-  },
-  {
-    "id": "099421-2026",
-    "lat": 32.7674,
-    "lng": -96.7951,
-    "offense": "man del cont sub pen grp 1-b > or equals 4g<200g",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 17,
-    "date": "2026-07-08",
     "neighborhood": "Cedars"
   },
   {
@@ -1252,5 +944,104 @@
     "hour": 14,
     "date": "2026-07-11",
     "neighborhood": "Cedars"
+  },
+  {
+    "id": "121828-2026",
+    "lat": 32.7674,
+    "lng": -96.7951,
+    "offense": "man del cont sub pen grp 1 <1g",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 12,
+    "date": "2026-08-19",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "000218-2026",
+    "lat": 32.7674,
+    "lng": -96.7951,
+    "offense": "dog fighting - preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-01-01",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "012677-2026",
+    "lat": 32.7529,
+    "lng": -96.7542,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-01-27",
+    "neighborhood": "Ideal"
+  },
+  {
+    "id": "015657-2026",
+    "lat": 32.7674,
+    "lng": -96.7951,
+    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2026-02-02",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "072006-2026",
+    "lat": 32.7684,
+    "lng": -96.7713,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 2,
+    "date": "2026-05-20",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "120697-2026",
+    "lat": 32.7674,
+    "lng": -96.7951,
+    "offense": "fail to comply sex offenders duty to register life/annually",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 11,
+    "date": "2026-08-20",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "100400-2026",
+    "lat": 32.7711,
+    "lng": -96.7914,
+    "offense": "crim mischief > or equal $2,500 < $30k",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 4,
+    "date": "2026-07-10",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "015824-2026",
+    "lat": 32.772,
+    "lng": -96.785,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-01-28",
+    "neighborhood": "Cedars"
+  },
+  {
+    "id": "081634-2026",
+    "lat": 32.7602,
+    "lng": -96.7478,
+    "offense": "collision inv injury",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-06-06",
+    "neighborhood": null
   }
 ]

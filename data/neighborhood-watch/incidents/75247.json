@@ -1,5 +1,60 @@
 [
   {
+    "id": "121666-2026",
+    "lat": 32.8079,
+    "lng": -96.8738,
+    "offense": "poss cont sub pen grp 2 > or equal 4g<400g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-08-19",
+    "neighborhood": null
+  },
+  {
+    "id": "815844-2026",
+    "lat": 32.8361,
+    "lng": -96.8729,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 18,
+    "date": "2026-08-07",
+    "neighborhood": null
+  },
+  {
+    "id": "140487-2026",
+    "lat": 32.8177,
+    "lng": -96.8673,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-09-23",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "819362-2026",
+    "lat": 32.8222,
+    "lng": -96.8622,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-09-21",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "136121-2026",
+    "lat": 32.8068,
+    "lng": -96.8853,
+    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 15,
+    "date": "2026-09-12",
+    "neighborhood": null
+  },
+  {
     "id": "023181-2026",
     "lat": 32.8191,
     "lng": -96.8689,
@@ -8,28 +63,6 @@
     "premise": "highway, street, alley etc",
     "hour": 14,
     "date": "2026-02-17",
-    "neighborhood": null
-  },
-  {
-    "id": "012271-2026",
-    "lat": 32.8267,
-    "lng": -96.8796,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-01-26",
-    "neighborhood": null
-  },
-  {
-    "id": "024824-2026",
-    "lat": 32.8056,
-    "lng": -96.8736,
-    "offense": "traf vio -reckless driving",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-02-21",
     "neighborhood": null
   },
   {
@@ -63,17 +96,6 @@
     "premise": "condominium/townhome residence",
     "hour": 18,
     "date": "2026-09-12",
-    "neighborhood": null
-  },
-  {
-    "id": "819727-2026",
-    "lat": 32.8197,
-    "lng": -96.8686,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-09-28",
     "neighborhood": null
   },
   {
@@ -119,138 +141,6 @@
     "hour": 2,
     "date": "2026-08-19",
     "neighborhood": null
-  },
-  {
-    "id": "008578-2026",
-    "lat": 32.8353,
-    "lng": -96.8742,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2026-01-18",
-    "neighborhood": null
-  },
-  {
-    "id": "090204-2026",
-    "lat": 32.8286,
-    "lng": -96.8719,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 4,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "128767-2026",
-    "lat": 32.8059,
-    "lng": -96.8722,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-08-31",
-    "neighborhood": null
-  },
-  {
-    "id": "102091-2026",
-    "lat": 32.8283,
-    "lng": -96.8799,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 13,
-    "date": "2026-07-11",
-    "neighborhood": null
-  },
-  {
-    "id": "814114-2026",
-    "lat": 32.8202,
-    "lng": -96.8661,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "government/public building",
-    "hour": 8,
-    "date": "2026-07-07",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "091003-2026",
-    "lat": 32.8314,
-    "lng": -96.8729,
-    "offense": "harassment -preliminary investigation",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-06-23",
-    "neighborhood": null
-  },
-  {
-    "id": "129926-2026",
-    "lat": 32.8125,
-    "lng": -96.8615,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-09-03",
-    "neighborhood": null
-  },
-  {
-    "id": "079899-2026",
-    "lat": 32.8279,
-    "lng": -96.8714,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-06-03",
-    "neighborhood": null
-  },
-  {
-    "id": "064499-2026",
-    "lat": 32.8125,
-    "lng": -96.8615,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-05-06",
-    "neighborhood": "Southwestern Medical District"
-  },
-  {
-    "id": "166362-2025",
-    "lat": 32.8232,
-    "lng": -96.8679,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "business office",
-    "hour": 0,
-    "date": "2025-11-19",
-    "neighborhood": null
-  },
-  {
-    "id": "006913-2026",
-    "lat": 32.8062,
-    "lng": -96.8919,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 6,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "821157-2025",
-    "lat": 32.8119,
-    "lng": -96.8498,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2025-10-11",
-    "neighborhood": "Southwestern Medical District"
   },
   {
     "id": "098942-2026",
@@ -404,6 +294,17 @@
     "premise": "parking (business)",
     "hour": 13,
     "date": "2026-06-30",
+    "neighborhood": null
+  },
+  {
+    "id": "801446-2026",
+    "lat": 32.8224,
+    "lng": -96.8801,
+    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 14,
+    "date": "2025-12-10",
     "neighborhood": null
   }
 ]
