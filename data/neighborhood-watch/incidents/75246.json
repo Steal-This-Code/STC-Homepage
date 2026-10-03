@@ -22,17 +22,6 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "133920-2026",
-    "lat": 32.7888,
-    "lng": -96.7768,
-    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
-    "group": "property",
-    "premise": "other",
-    "hour": 16,
-    "date": "2026-09-10",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
     "id": "098714-2026",
     "lat": 32.7937,
     "lng": -96.7757,
@@ -66,36 +55,14 @@
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "032978-2026",
-    "lat": 32.7949,
-    "lng": -96.7757,
-    "offense": "assault - preliminary investigation *non family violence",
+    "id": "104872-2026",
+    "lat": 32.7976,
+    "lng": -96.7725,
+    "offense": "assault -bodily injury only",
     "group": "violent",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-03-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "109510-2026",
-    "lat": 32.7951,
-    "lng": -96.7773,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-07-26",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "811715-2026",
-    "lat": 32.797,
-    "lng": -96.7683,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-06-04",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-07-18",
     "neighborhood": "Peak's Addition"
   },
   {
