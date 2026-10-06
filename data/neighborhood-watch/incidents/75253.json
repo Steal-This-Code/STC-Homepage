@@ -1,69 +1,36 @@
 [
   {
-    "id": "801067-2026",
-    "lat": 32.6832,
-    "lng": -96.5628,
-    "offense": "bmv",
+    "id": "113462-2026",
+    "lat": 32.6766,
+    "lng": -96.592,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 6,
+    "date": "2026-08-03",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "141692-2026",
+    "lat": 32.6753,
+    "lng": -96.6026,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 3,
-    "date": "2026-01-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "084197-2026",
-    "lat": 32.6693,
-    "lng": -96.6107,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 21,
-    "date": "2026-06-10",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "111042-2026",
-    "lat": 32.6934,
-    "lng": -96.5808,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
+    "premise": "highway, street, alley etc",
     "hour": 23,
-    "date": "2026-07-29",
+    "date": "2026-09-25",
     "neighborhood": "Kleberg"
   },
   {
-    "id": "010970-2026",
-    "lat": 32.6966,
-    "lng": -96.5674,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-22",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "011864-2026",
-    "lat": 32.6986,
-    "lng": -96.5777,
-    "offense": "motor vehicle theft",
+    "id": "157335-2025",
+    "lat": 32.6765,
+    "lng": -96.6015,
+    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
     "group": "property",
-    "premise": "condominium/townhome parking",
-    "hour": 16,
-    "date": "2026-01-24",
+    "premise": "convenience store",
+    "hour": 14,
+    "date": "2025-11-01",
     "neighborhood": "Kleberg"
-  },
-  {
-    "id": "822499-2025",
-    "lat": 32.6903,
-    "lng": -96.64,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2025-10-31",
-    "neighborhood": "Rylie"
   },
   {
     "id": "011864-2026",
@@ -151,17 +118,6 @@
     "premise": "other",
     "hour": 8,
     "date": "2026-09-14",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "134092-2026",
-    "lat": 32.6891,
-    "lng": -96.5757,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-09-11",
     "neighborhood": "Kleberg"
   },
   {

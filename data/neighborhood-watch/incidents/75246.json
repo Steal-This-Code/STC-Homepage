@@ -1,25 +1,36 @@
 [
   {
-    "id": "030249-2026",
-    "lat": 32.7959,
-    "lng": -96.7653,
-    "offense": "dog bite - injured person",
+    "id": "810208-2026",
+    "lat": 32.7902,
+    "lng": -96.7794,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 17,
-    "date": "2026-03-02",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-04-16",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "817876-2026",
+    "lat": 32.7959,
+    "lng": -96.7748,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-09-04",
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "104872-2026",
-    "lat": 32.7976,
-    "lng": -96.7725,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-07-18",
-    "neighborhood": "Peak's Addition"
+    "id": "133920-2026",
+    "lat": 32.7888,
+    "lng": -96.7768,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "other",
+    "hour": 16,
+    "date": "2026-09-10",
+    "neighborhood": "Baylor / Meadows"
   },
   {
     "id": "816672-2026",

@@ -1,91 +1,58 @@
 [
   {
-    "id": "802919-2026",
-    "lat": 32.9695,
-    "lng": -96.812,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 10,
-    "date": "2025-11-25",
-    "neighborhood": null
-  },
-  {
-    "id": "802662-2026",
-    "lat": 32.9863,
-    "lng": -96.8037,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 22,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
-    "id": "816626-2026",
-    "lat": 32.9592,
-    "lng": -96.8169,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 13,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "054866-2026",
-    "lat": 32.9685,
-    "lng": -96.8165,
+    "id": "006791-2026",
+    "lat": 32.9605,
+    "lng": -96.7858,
     "offense": "burglary of habitation -no forced entry",
     "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-04-17",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "173292-2025",
-    "lat": 32.9563,
-    "lng": -96.8044,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-03",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-01-11",
     "neighborhood": null
   },
   {
-    "id": "812703-2026",
-    "lat": 32.9721,
-    "lng": -96.7702,
+    "id": "813474-2026",
+    "lat": 32.9584,
+    "lng": -96.8131,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 11,
+    "date": "2026-07-01",
+    "neighborhood": null
+  },
+  {
+    "id": "818561-2026",
+    "lat": 32.963,
+    "lng": -96.8057,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-09-14",
+    "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "819238-2026",
+    "lat": 32.9678,
+    "lng": -96.7733,
+    "offense": "credit card or debit card abuse - preliminary investigation",
+    "group": "other",
+    "premise": "department/discount store",
+    "hour": 10,
+    "date": "2026-05-22",
+    "neighborhood": "Estates West"
+  },
+  {
+    "id": "814168-2026",
+    "lat": 32.9664,
+    "lng": -96.8185,
     "offense": "fraud use/poss identifying info-preliminary investigation",
     "group": "property",
-    "premise": "other",
-    "hour": 20,
-    "date": "2026-06-16",
-    "neighborhood": null
-  },
-  {
-    "id": "056927-2026",
-    "lat": 32.9685,
-    "lng": -96.8165,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
     "premise": "apartment residence",
-    "hour": 7,
-    "date": "2026-04-21",
+    "hour": 12,
+    "date": "2026-07-08",
     "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "094760-2026",
-    "lat": 32.9543,
-    "lng": -96.8039,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 7,
-    "date": "2026-06-30",
-    "neighborhood": null
   },
   {
     "id": "093120-2026",
@@ -383,17 +350,6 @@
     "hour": 12,
     "date": "2026-03-17",
     "neighborhood": null
-  },
-  {
-    "id": "013314-2026",
-    "lat": 32.965,
-    "lng": -96.8167,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-01-28",
-    "neighborhood": "Chalfont Place"
   },
   {
     "id": "075501-2026",

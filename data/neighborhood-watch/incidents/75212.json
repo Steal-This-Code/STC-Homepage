@@ -1,90 +1,112 @@
 [
   {
-    "id": "144057-2026",
-    "lat": 32.7822,
-    "lng": -96.8581,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "park",
-    "hour": 1,
-    "date": "2026-08-22",
-    "neighborhood": "Lake West"
+    "id": "015116-2026",
+    "lat": 32.7786,
+    "lng": -96.8536,
+    "offense": "intoxication assault w/veh serious bodily injury",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-02-01",
+    "neighborhood": "Los Altos"
   },
   {
-    "id": "804849-2026",
-    "lat": 32.769,
-    "lng": -96.8732,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "government facility",
-    "hour": 17,
-    "date": "2026-03-06",
-    "neighborhood": null
-  },
-  {
-    "id": "138144-2026",
-    "lat": 32.7936,
-    "lng": -96.9045,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-09-11",
+    "id": "150342-2025",
+    "lat": 32.777,
+    "lng": -96.9101,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2025-10-18",
     "neighborhood": "Ledbetter"
   },
   {
-    "id": "819640-2026",
-    "lat": 32.7796,
-    "lng": -96.8296,
+    "id": "013334-2026",
+    "lat": 32.7775,
+    "lng": -96.8418,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-01-29",
+    "neighborhood": "Muncie"
+  },
+  {
+    "id": "129183-2026",
+    "lat": 32.7856,
+    "lng": -96.9057,
+    "offense": "cruelty to non-livestock anmls fail prov/abdn/trnspt/bi/ovwk",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-09-01",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "816629-2026",
+    "lat": 32.7894,
+    "lng": -96.8564,
     "offense": "reckless damage",
     "group": "other",
-    "premise": "parking (business)",
+    "premise": "gas or service station",
+    "hour": 15,
+    "date": "2026-08-17",
+    "neighborhood": null
+  },
+  {
+    "id": "136884-2026",
+    "lat": 32.7889,
+    "lng": -96.9014,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-09-16",
+    "neighborhood": "Ledbetter"
+  },
+  {
+    "id": "818698-2026",
+    "lat": 32.768,
+    "lng": -96.895,
+    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
+    "group": "property",
+    "premise": "hotel/motel/etc",
     "hour": 18,
-    "date": "2026-09-27",
-    "neighborhood": "La Bajada"
+    "date": "2026-09-14",
+    "neighborhood": null
   },
   {
-    "id": "135024-2026",
-    "lat": 32.7786,
-    "lng": -96.8327,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "parking lot (all others)",
-    "hour": 6,
-    "date": "2026-09-13",
-    "neighborhood": "La L'aceate"
+    "id": "132710-2026",
+    "lat": 32.7796,
+    "lng": -96.9013,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 15,
+    "date": "2026-09-08",
+    "neighborhood": "Ledbetter"
   },
   {
-    "id": "090726-2026",
-    "lat": 32.7807,
-    "lng": -96.8798,
+    "id": "098490-2026",
+    "lat": 32.7765,
+    "lng": -96.8423,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "other",
-    "hour": 1,
-    "date": "2026-06-22",
-    "neighborhood": "Westmoreland Heights"
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-07-03",
+    "neighborhood": "Muncie"
   },
   {
-    "id": "090345-2026",
-    "lat": 32.7786,
-    "lng": -96.8338,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2026-06-21",
-    "neighborhood": "La L'aceate"
-  },
-  {
-    "id": "146983-2025",
-    "lat": 32.7814,
-    "lng": -96.828,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "id": "088985-2026",
+    "lat": 32.7846,
+    "lng": -96.833,
+    "offense": "dwi",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-10-11",
+    "hour": 22,
+    "date": "2026-06-19",
     "neighborhood": "La Bajada"
   },
   {
@@ -154,15 +176,15 @@
     "neighborhood": "La L'aceate"
   },
   {
-    "id": "138545-2026",
-    "lat": 32.7906,
-    "lng": -96.8911,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-09-19",
-    "neighborhood": null
+    "id": "143010-2026",
+    "lat": 32.7784,
+    "lng": -96.8272,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 3,
+    "date": "2026-09-27",
+    "neighborhood": "La L'aceate"
   },
   {
     "id": "072463-2026",
@@ -385,17 +407,6 @@
     "neighborhood": "Ledbetter"
   },
   {
-    "id": "142712-2026",
-    "lat": 32.7925,
-    "lng": -96.8743,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 19,
-    "date": "2026-09-27",
-    "neighborhood": "Ledbetter Gardens"
-  },
-  {
     "id": "095461-2026",
     "lat": 32.7775,
     "lng": -96.8421,
@@ -572,17 +583,6 @@
     "neighborhood": "Los Altos"
   },
   {
-    "id": "142712-2026",
-    "lat": 32.7925,
-    "lng": -96.8743,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 19,
-    "date": "2026-09-27",
-    "neighborhood": "Ledbetter Gardens"
-  },
-  {
     "id": "030822-2026",
     "lat": 32.7873,
     "lng": -96.869,
@@ -603,16 +603,5 @@
     "hour": 6,
     "date": "2026-05-09",
     "neighborhood": "Westmoreland Heights"
-  },
-  {
-    "id": "085441-2026",
-    "lat": 32.7775,
-    "lng": -96.8418,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 19,
-    "date": "2026-06-12",
-    "neighborhood": "Muncie"
   }
 ]

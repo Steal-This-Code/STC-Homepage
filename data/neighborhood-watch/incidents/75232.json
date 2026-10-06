@@ -1,24 +1,35 @@
 [
   {
-    "id": "000646-2026",
-    "lat": 32.6378,
-    "lng": -96.857,
-    "offense": "burglary of building - forced entry",
+    "id": "133214-2026",
+    "lat": 32.6738,
+    "lng": -96.8536,
+    "offense": "theft - preliminary investigation",
     "group": "property",
-    "premise": "storage facility",
-    "hour": 8,
-    "date": "2025-11-02",
-    "neighborhood": null
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-09-08",
+    "neighborhood": "Glen Hills"
   },
   {
-    "id": "126067-2026",
-    "lat": 32.6428,
-    "lng": -96.8574,
-    "offense": "criminal trespass affidavit",
+    "id": "036194-2026",
+    "lat": 32.677,
+    "lng": -96.8493,
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "convenience store",
-    "hour": 13,
-    "date": "2026-08-27",
+    "premise": "outdoor area public/private",
+    "hour": 15,
+    "date": "2026-03-14",
+    "neighborhood": "Twin Oaks"
+  },
+  {
+    "id": "137589-2026",
+    "lat": 32.6613,
+    "lng": -96.8245,
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 8,
+    "date": "2026-09-18",
     "neighborhood": null
   },
   {

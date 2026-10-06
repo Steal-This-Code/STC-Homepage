@@ -1,35 +1,68 @@
 [
   {
-    "id": "071833-2026",
-    "lat": 32.8286,
-    "lng": -96.8719,
-    "offense": "recovered out of town stolen property (no offense)",
+    "id": "815844-2026",
+    "lat": 32.8361,
+    "lng": -96.8729,
+    "offense": "bmv",
     "group": "other",
-    "premise": null,
-    "hour": 14,
-    "date": "2026-05-19",
+    "premise": "other",
+    "hour": 18,
+    "date": "2026-08-07",
     "neighborhood": null
   },
   {
-    "id": "134766-2026",
-    "lat": 32.8088,
-    "lng": -96.8698,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "condominium/townhome residence",
+    "id": "140487-2026",
+    "lat": 32.8177,
+    "lng": -96.8673,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
     "hour": 18,
+    "date": "2026-09-23",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "819362-2026",
+    "lat": 32.8222,
+    "lng": -96.8622,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-09-21",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "136121-2026",
+    "lat": 32.8068,
+    "lng": -96.8853,
+    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 15,
     "date": "2026-09-12",
     "neighborhood": null
   },
   {
-    "id": "119163-2026",
-    "lat": 32.8266,
-    "lng": -96.8826,
-    "offense": "bmv",
+    "id": "023181-2026",
+    "lat": 32.8191,
+    "lng": -96.8689,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-08-14",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-02-17",
+    "neighborhood": null
+  },
+  {
+    "id": "122632-2026",
+    "lat": 32.8254,
+    "lng": -96.8847,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "entertainment/sports venue",
+    "hour": 21,
+    "date": "2026-08-20",
     "neighborhood": null
   },
   {
@@ -283,6 +316,17 @@
     "premise": "parking lot (all others)",
     "hour": 14,
     "date": "2026-07-08",
+    "neighborhood": null
+  },
+  {
+    "id": "004166-2026",
+    "lat": 32.8259,
+    "lng": -96.8662,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-01-08",
     "neighborhood": null
   }
 ]

@@ -1,13 +1,57 @@
 [
   {
-    "id": "139606-2026",
-    "lat": 32.7109,
-    "lng": -96.8745,
-    "offense": "public intoxication",
+    "id": "168018-2025",
+    "lat": 32.6913,
+    "lng": -96.8856,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 10,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "817754-2026",
+    "lat": 32.7121,
+    "lng": -96.8819,
+    "offense": "reckless damage",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-22",
+    "hour": 7,
+    "date": "2026-09-01",
+    "neighborhood": null
+  },
+  {
+    "id": "813395-2026",
+    "lat": 32.7129,
+    "lng": -96.8774,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 12,
+    "date": "2026-06-03",
+    "neighborhood": null
+  },
+  {
+    "id": "809382-2026",
+    "lat": 32.7063,
+    "lng": -96.8879,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 6,
+    "date": "2026-05-01",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
+    "id": "814281-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 4,
+    "date": "2026-07-11",
     "neighborhood": null
   },
   {
@@ -196,17 +240,6 @@
     "hour": 23,
     "date": "2025-10-09",
     "neighborhood": null
-  },
-  {
-    "id": "143160-2026",
-    "lat": 32.7048,
-    "lng": -96.8821,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-09-28",
-    "neighborhood": "Kiest Forest"
   },
   {
     "id": "125736-2026",

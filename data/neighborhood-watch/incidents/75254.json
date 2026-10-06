@@ -1,5 +1,27 @@
 [
   {
+    "id": "144433-2026",
+    "lat": 32.9417,
+    "lng": -96.7691,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "other",
+    "hour": 4,
+    "date": "2026-10-01",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "139775-2026",
+    "lat": 32.944,
+    "lng": -96.8163,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-09-22",
+    "neighborhood": null
+  },
+  {
     "id": "818918-2026",
     "lat": 32.9409,
     "lng": -96.8188,
@@ -118,6 +140,17 @@
     "premise": "apartment complex/building",
     "hour": 11,
     "date": "2026-07-17",
+    "neighborhood": null
+  },
+  {
+    "id": "820192-2026",
+    "lat": 32.9391,
+    "lng": -96.808,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 8,
+    "date": "2026-10-04",
     "neighborhood": null
   },
   {
@@ -242,6 +275,17 @@
     "neighborhood": null
   },
   {
+    "id": "820072-2026",
+    "lat": 32.9476,
+    "lng": -96.8212,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-09-06",
+    "neighborhood": null
+  },
+  {
     "id": "085334-2026",
     "lat": 32.9455,
     "lng": -96.817,
@@ -327,17 +371,6 @@
     "premise": "apartment parking lot",
     "hour": 16,
     "date": "2026-07-15",
-    "neighborhood": null
-  },
-  {
-    "id": "145617-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-10-03",
     "neighborhood": null
   }
 ]

@@ -1,36 +1,36 @@
 [
   {
-    "id": "806978-2026",
-    "lat": 32.7819,
-    "lng": -96.7522,
-    "offense": "criminal mischief > or equal $30k<$150k",
+    "id": "145409-2026",
+    "lat": 32.7796,
+    "lng": -96.7384,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-03-28",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-10-02",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "138130-2026",
+    "lat": 32.8051,
+    "lng": -96.7326,
+    "offense": "deadly conduct",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 3,
+    "date": "2026-09-19",
     "neighborhood": null
   },
   {
-    "id": "083945-2026",
-    "lat": 32.7871,
-    "lng": -96.7509,
-    "offense": "bmv",
+    "id": "815139-2026",
+    "lat": 32.7806,
+    "lng": -96.7386,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 5,
-    "date": "2026-06-06",
-    "neighborhood": null
-  },
-  {
-    "id": "036776-2026",
-    "lat": 32.7818,
-    "lng": -96.7501,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-01-01",
-    "neighborhood": null
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-23",
+    "neighborhood": "Dolphin Heights"
   },
   {
     "id": "085404-2026",

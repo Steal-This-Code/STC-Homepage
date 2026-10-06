@@ -1,102 +1,58 @@
 [
   {
-    "id": "004206-2026",
-    "lat": 32.7413,
-    "lng": -96.8031,
-    "offense": "possession of drug paraphernalia",
+    "id": "141663-2026",
+    "lat": 32.7541,
+    "lng": -96.809,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-01-09",
+    "hour": 21,
+    "date": "2026-09-25",
+    "neighborhood": null
+  },
+  {
+    "id": "826150-2025",
+    "lat": 32.7441,
+    "lng": -96.8006,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2025-12-16",
     "neighborhood": "The Heights"
   },
   {
-    "id": "141795-2026",
-    "lat": 32.7457,
-    "lng": -96.8196,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "jail/prison/penitentiary/corrections fac",
-    "hour": 23,
-    "date": "2026-09-25",
-    "neighborhood": null
-  },
-  {
-    "id": "120659-2026",
-    "lat": 32.7246,
-    "lng": -96.7955,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "159999-2025",
+    "lat": 32.7392,
+    "lng": -96.8003,
+    "offense": "traffic violation - hazardous",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-08-16",
-    "neighborhood": "Cedar Crest Country Club Estates"
-  },
-  {
-    "id": "141363-2026",
-    "lat": 32.7548,
-    "lng": -96.8201,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-09-25",
-    "neighborhood": "Lake Cliff"
-  },
-  {
-    "id": "119145-2026",
-    "lat": 32.759,
-    "lng": -96.8205,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "gas or service station",
-    "hour": 15,
-    "date": "2026-08-14",
-    "neighborhood": null
-  },
-  {
-    "id": "136053-2026",
-    "lat": 32.7407,
-    "lng": -96.8232,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "camp/campground",
-    "hour": 8,
-    "date": "2026-09-15",
-    "neighborhood": null
-  },
-  {
-    "id": "087612-2026",
-    "lat": 32.7608,
-    "lng": -96.818,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
     "hour": 18,
-    "date": "2026-06-16",
+    "date": "2025-11-06",
+    "neighborhood": "The Heights"
+  },
+  {
+    "id": "004606-2026",
+    "lat": 32.7687,
+    "lng": -96.8228,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 9,
+    "date": "2026-01-10",
     "neighborhood": null
   },
   {
-    "id": "137552-2026",
-    "lat": 32.7463,
-    "lng": -96.7868,
-    "offense": "theft of material alum/brnze/copper <$20k pc31.03(e4f)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 14,
-    "date": "2026-09-16",
-    "neighborhood": "Skyline Heights"
-  },
-  {
-    "id": "089369-2026",
-    "lat": 32.7538,
-    "lng": -96.8172,
-    "offense": "missing person (no offense)",
+    "id": "817216-2026",
+    "lat": 32.7529,
+    "lng": -96.811,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "other",
-    "hour": 0,
-    "date": "2026-05-20",
-    "neighborhood": "Lake Cliff"
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-08-25",
+    "neighborhood": null
   },
   {
     "id": "108271-2026",
@@ -231,15 +187,15 @@
     "neighborhood": null
   },
   {
-    "id": "144599-2026",
-    "lat": 32.7661,
-    "lng": -96.822,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-09-30",
-    "neighborhood": null
+    "id": "040076-2026",
+    "lat": 32.7407,
+    "lng": -96.7983,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-03-21",
+    "neighborhood": "Skyline Heights"
   },
   {
     "id": "001705-2026",
@@ -416,17 +372,6 @@
     "hour": 5,
     "date": "2026-01-05",
     "neighborhood": "Cedar Crest"
-  },
-  {
-    "id": "173817-2025",
-    "lat": 32.7487,
-    "lng": -96.7992,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2025-12-04",
-    "neighborhood": null
   },
   {
     "id": "045602-2026",

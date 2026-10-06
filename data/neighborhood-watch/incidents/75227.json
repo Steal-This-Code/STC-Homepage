@@ -1,47 +1,91 @@
 [
   {
-    "id": "143536-2026",
-    "lat": 32.7805,
-    "lng": -96.7231,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "131156-2026",
+    "lat": 32.7708,
+    "lng": -96.691,
+    "offense": "possession of drug paraphernalia",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-26",
-    "neighborhood": null
+    "hour": 20,
+    "date": "2026-09-05",
+    "neighborhood": "Urbandale"
   },
   {
-    "id": "138138-2026",
-    "lat": 32.7814,
-    "lng": -96.7231,
-    "offense": "keeping a gambling place",
-    "group": "other",
-    "premise": "gambling facility/casino/race track",
-    "hour": 5,
-    "date": "2026-09-19",
-    "neighborhood": null
-  },
-  {
-    "id": "066023-2026",
-    "lat": 32.768,
-    "lng": -96.703,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-05-09",
-    "neighborhood": null
-  },
-  {
-    "id": "078986-2026",
-    "lat": 32.7877,
-    "lng": -96.6868,
-    "offense": "burglary of habitation -no forced entry",
+    "id": "132491-2026",
+    "lat": 32.7653,
+    "lng": -96.698,
+    "offense": "burglary of habitation - forced entry",
     "group": "property",
     "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-09-07",
+    "neighborhood": "Urbandale"
+  },
+  {
+    "id": "140034-2026",
+    "lat": 32.7688,
+    "lng": -96.6826,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-09-22",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "072490-2026",
+    "lat": 32.7655,
+    "lng": -96.6507,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-05-21",
+    "neighborhood": "Independence Park"
+  },
+  {
+    "id": "012226-2026",
+    "lat": 32.7552,
+    "lng": -96.6829,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 14,
+    "date": "2026-01-26",
+    "neighborhood": "Piedmont / Scyene"
+  },
+  {
+    "id": "020580-2026",
+    "lat": 32.7684,
+    "lng": -96.6753,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "single family residence - occupied",
     "hour": 5,
-    "date": "2026-06-01",
-    "neighborhood": "Buckner Terrace"
+    "date": "2026-02-13",
+    "neighborhood": "Pleasant Mound"
+  },
+  {
+    "id": "050046-2026",
+    "lat": 32.7613,
+    "lng": -96.6827,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-04-08",
+    "neighborhood": null
+  },
+  {
+    "id": "135395-2026",
+    "lat": 32.782,
+    "lng": -96.682,
+    "offense": "robbery of business (agg)",
+    "group": "violent",
+    "premise": "convenience store",
+    "hour": 23,
+    "date": "2026-09-13",
+    "neighborhood": null
   },
   {
     "id": "140172-2026",
@@ -262,17 +306,6 @@
     "hour": 18,
     "date": "2026-05-05",
     "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "807383-2026",
-    "lat": 32.7851,
-    "lng": -96.7154,
-    "offense": "theft - wire fraud $2500 <$30k",
-    "group": "property",
-    "premise": "cyberspace",
-    "hour": 18,
-    "date": "2026-03-26",
-    "neighborhood": "Enclave at Grove Hill"
   },
   {
     "id": "817751-2026",
@@ -735,6 +768,17 @@
     "hour": 12,
     "date": "2025-12-29",
     "neighborhood": "Buckner Terrace"
+  },
+  {
+    "id": "807383-2026",
+    "lat": 32.7851,
+    "lng": -96.7154,
+    "offense": "theft - wire fraud $2500 <$30k",
+    "group": "property",
+    "premise": "cyberspace",
+    "hour": 18,
+    "date": "2026-03-26",
+    "neighborhood": "Enclave at Grove Hill"
   },
   {
     "id": "129188-2026",

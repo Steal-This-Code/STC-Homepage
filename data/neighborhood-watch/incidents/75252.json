@@ -1,24 +1,24 @@
 [
   {
-    "id": "816704-2026",
-    "lat": 33.0006,
-    "lng": -96.7768,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "144635-2026",
+    "lat": 32.9881,
+    "lng": -96.7756,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "other",
-    "hour": 18,
-    "date": "2026-08-06",
-    "neighborhood": null
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-10-01",
+    "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "088187-2026",
-    "lat": 32.9927,
-    "lng": -96.7935,
-    "offense": "found property (no offense)",
+    "id": "140307-2026",
+    "lat": 32.9977,
+    "lng": -96.7949,
+    "offense": "traffic fatality- not dwi- unintentional (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-06-18",
+    "hour": 17,
+    "date": "2026-01-20",
     "neighborhood": null
   },
   {
@@ -264,17 +264,6 @@
     "neighborhood": null
   },
   {
-    "id": "821094-2025",
-    "lat": 32.9957,
-    "lng": -96.7939,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 7,
-    "date": "2025-10-05",
-    "neighborhood": null
-  },
-  {
     "id": "002707-2026",
     "lat": 32.9894,
     "lng": -96.8014,
@@ -283,6 +272,17 @@
     "premise": "restaurant/food service/tabc location",
     "hour": 14,
     "date": "2026-01-06",
+    "neighborhood": null
+  },
+  {
+    "id": "815390-2026",
+    "lat": 32.9998,
+    "lng": -96.8019,
+    "offense": null,
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-07-05",
     "neighborhood": null
   }
 ]
