@@ -44,91 +44,14 @@
     "neighborhood": "Preston Hollow"
   },
   {
-    "id": "812869-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "id": "814515-2026",
+    "lat": 32.852,
+    "lng": -96.8008,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
     "group": "property",
-    "premise": "retail store",
-    "hour": 16,
-    "date": "2026-06-26",
-    "neighborhood": null
-  },
-  {
-    "id": "813431-2026",
-    "lat": 32.8593,
-    "lng": -96.7796,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2026-06-30",
-    "neighborhood": "Caruth Hills"
-  },
-  {
-    "id": "021068-2026",
-    "lat": 32.8517,
-    "lng": -96.7715,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-02-14",
-    "neighborhood": "Caruth Hills"
-  },
-  {
-    "id": "088691-2026",
-    "lat": 32.8643,
-    "lng": -96.8091,
-    "offense": "theft - wire fraud $150k <$300k",
-    "group": "property",
-    "premise": "cyberspace",
+    "premise": "financial institution",
     "hour": 12,
-    "date": "2026-04-13",
-    "neighborhood": null
-  },
-  {
-    "id": "802807-2026",
-    "lat": 32.8777,
-    "lng": -96.772,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-02-04",
-    "neighborhood": "Glen Lakes"
-  },
-  {
-    "id": "093396-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-06-27",
-    "neighborhood": null
-  },
-  {
-    "id": "812701-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 14,
-    "date": "2026-06-20",
-    "neighborhood": null
-  },
-  {
-    "id": "128441-2026",
-    "lat": 32.8714,
-    "lng": -96.7707,
-    "offense": "assault (agg) -(sbi) - traffic - reckless driving",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-08-31",
+    "date": "2026-07-02",
     "neighborhood": null
   },
   {
@@ -239,83 +162,6 @@
     "premise": "parking lot (all others)",
     "hour": 17,
     "date": "2026-01-28",
-    "neighborhood": null
-  },
-  {
-    "id": "815796-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "theft of prop > or equal $750 <$2,500 (shoplift-not emp) pc31.03(e3)",
-    "group": "property",
-    "premise": "shopping mall",
-    "hour": 13,
-    "date": "2026-08-09",
-    "neighborhood": null
-  },
-  {
-    "id": "013039-2026",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 17,
-    "date": "2026-01-28",
-    "neighborhood": null
-  },
-  {
-    "id": "821360-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 15,
-    "date": "2025-10-14",
-    "neighborhood": null
-  },
-  {
-    "id": "183367-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "800957-2026",
-    "lat": 32.8677,
-    "lng": -96.7928,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-01-12",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "183367-2025",
-    "lat": 32.8696,
-    "lng": -96.7707,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "813659-2026",
-    "lat": 32.8589,
-    "lng": -96.8101,
-    "offense": "credit card or debit card abuse - preliminary investigation",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-06-22",
     "neighborhood": null
   },
   {

@@ -33,47 +33,25 @@
     "neighborhood": null
   },
   {
-    "id": "004767-2026",
-    "lat": 32.6713,
-    "lng": -96.8557,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 10,
-    "date": "2026-01-10",
-    "neighborhood": "Elderwood"
-  },
-  {
-    "id": "031514-2026",
-    "lat": 32.676,
-    "lng": -96.8242,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 21,
-    "date": "2026-03-05",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "000833-2026",
+    "id": "000646-2026",
     "lat": 32.6378,
     "lng": -96.857,
-    "offense": "burglary of building - no forced entry",
+    "offense": "burglary of building - forced entry",
     "group": "property",
     "premise": "storage facility",
-    "hour": 0,
-    "date": "2025-10-15",
+    "hour": 8,
+    "date": "2025-11-02",
     "neighborhood": null
   },
   {
-    "id": "074356-2026",
-    "lat": 32.6627,
-    "lng": -96.8236,
-    "offense": "robbery of business",
-    "group": "violent",
+    "id": "126067-2026",
+    "lat": 32.6428,
+    "lng": -96.8574,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
     "premise": "convenience store",
-    "hour": 12,
-    "date": "2026-05-24",
+    "hour": 13,
+    "date": "2026-08-27",
     "neighborhood": null
   },
   {
@@ -231,83 +209,6 @@
     "neighborhood": "Polk Terrace"
   },
   {
-    "id": "071202-2026",
-    "lat": 32.6367,
-    "lng": -96.8371,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-05-18",
-    "neighborhood": null
-  },
-  {
-    "id": "069734-2026",
-    "lat": 32.666,
-    "lng": -96.8574,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (park)",
-    "hour": 19,
-    "date": "2026-05-15",
-    "neighborhood": null
-  },
-  {
-    "id": "064355-2026",
-    "lat": 32.6483,
-    "lng": -96.8325,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-05-06",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "822349-2025",
-    "lat": 32.6538,
-    "lng": -96.836,
-    "offense": "theft by deception (fraud) <$100",
-    "group": "property",
-    "premise": "financial institution",
-    "hour": 21,
-    "date": "2025-10-30",
-    "neighborhood": "Polk Terrace"
-  },
-  {
-    "id": "043679-2026",
-    "lat": 32.6673,
-    "lng": -96.8279,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-03-28",
-    "neighborhood": "Beckley Heights"
-  },
-  {
-    "id": "093060-2026",
-    "lat": 32.6652,
-    "lng": -96.8392,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-26",
-    "neighborhood": "Woodland Canyon"
-  },
-  {
-    "id": "162361-2025",
-    "lat": 32.6753,
-    "lng": -96.8233,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 13,
-    "date": "2025-11-11",
-    "neighborhood": "Beckley Heights"
-  },
-  {
     "id": "081211-2026",
     "lat": 32.6716,
     "lng": -96.8514,
@@ -451,17 +352,6 @@
     "neighborhood": null
   },
   {
-    "id": "810484-2026",
-    "lat": 32.6717,
-    "lng": -96.8236,
-    "offense": "theft by deception (fraud) >or equal $30k <$150k",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 11,
-    "date": "2025-10-31",
-    "neighborhood": "Beckley Heights"
-  },
-  {
     "id": "095650-2026",
     "lat": 32.6485,
     "lng": -96.843,
@@ -515,6 +405,17 @@
     "hour": 11,
     "date": "2026-09-11",
     "neighborhood": null
+  },
+  {
+    "id": "826821-2025",
+    "lat": 32.6617,
+    "lng": -96.8321,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 0,
+    "date": "2025-12-25",
+    "neighborhood": "Polk Terrace"
   },
   {
     "id": "159647-2025",

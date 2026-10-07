@@ -22,39 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "139808-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "809803-2026",
-    "lat": 32.6936,
-    "lng": -96.9087,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 17,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "800819-2026",
-    "lat": 32.6977,
-    "lng": -96.8996,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 11,
-    "date": "2026-01-08",
-    "neighborhood": "Country Creek"
-  },
-  {
     "id": "070281-2026",
     "lat": 32.6675,
     "lng": -96.9282,
@@ -63,50 +30,6 @@
     "premise": "apartment parking lot",
     "hour": 21,
     "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "802534-2026",
-    "lat": 32.6934,
-    "lng": -96.8915,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "801158-2026",
-    "lat": 32.6667,
-    "lng": -96.9409,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-01-15",
-    "neighborhood": null
-  },
-  {
-    "id": "072104-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-05-19",
-    "neighborhood": null
-  },
-  {
-    "id": "009285-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 13,
-    "date": "2026-01-18",
     "neighborhood": null
   },
   {
@@ -140,17 +63,6 @@
     "premise": "apartment complex/building",
     "hour": 22,
     "date": "2026-09-07",
-    "neighborhood": null
-  },
-  {
-    "id": "089568-2026",
-    "lat": 32.6724,
-    "lng": -96.9685,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-20",
     "neighborhood": null
   },
   {
