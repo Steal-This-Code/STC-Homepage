@@ -2,191 +2,71 @@
   {
     "month": "2025-10-01",
     "crime_group": "other",
-    "incidents": 112
+    "incidents": 1
   },
   {
-    "month": "2025-10-01",
+    "month": "2025-11-01",
+    "crime_group": "other",
+    "incidents": 1
+  },
+  {
+    "month": "2025-12-01",
+    "crime_group": "other",
+    "incidents": 2
+  },
+  {
+    "month": "2025-12-01",
     "crime_group": "property",
-    "incidents": 14
+    "incidents": 2
   },
   {
-    "month": "2025-10-01",
-    "crime_group": "violent",
+    "month": "2026-01-01",
+    "crime_group": "other",
+    "incidents": 1
+  },
+  {
+    "month": "2026-02-01",
+    "crime_group": "other",
     "incidents": 3
   },
   {
-    "month": "2025-11-01",
+    "month": "2026-03-01",
     "crime_group": "other",
-    "incidents": 157
+    "incidents": 3
   },
   {
-    "month": "2025-11-01",
-    "crime_group": "property",
-    "incidents": 14
-  },
-  {
-    "month": "2025-11-01",
-    "crime_group": "violent",
-    "incidents": 6
-  },
-  {
-    "month": "2025-12-01",
+    "month": "2026-04-01",
     "crime_group": "other",
-    "incidents": 154
+    "incidents": 2
   },
   {
-    "month": "2025-12-01",
+    "month": "2026-05-01",
     "crime_group": "property",
-    "incidents": 54
+    "incidents": 1
   },
   {
-    "month": "2025-12-01",
-    "crime_group": "violent",
-    "incidents": 9
-  },
-  {
-    "month": "2026-01-01",
+    "month": "2026-07-01",
     "crime_group": "other",
-    "incidents": 189
-  },
-  {
-    "month": "2026-01-01",
-    "crime_group": "property",
-    "incidents": 99
-  },
-  {
-    "month": "2026-01-01",
-    "crime_group": "violent",
-    "incidents": 11
-  },
-  {
-    "month": "2026-02-01",
-    "crime_group": "other",
-    "incidents": 70
-  },
-  {
-    "month": "2026-02-01",
-    "crime_group": "property",
-    "incidents": 25
-  },
-  {
-    "month": "2026-02-01",
-    "crime_group": "violent",
     "incidents": 4
   },
   {
-    "month": "2026-03-01",
-    "crime_group": "other",
-    "incidents": 66
-  },
-  {
-    "month": "2026-03-01",
-    "crime_group": "property",
-    "incidents": 44
-  },
-  {
-    "month": "2026-03-01",
-    "crime_group": "violent",
-    "incidents": 5
-  },
-  {
-    "month": "2026-04-01",
-    "crime_group": "other",
-    "incidents": 75
-  },
-  {
-    "month": "2026-04-01",
-    "crime_group": "property",
-    "incidents": 37
-  },
-  {
-    "month": "2026-04-01",
-    "crime_group": "violent",
-    "incidents": 9
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "other",
-    "incidents": 216
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "property",
-    "incidents": 81
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "violent",
-    "incidents": 14
-  },
-  {
-    "month": "2026-06-01",
-    "crime_group": "other",
-    "incidents": 209
-  },
-  {
-    "month": "2026-06-01",
-    "crime_group": "property",
-    "incidents": 166
-  },
-  {
-    "month": "2026-06-01",
-    "crime_group": "violent",
-    "incidents": 34
-  },
-  {
-    "month": "2026-07-01",
-    "crime_group": "other",
-    "incidents": 129
-  },
-  {
-    "month": "2026-07-01",
-    "crime_group": "property",
-    "incidents": 50
-  },
-  {
     "month": "2026-07-01",
     "crime_group": "violent",
-    "incidents": 8
+    "incidents": 1
   },
   {
     "month": "2026-08-01",
     "crime_group": "other",
-    "incidents": 103
-  },
-  {
-    "month": "2026-08-01",
-    "crime_group": "property",
-    "incidents": 47
-  },
-  {
-    "month": "2026-08-01",
-    "crime_group": "violent",
-    "incidents": 12
+    "incidents": 1
   },
   {
     "month": "2026-09-01",
     "crime_group": "other",
-    "incidents": 179
-  },
-  {
-    "month": "2026-09-01",
-    "crime_group": "property",
-    "incidents": 65
-  },
-  {
-    "month": "2026-09-01",
-    "crime_group": "violent",
-    "incidents": 31
+    "incidents": 4
   },
   {
     "month": "2026-10-01",
     "crime_group": "other",
-    "incidents": 11
-  },
-  {
-    "month": "2026-10-01",
-    "crime_group": "property",
-    "incidents": 4
+    "incidents": 1
   }
 ]
