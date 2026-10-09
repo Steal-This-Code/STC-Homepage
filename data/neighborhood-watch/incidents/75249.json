@@ -1,68 +1,35 @@
 [
   {
-    "id": "822890-2025",
-    "lat": 32.6582,
-    "lng": -96.9486,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2025-10-29",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "079089-2026",
-    "lat": 32.6228,
-    "lng": -96.9452,
-    "offense": "harassment-repeated electronic comm - threat",
+    "id": "044013-2026",
+    "lat": 32.6405,
+    "lng": -96.9498,
+    "offense": "criminal trespass warning",
     "group": "other",
     "premise": "single family residence - occupied",
     "hour": 19,
-    "date": "2026-06-01",
+    "date": "2026-03-28",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "095722-2026",
-    "lat": 32.6246,
-    "lng": -96.9454,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "041840-2026",
+    "lat": 32.649,
+    "lng": -96.9731,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-03-24",
+    "neighborhood": "Fox Hollow"
+  },
+  {
+    "id": "045418-2026",
+    "lat": 32.6545,
+    "lng": -96.9717,
+    "offense": "harassment - non-threatening",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-07-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "070319-2026",
-    "lat": 32.648,
-    "lng": -96.9632,
-    "offense": "traf vio -reckless driving",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-05-16",
-    "neighborhood": null
-  },
-  {
-    "id": "050192-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-03-19",
-    "neighborhood": null
-  },
-  {
-    "id": "021890-2026",
-    "lat": 32.6442,
-    "lng": -96.9681,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-02-14",
-    "neighborhood": null
+    "hour": 7,
+    "date": "2026-03-31",
+    "neighborhood": "Hunter's Bend"
   }
 ]
