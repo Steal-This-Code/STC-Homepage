@@ -1,24 +1,13 @@
 [
   {
-    "id": "044671-2026",
-    "lat": 32.7938,
-    "lng": -96.7749,
-    "offense": "harassment - non-threatening",
+    "id": "091687-2026",
+    "lat": 32.7937,
+    "lng": -96.7779,
+    "offense": "evading arrest detention",
     "group": "other",
-    "premise": "apartment residence",
-    "hour": 1,
-    "date": "2026-03-12",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "045427-2026",
-    "lat": 32.7952,
-    "lng": -96.7761,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-03-31",
-    "neighborhood": "Peak's Addition"
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-06-24",
+    "neighborhood": "Baylor / Meadows"
   }
 ]

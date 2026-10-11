@@ -1,35 +1,13 @@
 [
   {
-    "id": "044595-2026",
-    "lat": 32.9095,
-    "lng": -96.8535,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-03-29",
-    "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "045763-2026",
-    "lat": 32.9164,
-    "lng": -96.8175,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "044801-2026",
-    "lat": 32.9242,
-    "lng": -96.8396,
-    "offense": "deadly conduct",
+    "id": "090818-2026",
+    "lat": 32.9254,
+    "lng": -96.8251,
+    "offense": "abandoned property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-03-30",
+    "hour": 8,
+    "date": "2026-06-23",
     "neighborhood": null
   }
 ]

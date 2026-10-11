@@ -1,112 +1,24 @@
 [
   {
-    "id": "044878-2026",
-    "lat": 32.9562,
-    "lng": -96.7847,
-    "offense": "natural death (no offense)",
+    "id": "090125-2026",
+    "lat": 32.9608,
+    "lng": -96.8186,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-03-30",
-    "neighborhood": "Prestonwood Estates East"
-  },
-  {
-    "id": "044073-2026",
-    "lat": 32.9629,
-    "lng": -96.8134,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-03-28",
+    "premise": "gas or service station",
+    "hour": 21,
+    "date": "2026-06-21",
     "neighborhood": "Chalfont Place"
   },
   {
-    "id": "042457-2026",
-    "lat": 32.9534,
-    "lng": -96.7795,
-    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-03-25",
-    "neighborhood": "Prestonwood Estates East"
-  },
-  {
-    "id": "043937-2026",
-    "lat": 32.9606,
-    "lng": -96.8082,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2025-10-10",
-    "neighborhood": null
-  },
-  {
-    "id": "043768-2026",
-    "lat": 32.9615,
-    "lng": -96.8067,
+    "id": "089824-2026",
+    "lat": 32.9614,
+    "lng": -96.8183,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment complex/building",
     "hour": 20,
-    "date": "2026-03-27",
-    "neighborhood": null
-  },
-  {
-    "id": "042884-2026",
-    "lat": 32.9836,
-    "lng": -96.8042,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "043768-2026",
-    "lat": 32.9615,
-    "lng": -96.8067,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-03-27",
-    "neighborhood": null
-  },
-  {
-    "id": "043847-2026",
-    "lat": 32.9695,
-    "lng": -96.8195,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-03-28",
-    "neighborhood": null
-  },
-  {
-    "id": "045325-2026",
-    "lat": 32.9596,
-    "lng": -96.8088,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 8,
-    "date": "2026-03-30",
-    "neighborhood": null
-  },
-  {
-    "id": "043937-2026",
-    "lat": 32.9606,
-    "lng": -96.8082,
-    "offense": "theft by deception (fraud) >or equal $2500 <$30k",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2025-10-10",
-    "neighborhood": null
+    "date": "2026-06-20",
+    "neighborhood": "Chalfont Place"
   }
 ]

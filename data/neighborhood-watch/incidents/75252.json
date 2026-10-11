@@ -1,57 +1,90 @@
 [
   {
-    "id": "042258-2026",
-    "lat": 32.9935,
-    "lng": -96.769,
+    "id": "089656-2026",
+    "lat": 32.9888,
+    "lng": -96.8015,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 1,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "092167-2026",
+    "lat": 32.9897,
+    "lng": -96.7722,
     "offense": "criminal trespass warning",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 14,
-    "date": "2026-03-25",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "044660-2026",
-    "lat": 32.9961,
-    "lng": -96.7964,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "041952-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "deadly conduct-preliminary investigation",
-    "group": "other",
-    "premise": "apartment complex/building",
     "hour": 0,
-    "date": "2026-03-25",
-    "neighborhood": null
-  },
-  {
-    "id": "046095-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-04-01",
-    "neighborhood": null
-  },
-  {
-    "id": "045518-2026",
-    "lat": 32.9897,
-    "lng": -96.7722,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 23,
-    "date": "2026-03-30",
+    "date": "2026-06-25",
     "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "096772-2026",
+    "lat": 32.9978,
+    "lng": -96.7974,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 20,
+    "date": "2026-07-03",
+    "neighborhood": null
+  },
+  {
+    "id": "089656-2026",
+    "lat": 32.9888,
+    "lng": -96.8015,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 1,
+    "date": "2026-06-21",
+    "neighborhood": null
+  },
+  {
+    "id": "089906-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 15,
+    "date": "2026-06-21",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "089823-2026",
+    "lat": 32.9981,
+    "lng": -96.7936,
+    "offense": "poss cont sub pen grp 2-a < or equal 2 oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-06-21",
+    "neighborhood": "Preston Highlands"
+  },
+  {
+    "id": "091055-2026",
+    "lat": 32.9914,
+    "lng": -96.7738,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "business office",
+    "hour": 17,
+    "date": "2026-06-23",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "090816-2026",
+    "lat": 33.0067,
+    "lng": -96.7962,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-06-20",
+    "neighborhood": null
   }
 ]

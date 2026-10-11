@@ -1,24 +1,46 @@
 [
   {
-    "id": "042948-2026",
-    "lat": 32.9106,
-    "lng": -96.8938,
+    "id": "090608-2026",
+    "lat": 32.9125,
+    "lng": -96.8928,
     "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "gambling facility/casino/race track",
-    "hour": 20,
-    "date": "2026-03-26",
+    "premise": "business office",
+    "hour": 18,
+    "date": "2026-06-22",
     "neighborhood": null
   },
   {
-    "id": "045706-2026",
-    "lat": 32.91,
-    "lng": -96.8626,
-    "offense": "collision inv death",
+    "id": "090762-2026",
+    "lat": 32.9119,
+    "lng": -96.8733,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-03-31",
+    "premise": "gas or service station",
+    "hour": 4,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "091216-2026",
+    "lat": 32.911,
+    "lng": -96.8789,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 19,
+    "date": "2026-06-23",
+    "neighborhood": null
+  },
+  {
+    "id": "091006-2026",
+    "lat": 32.9111,
+    "lng": -96.8608,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-06-16",
     "neighborhood": null
   }
 ]

@@ -1,13 +1,101 @@
 [
   {
-    "id": "043317-2026",
-    "lat": 32.8241,
-    "lng": -96.7857,
-    "offense": "criminal trespass warning",
+    "id": "822854-2025",
+    "lat": 32.8233,
+    "lng": -96.7863,
+    "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-11-04",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "824937-2025",
+    "lat": 32.8305,
+    "lng": -96.7825,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 13,
+    "date": "2025-12-03",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "090032-2026",
+    "lat": 32.8239,
+    "lng": -96.7879,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-21",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "089290-2026",
+    "lat": 32.8239,
+    "lng": -96.7879,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-06-19",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "089780-2026",
+    "lat": 32.8175,
+    "lng": -96.7922,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 20,
+    "date": "2026-06-20",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "091378-2026",
+    "lat": 32.8239,
+    "lng": -96.7858,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "other",
     "hour": 10,
-    "date": "2026-03-27",
+    "date": "2026-06-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "091378-2026",
+    "lat": 32.8239,
+    "lng": -96.7858,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "other",
+    "hour": 10,
+    "date": "2026-06-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "091562-2026",
+    "lat": 32.8227,
+    "lng": -96.7878,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 14,
+    "date": "2026-06-24",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "091529-2026",
+    "lat": 32.8227,
+    "lng": -96.7877,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-06-24",
     "neighborhood": "Knox Park"
   }
 ]

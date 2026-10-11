@@ -1,79 +1,57 @@
 [
   {
-    "id": "042196-2026",
-    "lat": 32.7039,
-    "lng": -96.8753,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 18,
-    "date": "2026-03-24",
-    "neighborhood": "Kimball"
-  },
-  {
-    "id": "043832-2026",
-    "lat": 32.6958,
-    "lng": -96.8688,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-03-27",
-    "neighborhood": "Brettonwoods"
-  },
-  {
-    "id": "042826-2026",
-    "lat": 32.7161,
-    "lng": -96.8751,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 17,
-    "date": "2026-03-26",
-    "neighborhood": null
-  },
-  {
-    "id": "042512-2026",
-    "lat": 32.7169,
-    "lng": -96.8756,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-03-24",
-    "neighborhood": null
-  },
-  {
-    "id": "043441-2026",
+    "id": "090540-2026",
     "lat": 32.7083,
-    "lng": -96.8702,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-03-22",
-    "neighborhood": null
-  },
-  {
-    "id": "045376-2026",
-    "lat": 32.7136,
-    "lng": -96.8689,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-03-31",
-    "neighborhood": null
-  },
-  {
-    "id": "044858-2026",
-    "lat": 32.7055,
-    "lng": -96.8582,
+    "lng": -96.867,
     "offense": "deadly conduct discharge firearm (damage)",
     "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "090667-2026",
+    "lat": 32.6912,
+    "lng": -96.8811,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "090317-2026",
+    "lat": 32.7082,
+    "lng": -96.8914,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-06-22",
+    "neighborhood": null
+  },
+  {
+    "id": "089950-2026",
+    "lat": 32.7093,
+    "lng": -96.8737,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-06-20",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "091415-2026",
+    "lat": 32.6913,
+    "lng": -96.8607,
+    "offense": "criminal trespass warning",
+    "group": "other",
     "premise": "business office",
-    "hour": 18,
-    "date": "2026-03-27",
-    "neighborhood": "Kiestwood"
+    "hour": 10,
+    "date": "2026-06-24",
+    "neighborhood": null
   }
 ]
