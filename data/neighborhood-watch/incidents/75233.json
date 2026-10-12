@@ -1,57 +1,101 @@
 [
   {
-    "id": "090540-2026",
+    "id": "109539-2026",
+    "lat": 32.6959,
+    "lng": -96.8912,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-07-27",
+    "neighborhood": null
+  },
+  {
+    "id": "108130-2026",
     "lat": 32.7083,
-    "lng": -96.867,
+    "lng": -96.8672,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "107849-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
     "offense": "deadly conduct discharge firearm (damage)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "107849-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "deadly conduct discharge firearm (assault)",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "108115-2026",
+    "lat": 32.7065,
+    "lng": -96.8723,
+    "offense": "evading arrest detention",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 16,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "108131-2026",
+    "lat": 32.7083,
+    "lng": -96.8706,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 0,
     "date": "2026-06-22",
     "neighborhood": null
   },
   {
-    "id": "090667-2026",
+    "id": "107351-2026",
+    "lat": 32.7153,
+    "lng": -96.8736,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "110607-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 9,
+    "date": "2026-07-29",
+    "neighborhood": null
+  },
+  {
+    "id": "109030-2026",
     "lat": 32.6912,
-    "lng": -96.8811,
-    "offense": "crim mischief > or equal $100 < $750",
+    "lng": -96.8612,
+    "offense": "collision inv injury",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "090317-2026",
-    "lat": 32.7082,
-    "lng": -96.8914,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-22",
-    "neighborhood": null
-  },
-  {
-    "id": "089950-2026",
-    "lat": 32.7093,
-    "lng": -96.8737,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 17,
-    "date": "2026-06-20",
-    "neighborhood": "Encino Hills"
-  },
-  {
-    "id": "091415-2026",
-    "lat": 32.6913,
-    "lng": -96.8607,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "business office",
-    "hour": 10,
-    "date": "2026-06-24",
+    "hour": 5,
+    "date": "2026-07-26",
     "neighborhood": null
   }
 ]

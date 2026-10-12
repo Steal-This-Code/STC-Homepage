@@ -1,35 +1,68 @@
 [
   {
-    "id": "044013-2026",
-    "lat": 32.6405,
-    "lng": -96.9498,
-    "offense": "criminal trespass warning",
+    "id": "108744-2026",
+    "lat": 32.6382,
+    "lng": -96.9582,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 14,
+    "date": "2026-07-25",
+    "neighborhood": null
+  },
+  {
+    "id": "108026-2026",
+    "lat": 32.6429,
+    "lng": -96.968,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-03-28",
+    "hour": 11,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "108702-2026",
+    "lat": 32.6382,
+    "lng": -96.9582,
+    "offense": "attack by dangerous dog",
+    "group": "other",
+    "premise": "park",
+    "hour": 17,
+    "date": "2026-07-25",
+    "neighborhood": null
+  },
+  {
+    "id": "107895-2026",
+    "lat": 32.6357,
+    "lng": -96.9527,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "other",
+    "hour": 5,
+    "date": "2026-07-24",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "041840-2026",
-    "lat": 32.649,
-    "lng": -96.9731,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
+    "id": "107820-2026",
+    "lat": 32.6561,
+    "lng": -96.9471,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-03-24",
-    "neighborhood": "Fox Hollow"
+    "hour": 8,
+    "date": "2026-07-01",
+    "neighborhood": "Summit Parc"
   },
   {
-    "id": "045418-2026",
-    "lat": 32.6545,
-    "lng": -96.9717,
-    "offense": "harassment - non-threatening",
-    "group": "other",
+    "id": "110277-2026",
+    "lat": 32.6532,
+    "lng": -96.9688,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-03-31",
-    "neighborhood": "Hunter's Bend"
+    "hour": 14,
+    "date": "2026-07-23",
+    "neighborhood": "Mountain Ridge"
   }
 ]

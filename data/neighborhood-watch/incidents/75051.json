@@ -1,13 +1,13 @@
 [
   {
-    "id": "008298-2026",
-    "lat": 32.7236,
-    "lng": -96.9767,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 0,
-    "date": "2025-12-20",
+    "id": "108227-2026",
+    "lat": 32.7343,
+    "lng": -96.9925,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-07-23",
     "neighborhood": null
   }
 ]

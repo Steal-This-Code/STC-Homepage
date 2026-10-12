@@ -1,13 +1,68 @@
 [
   {
-    "id": "091687-2026",
-    "lat": 32.7937,
-    "lng": -96.7779,
-    "offense": "evading arrest detention",
+    "id": "109408-2026",
+    "lat": 32.7894,
+    "lng": -96.7808,
+    "offense": "crim mischief > or equal $2,500 < $30k",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2026-06-24",
+    "premise": "medical facility",
+    "hour": 21,
+    "date": "2026-07-26",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "109408-2026",
+    "lat": 32.7894,
+    "lng": -96.7808,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 21,
+    "date": "2026-07-26",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "107531-2026",
+    "lat": 32.797,
+    "lng": -96.7684,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-07-16",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "107592-2026",
+    "lat": 32.7919,
+    "lng": -96.7788,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-07-23",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "110224-2026",
+    "lat": 32.7919,
+    "lng": -96.7788,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 15,
+    "date": "2026-07-28",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "109408-2026",
+    "lat": 32.7894,
+    "lng": -96.7808,
+    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 21,
+    "date": "2026-07-26",
     "neighborhood": "Baylor / Meadows"
   }
 ]

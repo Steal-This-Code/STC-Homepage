@@ -1,57 +1,57 @@
 [
   {
-    "id": "089999-2026",
+    "id": "108029-2026",
     "lat": 32.8668,
     "lng": -96.7729,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
+    "offense": "poss cont sub not in pen grp",
+    "group": "other",
     "premise": "shopping mall",
-    "hour": 17,
-    "date": "2026-06-21",
+    "hour": 14,
+    "date": "2026-07-24",
     "neighborhood": null
   },
   {
-    "id": "089999-2026",
+    "id": "107676-2026",
+    "lat": 32.8626,
+    "lng": -96.8046,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "108068-2026",
+    "lat": 32.8677,
+    "lng": -96.7918,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 15,
+    "date": "2026-07-24",
+    "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "109838-2026",
+    "lat": 32.8665,
+    "lng": -96.7914,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2026-07-24",
+    "neighborhood": "Preston Hollow"
+  },
+  {
+    "id": "109733-2026",
     "lat": 32.8668,
     "lng": -96.7729,
     "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "shopping mall",
-    "hour": 17,
-    "date": "2026-06-21",
-    "neighborhood": null
-  },
-  {
-    "id": "089454-2026",
-    "lat": 32.8642,
-    "lng": -96.7799,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-06-20",
-    "neighborhood": "Caruth Hills"
-  },
-  {
-    "id": "091683-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "091693-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 16,
-    "date": "2026-06-24",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-07-27",
     "neighborhood": null
   }
 ]
