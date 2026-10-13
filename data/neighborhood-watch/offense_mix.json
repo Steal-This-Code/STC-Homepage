@@ -593,6 +593,14 @@
   },
   {
     "area_type": "neighborhood",
+    "area_id": "14",
+    "area_name": "La L'aceate",
+    "crime_group": "property",
+    "offense_label": "motor vehicle theft",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
     "area_id": "141",
     "area_name": "Highland Place / Bordeaux Village",
     "crime_group": "property",
@@ -949,7 +957,7 @@
     "area_name": "Oak Lawn",
     "crime_group": "other",
     "offense_label": "bmv",
-    "incidents": 11
+    "incidents": 12
   },
   {
     "area_type": "neighborhood",
@@ -988,14 +996,6 @@
     "area_id": "17",
     "area_name": "Oak Lawn",
     "crime_group": "other",
-    "offense_label": "lost property (no offense)",
-    "incidents": 2
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "other",
     "offense_label": "collision inv damage to vehicle > or equal $200",
     "incidents": 1
   },
@@ -1021,6 +1021,14 @@
     "area_name": "Oak Lawn",
     "crime_group": "other",
     "offense_label": "deadly conduct",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "offense_label": "dwi",
     "incidents": 1
   },
   {
@@ -1133,6 +1141,14 @@
     "area_name": "Ledbetter",
     "crime_group": "other",
     "offense_label": "discharge firearm in certain municipalities",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "171",
+    "area_name": "Ledbetter",
+    "crime_group": "other",
+    "offense_label": "poss cont sub pen grp 4 <28g",
     "incidents": 1
   },
   {
@@ -1932,14 +1948,6 @@
     "area_id": "262",
     "area_name": "Vickery Meadow(s)",
     "crime_group": "other",
-    "offense_label": "injured person- public property (other than firearm) (no offense)",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "262",
-    "area_name": "Vickery Meadow(s)",
-    "crime_group": "other",
     "offense_label": "natural death (no offense)",
     "incidents": 1
   },
@@ -2269,6 +2277,14 @@
     "area_name": "Country Forest / Jackson Meadows",
     "crime_group": "violent",
     "offense_label": "assault -bodily injury only",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "313",
+    "area_name": "Whispering Hills",
+    "crime_group": "other",
+    "offense_label": "poss marijuana <2oz",
     "incidents": 1
   },
   {
@@ -3004,15 +3020,15 @@
     "area_id": "5",
     "area_name": "Main Street District",
     "crime_group": "other",
-    "offense_label": "bmv",
-    "incidents": 3
+    "offense_label": "criminal trespass warning",
+    "incidents": 4
   },
   {
     "area_type": "neighborhood",
     "area_id": "5",
     "area_name": "Main Street District",
     "crime_group": "other",
-    "offense_label": "criminal trespass warning",
+    "offense_label": "bmv",
     "incidents": 3
   },
   {
@@ -3652,14 +3668,6 @@
     "area_id": "8",
     "area_name": "Cedars",
     "crime_group": "other",
-    "offense_label": "criminal trespass warning",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "8",
-    "area_name": "Cedars",
-    "crime_group": "other",
     "offense_label": "dwi w/open container",
     "incidents": 1
   },
@@ -3701,6 +3709,14 @@
     "area_name": "Cedars",
     "crime_group": "other",
     "offense_label": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "8",
+    "area_name": "Cedars",
+    "crime_group": "other",
+    "offense_label": "unlawful poss firearm by felon",
     "incidents": 1
   },
   {
@@ -3811,6 +3827,14 @@
     "area_type": "neighborhood",
     "area_id": "93",
     "area_name": "East Garrett Park",
+    "crime_group": "other",
+    "offense_label": "criminal trespass warning",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "93",
+    "area_name": "East Garrett Park",
     "crime_group": "property",
     "offense_label": "motor vehicle theft",
     "incidents": 1
@@ -3828,14 +3852,6 @@
     "area_id": "96",
     "area_name": "Buckner Terrace",
     "crime_group": "other",
-    "offense_label": "possession of drug paraphernalia",
-    "incidents": 3
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "96",
-    "area_name": "Buckner Terrace",
-    "crime_group": "other",
     "offense_label": "bmv",
     "incidents": 2
   },
@@ -3845,6 +3861,14 @@
     "area_name": "Buckner Terrace",
     "crime_group": "other",
     "offense_label": "found property (no offense)",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "other",
+    "offense_label": "possession of drug paraphernalia",
     "incidents": 2
   },
   {
@@ -3995,6 +4019,14 @@
     "area_type": "neighborhood",
     "area_id": "99",
     "area_name": "Pemberton Hill",
+    "crime_group": "other",
+    "offense_label": "public intoxication",
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "99",
+    "area_name": "Pemberton Hill",
     "crime_group": "property",
     "offense_label": "motor vehicle theft",
     "incidents": 3
@@ -4044,15 +4076,15 @@
     "area_id": "75201",
     "area_name": "ZCTA5 75201",
     "crime_group": "other",
-    "offense_label": "crim mischief > or equal $2,500 < $30k",
-    "incidents": 2
+    "offense_label": "criminal trespass warning",
+    "incidents": 3
   },
   {
     "area_type": "zip",
     "area_id": "75201",
     "area_name": "ZCTA5 75201",
     "crime_group": "other",
-    "offense_label": "criminal trespass warning",
+    "offense_label": "crim mischief > or equal $2,500 < $30k",
     "incidents": 2
   },
   {
@@ -4564,6 +4596,14 @@
     "area_id": "75206",
     "area_name": "ZCTA5 75206",
     "crime_group": "other",
+    "offense_label": "criminal trespass warning",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
+    "crime_group": "other",
     "offense_label": "collision inv damage to vehicle > or equal $200",
     "incidents": 1
   },
@@ -4573,14 +4613,6 @@
     "area_name": "ZCTA5 75206",
     "crime_group": "other",
     "offense_label": "credit card or debit card abuse",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75206",
-    "area_name": "ZCTA5 75206",
-    "crime_group": "other",
-    "offense_label": "criminal trespass warning",
     "incidents": 1
   },
   {
@@ -5261,7 +5293,7 @@
     "area_name": "ZCTA5 75212",
     "crime_group": "property",
     "offense_label": "motor vehicle theft",
-    "incidents": 4
+    "incidents": 5
   },
   {
     "area_type": "zip",
@@ -5436,14 +5468,6 @@
     "area_id": "75215",
     "area_name": "ZCTA5 75215",
     "crime_group": "other",
-    "offense_label": "criminal trespass warning",
-    "incidents": 3
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75215",
-    "area_name": "ZCTA5 75215",
-    "crime_group": "other",
     "offense_label": "bmv",
     "incidents": 2
   },
@@ -5461,6 +5485,14 @@
     "area_name": "ZCTA5 75215",
     "crime_group": "other",
     "offense_label": "criminal trespass",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "offense_label": "criminal trespass warning",
     "incidents": 2
   },
   {
@@ -5636,6 +5668,14 @@
     "area_id": "75216",
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
+    "offense_label": "poss cont sub pen grp 2-a > 2 oz < or equal 4 oz",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
     "offense_label": "traffic violation - hazardous",
     "incidents": 2
   },
@@ -5653,14 +5693,6 @@
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
     "offense_label": "abandoned property (no offense)",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75216",
-    "area_name": "ZCTA5 75216",
-    "crime_group": "other",
-    "offense_label": "bmv",
     "incidents": 1
   },
   {
@@ -6020,14 +6052,6 @@
     "area_id": "75219",
     "area_name": "ZCTA5 75219",
     "crime_group": "other",
-    "offense_label": "lost property (no offense)",
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75219",
-    "area_name": "ZCTA5 75219",
-    "crime_group": "other",
     "offense_label": "possession of drug paraphernalia",
     "incidents": 2
   },
@@ -6037,6 +6061,14 @@
     "area_name": "ZCTA5 75219",
     "crime_group": "other",
     "offense_label": "abandoned property (no offense)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
+    "offense_label": "bmv",
     "incidents": 1
   },
   {
@@ -6396,14 +6428,6 @@
     "area_id": "75224",
     "area_name": "ZCTA5 75224",
     "crime_group": "other",
-    "offense_label": "cruelty non-livestock animals - preliminary investigation",
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75224",
-    "area_name": "ZCTA5 75224",
-    "crime_group": "other",
     "offense_label": "found property (no offense)",
     "incidents": 2
   },
@@ -6445,6 +6469,14 @@
     "area_name": "ZCTA5 75224",
     "crime_group": "other",
     "offense_label": "crim mischief >or equal $750 < $2,500",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75224",
+    "area_name": "ZCTA5 75224",
+    "crime_group": "other",
+    "offense_label": "cruelty non-livestock animals - preliminary investigation",
     "incidents": 1
   },
   {
@@ -6525,6 +6557,14 @@
     "area_name": "ZCTA5 75225",
     "crime_group": "other",
     "offense_label": "natural death (no offense)",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75225",
+    "area_name": "ZCTA5 75225",
+    "crime_group": "other",
+    "offense_label": "open building (no offense)",
     "incidents": 1
   },
   {
@@ -6797,7 +6837,7 @@
     "area_name": "ZCTA5 75228",
     "crime_group": "other",
     "offense_label": "possession of drug paraphernalia",
-    "incidents": 5
+    "incidents": 4
   },
   {
     "area_type": "zip",
@@ -7173,14 +7213,6 @@
     "area_name": "ZCTA5 75231",
     "crime_group": "other",
     "offense_label": "indecent exposure",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75231",
-    "area_name": "ZCTA5 75231",
-    "crime_group": "other",
-    "offense_label": "injured person- public property (other than firearm) (no offense)",
     "incidents": 1
   },
   {
@@ -7645,7 +7677,7 @@
     "area_name": "ZCTA5 75237",
     "crime_group": "other",
     "offense_label": "poss marijuana <2oz",
-    "incidents": 4
+    "incidents": 6
   },
   {
     "area_type": "zip",
@@ -7716,6 +7748,14 @@
     "area_id": "75237",
     "area_name": "ZCTA5 75237",
     "crime_group": "property",
+    "offense_label": "theft from building> or equal $750<$2500 (not shoplift)",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
     "offense_label": "motor vehicle theft",
     "incidents": 1
   },
@@ -7733,14 +7773,6 @@
     "area_name": "ZCTA5 75237",
     "crime_group": "property",
     "offense_label": "theft by deception (fraud) >or equal $2500 <$30k",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75237",
-    "area_name": "ZCTA5 75237",
-    "crime_group": "property",
-    "offense_label": "theft from building> or equal $750<$2500 (not shoplift)",
     "incidents": 1
   },
   {
@@ -8109,7 +8141,7 @@
     "area_name": "ZCTA5 75241",
     "crime_group": "property",
     "offense_label": "motor vehicle theft",
-    "incidents": 7
+    "incidents": 6
   },
   {
     "area_type": "zip",
@@ -8173,7 +8205,7 @@
     "area_name": "ZCTA5 75243",
     "crime_group": "other",
     "offense_label": "poss marijuana <2oz",
-    "incidents": 4
+    "incidents": 5
   },
   {
     "area_type": "zip",
@@ -8253,7 +8285,7 @@
     "area_name": "ZCTA5 75243",
     "crime_group": "property",
     "offense_label": "motor vehicle theft",
-    "incidents": 3
+    "incidents": 5
   },
   {
     "area_type": "zip",
@@ -8533,14 +8565,6 @@
     "area_name": "ZCTA5 75248",
     "crime_group": "other",
     "offense_label": "found property (no offense)",
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75248",
-    "area_name": "ZCTA5 75248",
-    "crime_group": "other",
-    "offense_label": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
     "incidents": 2
   },
   {

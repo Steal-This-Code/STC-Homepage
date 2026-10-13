@@ -1,5 +1,16 @@
 [
   {
+    "id": "820715-2026",
+    "lat": 32.8094,
+    "lng": -96.8151,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-10-11",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "107776-2026",
     "lat": 32.8094,
     "lng": -96.8085,
@@ -283,17 +294,6 @@
     "premise": "highway, street, alley etc",
     "hour": 0,
     "date": "2026-07-27",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "108574-2026",
-    "lat": 32.8088,
-    "lng": -96.8092,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 17,
-    "date": "2026-07-24",
     "neighborhood": "Oak Lawn"
   },
   {

@@ -1,5 +1,16 @@
 [
   {
+    "id": "185936-2025",
+    "lat": 32.7229,
+    "lng": -96.7013,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 6,
+    "date": "2025-12-30",
+    "neighborhood": "Pemberton Hill"
+  },
+  {
     "id": "109557-2026",
     "lat": 32.7305,
     "lng": -96.6953,

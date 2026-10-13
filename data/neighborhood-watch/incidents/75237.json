@@ -66,6 +66,28 @@
     "neighborhood": null
   },
   {
+    "id": "108782-2026",
+    "lat": 32.6605,
+    "lng": -96.8895,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-07-25",
+    "neighborhood": null
+  },
+  {
+    "id": "108782-2026",
+    "lat": 32.6605,
+    "lng": -96.8895,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-07-25",
+    "neighborhood": null
+  },
+  {
     "id": "108692-2026",
     "lat": 32.6518,
     "lng": -96.8864,
@@ -316,6 +338,17 @@
     "premise": "apartment complex/building",
     "hour": 17,
     "date": "2026-07-25",
+    "neighborhood": null
+  },
+  {
+    "id": "109237-2026",
+    "lat": 32.6489,
+    "lng": -96.8903,
+    "offense": "theft from building> or equal $750<$2500 (not shoplift)",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 15,
+    "date": "2026-07-26",
     "neighborhood": null
   },
   {

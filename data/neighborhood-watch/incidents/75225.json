@@ -1,13 +1,13 @@
 [
   {
-    "id": "108029-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "poss cont sub not in pen grp",
+    "id": "039697-2026",
+    "lat": 32.8651,
+    "lng": -96.8105,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2026-07-24",
+    "premise": "bank/savings and loan",
+    "hour": 0,
+    "date": "2026-03-21",
     "neighborhood": null
   },
   {
@@ -19,6 +19,17 @@
     "premise": "parking (business)",
     "hour": 13,
     "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
+    "id": "108029-2026",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "poss cont sub not in pen grp",
+    "group": "other",
+    "premise": "shopping mall",
+    "hour": 14,
+    "date": "2026-07-24",
     "neighborhood": null
   },
   {

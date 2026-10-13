@@ -1,16 +1,5 @@
 [
   {
-    "id": "063838-2026",
-    "lat": 32.6854,
-    "lng": -96.7362,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 11,
-    "date": "2026-04-17",
-    "neighborhood": null
-  },
-  {
     "id": "109517-2026",
     "lat": 32.6452,
     "lng": -96.7803,

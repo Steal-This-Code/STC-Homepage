@@ -88,6 +88,17 @@
     "neighborhood": "Glencoe Park"
   },
   {
+    "id": "110495-2026",
+    "lat": 32.8106,
+    "lng": -96.7686,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-07-29",
+    "neighborhood": "East Garrett Park"
+  },
+  {
     "id": "109631-2026",
     "lat": 32.811,
     "lng": -96.7698,

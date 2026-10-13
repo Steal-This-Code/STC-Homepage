@@ -1,5 +1,16 @@
 [
   {
+    "id": "039069-2026",
+    "lat": 32.9307,
+    "lng": -96.7101,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 21,
+    "date": "2026-03-19",
+    "neighborhood": "Whispering Hills"
+  },
+  {
     "id": "109571-2026",
     "lat": 32.9092,
     "lng": -96.7236,
@@ -40,6 +51,28 @@
     "group": "property",
     "premise": "parking (business)",
     "hour": 8,
+    "date": "2026-07-26",
+    "neighborhood": null
+  },
+  {
+    "id": "109332-2026",
+    "lat": 32.9235,
+    "lng": -96.7218,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-07-26",
+    "neighborhood": null
+  },
+  {
+    "id": "109332-2026",
+    "lat": 32.9235,
+    "lng": -96.7218,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
     "date": "2026-07-26",
     "neighborhood": null
   },

@@ -33,6 +33,17 @@
     "neighborhood": null
   },
   {
+    "id": "107437-2026",
+    "lat": 32.7036,
+    "lng": -96.8308,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 9,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
     "id": "107904-2026",
     "lat": 32.7003,
     "lng": -96.8273,
@@ -64,17 +75,6 @@
     "hour": 22,
     "date": "2026-07-22",
     "neighborhood": "Wynnewood North"
-  },
-  {
-    "id": "107437-2026",
-    "lat": 32.7036,
-    "lng": -96.8308,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "school - college/university",
-    "hour": 9,
-    "date": "2026-07-23",
-    "neighborhood": null
   },
   {
     "id": "107904-2026",
@@ -273,17 +273,6 @@
     "hour": 16,
     "date": "2026-07-25",
     "neighborhood": "Kiest Park"
-  },
-  {
-    "id": "108721-2026",
-    "lat": 32.7008,
-    "lng": -96.8345,
-    "offense": "cruelty non-livestock animals - preliminary investigation",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2026-07-16",
-    "neighborhood": null
   },
   {
     "id": "108721-2026",

@@ -88,6 +88,28 @@
     "neighborhood": "Five Mile Creek"
   },
   {
+    "id": "107825-2026",
+    "lat": 32.7149,
+    "lng": -96.7651,
+    "offense": "poss cont sub pen grp 2-a > 2 oz < or equal 4 oz",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
+    "id": "107825-2026",
+    "lat": 32.7149,
+    "lng": -96.7651,
+    "offense": "poss cont sub pen grp 2-a > 2 oz < or equal 4 oz",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-07-24",
+    "neighborhood": null
+  },
+  {
     "id": "108768-2026",
     "lat": 32.7165,
     "lng": -96.7568,

@@ -11,17 +11,6 @@
     "neighborhood": null
   },
   {
-    "id": "107841-2026",
-    "lat": 32.739,
-    "lng": -96.7979,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 1,
-    "date": "2026-07-23",
-    "neighborhood": null
-  },
-  {
     "id": "108054-2026",
     "lat": 32.7401,
     "lng": -96.8053,
@@ -31,6 +20,17 @@
     "hour": 15,
     "date": "2026-07-24",
     "neighborhood": "The Heights"
+  },
+  {
+    "id": "107841-2026",
+    "lat": 32.739,
+    "lng": -96.7979,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 1,
+    "date": "2026-07-23",
+    "neighborhood": null
   },
   {
     "id": "108216-2026",
