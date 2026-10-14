@@ -44,6 +44,17 @@
     "neighborhood": "Dallas Arts District"
   },
   {
+    "id": "109638-2026",
+    "lat": 32.7867,
+    "lng": -96.7956,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-07-27",
+    "neighborhood": "Commercial Center"
+  },
+  {
     "id": "108530-2026",
     "lat": 32.7998,
     "lng": -96.8057,
@@ -51,17 +62,6 @@
     "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 19,
-    "date": "2026-07-24",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "108340-2026",
-    "lat": 32.7904,
-    "lng": -96.808,
-    "offense": "robbery of business",
-    "group": "violent",
-    "premise": "convenience store",
-    "hour": 0,
     "date": "2026-07-24",
     "neighborhood": "Oak Lawn"
   },
@@ -317,17 +317,6 @@
     "hour": 18,
     "date": "2026-07-26",
     "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "109969-2026",
-    "lat": 32.782,
-    "lng": -96.7974,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 0,
-    "date": "2026-07-28",
-    "neighborhood": "Main Street District"
   },
   {
     "id": "109956-2026",

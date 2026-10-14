@@ -341,6 +341,17 @@
     "neighborhood": null
   },
   {
+    "id": "109089-2026",
+    "lat": 32.7122,
+    "lng": -96.6825,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-07-26",
+    "neighborhood": null
+  },
+  {
     "id": "108533-2026",
     "lat": 32.714,
     "lng": -96.6839,

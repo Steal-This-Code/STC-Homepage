@@ -308,6 +308,17 @@
     "neighborhood": "Oak Lawn"
   },
   {
+    "id": "108574-2026",
+    "lat": 32.8088,
+    "lng": -96.8092,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 17,
+    "date": "2026-07-24",
+    "neighborhood": "Oak Lawn"
+  },
+  {
     "id": "109005-2026",
     "lat": 32.8127,
     "lng": -96.8241,

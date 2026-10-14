@@ -528,17 +528,6 @@
     "neighborhood": "Ledbetter"
   },
   {
-    "id": "110660-2026",
-    "lat": 32.7796,
-    "lng": -96.8304,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 14,
-    "date": "2026-07-29",
-    "neighborhood": "La Bajada"
-  },
-  {
     "id": "110658-2026",
     "lat": 32.7796,
     "lng": -96.83,

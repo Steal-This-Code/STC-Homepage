@@ -209,17 +209,6 @@
     "neighborhood": null
   },
   {
-    "id": "110504-2026",
-    "lat": 32.9254,
-    "lng": -96.7775,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 17,
-    "date": "2026-07-28",
-    "neighborhood": "Valley View"
-  },
-  {
     "id": "108738-2026",
     "lat": 32.9296,
     "lng": -96.8205,

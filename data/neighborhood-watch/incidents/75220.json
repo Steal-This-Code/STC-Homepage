@@ -22,6 +22,17 @@
     "neighborhood": "Bachman"
   },
   {
+    "id": "108981-2026",
+    "lat": 32.8627,
+    "lng": -96.868,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2026-07-26",
+    "neighborhood": "Bachman"
+  },
+  {
     "id": "107785-2026",
     "lat": 32.8605,
     "lng": -96.8691,

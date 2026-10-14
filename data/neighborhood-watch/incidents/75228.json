@@ -484,6 +484,17 @@
     "neighborhood": "Buckner Terrace"
   },
   {
+    "id": "109220-2026",
+    "lat": 32.7936,
+    "lng": -96.7021,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-07-26",
+    "neighborhood": "Buckner Terrace"
+  },
+  {
     "id": "109647-2026",
     "lat": 32.8141,
     "lng": -96.6863,

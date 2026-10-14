@@ -58,26 +58,8 @@
     "area_id": "104",
     "area_name": "Kiest-Polk",
     "crime_group": "other",
-    "day_of_week": "Monday",
-    "hour": 10,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "104",
-    "area_name": "Kiest-Polk",
-    "crime_group": "other",
     "day_of_week": "Wednesday",
     "hour": 7,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "105",
-    "area_name": "Oak Park Estates",
-    "crime_group": "other",
-    "day_of_week": "Monday",
-    "hour": 10,
     "incidents": 1
   },
   {
@@ -780,7 +762,7 @@
     "crime_group": "other",
     "day_of_week": "Wednesday",
     "hour": 14,
-    "incidents": 2
+    "incidents": 1
   },
   {
     "area_type": "neighborhood",
@@ -1229,15 +1211,6 @@
     "area_name": "Oak Lawn",
     "crime_group": "other",
     "day_of_week": "Thursday",
-    "hour": 17,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
     "hour": 18,
     "incidents": 1
   },
@@ -1293,7 +1266,7 @@
     "crime_group": "other",
     "day_of_week": "Friday",
     "hour": 17,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -1525,15 +1498,6 @@
     "area_id": "17",
     "area_name": "Oak Lawn",
     "crime_group": "violent",
-    "day_of_week": "Friday",
-    "hour": 0,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "violent",
     "day_of_week": "Sunday",
     "hour": 2,
     "incidents": 1
@@ -1689,15 +1653,6 @@
     "crime_group": "other",
     "day_of_week": "Tuesday",
     "hour": 8,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "19",
-    "area_name": "Uptown",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 17,
     "incidents": 1
   },
   {
@@ -2121,7 +2076,7 @@
     "crime_group": "violent",
     "day_of_week": "Sunday",
     "hour": 2,
-    "incidents": 3
+    "incidents": 4
   },
   {
     "area_type": "neighborhood",
@@ -2175,15 +2130,6 @@
     "crime_group": "other",
     "day_of_week": "Thursday",
     "hour": 20,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "21",
-    "area_name": "West Village",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 17,
     "incidents": 1
   },
   {
@@ -2938,15 +2884,6 @@
     "area_id": "28",
     "area_name": "Grand Park South",
     "crime_group": "other",
-    "day_of_week": "Friday",
-    "hour": 23,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "28",
-    "area_name": "Grand Park South",
-    "crime_group": "other",
     "day_of_week": "Saturday",
     "hour": 9,
     "incidents": 1
@@ -2985,7 +2922,7 @@
     "crime_group": "other",
     "day_of_week": "Friday",
     "hour": 16,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -3245,15 +3182,6 @@
     "area_name": "Valley View",
     "crime_group": "other",
     "day_of_week": "Sunday",
-    "hour": 17,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "320",
-    "area_name": "Valley View",
-    "crime_group": "property",
-    "day_of_week": "Tuesday",
     "hour": 17,
     "incidents": 1
   },
@@ -3588,7 +3516,7 @@
     "crime_group": "other",
     "day_of_week": "Monday",
     "hour": 11,
-    "incidents": 2
+    "incidents": 3
   },
   {
     "area_type": "neighborhood",
@@ -3957,15 +3885,6 @@
     "crime_group": "property",
     "day_of_week": "Wednesday",
     "hour": 10,
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "5",
-    "area_name": "Main Street District",
-    "crime_group": "other",
-    "day_of_week": "Tuesday",
-    "hour": 0,
     "incidents": 1
   },
   {
@@ -4497,7 +4416,7 @@
     "crime_group": "property",
     "day_of_week": "Thursday",
     "hour": 8,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -4506,7 +4425,7 @@
     "crime_group": "property",
     "day_of_week": "Tuesday",
     "hour": 12,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -4965,7 +4884,7 @@
     "crime_group": "other",
     "day_of_week": "Sunday",
     "hour": 16,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -5199,16 +5118,7 @@
     "crime_group": "other",
     "day_of_week": "Monday",
     "hour": 11,
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75201",
-    "area_name": "ZCTA5 75201",
-    "crime_group": "other",
-    "day_of_week": "Tuesday",
-    "hour": 0,
-    "incidents": 1
+    "incidents": 3
   },
   {
     "area_type": "zip",
@@ -5459,15 +5369,6 @@
     "area_name": "ZCTA5 75201",
     "crime_group": "violent",
     "day_of_week": "Friday",
-    "hour": 0,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75201",
-    "area_name": "ZCTA5 75201",
-    "crime_group": "violent",
-    "day_of_week": "Friday",
     "hour": 9,
     "incidents": 1
   },
@@ -5667,7 +5568,7 @@
     "crime_group": "property",
     "day_of_week": "Thursday",
     "hour": 8,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -6000,7 +5901,7 @@
     "crime_group": "other",
     "day_of_week": "Thursday",
     "hour": 17,
-    "incidents": 2
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -6234,7 +6135,7 @@
     "crime_group": "property",
     "day_of_week": "Tuesday",
     "hour": 12,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -7152,7 +7053,7 @@
     "crime_group": "other",
     "day_of_week": "Wednesday",
     "hour": 14,
-    "incidents": 2
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -8015,15 +7916,6 @@
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
     "day_of_week": "Friday",
-    "hour": 1,
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75216",
-    "area_name": "ZCTA5 75216",
-    "crime_group": "other",
-    "day_of_week": "Friday",
     "hour": 2,
     "incidents": 2
   },
@@ -8520,7 +8412,7 @@
     "crime_group": "other",
     "day_of_week": "Sunday",
     "hour": 6,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -8925,7 +8817,7 @@
     "crime_group": "other",
     "day_of_week": "Friday",
     "hour": 17,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -9411,7 +9303,7 @@
     "crime_group": "violent",
     "day_of_week": "Sunday",
     "hour": 2,
-    "incidents": 3
+    "incidents": 4
   },
   {
     "area_type": "zip",
@@ -9528,7 +9420,7 @@
     "crime_group": "other",
     "day_of_week": "Monday",
     "hour": 10,
-    "incidents": 2
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -9573,7 +9465,7 @@
     "crime_group": "other",
     "day_of_week": "Thursday",
     "hour": 0,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -9582,15 +9474,6 @@
     "crime_group": "other",
     "day_of_week": "Thursday",
     "hour": 7,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75224",
-    "area_name": "ZCTA5 75224",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 9,
     "incidents": 1
   },
   {
@@ -9770,15 +9653,6 @@
     "area_name": "ZCTA5 75225",
     "crime_group": "other",
     "day_of_week": "Friday",
-    "hour": 14,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75225",
-    "area_name": "ZCTA5 75225",
-    "crime_group": "other",
-    "day_of_week": "Friday",
     "hour": 15,
     "incidents": 1
   },
@@ -9843,7 +9717,7 @@
     "crime_group": "other",
     "day_of_week": "Friday",
     "hour": 23,
-    "incidents": 3
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -10392,7 +10266,7 @@
     "crime_group": "other",
     "day_of_week": "Sunday",
     "hour": 16,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -11743,15 +11617,6 @@
     "day_of_week": "Saturday",
     "hour": 16,
     "incidents": 3
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75237",
-    "area_name": "ZCTA5 75237",
-    "crime_group": "other",
-    "day_of_week": "Saturday",
-    "hour": 21,
-    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -11868,7 +11733,7 @@
     "crime_group": "property",
     "day_of_week": "Sunday",
     "hour": 15,
-    "incidents": 3
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -12094,15 +11959,6 @@
     "day_of_week": "Sunday",
     "hour": 18,
     "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75240",
-    "area_name": "ZCTA5 75240",
-    "crime_group": "property",
-    "day_of_week": "Tuesday",
-    "hour": 17,
-    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -12516,7 +12372,7 @@
     "crime_group": "other",
     "day_of_week": "Friday",
     "hour": 16,
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -12705,7 +12561,7 @@
     "crime_group": "property",
     "day_of_week": "Sunday",
     "hour": 18,
-    "incidents": 3
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -13028,6 +12884,15 @@
     "area_name": "ZCTA5 75248",
     "crime_group": "other",
     "day_of_week": "Tuesday",
+    "hour": 13,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "other",
+    "day_of_week": "Thursday",
     "hour": 13,
     "incidents": 1
   },

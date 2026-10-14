@@ -5,9 +5,9 @@
     "area_name": "Oak Lawn",
     "other": 39,
     "property": 12,
-    "violent": 2,
-    "total_incidents": 53,
-    "violent_incidents": 2,
+    "violent": 1,
+    "total_incidents": 52,
+    "violent_incidents": 1,
     "property_incidents": 12,
     "other_incidents": 39
   },
@@ -17,9 +17,9 @@
     "area_name": "Bachman",
     "other": 25,
     "property": 9,
-    "violent": 6,
-    "total_incidents": 40,
-    "violent_incidents": 6,
+    "violent": 7,
+    "total_incidents": 41,
+    "violent_incidents": 7,
     "property_incidents": 9,
     "other_incidents": 25
   },
@@ -37,39 +37,39 @@
   },
   {
     "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "other": 11,
+    "property": 11,
+    "violent": 1,
+    "total_incidents": 23,
+    "violent_incidents": 1,
+    "property_incidents": 11,
+    "other_incidents": 11
+  },
+  {
+    "area_type": "neighborhood",
     "area_id": "5",
     "area_name": "Main Street District",
-    "other": 18,
+    "other": 17,
     "property": 3,
     "violent": 3,
-    "total_incidents": 24,
+    "total_incidents": 23,
     "violent_incidents": 3,
     "property_incidents": 3,
-    "other_incidents": 18
+    "other_incidents": 17
   },
   {
     "area_type": "neighborhood",
     "area_id": "15",
     "area_name": "La Bajada",
-    "other": 21,
+    "other": 20,
     "property": 1,
-    "violent": 1,
-    "total_incidents": 23,
-    "violent_incidents": 1,
-    "property_incidents": 1,
-    "other_incidents": 21
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "96",
-    "area_name": "Buckner Terrace",
-    "other": 10,
-    "property": 11,
     "violent": 1,
     "total_incidents": 22,
     "violent_incidents": 1,
-    "property_incidents": 11,
-    "other_incidents": 10
+    "property_incidents": 1,
+    "other_incidents": 20
   },
   {
     "area_type": "neighborhood",
@@ -133,18 +133,6 @@
   },
   {
     "area_type": "neighborhood",
-    "area_id": "19",
-    "area_name": "Uptown",
-    "other": 12,
-    "property": 0,
-    "violent": 0,
-    "total_incidents": 12,
-    "violent_incidents": 0,
-    "property_incidents": 0,
-    "other_incidents": 12
-  },
-  {
-    "area_type": "neighborhood",
     "area_id": "8",
     "area_name": "Cedars",
     "other": 11,
@@ -178,6 +166,18 @@
     "violent_incidents": 0,
     "property_incidents": 3,
     "other_incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "19",
+    "area_name": "Uptown",
+    "other": 11,
+    "property": 0,
+    "violent": 0,
+    "total_incidents": 11,
+    "violent_incidents": 0,
+    "property_incidents": 0,
+    "other_incidents": 11
   },
   {
     "area_type": "neighborhood",
@@ -217,6 +217,30 @@
   },
   {
     "area_type": "neighborhood",
+    "area_id": "7",
+    "area_name": "Civic Center District",
+    "other": 7,
+    "property": 2,
+    "violent": 0,
+    "total_incidents": 9,
+    "violent_incidents": 0,
+    "property_incidents": 2,
+    "other_incidents": 7
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "4",
+    "area_name": "Commercial Center",
+    "other": 8,
+    "property": 0,
+    "violent": 1,
+    "total_incidents": 9,
+    "violent_incidents": 1,
+    "property_incidents": 0,
+    "other_incidents": 8
+  },
+  {
+    "area_type": "neighborhood",
     "area_id": "154",
     "area_name": "Highland Hills",
     "other": 5,
@@ -241,30 +265,6 @@
   },
   {
     "area_type": "neighborhood",
-    "area_id": "7",
-    "area_name": "Civic Center District",
-    "other": 7,
-    "property": 1,
-    "violent": 0,
-    "total_incidents": 8,
-    "violent_incidents": 0,
-    "property_incidents": 1,
-    "other_incidents": 7
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "4",
-    "area_name": "Commercial Center",
-    "other": 7,
-    "property": 0,
-    "violent": 1,
-    "total_incidents": 8,
-    "violent_incidents": 1,
-    "property_incidents": 0,
-    "other_incidents": 7
-  },
-  {
-    "area_type": "neighborhood",
     "area_id": "25",
     "area_name": "Baylor / Meadows",
     "other": 7,
@@ -279,18 +279,6 @@
     "area_type": "neighborhood",
     "area_id": "50",
     "area_name": "Frazier",
-    "other": 4,
-    "property": 2,
-    "violent": 1,
-    "total_incidents": 7,
-    "violent_incidents": 1,
-    "property_incidents": 2,
-    "other_incidents": 4
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "28",
-    "area_name": "Grand Park South",
     "other": 4,
     "property": 2,
     "violent": 1,
@@ -349,6 +337,18 @@
   },
   {
     "area_type": "neighborhood",
+    "area_id": "28",
+    "area_name": "Grand Park South",
+    "other": 3,
+    "property": 2,
+    "violent": 1,
+    "total_incidents": 6,
+    "violent_incidents": 1,
+    "property_incidents": 2,
+    "other_incidents": 3
+  },
+  {
+    "area_type": "neighborhood",
     "area_id": "272",
     "area_name": "Highland Meadows",
     "other": 5,
@@ -370,18 +370,6 @@
     "violent_incidents": 0,
     "property_incidents": 1,
     "other_incidents": 5
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "320",
-    "area_name": "Valley View",
-    "other": 3,
-    "property": 2,
-    "violent": 1,
-    "total_incidents": 6,
-    "violent_incidents": 1,
-    "property_incidents": 2,
-    "other_incidents": 3
   },
   {
     "area_type": "neighborhood",
@@ -454,6 +442,18 @@
     "violent_incidents": 1,
     "property_incidents": 0,
     "other_incidents": 4
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "320",
+    "area_name": "Valley View",
+    "other": 3,
+    "property": 1,
+    "violent": 1,
+    "total_incidents": 5,
+    "violent_incidents": 1,
+    "property_incidents": 1,
+    "other_incidents": 3
   },
   {
     "area_type": "neighborhood",
@@ -925,6 +925,18 @@
   },
   {
     "area_type": "neighborhood",
+    "area_id": "70",
+    "area_name": "Henderson",
+    "other": 0,
+    "property": 2,
+    "violent": 0,
+    "total_incidents": 2,
+    "violent_incidents": 0,
+    "property_incidents": 2,
+    "other_incidents": 0
+  },
+  {
+    "area_type": "neighborhood",
     "area_id": "121",
     "area_name": "Independence Park",
     "other": 1,
@@ -934,18 +946,6 @@
     "violent_incidents": 0,
     "property_incidents": 1,
     "other_incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "104",
-    "area_name": "Kiest-Polk",
-    "other": 2,
-    "property": 0,
-    "violent": 0,
-    "total_incidents": 2,
-    "violent_incidents": 0,
-    "property_incidents": 0,
-    "other_incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -1030,6 +1030,18 @@
     "violent_incidents": 0,
     "property_incidents": 2,
     "other_incidents": 0
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "289",
+    "area_name": "Stults Road",
+    "other": 2,
+    "property": 0,
+    "violent": 0,
+    "total_incidents": 2,
+    "violent_incidents": 0,
+    "property_incidents": 0,
+    "other_incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -1345,18 +1357,6 @@
   },
   {
     "area_type": "neighborhood",
-    "area_id": "70",
-    "area_name": "Henderson",
-    "other": 0,
-    "property": 1,
-    "violent": 0,
-    "total_incidents": 1,
-    "violent_incidents": 0,
-    "property_incidents": 1,
-    "other_incidents": 0
-  },
-  {
-    "area_type": "neighborhood",
     "area_id": "260",
     "area_name": "High Hollows",
     "other": 1,
@@ -1438,6 +1438,18 @@
     "violent_incidents": 0,
     "property_incidents": 1,
     "other_incidents": 0
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "104",
+    "area_name": "Kiest-Polk",
+    "other": 1,
+    "property": 0,
+    "violent": 0,
+    "total_incidents": 1,
+    "violent_incidents": 0,
+    "property_incidents": 0,
+    "other_incidents": 1
   },
   {
     "area_type": "neighborhood",
@@ -1597,18 +1609,6 @@
   },
   {
     "area_type": "neighborhood",
-    "area_id": "105",
-    "area_name": "Oak Park Estates",
-    "other": 1,
-    "property": 0,
-    "violent": 0,
-    "total_incidents": 1,
-    "violent_incidents": 0,
-    "property_incidents": 0,
-    "other_incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
     "area_id": "235",
     "area_name": "Old Lake Highlands",
     "other": 1,
@@ -1695,18 +1695,6 @@
     "area_type": "neighborhood",
     "area_id": "108",
     "area_name": "Stevens Park Village",
-    "other": 1,
-    "property": 0,
-    "violent": 0,
-    "total_incidents": 1,
-    "violent_incidents": 0,
-    "property_incidents": 0,
-    "other_incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "289",
-    "area_name": "Stults Road",
     "other": 1,
     "property": 0,
     "violent": 0,
@@ -1861,18 +1849,6 @@
   },
   {
     "area_type": "neighborhood",
-    "area_id": "21",
-    "area_name": "West Village",
-    "other": 1,
-    "property": 0,
-    "violent": 0,
-    "total_incidents": 1,
-    "violent_incidents": 0,
-    "property_incidents": 0,
-    "other_incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
     "area_id": "194",
     "area_name": "Western Park",
     "other": 1,
@@ -1947,37 +1923,37 @@
     "area_type": "zip",
     "area_id": "75217",
     "area_name": "ZCTA5 75217",
-    "other": 33,
+    "other": 34,
     "property": 23,
     "violent": 10,
-    "total_incidents": 66,
+    "total_incidents": 67,
     "violent_incidents": 10,
     "property_incidents": 23,
-    "other_incidents": 33
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75216",
-    "area_name": "ZCTA5 75216",
-    "other": 42,
-    "property": 16,
-    "violent": 4,
-    "total_incidents": 62,
-    "violent_incidents": 4,
-    "property_incidents": 16,
-    "other_incidents": 42
+    "other_incidents": 34
   },
   {
     "area_type": "zip",
     "area_id": "75212",
     "area_name": "ZCTA5 75212",
-    "other": 47,
+    "other": 46,
     "property": 10,
     "violent": 4,
-    "total_incidents": 61,
+    "total_incidents": 60,
     "violent_incidents": 4,
     "property_incidents": 10,
-    "other_incidents": 47
+    "other_incidents": 46
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "other": 40,
+    "property": 16,
+    "violent": 4,
+    "total_incidents": 60,
+    "violent_incidents": 4,
+    "property_incidents": 16,
+    "other_incidents": 40
   },
   {
     "area_type": "zip",
@@ -1985,35 +1961,35 @@
     "area_name": "ZCTA5 75220",
     "other": 35,
     "property": 11,
-    "violent": 8,
-    "total_incidents": 54,
-    "violent_incidents": 8,
+    "violent": 9,
+    "total_incidents": 55,
+    "violent_incidents": 9,
     "property_incidents": 11,
     "other_incidents": 35
   },
   {
     "area_type": "zip",
-    "area_id": "75237",
-    "area_name": "ZCTA5 75237",
-    "other": 39,
-    "property": 8,
-    "violent": 3,
-    "total_incidents": 50,
-    "violent_incidents": 3,
-    "property_incidents": 8,
-    "other_incidents": 39
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "other": 32,
+    "property": 14,
+    "violent": 2,
+    "total_incidents": 48,
+    "violent_incidents": 2,
+    "property_incidents": 14,
+    "other_incidents": 32
   },
   {
     "area_type": "zip",
-    "area_id": "75228",
-    "area_name": "ZCTA5 75228",
-    "other": 31,
-    "property": 14,
-    "violent": 2,
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "other": 37,
+    "property": 7,
+    "violent": 3,
     "total_incidents": 47,
-    "violent_incidents": 2,
-    "property_incidents": 14,
-    "other_incidents": 31
+    "violent_incidents": 3,
+    "property_incidents": 7,
+    "other_incidents": 37
   },
   {
     "area_type": "zip",
@@ -2031,25 +2007,13 @@
     "area_type": "zip",
     "area_id": "75243",
     "area_name": "ZCTA5 75243",
-    "other": 28,
-    "property": 11,
+    "other": 29,
+    "property": 9,
     "violent": 3,
-    "total_incidents": 42,
+    "total_incidents": 41,
     "violent_incidents": 3,
-    "property_incidents": 11,
-    "other_incidents": 28
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75201",
-    "area_name": "ZCTA5 75201",
-    "other": 26,
-    "property": 8,
-    "violent": 5,
-    "total_incidents": 39,
-    "violent_incidents": 5,
-    "property_incidents": 8,
-    "other_incidents": 26
+    "property_incidents": 9,
+    "other_incidents": 29
   },
   {
     "area_type": "zip",
@@ -2062,6 +2026,18 @@
     "violent_incidents": 4,
     "property_incidents": 13,
     "other_incidents": 22
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "other": 26,
+    "property": 8,
+    "violent": 4,
+    "total_incidents": 38,
+    "violent_incidents": 4,
+    "property_incidents": 8,
+    "other_incidents": 26
   },
   {
     "area_type": "zip",
@@ -2113,18 +2089,6 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75204",
-    "area_name": "ZCTA5 75204",
-    "other": 23,
-    "property": 6,
-    "violent": 3,
-    "total_incidents": 32,
-    "violent_incidents": 3,
-    "property_incidents": 6,
-    "other_incidents": 23
-  },
-  {
-    "area_type": "zip",
     "area_id": "75231",
     "area_name": "ZCTA5 75231",
     "other": 15,
@@ -2137,26 +2101,38 @@
   },
   {
     "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "other": 22,
+    "property": 6,
+    "violent": 3,
+    "total_incidents": 31,
+    "violent_incidents": 3,
+    "property_incidents": 6,
+    "other_incidents": 22
+  },
+  {
+    "area_type": "zip",
     "area_id": "75219",
     "area_name": "ZCTA5 75219",
-    "other": 21,
+    "other": 22,
     "property": 9,
     "violent": 0,
-    "total_incidents": 30,
+    "total_incidents": 31,
     "violent_incidents": 0,
     "property_incidents": 9,
-    "other_incidents": 21
+    "other_incidents": 22
   },
   {
     "area_type": "zip",
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "other": 24,
-    "property": 3,
+    "property": 4,
     "violent": 2,
-    "total_incidents": 29,
+    "total_incidents": 30,
     "violent_incidents": 2,
-    "property_incidents": 3,
+    "property_incidents": 4,
     "other_incidents": 24
   },
   {
@@ -2175,13 +2151,13 @@
     "area_type": "zip",
     "area_id": "75224",
     "area_name": "ZCTA5 75224",
-    "other": 21,
+    "other": 20,
     "property": 8,
     "violent": 0,
-    "total_incidents": 29,
+    "total_incidents": 28,
     "violent_incidents": 0,
     "property_incidents": 8,
-    "other_incidents": 21
+    "other_incidents": 20
   },
   {
     "area_type": "zip",
@@ -2221,30 +2197,6 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75226",
-    "area_name": "ZCTA5 75226",
-    "other": 12,
-    "property": 3,
-    "violent": 4,
-    "total_incidents": 19,
-    "violent_incidents": 4,
-    "property_incidents": 3,
-    "other_incidents": 12
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75240",
-    "area_name": "ZCTA5 75240",
-    "other": 11,
-    "property": 8,
-    "violent": 0,
-    "total_incidents": 19,
-    "violent_incidents": 0,
-    "property_incidents": 8,
-    "other_incidents": 11
-  },
-  {
-    "area_type": "zip",
     "area_id": "75210",
     "area_name": "ZCTA5 75210",
     "other": 10,
@@ -2266,6 +2218,30 @@
     "violent_incidents": 1,
     "property_incidents": 4,
     "other_incidents": 13
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "other": 11,
+    "property": 3,
+    "violent": 4,
+    "total_incidents": 18,
+    "violent_incidents": 4,
+    "property_incidents": 3,
+    "other_incidents": 11
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75240",
+    "area_name": "ZCTA5 75240",
+    "other": 11,
+    "property": 7,
+    "violent": 0,
+    "total_incidents": 18,
+    "violent_incidents": 0,
+    "property_incidents": 7,
+    "other_incidents": 11
   },
   {
     "area_type": "zip",
@@ -2293,20 +2269,20 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75238",
-    "area_name": "ZCTA5 75238",
-    "other": 12,
-    "property": 1,
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "other": 9,
+    "property": 5,
     "violent": 1,
-    "total_incidents": 14,
+    "total_incidents": 15,
     "violent_incidents": 1,
-    "property_incidents": 1,
-    "other_incidents": 12
+    "property_incidents": 5,
+    "other_incidents": 9
   },
   {
     "area_type": "zip",
-    "area_id": "75248",
-    "area_name": "ZCTA5 75248",
+    "area_id": "75206",
+    "area_name": "ZCTA5 75206",
     "other": 8,
     "property": 5,
     "violent": 1,
@@ -2317,15 +2293,15 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75206",
-    "area_name": "ZCTA5 75206",
-    "other": 8,
-    "property": 4,
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "other": 12,
+    "property": 1,
     "violent": 1,
-    "total_incidents": 13,
+    "total_incidents": 14,
     "violent_incidents": 1,
-    "property_incidents": 4,
-    "other_incidents": 8
+    "property_incidents": 1,
+    "other_incidents": 12
   },
   {
     "area_type": "zip",
@@ -2427,13 +2403,13 @@
     "area_type": "zip",
     "area_id": "75225",
     "area_name": "ZCTA5 75225",
-    "other": 7,
+    "other": 6,
     "property": 0,
     "violent": 0,
-    "total_incidents": 7,
+    "total_incidents": 6,
     "violent_incidents": 0,
     "property_incidents": 0,
-    "other_incidents": 7
+    "other_incidents": 6
   },
   {
     "area_type": "zip",

@@ -30,12 +30,6 @@
     "area_type": "neighborhood"
   },
   {
-    "area_id": "105",
-    "area_name": "Oak Park Estates",
-    "zip_codes": "75224",
-    "area_type": "neighborhood"
-  },
-  {
     "area_id": "107",
     "area_name": "Kessler Plaza",
     "zip_codes": "75208",
@@ -297,12 +291,6 @@
     "area_id": "208",
     "area_name": "The Cloisters",
     "zip_codes": "75214",
-    "area_type": "neighborhood"
-  },
-  {
-    "area_id": "21",
-    "area_name": "West Village",
-    "zip_codes": "75204",
     "area_type": "neighborhood"
   },
   {

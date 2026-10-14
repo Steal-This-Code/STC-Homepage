@@ -44,6 +44,17 @@
     "neighborhood": "Civic Center District"
   },
   {
+    "id": "108067-2026",
+    "lat": 32.7743,
+    "lng": -96.8014,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-07-23",
+    "neighborhood": "Civic Center District"
+  },
+  {
     "id": "108884-2026",
     "lat": 32.78,
     "lng": -96.8023,

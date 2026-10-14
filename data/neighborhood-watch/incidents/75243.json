@@ -33,6 +33,17 @@
     "neighborhood": "Stults Road"
   },
   {
+    "id": "108150-2026",
+    "lat": 32.9023,
+    "lng": -96.757,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-07-24",
+    "neighborhood": "Stults Road"
+  },
+  {
     "id": "107458-2026",
     "lat": 32.9059,
     "lng": -96.7204,
@@ -51,28 +62,6 @@
     "group": "property",
     "premise": "parking (business)",
     "hour": 8,
-    "date": "2026-07-26",
-    "neighborhood": null
-  },
-  {
-    "id": "109332-2026",
-    "lat": 32.9235,
-    "lng": -96.7218,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-07-26",
-    "neighborhood": null
-  },
-  {
-    "id": "109332-2026",
-    "lat": 32.9235,
-    "lng": -96.7218,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
     "date": "2026-07-26",
     "neighborhood": null
   },

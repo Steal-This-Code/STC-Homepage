@@ -44,17 +44,6 @@
     "neighborhood": "Deep Ellum"
   },
   {
-    "id": "108341-2026",
-    "lat": 32.7799,
-    "lng": -96.7759,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "park",
-    "hour": 23,
-    "date": "2026-07-24",
-    "neighborhood": "Grand Park South"
-  },
-  {
     "id": "108897-2026",
     "lat": 32.7838,
     "lng": -96.784,

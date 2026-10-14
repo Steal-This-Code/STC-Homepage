@@ -22,6 +22,17 @@
     "neighborhood": "Henderson"
   },
   {
+    "id": "107595-2026",
+    "lat": 32.8107,
+    "lng": -96.7777,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 12,
+    "date": "2026-06-30",
+    "neighborhood": "Henderson"
+  },
+  {
     "id": "109239-2026",
     "lat": 32.8575,
     "lng": -96.7543,

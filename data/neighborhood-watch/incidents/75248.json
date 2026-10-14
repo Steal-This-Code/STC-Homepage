@@ -33,6 +33,17 @@
     "neighborhood": null
   },
   {
+    "id": "107535-2026",
+    "lat": 32.9622,
+    "lng": -96.8046,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-07-23",
+    "neighborhood": null
+  },
+  {
     "id": "109285-2026",
     "lat": 32.9811,
     "lng": -96.7881,

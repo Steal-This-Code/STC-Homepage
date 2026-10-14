@@ -22,17 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "108029-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "poss cont sub not in pen grp",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 14,
-    "date": "2026-07-24",
-    "neighborhood": null
-  },
-  {
     "id": "108068-2026",
     "lat": 32.8677,
     "lng": -96.7918,

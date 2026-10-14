@@ -52,23 +52,7 @@
     "area_id": "104",
     "area_name": "Kiest-Polk",
     "crime_group": "other",
-    "location_type": "apartment complex/building",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "104",
-    "area_name": "Kiest-Polk",
-    "crime_group": "other",
     "location_type": "highway, street, alley etc",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "105",
-    "area_name": "Oak Park Estates",
-    "crime_group": "other",
-    "location_type": "apartment complex/building",
     "incidents": 1
   },
   {
@@ -557,7 +541,7 @@
     "area_name": "La Bajada",
     "crime_group": "other",
     "location_type": "commercial property occupied/vacant",
-    "incidents": 8
+    "incidents": 7
   },
   {
     "area_type": "neighborhood",
@@ -796,14 +780,6 @@
     "area_id": "17",
     "area_name": "Oak Lawn",
     "crime_group": "other",
-    "location_type": "apartment complex/building",
-    "incidents": 3
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "other",
     "location_type": "apartment parking lot",
     "incidents": 3
   },
@@ -828,7 +804,23 @@
     "area_id": "17",
     "area_name": "Oak Lawn",
     "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
     "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "17",
+    "area_name": "Oak Lawn",
+    "crime_group": "other",
+    "location_type": "hotel/motel/etc",
     "incidents": 2
   },
   {
@@ -845,14 +837,6 @@
     "area_name": "Oak Lawn",
     "crime_group": "other",
     "location_type": "bar/nightclub/dancehall etc.",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "other",
-    "location_type": "gas or service station",
     "incidents": 1
   },
   {
@@ -925,14 +909,6 @@
     "area_name": "Oak Lawn",
     "crime_group": "violent",
     "location_type": "bar/nightclub/dancehall etc.",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "17",
-    "area_name": "Oak Lawn",
-    "crime_group": "violent",
-    "location_type": "convenience store",
     "incidents": 1
   },
   {
@@ -1068,7 +1044,7 @@
     "area_id": "19",
     "area_name": "Uptown",
     "crime_group": "other",
-    "location_type": "apartment complex/building",
+    "location_type": "apartment parking lot",
     "incidents": 2
   },
   {
@@ -1076,8 +1052,8 @@
     "area_id": "19",
     "area_name": "Uptown",
     "crime_group": "other",
-    "location_type": "apartment parking lot",
-    "incidents": 2
+    "location_type": "apartment complex/building",
+    "incidents": 1
   },
   {
     "area_type": "neighborhood",
@@ -1261,7 +1237,7 @@
     "area_name": "Bachman",
     "crime_group": "violent",
     "location_type": "apartment parking lot",
-    "incidents": 3
+    "incidents": 4
   },
   {
     "area_type": "neighborhood",
@@ -1325,14 +1301,6 @@
     "area_name": "The Cloisters",
     "crime_group": "other",
     "location_type": "park",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "21",
-    "area_name": "West Village",
-    "crime_group": "other",
-    "location_type": "apartment complex/building",
     "incidents": 1
   },
   {
@@ -1956,14 +1924,6 @@
     "area_id": "28",
     "area_name": "Grand Park South",
     "crime_group": "other",
-    "location_type": "park",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "28",
-    "area_name": "Grand Park South",
-    "crime_group": "other",
     "location_type": "shelter - mission/homeless",
     "incidents": 1
   },
@@ -2005,7 +1965,7 @@
     "area_name": "Stults Road",
     "crime_group": "other",
     "location_type": "single family residence - occupied",
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -2189,14 +2149,6 @@
     "area_name": "Valley View",
     "crime_group": "other",
     "location_type": "hotel/motel/etc",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "320",
-    "area_name": "Valley View",
-    "crime_group": "property",
-    "location_type": "apartment complex/building",
     "incidents": 1
   },
   {
@@ -2461,7 +2413,7 @@
     "area_name": "Commercial Center",
     "crime_group": "other",
     "location_type": "parking (business)",
-    "incidents": 3
+    "incidents": 4
   },
   {
     "area_type": "neighborhood",
@@ -2804,14 +2756,6 @@
     "area_id": "5",
     "area_name": "Main Street District",
     "crime_group": "other",
-    "location_type": "convenience store",
-    "incidents": 1
-  },
-  {
-    "area_type": "neighborhood",
-    "area_id": "5",
-    "area_name": "Main Street District",
-    "crime_group": "other",
     "location_type": "hotel/motel/etc",
     "incidents": 1
   },
@@ -3133,7 +3077,7 @@
     "area_name": "Civic Center District",
     "crime_group": "property",
     "location_type": "highway, street, alley etc",
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -3141,7 +3085,7 @@
     "area_name": "Henderson",
     "crime_group": "property",
     "location_type": "apartment parking lot",
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "neighborhood",
@@ -3444,7 +3388,7 @@
     "area_id": "96",
     "area_name": "Buckner Terrace",
     "crime_group": "other",
-    "location_type": "single family residence - occupied",
+    "location_type": "highway, street, alley etc",
     "incidents": 3
   },
   {
@@ -3452,8 +3396,8 @@
     "area_id": "96",
     "area_name": "Buckner Terrace",
     "crime_group": "other",
-    "location_type": "highway, street, alley etc",
-    "incidents": 2
+    "location_type": "single family residence - occupied",
+    "incidents": 3
   },
   {
     "area_type": "neighborhood",
@@ -3677,7 +3621,7 @@
     "area_name": "ZCTA5 75201",
     "crime_group": "other",
     "location_type": "parking (business)",
-    "incidents": 5
+    "incidents": 6
   },
   {
     "area_type": "zip",
@@ -3702,14 +3646,6 @@
     "crime_group": "other",
     "location_type": "apartment complex/building",
     "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75201",
-    "area_name": "ZCTA5 75201",
-    "crime_group": "other",
-    "location_type": "convenience store",
-    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -3801,14 +3737,6 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75201",
-    "area_name": "ZCTA5 75201",
-    "crime_group": "violent",
-    "location_type": "convenience store",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
     "area_id": "75202",
     "area_name": "ZCTA5 75202",
     "crime_group": "other",
@@ -3893,7 +3821,7 @@
     "area_name": "ZCTA5 75202",
     "crime_group": "property",
     "location_type": "highway, street, alley etc",
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -4036,14 +3964,6 @@
     "area_id": "75204",
     "area_name": "ZCTA5 75204",
     "crime_group": "other",
-    "location_type": "apartment complex/building",
-    "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75204",
-    "area_name": "ZCTA5 75204",
-    "crime_group": "other",
     "location_type": "apartment parking lot",
     "incidents": 2
   },
@@ -4062,6 +3982,14 @@
     "crime_group": "other",
     "location_type": "other",
     "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75204",
+    "area_name": "ZCTA5 75204",
+    "crime_group": "other",
+    "location_type": "apartment complex/building",
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -4205,7 +4133,7 @@
     "area_name": "ZCTA5 75206",
     "crime_group": "property",
     "location_type": "apartment parking lot",
-    "incidents": 1
+    "incidents": 2
   },
   {
     "area_type": "zip",
@@ -4717,7 +4645,7 @@
     "area_name": "ZCTA5 75212",
     "crime_group": "other",
     "location_type": "commercial property occupied/vacant",
-    "incidents": 13
+    "incidents": 12
   },
   {
     "area_type": "zip",
@@ -5124,14 +5052,6 @@
     "area_id": "75216",
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
-    "location_type": "parking (business)",
-    "incidents": 4
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75216",
-    "area_name": "ZCTA5 75216",
-    "crime_group": "other",
     "location_type": "single family residence - occupied",
     "incidents": 4
   },
@@ -5157,6 +5077,14 @@
     "area_name": "ZCTA5 75216",
     "crime_group": "other",
     "location_type": "apartment residence",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "location_type": "parking (business)",
     "incidents": 2
   },
   {
@@ -5285,7 +5213,7 @@
     "area_name": "ZCTA5 75217",
     "crime_group": "other",
     "location_type": "highway, street, alley etc",
-    "incidents": 9
+    "incidents": 10
   },
   {
     "area_type": "zip",
@@ -5556,6 +5484,14 @@
     "area_id": "75219",
     "area_name": "ZCTA5 75219",
     "crime_group": "other",
+    "location_type": "hotel/motel/etc",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75219",
+    "area_name": "ZCTA5 75219",
+    "crime_group": "other",
     "location_type": "parking (business)",
     "incidents": 2
   },
@@ -5597,14 +5533,6 @@
     "area_name": "ZCTA5 75219",
     "crime_group": "other",
     "location_type": "bar/nightclub/dancehall etc.",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75219",
-    "area_name": "ZCTA5 75219",
-    "crime_group": "other",
-    "location_type": "gas or service station",
     "incidents": 1
   },
   {
@@ -5789,7 +5717,7 @@
     "area_name": "ZCTA5 75220",
     "crime_group": "violent",
     "location_type": "apartment parking lot",
-    "incidents": 3
+    "incidents": 4
   },
   {
     "area_type": "zip",
@@ -5924,7 +5852,7 @@
     "area_id": "75224",
     "area_name": "ZCTA5 75224",
     "crime_group": "other",
-    "location_type": "apartment complex/building",
+    "location_type": "apartment residence",
     "incidents": 2
   },
   {
@@ -5940,7 +5868,7 @@
     "area_id": "75224",
     "area_name": "ZCTA5 75224",
     "crime_group": "other",
-    "location_type": "apartment residence",
+    "location_type": "apartment complex/building",
     "incidents": 1
   },
   {
@@ -5957,14 +5885,6 @@
     "area_name": "ZCTA5 75224",
     "crime_group": "other",
     "location_type": "other",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75224",
-    "area_name": "ZCTA5 75224",
-    "crime_group": "other",
-    "location_type": "school - college/university",
     "incidents": 1
   },
   {
@@ -6065,14 +5985,6 @@
   },
   {
     "area_type": "zip",
-    "area_id": "75225",
-    "area_name": "ZCTA5 75225",
-    "crime_group": "other",
-    "location_type": "shopping mall",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
     "area_id": "75226",
     "area_name": "ZCTA5 75226",
     "crime_group": "other",
@@ -6101,14 +6013,6 @@
     "area_name": "ZCTA5 75226",
     "crime_group": "other",
     "location_type": "other",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75226",
-    "area_name": "ZCTA5 75226",
-    "crime_group": "other",
-    "location_type": "park",
     "incidents": 1
   },
   {
@@ -6309,7 +6213,7 @@
     "area_name": "ZCTA5 75228",
     "crime_group": "other",
     "location_type": "highway, street, alley etc",
-    "incidents": 8
+    "incidents": 9
   },
   {
     "area_type": "zip",
@@ -7124,14 +7028,6 @@
     "area_id": "75237",
     "area_name": "ZCTA5 75237",
     "crime_group": "other",
-    "location_type": "apartment parking lot",
-    "incidents": 3
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75237",
-    "area_name": "ZCTA5 75237",
-    "crime_group": "other",
     "location_type": "department/discount store",
     "incidents": 2
   },
@@ -7171,16 +7067,16 @@
     "area_type": "zip",
     "area_id": "75237",
     "area_name": "ZCTA5 75237",
-    "crime_group": "property",
-    "location_type": "apartment complex/building",
-    "incidents": 2
+    "crime_group": "other",
+    "location_type": "apartment parking lot",
+    "incidents": 1
   },
   {
     "area_type": "zip",
     "area_id": "75237",
     "area_name": "ZCTA5 75237",
     "crime_group": "property",
-    "location_type": "storage facility",
+    "location_type": "apartment complex/building",
     "incidents": 2
   },
   {
@@ -7213,6 +7109,14 @@
     "area_name": "ZCTA5 75237",
     "crime_group": "property",
     "location_type": "single family residence - occupied",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75237",
+    "area_name": "ZCTA5 75237",
+    "crime_group": "property",
+    "location_type": "storage facility",
     "incidents": 1
   },
   {
@@ -7366,14 +7270,6 @@
     "crime_group": "property",
     "location_type": "single family residence - occupied",
     "incidents": 2
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75240",
-    "area_name": "ZCTA5 75240",
-    "crime_group": "property",
-    "location_type": "apartment complex/building",
-    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -7564,6 +7460,14 @@
     "area_id": "75243",
     "area_name": "ZCTA5 75243",
     "crime_group": "other",
+    "location_type": "single family residence - occupied",
+    "incidents": 2
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
     "location_type": "apartment parking lot",
     "incidents": 1
   },
@@ -7603,14 +7507,6 @@
     "area_type": "zip",
     "area_id": "75243",
     "area_name": "ZCTA5 75243",
-    "crime_group": "other",
-    "location_type": "single family residence - occupied",
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75243",
-    "area_name": "ZCTA5 75243",
     "crime_group": "property",
     "location_type": "parking (business)",
     "incidents": 4
@@ -7629,7 +7525,7 @@
     "area_name": "ZCTA5 75243",
     "crime_group": "property",
     "location_type": "apartment parking lot",
-    "incidents": 3
+    "incidents": 1
   },
   {
     "area_type": "zip",
@@ -7869,6 +7765,14 @@
     "area_name": "ZCTA5 75248",
     "crime_group": "other",
     "location_type": "grocery/supermarket",
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75248",
+    "area_name": "ZCTA5 75248",
+    "crime_group": "other",
+    "location_type": "highway, street, alley etc",
     "incidents": 1
   },
   {
