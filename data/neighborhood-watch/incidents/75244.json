@@ -1,46 +1,79 @@
 [
   {
-    "id": "108157-2026",
-    "lat": 32.9236,
-    "lng": -96.8393,
-    "offense": "bmv",
+    "id": "820760-2026",
+    "lat": 32.9178,
+    "lng": -96.8534,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-07-18",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-10-09",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "108506-2026",
-    "lat": 32.9224,
-    "lng": -96.8366,
+    "id": "148840-2026",
+    "lat": 32.9228,
+    "lng": -96.8387,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 10,
+    "date": "2026-10-09",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "134245-2026",
+    "lat": 32.9239,
+    "lng": -96.8387,
     "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 6,
-    "date": "2026-07-25",
-    "neighborhood": null
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2026-09-11",
+    "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "107926-2026",
-    "lat": 32.9255,
-    "lng": -96.8333,
-    "offense": "traf vio -duty on strike fix/hwy landscape < $200",
+    "id": "148761-2026",
+    "lat": 32.9172,
+    "lng": -96.8389,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-05-20",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "075214-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "dwi",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-07-24",
-    "neighborhood": null
+    "hour": 0,
+    "date": "2026-05-26",
+    "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "110172-2026",
-    "lat": 32.9164,
-    "lng": -96.8175,
-    "offense": "motor vehicle theft",
+    "id": "148394-2026",
+    "lat": 32.9107,
+    "lng": -96.8188,
+    "offense": "theft - preliminary investigation",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-07-28",
-    "neighborhood": null
+    "premise": "apartment parking lot",
+    "hour": 16,
+    "date": "2026-10-07",
+    "neighborhood": "Forestcrest Estates"
+  },
+  {
+    "id": "150735-2026",
+    "lat": 32.9179,
+    "lng": -96.855,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-10-12",
+    "neighborhood": "Glen Meadow Estates"
   }
 ]
