@@ -1,13 +1,13 @@
 [
   {
-    "id": "820031-2026",
-    "lat": 32.6223,
-    "lng": -96.7694,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "school - college/university",
-    "hour": 18,
-    "date": "2026-09-30",
+    "id": "820920-2026",
+    "lat": 32.643,
+    "lng": -96.8225,
+    "offense": "theft of service > or equal $2,500 <$30k pc31.04(e4)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 16,
+    "date": "2026-07-30",
     "neighborhood": null
   },
   {
@@ -19,6 +19,17 @@
     "premise": "highway, street, alley etc",
     "hour": 15,
     "date": "2026-08-31",
+    "neighborhood": null
+  },
+  {
+    "id": "007969-2026",
+    "lat": 32.6087,
+    "lng": -96.8056,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-16",
     "neighborhood": null
   },
   {

@@ -1,123 +1,13 @@
 [
   {
-    "id": "820710-2026",
-    "lat": 32.8253,
-    "lng": -96.7862,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-10-10",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "820608-2026",
-    "lat": 32.8214,
-    "lng": -96.7899,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 9,
-    "date": "2026-10-09",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "819635-2026",
-    "lat": 32.8257,
-    "lng": -96.7879,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-08-20",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "148351-2026",
-    "lat": 32.8227,
-    "lng": -96.7878,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-10-08",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "820785-2026",
-    "lat": 32.8253,
-    "lng": -96.7862,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-10-10",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "117381-2026",
-    "lat": 32.82,
-    "lng": -96.7906,
-    "offense": "bmv",
+    "id": "110017-2026",
+    "lat": 32.8211,
+    "lng": -96.7884,
+    "offense": "dwi",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-08-10",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "820606-2026",
-    "lat": 32.8214,
-    "lng": -96.7877,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-09-18",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "115007-2026",
-    "lat": 32.8265,
-    "lng": -96.7866,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 21,
-    "date": "2026-08-06",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "123032-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "storage facility",
-    "hour": 16,
-    "date": "2026-08-21",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "148351-2026",
-    "lat": 32.8227,
-    "lng": -96.7878,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-10-08",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "115600-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 21,
-    "date": "2026-08-07",
+    "hour": 4,
+    "date": "2026-07-28",
     "neighborhood": "Knox Park"
   },
   {
@@ -132,37 +22,59 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "117381-2026",
-    "lat": 32.82,
-    "lng": -96.7906,
-    "offense": "bmv",
+    "id": "115600-2026",
+    "lat": 32.8274,
+    "lng": -96.7839,
+    "offense": "abandoned property (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "business office",
     "hour": 21,
-    "date": "2026-08-10",
+    "date": "2026-08-07",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "117381-2026",
-    "lat": 32.82,
-    "lng": -96.7906,
+    "id": "820710-2026",
+    "lat": 32.8253,
+    "lng": -96.7862,
     "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-08-10",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "820686-2026",
-    "lat": 32.8178,
-    "lng": -96.7955,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "apartment parking lot",
     "hour": 16,
-    "date": "2026-10-01",
-    "neighborhood": "Oak Lawn"
+    "date": "2026-10-10",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "820265-2026",
+    "lat": 32.8279,
+    "lng": -96.7863,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 19,
+    "date": "2026-09-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "820785-2026",
+    "lat": 32.8253,
+    "lng": -96.7862,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-10-10",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "151868-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-09-25",
+    "neighborhood": "Knox Park"
   },
   {
     "id": "083343-2026",
@@ -174,5 +86,16 @@
     "hour": 17,
     "date": "2026-06-09",
     "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "100839-2026",
+    "lat": 32.8351,
+    "lng": -96.78,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-07-11",
+    "neighborhood": null
   }
 ]

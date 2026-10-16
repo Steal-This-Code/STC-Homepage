@@ -1,13 +1,13 @@
 [
   {
-    "id": "820501-2026",
-    "lat": 32.9394,
-    "lng": -96.9838,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 6,
-    "date": "2026-08-20",
+    "id": "003389-2026",
+    "lat": 32.9325,
+    "lng": -96.9851,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-07",
     "neighborhood": null
   }
 ]
