@@ -1,24 +1,13 @@
 [
   {
-    "id": "149275-2026",
+    "id": "141688-2026",
     "lat": 32.7343,
     "lng": -96.9873,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 3,
-    "date": "2026-10-10",
-    "neighborhood": null
-  },
-  {
-    "id": "144683-2026",
-    "lat": 32.7537,
-    "lng": -97.0652,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "offense": "discharge firearm in certain municipalities",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-10-01",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-09-25",
     "neighborhood": null
   }
 ]

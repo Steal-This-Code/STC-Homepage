@@ -1,5 +1,27 @@
 [
   {
+    "id": "059352-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "179665-2025",
+    "lat": 32.6488,
+    "lng": -96.9681,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2025-12-16",
+    "neighborhood": "Wind Ridge Estates"
+  },
+  {
     "id": "011534-2026",
     "lat": 32.6505,
     "lng": -96.9507,
@@ -9,28 +31,6 @@
     "hour": 4,
     "date": "2026-01-24",
     "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "176327-2025",
-    "lat": 32.6342,
-    "lng": -96.9534,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2025-12-09",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "072184-2026",
-    "lat": 32.6295,
-    "lng": -96.9443,
-    "offense": "oper boarding house w/o county/munic permit",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-05-14",
-    "neighborhood": "Woods-Sugarberry"
   },
   {
     "id": "132846-2026",
@@ -44,36 +44,25 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "151743-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 17,
-    "date": "2026-10-14",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "178832-2025",
-    "lat": 32.6434,
-    "lng": -96.9466,
-    "offense": "found property (no offense)",
+    "id": "176327-2025",
+    "lat": 32.6342,
+    "lng": -96.9534,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-12-15",
+    "hour": 23,
+    "date": "2025-12-09",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "179665-2025",
-    "lat": 32.6488,
-    "lng": -96.9681,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 17,
-    "date": "2025-12-16",
-    "neighborhood": "Wind Ridge Estates"
+    "id": "059352-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": "Summit Parc"
   }
 ]

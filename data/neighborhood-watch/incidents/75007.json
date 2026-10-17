@@ -1,13 +1,13 @@
 [
   {
-    "id": "083610-2026",
+    "id": "161828-2025",
     "lat": 33.0115,
     "lng": -96.8602,
-    "offense": "lost property (no offense)",
+    "offense": "abandoned property (no offense)",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2025-11-15",
+    "premise": "apartment residence",
+    "hour": 13,
+    "date": "2025-11-10",
     "neighborhood": null
   }
 ]

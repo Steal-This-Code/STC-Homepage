@@ -1,49 +1,5 @@
 [
   {
-    "id": "006583-2026",
-    "lat": 32.6986,
-    "lng": -96.5777,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 15,
-    "date": "2026-01-13",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "057792-2026",
-    "lat": 32.6632,
-    "lng": -96.6239,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-04-23",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "007574-2026",
-    "lat": 32.6922,
-    "lng": -96.5886,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 9,
-    "date": "2026-01-16",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "820240-2026",
-    "lat": 32.6841,
-    "lng": -96.5747,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 5,
-    "date": "2026-10-04",
-    "neighborhood": "Kleberg"
-  },
-  {
     "id": "078482-2026",
     "lat": 32.663,
     "lng": -96.6673,
@@ -55,14 +11,14 @@
     "neighborhood": null
   },
   {
-    "id": "099630-2026",
-    "lat": 32.6697,
-    "lng": -96.6257,
-    "offense": "open building (no offense)",
+    "id": "007574-2026",
+    "lat": 32.6922,
+    "lng": -96.5886,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-07-08",
+    "premise": "outdoor area public/private",
+    "hour": 9,
+    "date": "2026-01-16",
     "neighborhood": "Kleberg"
   }
 ]
