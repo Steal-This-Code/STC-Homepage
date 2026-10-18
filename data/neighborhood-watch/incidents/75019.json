@@ -1,13 +1,46 @@
 [
   {
-    "id": "003389-2026",
-    "lat": 32.9325,
-    "lng": -96.9851,
-    "offense": "public intoxication",
+    "id": "062329-2026",
+    "lat": 32.9374,
+    "lng": -96.9831,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 2,
+    "date": "2026-05-02",
+    "neighborhood": null
+  },
+  {
+    "id": "007902-2026",
+    "lat": 32.9316,
+    "lng": -96.9718,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "821206-2026",
+    "lat": 32.9317,
+    "lng": -96.9858,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-07",
+    "hour": 12,
+    "date": "2026-10-17",
+    "neighborhood": null
+  },
+  {
+    "id": "033327-2026",
+    "lat": 32.9291,
+    "lng": -96.9899,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 2,
+    "date": "2026-03-09",
     "neighborhood": null
   }
 ]

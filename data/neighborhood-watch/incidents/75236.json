@@ -1,123 +1,13 @@
 [
   {
-    "id": "011994-2026",
-    "lat": 32.7069,
-    "lng": -96.9522,
-    "offense": "fleeing police officer",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-25",
-    "neighborhood": null
-  },
-  {
-    "id": "179593-2025",
-    "lat": 32.6776,
-    "lng": -96.9295,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 20,
-    "date": "2025-12-15",
-    "neighborhood": "Cedar Vista"
-  },
-  {
-    "id": "152717-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "179957-2025",
-    "lat": 32.7007,
-    "lng": -96.9124,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2025-12-17",
-    "neighborhood": null
-  },
-  {
-    "id": "016884-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-04",
-    "neighborhood": null
-  },
-  {
-    "id": "016884-2026",
-    "lat": 32.6935,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-04",
-    "neighborhood": null
-  },
-  {
-    "id": "056776-2026",
-    "lat": 32.6752,
-    "lng": -96.9605,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-04-20",
-    "neighborhood": null
-  },
-  {
-    "id": "147328-2026",
-    "lat": 32.6637,
-    "lng": -96.8892,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 10,
-    "date": "2026-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "147328-2026",
-    "lat": 32.6637,
-    "lng": -96.8892,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 10,
-    "date": "2026-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "014215-2026",
-    "lat": 32.6829,
-    "lng": -96.8921,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "056776-2026",
-    "lat": 32.6752,
-    "lng": -96.9605,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-04-20",
+    "id": "153341-2026",
+    "lat": 32.6906,
+    "lng": -96.9091,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 16,
+    "date": "2026-10-17",
     "neighborhood": null
   },
   {
@@ -129,61 +19,6 @@
     "premise": "apartment parking lot",
     "hour": 2,
     "date": "2026-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "066546-2026",
-    "lat": 32.7008,
-    "lng": -96.8992,
-    "offense": "dwi bac > or equal to 0.15",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "010054-2026",
-    "lat": 32.6934,
-    "lng": -96.8915,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-01-20",
-    "neighborhood": null
-  },
-  {
-    "id": "013167-2026",
-    "lat": 32.6638,
-    "lng": -96.9655,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-01-29",
-    "neighborhood": null
-  },
-  {
-    "id": "150677-2025",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2025-10-19",
-    "neighborhood": null
-  },
-  {
-    "id": "011824-2026",
-    "lat": 32.6848,
-    "lng": -96.912,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-01-25",
     "neighborhood": null
   }
 ]

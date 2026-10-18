@@ -1,24 +1,13 @@
 [
   {
-    "id": "078482-2026",
-    "lat": 32.663,
-    "lng": -96.6673,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
-    "id": "007574-2026",
-    "lat": 32.6922,
-    "lng": -96.5886,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 9,
-    "date": "2026-01-16",
+    "id": "153161-2026",
+    "lat": 32.6735,
+    "lng": -96.6009,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 12,
+    "date": "2026-08-30",
     "neighborhood": "Kleberg"
   }
 ]
