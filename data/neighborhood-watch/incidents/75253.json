@@ -1,13 +1,123 @@
 [
   {
-    "id": "153161-2026",
+    "id": "158675-2025",
+    "lat": 32.6862,
+    "lng": -96.5889,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "grocery/supermarket",
+    "hour": 8,
+    "date": "2025-11-04",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "167872-2025",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "other",
+    "hour": 18,
+    "date": "2025-11-21",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "162704-2025",
+    "lat": 32.6685,
+    "lng": -96.6116,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 10,
+    "date": "2025-11-12",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "159479-2025",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2025-11-05",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "159390-2025",
+    "lat": 32.677,
+    "lng": -96.6058,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 15,
+    "date": "2025-11-05",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "170537-2025",
+    "lat": 32.7004,
+    "lng": -96.5718,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2025-11-27",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "169267-2025",
+    "lat": 32.6862,
+    "lng": -96.5889,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2025-11-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "169398-2025",
     "lat": 32.6735,
     "lng": -96.6009,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 12,
-    "date": "2026-08-30",
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2025-11-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "160315-2025",
+    "lat": 32.6577,
+    "lng": -96.6562,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2025-11-07",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "169712-2025",
+    "lat": 32.6986,
+    "lng": -96.5777,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 19,
+    "date": "2025-11-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "169411-2025",
+    "lat": 32.6735,
+    "lng": -96.6009,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 8,
+    "date": "2025-11-25",
     "neighborhood": "Kleberg"
   }
 ]

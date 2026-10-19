@@ -1,24 +1,68 @@
 [
   {
-    "id": "153341-2026",
-    "lat": 32.6906,
-    "lng": -96.9091,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 16,
-    "date": "2026-10-17",
+    "id": "159031-2025",
+    "lat": 32.6927,
+    "lng": -96.9183,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 21,
+    "date": "2025-11-04",
     "neighborhood": null
   },
   {
-    "id": "152717-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
+    "id": "158309-2025",
+    "lat": 32.6859,
+    "lng": -96.894,
+    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-11-01",
+    "neighborhood": null
+  },
+  {
+    "id": "158892-2025",
+    "lat": 32.7079,
+    "lng": -96.8928,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2025-11-04",
+    "neighborhood": null
+  },
+  {
+    "id": "158496-2025",
+    "lat": 32.6927,
+    "lng": -96.9183,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 21,
+    "date": "2025-11-03",
+    "neighborhood": null
+  },
+  {
+    "id": "169709-2025",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2025-11-25",
+    "neighborhood": null
+  },
+  {
+    "id": "169253-2025",
+    "lat": 32.7079,
+    "lng": -96.8928,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-10-16",
+    "hour": 12,
+    "date": "2025-11-20",
     "neighborhood": null
   }
 ]

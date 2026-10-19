@@ -1,35 +1,13 @@
 [
   {
-    "id": "821133-2026",
-    "lat": 32.6445,
-    "lng": -96.9703,
-    "offense": "theft of service > or equal $2,500 <$30k pc31.04(e4)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-06-27",
-    "neighborhood": "Wind Ridge Estates"
-  },
-  {
-    "id": "152963-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "criminal trespass warning",
+    "id": "158416-2025",
+    "lat": 32.6397,
+    "lng": -96.9506,
+    "offense": "attack by dog causes bodily injury",
     "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 23,
-    "date": "2026-10-16",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "072184-2026",
-    "lat": 32.6295,
-    "lng": -96.9443,
-    "offense": "oper boarding house w/o county/munic permit",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-05-14",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2025-11-03",
     "neighborhood": "Woods-Sugarberry"
   }
 ]

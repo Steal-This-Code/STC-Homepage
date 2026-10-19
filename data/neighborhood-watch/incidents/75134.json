@@ -1,46 +1,13 @@
 [
   {
-    "id": "128626-2026",
-    "lat": 32.641,
-    "lng": -96.8054,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "id": "168300-2025",
+    "lat": 32.6477,
+    "lng": -96.8199,
+    "offense": "public intoxication",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-08-31",
-    "neighborhood": null
-  },
-  {
-    "id": "128626-2026",
-    "lat": 32.641,
-    "lng": -96.8054,
-    "offense": "prohibited weapon pc",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-08-31",
-    "neighborhood": null
-  },
-  {
-    "id": "180845-2025",
-    "lat": 32.6469,
-    "lng": -96.8167,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "outdoor area public/private",
     "hour": 0,
-    "date": "2025-12-19",
-    "neighborhood": null
-  },
-  {
-    "id": "007969-2026",
-    "lat": 32.6087,
-    "lng": -96.8056,
-    "offense": "unlawful poss firearm by felon",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-16",
+    "date": "2025-11-23",
     "neighborhood": null
   }
 ]

@@ -1,24 +1,57 @@
 [
   {
-    "id": "134904-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "evading arrest detention",
+    "id": "168175-2025",
+    "lat": 32.7928,
+    "lng": -96.7723,
+    "offense": "violation of city ordinance",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-09-13",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2025-11-22",
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "134904-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "resist arrest search or transport",
+    "id": "158245-2025",
+    "lat": 32.7989,
+    "lng": -96.7687,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 11,
+    "date": "2025-11-03",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "169554-2025",
+    "lat": 32.7889,
+    "lng": -96.7803,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2025-11-25",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "160013-2025",
+    "lat": 32.7941,
+    "lng": -96.7716,
+    "offense": "missing person (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2025-11-06",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "169822-2025",
+    "lat": 32.7936,
+    "lng": -96.7695,
+    "offense": "poss cont sub pen grp 1 <1g dfz",
+    "group": "other",
+    "premise": "apartment complex/building",
     "hour": 0,
-    "date": "2026-09-13",
+    "date": "2025-11-26",
     "neighborhood": "Peak's Addition"
   }
 ]
