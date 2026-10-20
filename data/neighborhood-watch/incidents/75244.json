@@ -1,13 +1,68 @@
 [
   {
-    "id": "168377-2025",
-    "lat": 32.9176,
-    "lng": -96.8557,
-    "offense": "dwi",
+    "id": "152351-2026",
+    "lat": 32.9179,
+    "lng": -96.855,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2025-11-23",
+    "hour": 19,
+    "date": "2026-10-15",
     "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "147955-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-10-07",
+    "neighborhood": null
+  },
+  {
+    "id": "147955-2026",
+    "lat": 32.9118,
+    "lng": -96.8174,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-10-07",
+    "neighborhood": null
+  },
+  {
+    "id": "049340-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-04-07",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "049340-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-04-07",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "821106-2026",
+    "lat": 32.912,
+    "lng": -96.836,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-10-15",
+    "neighborhood": null
   }
 ]
