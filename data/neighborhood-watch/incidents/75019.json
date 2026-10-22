@@ -1,35 +1,24 @@
 [
   {
-    "id": "821206-2026",
-    "lat": 32.9317,
-    "lng": -96.9858,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "id": "062329-2026",
+    "lat": 32.9374,
+    "lng": -96.9831,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-10-17",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 2,
+    "date": "2026-05-02",
     "neighborhood": null
   },
   {
-    "id": "002054-2026",
-    "lat": 32.9377,
-    "lng": -96.9832,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-03-01",
-    "neighborhood": null
-  },
-  {
-    "id": "154346-2026",
-    "lat": 32.9291,
-    "lng": -96.9899,
-    "offense": "invasive visual recording bath/dress rm",
+    "id": "007902-2026",
+    "lat": 32.9316,
+    "lng": -96.9718,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
     "group": "other",
-    "premise": "business office",
-    "hour": 16,
-    "date": "2026-10-19",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-01-16",
     "neighborhood": null
   }
 ]

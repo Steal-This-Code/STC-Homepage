@@ -1,14 +1,25 @@
 [
   {
-    "id": "122192-2026",
-    "lat": 32.7922,
-    "lng": -96.7749,
-    "offense": "sleeping in a public place",
+    "id": "076366-2026",
+    "lat": 32.7928,
+    "lng": -96.7723,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-05-28",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "134904-2026",
+    "lat": 32.7996,
+    "lng": -96.7708,
+    "offense": "evading arrest detention",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-08-20",
-    "neighborhood": "Baylor / Meadows"
+    "hour": 0,
+    "date": "2026-09-13",
+    "neighborhood": "Peak's Addition"
   },
   {
     "id": "101329-2026",
@@ -19,61 +30,6 @@
     "premise": "highway, street, alley etc",
     "hour": 0,
     "date": "2026-07-12",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082718-2026",
-    "lat": 32.7961,
-    "lng": -96.7674,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082739-2026",
-    "lat": 32.7961,
-    "lng": -96.7674,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-06-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "109386-2026",
-    "lat": 32.7941,
-    "lng": -96.7682,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 22,
-    "date": "2026-07-26",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "154266-2026",
-    "lat": 32.7942,
-    "lng": -96.7711,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 13,
-    "date": "2026-10-18",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "136243-2026",
-    "lat": 32.794,
-    "lng": -96.7765,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2026-09-15",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -99,14 +55,47 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "076366-2026",
-    "lat": 32.7928,
-    "lng": -96.7723,
+    "id": "065532-2026",
+    "lat": 32.7921,
+    "lng": -96.7791,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-05-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "082739-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
     "offense": "public intoxication",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-05-28",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-06-08",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "821607-2026",
+    "lat": 32.7952,
+    "lng": -96.7761,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "convenience store",
+    "hour": 9,
+    "date": "2026-10-13",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "082718-2026",
+    "lat": 32.7961,
+    "lng": -96.7674,
+    "offense": "tamper fabricate physical evid with intent to impair",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-08",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -121,15 +110,48 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "065532-2026",
-    "lat": 32.7921,
-    "lng": -96.7791,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "id": "148739-2026",
+    "lat": 32.794,
+    "lng": -96.7765,
+    "offense": "evading arrest detention",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-05-08",
+    "hour": 4,
+    "date": "2026-10-09",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "122192-2026",
+    "lat": 32.7922,
+    "lng": -96.7749,
+    "offense": "sleeping in a public place",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-08-20",
     "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "091550-2026",
+    "lat": 32.7895,
+    "lng": -96.7717,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-24",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "091550-2026",
+    "lat": 32.7895,
+    "lng": -96.7717,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-06-24",
+    "neighborhood": "Peak's Addition"
   },
   {
     "id": "091550-2026",
@@ -140,61 +162,6 @@
     "premise": "highway, street, alley etc",
     "hour": 15,
     "date": "2026-06-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "140647-2026",
-    "lat": 32.794,
-    "lng": -96.7765,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 2,
-    "date": "2026-09-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082499-2026",
-    "lat": 32.7879,
-    "lng": -96.7799,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-06-08",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "153611-2026",
-    "lat": 32.7917,
-    "lng": -96.7765,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 2,
-    "date": "2026-10-18",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "140920-2026",
-    "lat": 32.7972,
-    "lng": -96.7692,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-09-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "084247-2026",
-    "lat": 32.7945,
-    "lng": -96.774,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-06-11",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -212,6 +179,17 @@
     "id": "082499-2026",
     "lat": 32.7879,
     "lng": -96.7799,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-06-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "082499-2026",
+    "lat": 32.7879,
+    "lng": -96.7799,
     "offense": "poss cont sub pen grp 1/1-b <1g",
     "group": "other",
     "premise": "highway, street, alley etc",
@@ -220,58 +198,80 @@
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "091550-2026",
-    "lat": 32.7895,
-    "lng": -96.7717,
-    "offense": "found property (no offense)",
+    "id": "082499-2026",
+    "lat": 32.7879,
+    "lng": -96.7799,
+    "offense": "poss cont sub pen grp 1/1-b <1g",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-24",
+    "hour": 5,
+    "date": "2026-06-08",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "123239-2026",
+    "lat": 32.7981,
+    "lng": -96.7697,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2026-08-22",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "109386-2026",
+    "lat": 32.7941,
+    "lng": -96.7682,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2026-07-26",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "123239-2026",
+    "lat": 32.7981,
+    "lng": -96.7697,
+    "offense": "vio bond/protective order",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-08-22",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "134381-2026",
+    "lat": 32.7938,
+    "lng": -96.7678,
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-09-11",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "136243-2026",
+    "lat": 32.794,
+    "lng": -96.7765,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 16,
+    "date": "2026-09-15",
     "neighborhood": "Peak's Addition"
   },
   {
     "id": "140647-2026",
     "lat": 32.794,
     "lng": -96.7765,
-    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "offense": "possession of drug paraphernalia",
     "group": "other",
     "premise": "gas or service station",
     "hour": 2,
     "date": "2026-09-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "064825-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-06",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "054872-2026",
-    "lat": 32.7936,
-    "lng": -96.7695,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2026-04-12",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082739-2026",
-    "lat": 32.7961,
-    "lng": -96.7674,
-    "offense": "evading arrest detention w/prev conviction pc38.04(b1)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-06-08",
     "neighborhood": "Peak's Addition"
   }
 ]

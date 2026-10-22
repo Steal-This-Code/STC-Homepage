@@ -9,16 +9,5 @@
     "hour": 11,
     "date": "2026-04-29",
     "neighborhood": null
-  },
-  {
-    "id": "126870-2026",
-    "lat": 32.9245,
-    "lng": -96.7359,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 20,
-    "date": "2026-08-28",
-    "neighborhood": null
   }
 ]
