@@ -1,5 +1,49 @@
 [
   {
+    "id": "143924-2026",
+    "lat": 32.6814,
+    "lng": -96.8961,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 3,
+    "date": "2026-09-30",
+    "neighborhood": null
+  },
+  {
+    "id": "155199-2026",
+    "lat": 32.6891,
+    "lng": -96.9085,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "commercial property occupied/vacant",
+    "hour": 11,
+    "date": "2026-10-21",
+    "neighborhood": null
+  },
+  {
+    "id": "820413-2026",
+    "lat": 32.6902,
+    "lng": -96.9084,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "business office",
+    "hour": 15,
+    "date": "2026-05-15",
+    "neighborhood": null
+  },
+  {
+    "id": "127695-2026",
+    "lat": 32.696,
+    "lng": -96.9236,
+    "offense": "robbery of individual",
+    "group": "violent",
+    "premise": "parking (business)",
+    "hour": 8,
+    "date": "2026-08-30",
+    "neighborhood": null
+  },
+  {
     "id": "155127-2026",
     "lat": 32.6742,
     "lng": -96.9659,
@@ -11,14 +55,58 @@
     "neighborhood": null
   },
   {
-    "id": "821529-2026",
-    "lat": 32.6724,
-    "lng": -96.9685,
-    "offense": "credit card or debit card abuse - preliminary investigation",
+    "id": "176886-2025",
+    "lat": 32.668,
+    "lng": -96.8891,
+    "offense": "crim mischief <$100",
     "group": "other",
-    "premise": "gas or service station",
-    "hour": 17,
-    "date": "2026-09-01",
+    "premise": "apartment residence",
+    "hour": 7,
+    "date": "2025-12-11",
+    "neighborhood": null
+  },
+  {
+    "id": "176766-2025",
+    "lat": 32.6806,
+    "lng": -96.9639,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "industrial/manufacturing",
+    "hour": 19,
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "177087-2025",
+    "lat": 32.6675,
+    "lng": -96.9397,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 10,
+    "date": "2025-12-10",
+    "neighborhood": null
+  },
+  {
+    "id": "177170-2025",
+    "lat": 32.6775,
+    "lng": -96.8908,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 16,
+    "date": "2025-12-03",
+    "neighborhood": null
+  },
+  {
+    "id": "116556-2026",
+    "lat": 32.7013,
+    "lng": -96.8928,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-08-08",
     "neighborhood": null
   },
   {
@@ -30,127 +118,6 @@
     "premise": "commercial property occupied/vacant",
     "hour": 11,
     "date": "2026-10-21",
-    "neighborhood": null
-  },
-  {
-    "id": "152717-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 2,
-    "date": "2026-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "154707-2026",
-    "lat": 32.7007,
-    "lng": -96.9588,
-    "offense": "warrant dallas pd (viol bond/protective order)",
-    "group": "other",
-    "premise": "other",
-    "hour": 10,
-    "date": "2026-10-20",
-    "neighborhood": null
-  },
-  {
-    "id": "130600-2026",
-    "lat": 32.686,
-    "lng": -96.9654,
-    "offense": "dwi 1 prev conv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-09-04",
-    "neighborhood": null
-  },
-  {
-    "id": "140546-2026",
-    "lat": 32.6637,
-    "lng": -96.8892,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 10,
-    "date": "2026-09-23",
-    "neighborhood": null
-  },
-  {
-    "id": "066546-2026",
-    "lat": 32.7008,
-    "lng": -96.8992,
-    "offense": "dwi bac > or equal to 0.15",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-05-10",
-    "neighborhood": null
-  },
-  {
-    "id": "151498-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 6,
-    "date": "2026-09-30",
-    "neighborhood": null
-  },
-  {
-    "id": "155077-2026",
-    "lat": 32.6675,
-    "lng": -96.9282,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-10-20",
-    "neighborhood": null
-  },
-  {
-    "id": "155424-2026",
-    "lat": 32.6976,
-    "lng": -96.8998,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-10-21",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "123243-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 0,
-    "date": "2026-08-22",
-    "neighborhood": null
-  },
-  {
-    "id": "155107-2026",
-    "lat": 32.6891,
-    "lng": -96.9085,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "specialty store (in a specific item)",
-    "hour": 16,
-    "date": "2026-10-20",
-    "neighborhood": null
-  },
-  {
-    "id": "133362-2026",
-    "lat": 32.6665,
-    "lng": -96.9427,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-09-09",
     "neighborhood": null
   }
 ]

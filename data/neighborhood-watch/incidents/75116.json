@@ -1,13 +1,13 @@
 [
   {
-    "id": "813332-2026",
-    "lat": 32.6611,
-    "lng": -96.9091,
-    "offense": "lost property (no offense)",
+    "id": "177245-2025",
+    "lat": 32.6624,
+    "lng": -96.9331,
+    "offense": "poss cont sub pen grp 2 < 1g",
     "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 17,
-    "date": "2026-06-12",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2025-12-11",
     "neighborhood": null
   }
 ]

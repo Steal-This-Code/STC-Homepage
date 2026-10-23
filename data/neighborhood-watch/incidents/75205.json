@@ -1,79 +1,13 @@
 [
   {
-    "id": "110017-2026",
-    "lat": 32.8211,
-    "lng": -96.7884,
-    "offense": "dwi",
+    "id": "147368-2026",
+    "lat": 32.8234,
+    "lng": -96.7896,
+    "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-07-28",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "100839-2026",
-    "lat": 32.8351,
-    "lng": -96.78,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-07-11",
-    "neighborhood": null
-  },
-  {
-    "id": "118959-2026",
-    "lat": 32.8294,
-    "lng": -96.7839,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-08-13",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "118959-2026",
-    "lat": 32.8294,
-    "lng": -96.7839,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-08-13",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "115600-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 21,
-    "date": "2026-08-07",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "115600-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 21,
-    "date": "2026-08-07",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "083343-2026",
-    "lat": 32.8241,
-    "lng": -96.7913,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "parking (business)",
     "hour": 17,
-    "date": "2026-06-09",
-    "neighborhood": "Oak Lawn"
+    "date": "2026-10-06",
+    "neighborhood": "Knox Park"
   }
 ]

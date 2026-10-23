@@ -1,24 +1,24 @@
 [
   {
-    "id": "154926-2026",
-    "lat": 32.661,
-    "lng": -96.9437,
-    "offense": "harassment - non-threatening",
+    "id": "057707-2026",
+    "lat": 32.6291,
+    "lng": -96.9473,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-10-20",
-    "neighborhood": "Summit Parc"
+    "hour": 12,
+    "date": "2026-04-23",
+    "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "154528-2026",
-    "lat": 32.6443,
-    "lng": -96.9548,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
+    "id": "150651-2026",
+    "lat": 32.6603,
+    "lng": -96.9449,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-10-19",
+    "hour": 11,
+    "date": "2026-10-12",
     "neighborhood": "Summit Parc"
   },
   {
@@ -31,38 +31,5 @@
     "hour": 7,
     "date": "2026-06-27",
     "neighborhood": "Wind Ridge Estates"
-  },
-  {
-    "id": "132846-2026",
-    "lat": 32.6335,
-    "lng": -96.9535,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-08",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "057707-2026",
-    "lat": 32.6291,
-    "lng": -96.9473,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-04-23",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "154926-2026",
-    "lat": 32.661,
-    "lng": -96.9437,
-    "offense": "crim mischief <$100",
-    "group": "other",
-    "premise": "storage facility",
-    "hour": 18,
-    "date": "2026-10-20",
-    "neighborhood": "Summit Parc"
   }
 ]

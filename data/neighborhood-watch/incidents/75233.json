@@ -1,137 +1,5 @@
 [
   {
-    "id": "123822-2026",
-    "lat": 32.7208,
-    "lng": -96.8674,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-08-23",
-    "neighborhood": null
-  },
-  {
-    "id": "155284-2026",
-    "lat": 32.7212,
-    "lng": -96.86,
-    "offense": "criminal trespass",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 14,
-    "date": "2026-10-21",
-    "neighborhood": null
-  },
-  {
-    "id": "146981-2026",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "crim mischief <$100",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 4,
-    "date": "2026-10-05",
-    "neighborhood": null
-  },
-  {
-    "id": "142161-2026",
-    "lat": 32.6912,
-    "lng": -96.859,
-    "offense": "violation of city ordinance",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-09-26",
-    "neighborhood": null
-  },
-  {
-    "id": "139606-2026",
-    "lat": 32.7109,
-    "lng": -96.8745,
-    "offense": "disorderly conduct",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-09-22",
-    "neighborhood": null
-  },
-  {
-    "id": "139606-2026",
-    "lat": 32.7109,
-    "lng": -96.8745,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-22",
-    "neighborhood": null
-  },
-  {
-    "id": "155352-2026",
-    "lat": 32.6949,
-    "lng": -96.8878,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-10-21",
-    "neighborhood": null
-  },
-  {
-    "id": "139299-2026",
-    "lat": 32.691,
-    "lng": -96.8583,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "convenience store",
-    "hour": 20,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "143749-2026",
-    "lat": 32.7185,
-    "lng": -96.8571,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-09-29",
-    "neighborhood": null
-  },
-  {
-    "id": "152763-2026",
-    "lat": 32.72,
-    "lng": -96.8586,
-    "offense": "forgery financial instrument",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 15,
-    "date": "2026-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "138938-2026",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-09-20",
-    "neighborhood": null
-  },
-  {
-    "id": "142049-2026",
-    "lat": 32.693,
-    "lng": -96.8799,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-09-25",
-    "neighborhood": null
-  },
-  {
     "id": "130670-2026",
     "lat": 32.7047,
     "lng": -96.8639,
@@ -143,25 +11,36 @@
     "neighborhood": "Kiestwood"
   },
   {
-    "id": "142150-2026",
-    "lat": 32.7146,
-    "lng": -96.862,
-    "offense": "public intoxication",
+    "id": "177131-2025",
+    "lat": 32.7079,
+    "lng": -96.8762,
+    "offense": "criminal trespass warning",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-09-26",
+    "hour": 15,
+    "date": "2025-12-11",
     "neighborhood": null
   },
   {
-    "id": "150250-2026",
-    "lat": 32.7091,
-    "lng": -96.8761,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-10-11",
+    "id": "176979-2025",
+    "lat": 32.6918,
+    "lng": -96.8574,
+    "offense": "other felony offense - fraud",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 11,
+    "date": "2025-12-11",
+    "neighborhood": null
+  },
+  {
+    "id": "142049-2026",
+    "lat": 32.693,
+    "lng": -96.8799,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-09-25",
     "neighborhood": null
   }
 ]
