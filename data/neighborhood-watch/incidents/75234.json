@@ -1,5 +1,27 @@
 [
   {
+    "id": "821865-2026",
+    "lat": 32.9089,
+    "lng": -96.858,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "department/discount store",
+    "hour": 20,
+    "date": "2026-10-20",
+    "neighborhood": "Park Forest"
+  },
+  {
+    "id": "021003-2026",
+    "lat": 32.9159,
+    "lng": -96.8608,
+    "offense": "traf vio -racing on highway",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
     "id": "154337-2026",
     "lat": 32.911,
     "lng": -96.8789,
@@ -11,25 +33,36 @@
     "neighborhood": null
   },
   {
-    "id": "177781-2025",
-    "lat": 32.9113,
-    "lng": -96.8778,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2025-12-09",
+    "id": "154796-2026",
+    "lat": 32.9107,
+    "lng": -96.8661,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "other",
+    "hour": 10,
+    "date": "2026-10-20",
     "neighborhood": null
   },
   {
-    "id": "177781-2025",
-    "lat": 32.9113,
-    "lng": -96.8778,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "business office",
-    "hour": 11,
-    "date": "2025-12-09",
+    "id": "021003-2026",
+    "lat": 32.9159,
+    "lng": -96.8608,
+    "offense": "traf vio -reckless driving",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
+    "id": "146127-2026",
+    "lat": 32.9097,
+    "lng": -96.8839,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-10-04",
     "neighborhood": null
   }
 ]

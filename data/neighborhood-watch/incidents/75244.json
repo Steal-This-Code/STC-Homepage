@@ -1,35 +1,24 @@
 [
   {
-    "id": "821545-2026",
-    "lat": 32.9108,
-    "lng": -96.8536,
-    "offense": "reckless damage",
+    "id": "821813-2026",
+    "lat": 32.9128,
+    "lng": -96.8532,
+    "offense": "bmv",
     "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 15,
-    "date": "2026-10-11",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-10-22",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "176947-2025",
-    "lat": 32.9097,
-    "lng": -96.8181,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2025-12-09",
-    "neighborhood": null
-  },
-  {
-    "id": "177448-2025",
-    "lat": 32.9196,
-    "lng": -96.8185,
+    "id": "821844-2026",
+    "lat": 32.924,
+    "lng": -96.8241,
     "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
     "group": "property",
-    "premise": "school - elementary/secondary",
-    "hour": 11,
-    "date": "2025-12-12",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-10-23",
     "neighborhood": null
   }
 ]
