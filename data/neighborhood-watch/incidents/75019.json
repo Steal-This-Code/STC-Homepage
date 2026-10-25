@@ -1,13 +1,24 @@
 [
   {
-    "id": "177359-2025",
-    "lat": 32.9374,
-    "lng": -96.9866,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "id": "003389-2026",
+    "lat": 32.9325,
+    "lng": -96.9851,
+    "offense": "public intoxication",
     "group": "other",
-    "premise": "apartment complex/building",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "062329-2026",
+    "lat": 32.9374,
+    "lng": -96.9831,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
     "hour": 2,
-    "date": "2025-11-09",
+    "date": "2026-05-02",
     "neighborhood": null
   }
 ]

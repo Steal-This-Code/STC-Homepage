@@ -1,101 +1,24 @@
 [
   {
-    "id": "155058-2026",
-    "lat": 32.794,
-    "lng": -96.7768,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-10-21",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "113478-2026",
-    "lat": 32.7929,
-    "lng": -96.7688,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 8,
-    "date": "2026-08-03",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "082499-2026",
-    "lat": 32.7879,
-    "lng": -96.7799,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-06-08",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "065532-2026",
-    "lat": 32.7921,
-    "lng": -96.7791,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-05-08",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "082718-2026",
-    "lat": 32.7961,
-    "lng": -96.7674,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-08",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "098714-2026",
-    "lat": 32.7937,
-    "lng": -96.7757,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 0,
-    "date": "2026-07-01",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "077530-2026",
-    "lat": 32.7923,
-    "lng": -96.7714,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "other",
-    "hour": 4,
-    "date": "2026-05-30",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "136243-2026",
+    "id": "148739-2026",
     "lat": 32.794,
     "lng": -96.7765,
-    "offense": "public intoxication",
+    "offense": "evading arrest detention",
     "group": "other",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2026-09-15",
+    "premise": "highway, street, alley etc",
+    "hour": 4,
+    "date": "2026-10-09",
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "134381-2026",
-    "lat": 32.7938,
-    "lng": -96.7678,
-    "offense": "discharge firearm in certain municipalities",
+    "id": "134904-2026",
+    "lat": 32.7996,
+    "lng": -96.7708,
+    "offense": "evading arrest detention",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-09-11",
+    "hour": 0,
+    "date": "2026-09-13",
     "neighborhood": "Peak's Addition"
   },
   {
@@ -108,27 +31,5 @@
     "hour": 0,
     "date": "2026-09-13",
     "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "076366-2026",
-    "lat": 32.7928,
-    "lng": -96.7723,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-05-28",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "097818-2026",
-    "lat": 32.7894,
-    "lng": -96.7808,
-    "offense": "tamper fabricate physical evid with intent to impair",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 17,
-    "date": "2026-07-05",
-    "neighborhood": "Baylor / Meadows"
   }
 ]

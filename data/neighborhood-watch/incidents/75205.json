@@ -1,24 +1,35 @@
 [
   {
-    "id": "123032-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "found property (no offense)",
+    "id": "820710-2026",
+    "lat": 32.8253,
+    "lng": -96.7862,
+    "offense": "bmv",
     "group": "other",
-    "premise": "storage facility",
+    "premise": "apartment parking lot",
     "hour": 16,
-    "date": "2026-08-21",
+    "date": "2026-10-10",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "154232-2026",
-    "lat": 32.8187,
-    "lng": -96.7887,
-    "offense": "found property (no offense)",
+    "id": "820785-2026",
+    "lat": 32.8253,
+    "lng": -96.7862,
+    "offense": "bmv",
     "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 0,
+    "date": "2026-10-10",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "156361-2026",
+    "lat": 32.8263,
+    "lng": -96.7857,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
     "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-10-19",
+    "hour": 10,
+    "date": "2026-10-23",
     "neighborhood": "Knox Park"
   }
 ]
