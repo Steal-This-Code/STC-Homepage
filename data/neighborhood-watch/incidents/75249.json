@@ -1,24 +1,13 @@
 [
   {
-    "id": "156472-2026",
-    "lat": 32.6414,
-    "lng": -96.9527,
-    "offense": "unexplained death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-10-23",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "132846-2026",
-    "lat": 32.6335,
-    "lng": -96.9535,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-09-08",
+    "id": "115293-2026",
+    "lat": 32.6467,
+    "lng": -96.9435,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-08-07",
     "neighborhood": "Woods-Sugarberry"
   },
   {
@@ -33,14 +22,58 @@
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "057707-2026",
-    "lat": 32.6291,
-    "lng": -96.9473,
-    "offense": "traf vio -duty on strike unattended veh > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "id": "115293-2026",
+    "lat": 32.6467,
+    "lng": -96.9435,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
     "hour": 12,
-    "date": "2026-04-23",
+    "date": "2026-08-07",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "025468-2026",
+    "lat": 32.639,
+    "lng": -96.9502,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-21",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "143572-2026",
+    "lat": 32.6598,
+    "lng": -96.9711,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 1,
+    "date": "2026-09-29",
+    "neighborhood": "Mountain Terrace"
+  },
+  {
+    "id": "143508-2026",
+    "lat": 32.6399,
+    "lng": -96.9451,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-09-28",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "025468-2026",
+    "lat": 32.639,
+    "lng": -96.9502,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-21",
     "neighborhood": "Woods-Sugarberry"
   }
 ]

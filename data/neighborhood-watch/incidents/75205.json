@@ -1,24 +1,13 @@
 [
   {
-    "id": "820710-2026",
-    "lat": 32.8253,
-    "lng": -96.7862,
+    "id": "821975-2026",
+    "lat": 32.8228,
+    "lng": -96.7879,
     "offense": "bmv",
     "group": "other",
-    "premise": "apartment parking lot",
+    "premise": "parking (business)",
     "hour": 16,
-    "date": "2026-10-10",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "820785-2026",
-    "lat": 32.8253,
-    "lng": -96.7862,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-10-10",
+    "date": "2026-10-13",
     "neighborhood": "Knox Park"
   },
   {
@@ -30,6 +19,39 @@
     "premise": "apartment complex/building",
     "hour": 10,
     "date": "2026-10-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "121110-2026",
+    "lat": 32.8247,
+    "lng": -96.788,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-08-17",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "147368-2026",
+    "lat": 32.8234,
+    "lng": -96.7896,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-10-06",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "121110-2026",
+    "lat": 32.8247,
+    "lng": -96.788,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-08-17",
     "neighborhood": "Knox Park"
   }
 ]

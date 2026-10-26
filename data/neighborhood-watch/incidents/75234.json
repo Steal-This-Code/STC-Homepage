@@ -1,79 +1,46 @@
 [
   {
-    "id": "052865-2026",
+    "id": "142629-2026",
     "lat": 32.9104,
-    "lng": -96.8815,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-04-14",
+    "lng": -96.8589,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-09-25",
     "neighborhood": null
   },
   {
-    "id": "034354-2026",
-    "lat": 32.9094,
-    "lng": -96.8922,
+    "id": "821954-2026",
+    "lat": 32.91,
+    "lng": -96.8744,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 22,
+    "date": "2026-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "004110-2026",
+    "lat": 32.9108,
+    "lng": -96.8959,
+    "offense": "possession of stolen property",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "146127-2026",
+    "lat": 32.9097,
+    "lng": -96.8839,
     "offense": "abandoned property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
     "hour": 7,
-    "date": "2026-03-11",
-    "neighborhood": null
-  },
-  {
-    "id": "169375-2025",
-    "lat": 32.9159,
-    "lng": -96.8608,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2025-11-25",
-    "neighborhood": null
-  },
-  {
-    "id": "015915-2026",
-    "lat": 32.9138,
-    "lng": -96.8685,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-02-03",
-    "neighborhood": null
-  },
-  {
-    "id": "078670-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-06-01",
-    "neighborhood": null
-  },
-  {
-    "id": "168613-2025",
-    "lat": 32.9097,
-    "lng": -96.8564,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2025-11-23",
-    "neighborhood": null
-  },
-  {
-    "id": "056294-2026",
-    "lat": 32.9094,
-    "lng": -96.8816,
-    "offense": "fictitious license plate",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-04-20",
+    "date": "2026-10-04",
     "neighborhood": null
   },
   {
@@ -99,14 +66,47 @@
     "neighborhood": null
   },
   {
-    "id": "047934-2026",
-    "lat": 32.9133,
-    "lng": -96.865,
-    "offense": "found property (no offense)",
+    "id": "056294-2026",
+    "lat": 32.9094,
+    "lng": -96.8816,
+    "offense": "fictitious license plate",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-04-04",
+    "hour": 15,
+    "date": "2026-04-20",
+    "neighborhood": null
+  },
+  {
+    "id": "156706-2026",
+    "lat": 32.9114,
+    "lng": -96.8775,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "154796-2026",
+    "lat": 32.9107,
+    "lng": -96.8661,
+    "offense": "poss cont sub pen grp 1/1-b > or equals 1g<4g",
+    "group": "other",
+    "premise": "other",
+    "hour": 10,
+    "date": "2026-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "034354-2026",
+    "lat": 32.9094,
+    "lng": -96.8922,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-03-11",
     "neighborhood": null
   },
   {
@@ -121,14 +121,36 @@
     "neighborhood": null
   },
   {
-    "id": "030817-2026",
-    "lat": 32.9102,
-    "lng": -96.8732,
-    "offense": "fail to id -fugitive intent give false info",
+    "id": "052865-2026",
+    "lat": 32.9104,
+    "lng": -96.8815,
+    "offense": "dwi",
     "group": "other",
-    "premise": "business office",
-    "hour": 15,
-    "date": "2026-03-04",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-04-14",
+    "neighborhood": null
+  },
+  {
+    "id": "015915-2026",
+    "lat": 32.9138,
+    "lng": -96.8685,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-02-03",
+    "neighborhood": null
+  },
+  {
+    "id": "150662-2026",
+    "lat": 32.9098,
+    "lng": -96.8945,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-10-12",
     "neighborhood": null
   },
   {
@@ -140,6 +162,72 @@
     "premise": "highway, street, alley etc",
     "hour": 18,
     "date": "2026-04-25",
+    "neighborhood": null
+  },
+  {
+    "id": "145880-2026",
+    "lat": 32.9127,
+    "lng": -96.8721,
+    "offense": "poss cont sub pen grp 1/1-b 1g < 4g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-10-03",
+    "neighborhood": null
+  },
+  {
+    "id": "047934-2026",
+    "lat": 32.9133,
+    "lng": -96.865,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-04-04",
+    "neighborhood": null
+  },
+  {
+    "id": "142629-2026",
+    "lat": 32.9104,
+    "lng": -96.8589,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-09-25",
+    "neighborhood": null
+  },
+  {
+    "id": "145880-2026",
+    "lat": 32.9127,
+    "lng": -96.8721,
+    "offense": "poss cont sub pen grp 3 < 28g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-10-03",
+    "neighborhood": null
+  },
+  {
+    "id": "078670-2026",
+    "lat": 32.9098,
+    "lng": -96.8951,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2026-06-01",
+    "neighborhood": null
+  },
+  {
+    "id": "145880-2026",
+    "lat": 32.9127,
+    "lng": -96.8721,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-10-03",
     "neighborhood": null
   }
 ]

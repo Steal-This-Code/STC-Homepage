@@ -1,13 +1,13 @@
 [
   {
-    "id": "141688-2026",
-    "lat": 32.7343,
-    "lng": -96.9873,
-    "offense": "discharge firearm in certain municipalities",
+    "id": "144683-2026",
+    "lat": 32.7537,
+    "lng": -97.0652,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-09-25",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-10-01",
     "neighborhood": null
   }
 ]

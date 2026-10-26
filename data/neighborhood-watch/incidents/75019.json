@@ -1,13 +1,13 @@
 [
   {
-    "id": "003389-2026",
-    "lat": 32.9325,
-    "lng": -96.9851,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-01-07",
+    "id": "002054-2026",
+    "lat": 32.9377,
+    "lng": -96.9832,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-01",
     "neighborhood": null
   },
   {
@@ -19,6 +19,50 @@
     "premise": "restaurant/food service/tabc location",
     "hour": 2,
     "date": "2026-05-02",
+    "neighborhood": null
+  },
+  {
+    "id": "033327-2026",
+    "lat": 32.9291,
+    "lng": -96.9899,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 2,
+    "date": "2026-03-09",
+    "neighborhood": null
+  },
+  {
+    "id": "007902-2026",
+    "lat": 32.9316,
+    "lng": -96.9718,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-01-16",
+    "neighborhood": null
+  },
+  {
+    "id": "003389-2026",
+    "lat": 32.9325,
+    "lng": -96.9851,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-01-07",
+    "neighborhood": null
+  },
+  {
+    "id": "002054-2026",
+    "lat": 32.9377,
+    "lng": -96.9832,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-03-01",
     "neighborhood": null
   }
 ]
