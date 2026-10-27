@@ -1,16 +1,5 @@
 [
   {
-    "id": "821975-2026",
-    "lat": 32.8228,
-    "lng": -96.7879,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-10-13",
-    "neighborhood": "Knox Park"
-  },
-  {
     "id": "156361-2026",
     "lat": 32.8263,
     "lng": -96.7857,
@@ -19,6 +8,28 @@
     "premise": "apartment complex/building",
     "hour": 10,
     "date": "2026-10-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "183968-2025",
+    "lat": 32.8447,
+    "lng": -96.7746,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2025-12-26",
+    "neighborhood": null
+  },
+  {
+    "id": "154232-2026",
+    "lat": 32.8187,
+    "lng": -96.7887,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-10-19",
     "neighborhood": "Knox Park"
   },
   {
@@ -33,14 +44,25 @@
     "neighborhood": "Knox Park"
   },
   {
-    "id": "147368-2026",
-    "lat": 32.8234,
-    "lng": -96.7896,
+    "id": "158007-2026",
+    "lat": 32.8305,
+    "lng": -96.7825,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-10-25",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "821975-2026",
+    "lat": 32.8228,
+    "lng": -96.7879,
     "offense": "bmv",
     "group": "other",
     "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-10-06",
+    "hour": 16,
+    "date": "2026-10-13",
     "neighborhood": "Knox Park"
   },
   {

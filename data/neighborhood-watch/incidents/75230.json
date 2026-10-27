@@ -1,5 +1,60 @@
 [
   {
+    "id": "821875-2026",
+    "lat": 32.8925,
+    "lng": -96.771,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-10-23",
+    "neighborhood": null
+  },
+  {
+    "id": "151531-2026",
+    "lat": 32.9215,
+    "lng": -96.7975,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2026-10-13",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "156373-2026",
+    "lat": 32.924,
+    "lng": -96.8106,
+    "offense": "traffic violation - hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 15,
+    "date": "2026-10-23",
+    "neighborhood": null
+  },
+  {
+    "id": "020022-2026",
+    "lat": 32.9117,
+    "lng": -96.7745,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 0,
+    "date": "2026-02-12",
+    "neighborhood": null
+  },
+  {
+    "id": "154817-2026",
+    "lat": 32.9177,
+    "lng": -96.8035,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-10-20",
+    "neighborhood": null
+  },
+  {
     "id": "157499-2026",
     "lat": 32.9218,
     "lng": -96.8139,
@@ -22,26 +77,59 @@
     "neighborhood": null
   },
   {
-    "id": "157340-2026",
-    "lat": 32.9132,
-    "lng": -96.7722,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "156724-2026",
+    "lat": 32.9093,
+    "lng": -96.7716,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "medical facility",
-    "hour": 9,
+    "premise": "restaurant/food service/tabc location",
+    "hour": 5,
+    "date": "2026-10-24",
+    "neighborhood": null
+  },
+  {
+    "id": "156931-2026",
+    "lat": 32.9155,
+    "lng": -96.8027,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-10-24",
+    "neighborhood": "Churchill Way Estates"
+  },
+  {
+    "id": "821877-2026",
+    "lat": 32.9134,
+    "lng": -96.8087,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-10-20",
+    "neighborhood": "Melshire Estates"
+  },
+  {
+    "id": "157546-2026",
+    "lat": 32.8945,
+    "lng": -96.7746,
+    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 17,
     "date": "2026-10-25",
     "neighborhood": null
   },
   {
-    "id": "821937-2026",
-    "lat": 32.8822,
-    "lng": -96.7895,
-    "offense": "harassment",
-    "group": "other",
+    "id": "821822-2026",
+    "lat": 32.905,
+    "lng": -96.7793,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-10-23",
-    "neighborhood": "Preston Hollow North"
+    "hour": 4,
+    "date": "2026-10-19",
+    "neighborhood": "Hillcrest Forest"
   },
   {
     "id": "019256-2026",
@@ -52,17 +140,6 @@
     "premise": "government facility",
     "hour": 12,
     "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "139537-2026",
-    "lat": 32.9117,
-    "lng": -96.7745,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "medical facility",
-    "hour": 17,
-    "date": "2026-09-21",
     "neighborhood": null
   },
   {
@@ -88,14 +165,25 @@
     "neighborhood": null
   },
   {
-    "id": "150173-2026",
-    "lat": 32.8984,
-    "lng": -96.8037,
-    "offense": "traf vio -driv w/out lic inv w/prev conv/susp/w/o fin res",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-10-11",
+    "id": "157961-2026",
+    "lat": 32.9002,
+    "lng": -96.773,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 13,
+    "date": "2026-10-14",
+    "neighborhood": null
+  },
+  {
+    "id": "083062-2026",
+    "lat": 32.8831,
+    "lng": -96.7707,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 21,
+    "date": "2026-06-08",
     "neighborhood": null
   },
   {
@@ -110,37 +198,70 @@
     "neighborhood": "Preston Hollow"
   },
   {
-    "id": "104798-2026",
-    "lat": 32.8831,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-07-17",
+    "id": "078729-2026",
+    "lat": 32.8924,
+    "lng": -96.7832,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 8,
+    "date": "2026-06-01",
+    "neighborhood": "Brookshire Park"
+  },
+  {
+    "id": "156322-2026",
+    "lat": 32.9218,
+    "lng": -96.8139,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 16,
+    "date": "2026-10-22",
     "neighborhood": null
   },
   {
-    "id": "819824-2026",
-    "lat": 32.8842,
-    "lng": -96.7878,
-    "offense": "bmv",
+    "id": "821623-2026",
+    "lat": 32.892,
+    "lng": -96.7718,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 11,
+    "date": "2026-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "157870-2026",
+    "lat": 32.9215,
+    "lng": -96.7978,
+    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-10-22",
+    "neighborhood": "Preston Citadel"
+  },
+  {
+    "id": "158021-2026",
+    "lat": 32.9117,
+    "lng": -96.7745,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-10-16",
+    "neighborhood": null
+  },
+  {
+    "id": "151531-2026",
+    "lat": 32.9215,
+    "lng": -96.7975,
+    "offense": "motor vehicle theft",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-09-25",
-    "neighborhood": "Preston Hollow North"
-  },
-  {
-    "id": "083062-2026",
-    "lat": 32.8831,
-    "lng": -96.7707,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 21,
-    "date": "2026-06-08",
-    "neighborhood": null
+    "hour": 23,
+    "date": "2026-10-13",
+    "neighborhood": "Preston Citadel"
   },
   {
     "id": "104798-2026",
@@ -152,71 +273,5 @@
     "hour": 10,
     "date": "2026-07-17",
     "neighborhood": null
-  },
-  {
-    "id": "040048-2026",
-    "lat": 32.9227,
-    "lng": -96.815,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 18,
-    "date": "2026-03-21",
-    "neighborhood": null
-  },
-  {
-    "id": "157546-2026",
-    "lat": 32.8945,
-    "lng": -96.7746,
-    "offense": "assault (agg) -disch firearm occ bldg/house/veh (agg)",
-    "group": "violent",
-    "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-10-25",
-    "neighborhood": null
-  },
-  {
-    "id": "144159-2026",
-    "lat": 32.9039,
-    "lng": -96.8004,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-09-30",
-    "neighborhood": null
-  },
-  {
-    "id": "156373-2026",
-    "lat": 32.924,
-    "lng": -96.8106,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-10-23",
-    "neighborhood": null
-  },
-  {
-    "id": "144176-2026",
-    "lat": 32.9143,
-    "lng": -96.8068,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-09-30",
-    "neighborhood": "Melshire Estates"
-  },
-  {
-    "id": "156931-2026",
-    "lat": 32.9155,
-    "lng": -96.8027,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-10-24",
-    "neighborhood": "Churchill Way Estates"
   }
 ]

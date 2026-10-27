@@ -1,36 +1,14 @@
 [
   {
-    "id": "155023-2026",
-    "lat": 32.9779,
-    "lng": -96.7686,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 22,
-    "date": "2026-10-20",
-    "neighborhood": null
-  },
-  {
-    "id": "152374-2026",
-    "lat": 32.9633,
-    "lng": -96.7719,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-10-15",
-    "neighborhood": "Estates West"
-  },
-  {
-    "id": "032519-2026",
-    "lat": 32.9592,
-    "lng": -96.8169,
-    "offense": "uumv - unauth use motor vehicle (poss/operate)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-03-07",
-    "neighborhood": null
+    "id": "156440-2026",
+    "lat": 32.9567,
+    "lng": -96.7894,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 15,
+    "date": "2026-10-17",
+    "neighborhood": "Prestonwood Estates West"
   },
   {
     "id": "037075-2026",
@@ -44,15 +22,37 @@
     "neighborhood": null
   },
   {
-    "id": "157384-2026",
-    "lat": 32.9598,
-    "lng": -96.8208,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-10-25",
+    "id": "821847-2026",
+    "lat": 32.963,
+    "lng": -96.8057,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "other",
+    "hour": 9,
+    "date": "2026-01-01",
     "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "821787-2026",
+    "lat": 32.9549,
+    "lng": -96.8143,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "medical facility",
+    "hour": 12,
+    "date": "2026-09-15",
+    "neighborhood": null
+  },
+  {
+    "id": "051092-2026",
+    "lat": 32.9539,
+    "lng": -96.7866,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-04-10",
+    "neighborhood": null
   },
   {
     "id": "037075-2026",
@@ -77,25 +77,47 @@
     "neighborhood": "Chalfont Place"
   },
   {
-    "id": "821956-2026",
-    "lat": 32.9841,
-    "lng": -96.7687,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-10-24",
+    "id": "158045-2026",
+    "lat": 32.9692,
+    "lng": -96.8158,
+    "offense": "fraud - preliminary investigation",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-10-15",
     "neighborhood": null
   },
   {
-    "id": "032519-2026",
-    "lat": 32.9592,
-    "lng": -96.8169,
-    "offense": "tamper fabricate physical evid with intent to impair",
+    "id": "157451-2026",
+    "lat": 32.98,
+    "lng": -96.7778,
+    "offense": "theft of prop <$100 - other than shoplift",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-10-24",
+    "neighborhood": "Highlands North"
+  },
+  {
+    "id": "157817-2026",
+    "lat": 32.9775,
+    "lng": -96.7719,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 17,
-    "date": "2026-03-07",
+    "premise": "single family residence - occupied",
+    "hour": 6,
+    "date": "2026-10-26",
     "neighborhood": null
+  },
+  {
+    "id": "157582-2026",
+    "lat": 32.9669,
+    "lng": -96.8197,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-10-25",
+    "neighborhood": "Chalfont Place"
   }
 ]

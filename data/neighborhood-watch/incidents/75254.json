@@ -1,35 +1,13 @@
 [
   {
-    "id": "822013-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 1,
+    "id": "822021-2026",
+    "lat": 32.9563,
+    "lng": -96.8153,
+    "offense": "theft of prop > or equal $2,500 <$30k (shoplift-not emp) pc31.03 (e4a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
     "date": "2026-10-25",
-    "neighborhood": null
-  },
-  {
-    "id": "151363-2026",
-    "lat": 32.9398,
-    "lng": -96.8144,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 22,
-    "date": "2026-10-13",
-    "neighborhood": null
-  },
-  {
-    "id": "157633-2026",
-    "lat": 32.9508,
-    "lng": -96.8072,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-09-28",
     "neighborhood": null
   },
   {
@@ -41,17 +19,6 @@
     "premise": "apartment parking lot",
     "hour": 22,
     "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "818076-2026",
-    "lat": 32.9417,
-    "lng": -96.8217,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "business office",
-    "hour": 10,
-    "date": "2026-08-27",
     "neighborhood": null
   },
   {
@@ -66,36 +33,36 @@
     "neighborhood": null
   },
   {
-    "id": "150192-2026",
-    "lat": 32.9386,
-    "lng": -96.8057,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "id": "141511-2026",
+    "lat": 32.9388,
+    "lng": -96.8121,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "apartment residence",
     "hour": 15,
-    "date": "2026-10-11",
+    "date": "2026-09-25",
     "neighborhood": null
   },
   {
-    "id": "151363-2026",
-    "lat": 32.9398,
-    "lng": -96.8144,
-    "offense": "poss marijuana >2oz< or equal 4oz",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 22,
-    "date": "2026-10-13",
+    "id": "821849-2026",
+    "lat": 32.9529,
+    "lng": -96.8055,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 14,
+    "date": "2026-10-17",
     "neighborhood": null
   },
   {
-    "id": "151363-2026",
-    "lat": 32.9398,
-    "lng": -96.8144,
-    "offense": "poss of dangerous drug",
+    "id": "822013-2026",
+    "lat": 32.944,
+    "lng": -96.8163,
+    "offense": "crim mischief > or equal $2,500 < $30k",
     "group": "other",
-    "premise": "gas or service station",
-    "hour": 22,
-    "date": "2026-10-13",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-10-25",
     "neighborhood": null
   },
   {
@@ -110,14 +77,47 @@
     "neighborhood": null
   },
   {
-    "id": "150894-2026",
-    "lat": 32.952,
-    "lng": -96.8035,
-    "offense": "dwi",
+    "id": "141511-2026",
+    "lat": 32.9388,
+    "lng": -96.8121,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 15,
+    "date": "2026-09-25",
+    "neighborhood": null
+  },
+  {
+    "id": "821825-2026",
+    "lat": 32.9508,
+    "lng": -96.8072,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "821802-2026",
+    "lat": 33.0082,
+    "lng": -96.8327,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-10-13",
+    "premise": "gas or service station",
+    "hour": 14,
+    "date": "2026-10-20",
+    "neighborhood": null
+  },
+  {
+    "id": "822021-2026",
+    "lat": 32.9563,
+    "lng": -96.8153,
+    "offense": "theft of prop > or equal $2,500 <$30k (shoplift-not emp) pc31.03 (e4a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 13,
+    "date": "2026-10-25",
     "neighborhood": null
   }
 ]

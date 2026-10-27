@@ -1,35 +1,57 @@
 [
   {
-    "id": "079178-2026",
-    "lat": 32.6825,
-    "lng": -96.591,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-06-02",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "157090-2026",
-    "lat": 32.6735,
-    "lng": -96.6009,
-    "offense": "theft of prop <$100 - other than shoplift",
+    "id": "153968-2026",
+    "lat": 32.6892,
+    "lng": -96.5632,
+    "offense": "motor vehicle theft",
     "group": "property",
     "premise": "other",
-    "hour": 19,
-    "date": "2026-10-24",
+    "hour": 16,
+    "date": "2026-10-18",
     "neighborhood": "Kleberg"
   },
   {
-    "id": "070097-2026",
-    "lat": 32.6949,
-    "lng": -96.5932,
-    "offense": "recovered out of town stolen vehicle (no offense)",
+    "id": "156594-2026",
+    "lat": 32.6838,
+    "lng": -96.6343,
+    "offense": "discharge firearm in certain municipalities",
     "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-10-23",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "155585-2026",
+    "lat": 32.6956,
+    "lng": -96.5741,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 23,
+    "date": "2026-10-21",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "154154-2026",
+    "lat": 32.6777,
+    "lng": -96.6064,
+    "offense": "assault (agg) -deadly weapon",
+    "group": "violent",
     "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-05-16",
+    "hour": 10,
+    "date": "2026-10-19",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "154025-2026",
+    "lat": 32.6811,
+    "lng": -96.5998,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-10-18",
     "neighborhood": "Kleberg"
   },
   {
@@ -44,6 +66,28 @@
     "neighborhood": "Kleberg"
   },
   {
+    "id": "178986-2025",
+    "lat": 32.6708,
+    "lng": -96.6167,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 11,
+    "date": "2025-12-15",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "156056-2026",
+    "lat": 32.6787,
+    "lng": -96.6401,
+    "offense": "dog bite - injured person",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-10-22",
+    "neighborhood": "Kleberg"
+  },
+  {
     "id": "157339-2026",
     "lat": 32.6698,
     "lng": -96.6143,
@@ -52,28 +96,6 @@
     "premise": "highway, street, alley etc",
     "hour": 6,
     "date": "2026-10-25",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "156751-2026",
-    "lat": 32.6911,
-    "lng": -96.5584,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-10-23",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "142462-2026",
-    "lat": 32.6566,
-    "lng": -96.6583,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-09-27",
     "neighborhood": "Kleberg"
   }
 ]

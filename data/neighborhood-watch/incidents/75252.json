@@ -1,60 +1,5 @@
 [
   {
-    "id": "019254-2026",
-    "lat": 32.9978,
-    "lng": -96.7802,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 12,
-    "date": "2026-02-02",
-    "neighborhood": null
-  },
-  {
-    "id": "156953-2026",
-    "lat": 32.9888,
-    "lng": -96.8015,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-10-24",
-    "neighborhood": null
-  },
-  {
-    "id": "156327-2026",
-    "lat": 32.9885,
-    "lng": -96.7687,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "specialty store (in a specific item)",
-    "hour": 13,
-    "date": "2026-10-23",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "157443-2026",
-    "lat": 32.9938,
-    "lng": -96.7826,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 14,
-    "date": "2026-10-25",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "156380-2026",
-    "lat": 32.988,
-    "lng": -96.7732,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 8,
-    "date": "2026-10-23",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
     "id": "821883-2026",
     "lat": 32.9984,
     "lng": -96.773,
@@ -66,59 +11,26 @@
     "neighborhood": null
   },
   {
-    "id": "144692-2026",
-    "lat": 32.9964,
-    "lng": -96.8013,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "id": "156365-2026",
+    "lat": 32.9976,
+    "lng": -96.7975,
+    "offense": "burglary of building - no forced entry",
     "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-09-30",
+    "premise": "rental storage facility",
+    "hour": 15,
+    "date": "2026-10-23",
     "neighborhood": null
   },
   {
-    "id": "819934-2026",
-    "lat": 32.9935,
-    "lng": -96.769,
-    "offense": "bmv",
+    "id": "155637-2026",
+    "lat": 32.9914,
+    "lng": -96.7738,
+    "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-09-28",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-10-22",
     "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "821915-2026",
-    "lat": 32.9993,
-    "lng": -96.7997,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 11,
-    "date": "2026-10-15",
-    "neighborhood": null
-  },
-  {
-    "id": "152938-2026",
-    "lat": 32.9871,
-    "lng": -96.7707,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 22,
-    "date": "2026-10-16",
-    "neighborhood": null
-  },
-  {
-    "id": "155931-2026",
-    "lat": 33.0037,
-    "lng": -96.7992,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-10-21",
-    "neighborhood": null
   },
   {
     "id": "156327-2026",
@@ -132,6 +44,17 @@
     "neighborhood": "Highlands of McKamy"
   },
   {
+    "id": "156303-2026",
+    "lat": 33.0075,
+    "lng": -96.8007,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2026-09-15",
+    "neighborhood": null
+  },
+  {
     "id": "821939-2026",
     "lat": 32.9986,
     "lng": -96.7944,
@@ -143,14 +66,36 @@
     "neighborhood": null
   },
   {
-    "id": "151899-2026",
-    "lat": 33.0087,
-    "lng": -96.7875,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "id": "157443-2026",
+    "lat": 32.9938,
+    "lng": -96.7826,
+    "offense": "missing person (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-10-14",
-    "neighborhood": null
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-10-25",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "155842-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 15,
+    "date": "2026-10-22",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "156264-2026",
+    "lat": 32.9954,
+    "lng": -96.8032,
+    "offense": "unexplained death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-10-23",
+    "neighborhood": "Prestonwood West"
   }
 ]

@@ -1,60 +1,5 @@
 [
   {
-    "id": "140003-2026",
-    "lat": 32.7211,
-    "lng": -96.866,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-09-22",
-    "neighborhood": null
-  },
-  {
-    "id": "143925-2026",
-    "lat": 32.7169,
-    "lng": -96.8744,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-09-30",
-    "neighborhood": null
-  },
-  {
-    "id": "149071-2026",
-    "lat": 32.7169,
-    "lng": -96.8735,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-10-09",
-    "neighborhood": null
-  },
-  {
-    "id": "140003-2026",
-    "lat": 32.7211,
-    "lng": -96.866,
-    "offense": "possession of stolen property",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-09-22",
-    "neighborhood": null
-  },
-  {
-    "id": "140003-2026",
-    "lat": 32.7211,
-    "lng": -96.866,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-09-22",
-    "neighborhood": null
-  },
-  {
     "id": "007192-2026",
     "lat": 32.6995,
     "lng": -96.8879,
@@ -77,6 +22,28 @@
     "neighborhood": null
   },
   {
+    "id": "821906-2026",
+    "lat": 32.6946,
+    "lng": -96.8658,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2026-10-20",
+    "neighborhood": "Brettonwoods"
+  },
+  {
+    "id": "157300-2026",
+    "lat": 32.7093,
+    "lng": -96.8761,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2026-10-24",
+    "neighborhood": null
+  },
+  {
     "id": "012524-2026",
     "lat": 32.7064,
     "lng": -96.8722,
@@ -88,14 +55,47 @@
     "neighborhood": null
   },
   {
-    "id": "134714-2026",
-    "lat": 32.7109,
-    "lng": -96.8769,
-    "offense": "bmv - preliminary investigation",
+    "id": "064073-2026",
+    "lat": 32.701,
+    "lng": -96.8816,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "other",
+    "hour": 12,
+    "date": "2026-05-04",
+    "neighborhood": null
+  },
+  {
+    "id": "157964-2026",
+    "lat": 32.7058,
+    "lng": -96.8668,
+    "offense": "criminal trespass habit/shltr/suprfund/infstrt",
     "group": "other",
-    "premise": "single family residence - occupied",
+    "premise": "apartment complex/building",
     "hour": 10,
-    "date": "2026-09-03",
+    "date": "2026-10-26",
+    "neighborhood": null
+  },
+  {
+    "id": "156502-2026",
+    "lat": 32.7105,
+    "lng": -96.8755,
+    "offense": "assault - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "medical facility",
+    "hour": 19,
+    "date": "2026-10-23",
+    "neighborhood": null
+  },
+  {
+    "id": "068327-2026",
+    "lat": 32.7146,
+    "lng": -96.862,
+    "offense": "abusive/silent call/electr comm to 911 service pc 42.061(d)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 11,
+    "date": "2026-05-13",
     "neighborhood": null
   },
   {
@@ -110,17 +110,6 @@
     "neighborhood": null
   },
   {
-    "id": "000191-2026",
-    "lat": 32.6932,
-    "lng": -96.8853,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-01-01",
-    "neighborhood": null
-  },
-  {
     "id": "012524-2026",
     "lat": 32.7064,
     "lng": -96.8722,
@@ -129,28 +118,6 @@
     "premise": "apartment parking lot",
     "hour": 20,
     "date": "2026-01-26",
-    "neighborhood": null
-  },
-  {
-    "id": "007192-2026",
-    "lat": 32.6995,
-    "lng": -96.8879,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "157300-2026",
-    "lat": 32.7093,
-    "lng": -96.8761,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 22,
-    "date": "2026-10-24",
     "neighborhood": null
   }
 ]
