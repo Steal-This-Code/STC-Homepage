@@ -1,13 +1,13 @@
 [
   {
-    "id": "156892-2026",
+    "id": "128966-2026",
     "lat": 33.0115,
     "lng": -96.8602,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-10-23",
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-09-01",
     "neighborhood": null
   }
 ]

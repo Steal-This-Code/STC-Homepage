@@ -1,46 +1,46 @@
 [
   {
-    "id": "025468-2026",
-    "lat": 32.639,
-    "lng": -96.9502,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
+    "id": "127957-2026",
+    "lat": 32.6576,
+    "lng": -96.9654,
+    "offense": "assault (agg) - preliminary investigation *non family violence",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
     "hour": 19,
-    "date": "2026-02-21",
-    "neighborhood": "Woods-Sugarberry"
+    "date": "2026-08-30",
+    "neighborhood": null
   },
   {
-    "id": "115293-2026",
-    "lat": 32.6467,
-    "lng": -96.9435,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 12,
-    "date": "2026-08-07",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "822016-2026",
-    "lat": 32.6498,
-    "lng": -96.9733,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 19,
-    "date": "2026-10-22",
-    "neighborhood": "Fox Hollow"
-  },
-  {
-    "id": "156472-2026",
-    "lat": 32.6414,
-    "lng": -96.9527,
-    "offense": "unexplained death (no offense)",
+    "id": "128064-2026",
+    "lat": 32.6538,
+    "lng": -96.9734,
+    "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-10-23",
-    "neighborhood": "Woods-Sugarberry"
+    "hour": 21,
+    "date": "2026-08-30",
+    "neighborhood": "Hunter's Bend"
+  },
+  {
+    "id": "115306-2026",
+    "lat": 32.6461,
+    "lng": -96.9717,
+    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-06-02",
+    "neighborhood": "Harbor Glen"
+  },
+  {
+    "id": "128934-2026",
+    "lat": 32.6503,
+    "lng": -96.9496,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 17,
+    "date": "2026-08-31",
+    "neighborhood": "Summit Parc"
   }
 ]
