@@ -1,24 +1,35 @@
 [
   {
-    "id": "114066-2026",
-    "lat": 32.8228,
-    "lng": -96.7908,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "construction site",
-    "hour": 3,
-    "date": "2026-08-05",
+    "id": "159427-2026",
+    "lat": 32.8233,
+    "lng": -96.7884,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-10-29",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "115040-2026",
-    "lat": 32.8237,
-    "lng": -96.7886,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-08-06",
+    "id": "156361-2026",
+    "lat": 32.8263,
+    "lng": -96.7857,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-10-23",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "121110-2026",
+    "lat": 32.8247,
+    "lng": -96.788,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-08-17",
     "neighborhood": "Knox Park"
   }
 ]

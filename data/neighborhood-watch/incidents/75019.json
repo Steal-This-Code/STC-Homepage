@@ -1,24 +1,13 @@
 [
   {
-    "id": "821879-2026",
-    "lat": 32.9377,
-    "lng": -96.9832,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "condominium/townhome residence",
-    "hour": 10,
-    "date": "2026-10-08",
-    "neighborhood": null
-  },
-  {
-    "id": "002054-2026",
-    "lat": 32.9377,
-    "lng": -96.9832,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 0,
-    "date": "2026-03-01",
+    "id": "820437-2026",
+    "lat": 32.9376,
+    "lng": -96.983,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-10-07",
     "neighborhood": null
   }
 ]
