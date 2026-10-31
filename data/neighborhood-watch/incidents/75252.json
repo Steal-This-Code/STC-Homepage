@@ -1,46 +1,46 @@
 [
   {
-    "id": "822162-2026",
-    "lat": 32.9911,
-    "lng": -96.8026,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-10-24",
-    "neighborhood": null
-  },
-  {
-    "id": "158637-2026",
+    "id": "027892-2026",
     "lat": 32.9889,
     "lng": -96.7833,
-    "offense": "vio bond/protective order",
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "government facility",
-    "hour": 8,
-    "date": "2026-10-08",
+    "premise": "parking (business)",
+    "hour": 6,
+    "date": "2026-02-27",
     "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "152255-2026",
-    "lat": 32.9879,
-    "lng": -96.7727,
-    "offense": "disorderly conduct discharge/display firearm",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-10-15",
+    "id": "139426-2026",
+    "lat": 33.0089,
+    "lng": -96.7971,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 11,
+    "date": "2026-09-21",
     "neighborhood": null
   },
   {
-    "id": "821939-2026",
-    "lat": 32.9986,
-    "lng": -96.7944,
-    "offense": "theft of prop > or equal $750 <$2,500 (not shoplift) pc31.03(e3)",
+    "id": "139880-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "prohibited weapon pc",
+    "group": "violent",
+    "premise": "other",
+    "hour": 17,
+    "date": "2026-09-22",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "139839-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "theft - preliminary investigation",
     "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 13,
-    "date": "2026-10-12",
-    "neighborhood": null
+    "premise": "apartment complex/building",
+    "hour": 14,
+    "date": "2026-09-18",
+    "neighborhood": "Highlands of McKamy"
   }
 ]

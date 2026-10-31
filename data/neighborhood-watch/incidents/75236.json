@@ -1,79 +1,24 @@
 [
   {
-    "id": "004171-2026",
-    "lat": 32.6995,
-    "lng": -96.9172,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-01-09",
-    "neighborhood": null
-  },
-  {
-    "id": "096154-2026",
-    "lat": 32.6863,
-    "lng": -96.9087,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "139405-2026",
+    "lat": 32.6658,
+    "lng": -96.9464,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
     "premise": "apartment residence",
-    "hour": 16,
-    "date": "2026-07-02",
+    "hour": 15,
+    "date": "2026-09-21",
     "neighborhood": null
   },
   {
-    "id": "156367-2026",
-    "lat": 32.6917,
-    "lng": -96.9032,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-10-22",
-    "neighborhood": "Country Creek"
-  },
-  {
-    "id": "159165-2026",
+    "id": "139827-2026",
     "lat": 32.6953,
     "lng": -96.9014,
-    "offense": "harassment - non-threatening",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 12,
-    "date": "2026-10-28",
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-09-22",
     "neighborhood": "Country Creek"
-  },
-  {
-    "id": "101625-2026",
-    "lat": 32.6665,
-    "lng": -96.9427,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-07-11",
-    "neighborhood": null
-  },
-  {
-    "id": "014215-2026",
-    "lat": 32.6829,
-    "lng": -96.8921,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-01-31",
-    "neighborhood": null
-  },
-  {
-    "id": "011994-2026",
-    "lat": 32.7069,
-    "lng": -96.9522,
-    "offense": "fleeing police officer",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-25",
-    "neighborhood": null
   }
 ]

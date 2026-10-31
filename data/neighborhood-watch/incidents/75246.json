@@ -1,68 +1,13 @@
 [
   {
-    "id": "054872-2026",
-    "lat": 32.7936,
-    "lng": -96.7695,
-    "offense": "motor vehicle theft",
+    "id": "140129-2026",
+    "lat": 32.7959,
+    "lng": -96.7748,
+    "offense": "arson -motor veh",
     "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 1,
-    "date": "2026-04-12",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "148739-2026",
-    "lat": 32.794,
-    "lng": -96.7765,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-10-09",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "158217-2026",
-    "lat": 32.7889,
-    "lng": -96.7803,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-10-26",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "134904-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "evading arrest detention",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-09-13",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "064825-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-06",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "064825-2026",
-    "lat": 32.7996,
-    "lng": -96.7708,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-05-06",
+    "premise": "apartment complex/building",
+    "hour": 2,
+    "date": "2026-09-23",
     "neighborhood": "Peak's Addition"
   }
 ]

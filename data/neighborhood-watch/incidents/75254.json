@@ -1,79 +1,24 @@
 [
   {
-    "id": "008286-2026",
-    "lat": 32.9436,
-    "lng": -96.8134,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-16",
+    "id": "139775-2026",
+    "lat": 32.944,
+    "lng": -96.8163,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-09-22",
     "neighborhood": null
   },
   {
-    "id": "159052-2026",
+    "id": "139403-2026",
     "lat": 32.9487,
-    "lng": -96.819,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
+    "lng": -96.8043,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
     "hour": 14,
-    "date": "2026-09-21",
-    "neighborhood": null
-  },
-  {
-    "id": "159550-2026",
-    "lat": 32.9487,
-    "lng": -96.819,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 4,
     "date": "2026-09-11",
-    "neighborhood": null
-  },
-  {
-    "id": "822143-2026",
-    "lat": 32.9427,
-    "lng": -96.7712,
-    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 7,
-    "date": "2026-10-27",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "822195-2026",
-    "lat": 32.9455,
-    "lng": -96.817,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 23,
-    "date": "2026-10-25",
-    "neighborhood": null
-  },
-  {
-    "id": "008286-2026",
-    "lat": 32.9436,
-    "lng": -96.8134,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-01-16",
-    "neighborhood": null
-  },
-  {
-    "id": "158746-2026",
-    "lat": 32.9398,
-    "lng": -96.8144,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 23,
-    "date": "2026-10-27",
     "neighborhood": null
   }
 ]
