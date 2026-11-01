@@ -1,35 +1,79 @@
 [
   {
-    "id": "139508-2026",
-    "lat": 32.9651,
-    "lng": -96.8202,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-09-12",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "139508-2026",
-    "lat": 32.9651,
-    "lng": -96.8202,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-09-12",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "139922-2026",
-    "lat": 32.9644,
-    "lng": -96.7757,
-    "offense": "natural death (no offense)",
+    "id": "167538-2025",
+    "lat": 32.9592,
+    "lng": -96.8169,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-09-21",
-    "neighborhood": "Estates West"
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2025-11-21",
+    "neighborhood": null
+  },
+  {
+    "id": "167925-2025",
+    "lat": 32.9791,
+    "lng": -96.7854,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2025-11-22",
+    "neighborhood": "Hillcrest Manor"
+  },
+  {
+    "id": "167406-2025",
+    "lat": 32.9674,
+    "lng": -96.8202,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 7,
+    "date": "2025-11-18",
+    "neighborhood": "Chalfont Place"
+  },
+  {
+    "id": "071664-2026",
+    "lat": 32.9666,
+    "lng": -96.8041,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 11,
+    "date": "2026-05-19",
+    "neighborhood": "Prestonwood"
+  },
+  {
+    "id": "167811-2025",
+    "lat": 32.9764,
+    "lng": -96.8213,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "168435-2025",
+    "lat": 32.9813,
+    "lng": -96.7695,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 2,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "162117-2025",
+    "lat": 32.965,
+    "lng": -96.8167,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2025-11-09",
+    "neighborhood": "Chalfont Place"
   }
 ]

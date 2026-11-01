@@ -1,24 +1,101 @@
 [
   {
-    "id": "139405-2026",
-    "lat": 32.6658,
-    "lng": -96.9464,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "apartment residence",
-    "hour": 15,
-    "date": "2026-09-21",
+    "id": "168173-2025",
+    "lat": 32.7002,
+    "lng": -96.9593,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 17,
+    "date": "2025-11-22",
     "neighborhood": null
   },
   {
-    "id": "139827-2026",
-    "lat": 32.6953,
-    "lng": -96.9014,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
+    "id": "166966-2025",
+    "lat": 32.6863,
+    "lng": -96.9087,
+    "offense": "unl disclosure adrs/ph num",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2025-11-20",
+    "neighborhood": null
+  },
+  {
+    "id": "161280-2025",
+    "lat": 32.6863,
+    "lng": -96.9087,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
     "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-09-22",
-    "neighborhood": "Country Creek"
+    "hour": 3,
+    "date": "2025-11-09",
+    "neighborhood": null
+  },
+  {
+    "id": "167307-2025",
+    "lat": 32.6863,
+    "lng": -96.9087,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2025-11-21",
+    "neighborhood": null
+  },
+  {
+    "id": "168765-2025",
+    "lat": 32.6868,
+    "lng": -96.9087,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 2,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "168666-2025",
+    "lat": 32.6928,
+    "lng": -96.9159,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "business office",
+    "hour": 17,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "162093-2025",
+    "lat": 32.6863,
+    "lng": -96.9087,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 10,
+    "date": "2025-11-01",
+    "neighborhood": null
+  },
+  {
+    "id": "161846-2025",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2025-11-09",
+    "neighborhood": null
+  },
+  {
+    "id": "161846-2025",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 22,
+    "date": "2025-11-09",
+    "neighborhood": null
   }
 ]

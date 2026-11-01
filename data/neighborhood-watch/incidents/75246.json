@@ -1,13 +1,57 @@
 [
   {
-    "id": "140129-2026",
-    "lat": 32.7959,
-    "lng": -96.7748,
-    "offense": "arson -motor veh",
+    "id": "167802-2025",
+    "lat": 32.7942,
+    "lng": -96.7711,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2025-11-22",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "167802-2025",
+    "lat": 32.7942,
+    "lng": -96.7711,
+    "offense": "harassment-repeated electronic comm - threat",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2025-11-22",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "167612-2025",
+    "lat": 32.7876,
+    "lng": -96.7742,
+    "offense": "poss marijuana >2oz< or equal 4oz",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 16,
+    "date": "2025-11-21",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "166935-2025",
+    "lat": 32.7894,
+    "lng": -96.7808,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-11-19",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "162459-2025",
+    "lat": 32.7966,
+    "lng": -96.7727,
+    "offense": "burglary of habitation - forced entry",
     "group": "property",
     "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2026-09-23",
+    "hour": 8,
+    "date": "2025-11-11",
     "neighborhood": "Peak's Addition"
   }
 ]

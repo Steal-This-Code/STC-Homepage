@@ -1,35 +1,57 @@
 [
   {
-    "id": "139878-2026",
-    "lat": 32.8542,
-    "lng": -96.8229,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-09-22",
-    "neighborhood": "Bluffview"
+    "id": "166930-2025",
+    "lat": 32.8502,
+    "lng": -96.8392,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "business office",
+    "hour": 14,
+    "date": "2025-11-19",
+    "neighborhood": "Elm Thicket or North Park"
   },
   {
-    "id": "139727-2026",
-    "lat": 32.8429,
-    "lng": -96.8359,
-    "offense": "seized property (no offense)",
+    "id": "161174-2025",
+    "lat": 32.8267,
+    "lng": -96.8207,
+    "offense": "diversion public intox",
     "group": "other",
-    "premise": "airport - love field",
-    "hour": 10,
-    "date": "2026-09-22",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2025-11-09",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "169430-2025",
+    "lat": 32.8604,
+    "lng": -96.8556,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "drug store/doctors office/hospital",
+    "hour": 8,
+    "date": "2025-11-25",
+    "neighborhood": "Bachman"
+  },
+  {
+    "id": "168964-2025",
+    "lat": 32.8479,
+    "lng": -96.837,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 5,
+    "date": "2025-11-24",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "168437-2025",
+    "lat": 32.8636,
+    "lng": -96.8362,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "business office",
+    "hour": 20,
+    "date": "2025-11-22",
     "neighborhood": null
-  },
-  {
-    "id": "139878-2026",
-    "lat": 32.8542,
-    "lng": -96.8229,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-09-22",
-    "neighborhood": "Bluffview"
   }
 ]

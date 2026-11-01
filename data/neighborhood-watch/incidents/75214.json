@@ -1,13 +1,156 @@
 [
   {
-    "id": "139336-2026",
-    "lat": 32.8536,
-    "lng": -96.7528,
-    "offense": "tamper fabricate physical evid with intent to impair",
+    "id": "167520-2025",
+    "lat": 32.8127,
+    "lng": -96.7549,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "business office",
+    "hour": 13,
+    "date": "2025-11-21",
+    "neighborhood": null
+  },
+  {
+    "id": "161587-2025",
+    "lat": 32.8023,
+    "lng": -96.7668,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2025-11-09",
+    "neighborhood": null
+  },
+  {
+    "id": "160868-2025",
+    "lat": 32.8333,
+    "lng": -96.7384,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 13,
+    "date": "2025-11-08",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "160557-2026",
+    "lat": 32.8559,
+    "lng": -96.7549,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-10-29",
+    "neighborhood": null
+  },
+  {
+    "id": "160869-2025",
+    "lat": 32.8333,
+    "lng": -96.7384,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (park)",
+    "hour": 13,
+    "date": "2025-11-08",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "160562-2025",
+    "lat": 32.8369,
+    "lng": -96.7545,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "grocery/supermarket",
+    "hour": 21,
+    "date": "2025-11-07",
+    "neighborhood": "Caruth Terrace"
+  },
+  {
+    "id": "167351-2025",
+    "lat": 32.8368,
+    "lng": -96.7525,
+    "offense": "lost property (no offense)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-09-21",
+    "hour": 18,
+    "date": "2025-11-20",
+    "neighborhood": "Hillside"
+  },
+  {
+    "id": "162693-2025",
+    "lat": 32.8138,
+    "lng": -96.7518,
+    "offense": "arson -all others",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 3,
+    "date": "2025-11-12",
+    "neighborhood": null
+  },
+  {
+    "id": "162194-2025",
+    "lat": 32.8562,
+    "lng": -96.7542,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 23,
+    "date": "2025-11-10",
+    "neighborhood": null
+  },
+  {
+    "id": "162644-2025",
+    "lat": 32.822,
+    "lng": -96.7544,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2025-11-11",
+    "neighborhood": "Lakewood Heights"
+  },
+  {
+    "id": "161830-2025",
+    "lat": 32.8559,
+    "lng": -96.7549,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 22,
+    "date": "2025-11-07",
+    "neighborhood": null
+  },
+  {
+    "id": "162644-2025",
+    "lat": 32.822,
+    "lng": -96.7544,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 20,
+    "date": "2025-11-11",
+    "neighborhood": "Lakewood Heights"
+  },
+  {
+    "id": "162180-2025",
+    "lat": 32.8289,
+    "lng": -96.7606,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2025-11-10",
+    "neighborhood": "Wilshire Heights"
+  },
+  {
+    "id": "168832-2025",
+    "lat": 32.8007,
+    "lng": -96.7687,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2025-11-23",
     "neighborhood": null
   }
 ]

@@ -1,13 +1,101 @@
 [
   {
-    "id": "139691-2026",
-    "lat": 32.8766,
-    "lng": -96.7718,
-    "offense": "criminal trespass affidavit",
+    "id": "810190-2026",
+    "lat": 32.8637,
+    "lng": -96.8024,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 9,
-    "date": "2026-09-22",
-    "neighborhood": "Glen Lakes"
+    "premise": "restaurant/food service/tabc location",
+    "hour": 16,
+    "date": "2026-05-16",
+    "neighborhood": null
+  },
+  {
+    "id": "168171-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "161292-2025",
+    "lat": 32.8626,
+    "lng": -96.774,
+    "offense": "theft from building <$100 (not shoplift)",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2025-11-05",
+    "neighborhood": "Caruth Hills"
+  },
+  {
+    "id": "168171-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "168171-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2025-11-22",
+    "neighborhood": null
+  },
+  {
+    "id": "169035-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "162047-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "shopping mall",
+    "hour": 17,
+    "date": "2025-11-09",
+    "neighborhood": null
+  },
+  {
+    "id": "168625-2025",
+    "lat": 32.8645,
+    "lng": -96.8086,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 14,
+    "date": "2025-11-23",
+    "neighborhood": null
+  },
+  {
+    "id": "168035-2025",
+    "lat": 32.8668,
+    "lng": -96.7729,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2025-11-22",
+    "neighborhood": null
   }
 ]
