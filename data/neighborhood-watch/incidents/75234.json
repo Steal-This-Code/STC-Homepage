@@ -1,35 +1,13 @@
 [
   {
-    "id": "183420-2025",
-    "lat": 32.9097,
-    "lng": -96.8564,
-    "offense": "criminal trespass warning",
+    "id": "084967-2026",
+    "lat": 32.9132,
+    "lng": -96.8748,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "gas or service station",
-    "hour": 16,
-    "date": "2025-12-24",
-    "neighborhood": null
-  },
-  {
-    "id": "168006-2025",
-    "lat": 32.9123,
-    "lng": -96.8727,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "abandoned/condemned structure",
-    "hour": 12,
-    "date": "2025-11-22",
-    "neighborhood": null
-  },
-  {
-    "id": "162369-2025",
-    "lat": 32.9108,
-    "lng": -96.8761,
-    "offense": "burglary - preliminary investigation",
-    "group": "property",
-    "premise": "business office",
-    "hour": 13,
-    "date": "2025-11-06",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-06-12",
     "neighborhood": null
   }
 ]

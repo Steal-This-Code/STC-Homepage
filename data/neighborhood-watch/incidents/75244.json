@@ -1,35 +1,57 @@
 [
   {
-    "id": "160819-2025",
-    "lat": 32.9158,
-    "lng": -96.8551,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-11-07",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "162657-2025",
-    "lat": 32.9196,
-    "lng": -96.8185,
-    "offense": "criminal trespass warning",
+    "id": "083640-2026",
+    "lat": 32.9101,
+    "lng": -96.8163,
+    "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2025-11-12",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-06-09",
     "neighborhood": null
   },
   {
-    "id": "161480-2025",
-    "lat": 32.9224,
-    "lng": -96.8201,
-    "offense": "abandoned property (no offense)",
+    "id": "087605-2026",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-06-17",
+    "neighborhood": null
+  },
+  {
+    "id": "085395-2026",
+    "lat": 32.9236,
+    "lng": -96.8393,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 12,
+    "date": "2026-06-13",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "082520-2026",
+    "lat": 32.9212,
+    "lng": -96.8387,
+    "offense": "deadly conduct",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2025-11-09",
+    "hour": 7,
+    "date": "2026-06-08",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "088705-2026",
+    "lat": 32.924,
+    "lng": -96.8366,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-06-19",
     "neighborhood": null
   }
 ]

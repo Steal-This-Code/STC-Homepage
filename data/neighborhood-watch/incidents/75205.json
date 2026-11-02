@@ -1,57 +1,13 @@
 [
   {
-    "id": "167414-2025",
-    "lat": 32.8192,
-    "lng": -96.7911,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2025-11-20",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "167832-2025",
-    "lat": 32.819,
-    "lng": -96.789,
-    "offense": "dwi",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-11-22",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "166890-2025",
-    "lat": 32.8223,
-    "lng": -96.7894,
-    "offense": "accidental death (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 13,
-    "date": "2025-11-18",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "169369-2025",
-    "lat": 32.8262,
-    "lng": -96.7871,
+    "id": "088658-2026",
+    "lat": 32.8175,
+    "lng": -96.7922,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "parking lot (all others)",
-    "hour": 13,
-    "date": "2025-11-24",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "169369-2025",
-    "lat": 32.8262,
-    "lng": -96.7871,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 13,
-    "date": "2025-11-24",
+    "hour": 12,
+    "date": "2026-06-18",
     "neighborhood": "Knox Park"
   }
 ]
