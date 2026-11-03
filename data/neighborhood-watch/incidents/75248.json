@@ -1,68 +1,57 @@
 [
   {
-    "id": "084697-2026",
-    "lat": 32.9685,
-    "lng": -96.8165,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 0,
-    "date": "2026-06-12",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "088231-2026",
-    "lat": 32.9629,
-    "lng": -96.8134,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 10,
-    "date": "2026-06-18",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "084914-2026",
-    "lat": 32.9825,
-    "lng": -96.7867,
-    "offense": "forgery financial instr > or equal $750<$2500 elderly enh iat",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 8,
-    "date": "2026-04-06",
-    "neighborhood": null
-  },
-  {
-    "id": "084914-2026",
-    "lat": 32.9825,
-    "lng": -96.7867,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "bank/savings and loan",
-    "hour": 8,
-    "date": "2026-04-06",
-    "neighborhood": null
-  },
-  {
-    "id": "085586-2026",
-    "lat": 32.9629,
-    "lng": -96.8134,
-    "offense": "injured person - firearm injury (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 19,
-    "date": "2026-06-13",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "086023-2026",
-    "lat": 32.9706,
-    "lng": -96.7843,
+    "id": "106756-2026",
+    "lat": 32.9836,
+    "lng": -96.8042,
     "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-14",
+    "hour": 18,
+    "date": "2026-07-21",
     "neighborhood": null
+  },
+  {
+    "id": "108930-2026",
+    "lat": 32.9598,
+    "lng": -96.8188,
+    "offense": "robbery of individual - preliminary investigation",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-07-26",
+    "neighborhood": null
+  },
+  {
+    "id": "106844-2026",
+    "lat": 32.9692,
+    "lng": -96.8158,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 23,
+    "date": "2026-07-21",
+    "neighborhood": null
+  },
+  {
+    "id": "109024-2026",
+    "lat": 32.9811,
+    "lng": -96.7881,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-07-26",
+    "neighborhood": null
+  },
+  {
+    "id": "107293-2026",
+    "lat": 32.9651,
+    "lng": -96.8202,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 18,
+    "date": "2026-07-22",
+    "neighborhood": "Chalfont Place"
   }
 ]

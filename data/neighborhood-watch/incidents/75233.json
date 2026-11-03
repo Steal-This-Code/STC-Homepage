@@ -1,123 +1,13 @@
 [
   {
-    "id": "080256-2026",
-    "lat": 32.7221,
-    "lng": -96.8594,
-    "offense": "deadly conduct discharge firearm (assault)",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 4,
-    "date": "2026-06-03",
-    "neighborhood": null
-  },
-  {
-    "id": "080344-2026",
-    "lat": 32.706,
-    "lng": -96.8754,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 4,
-    "date": "2026-06-04",
-    "neighborhood": null
-  },
-  {
-    "id": "083822-2026",
-    "lat": 32.7083,
-    "lng": -96.8671,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-06-06",
-    "neighborhood": null
-  },
-  {
-    "id": "080744-2026",
-    "lat": 32.6912,
-    "lng": -96.8723,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "107040-2026",
+    "lat": 32.693,
+    "lng": -96.8799,
+    "offense": "poss marijuana <2oz",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "084352-2026",
-    "lat": 32.7089,
-    "lng": -96.8762,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-06-10",
-    "neighborhood": null
-  },
-  {
-    "id": "084612-2026",
-    "lat": 32.7203,
-    "lng": -96.8592,
-    "offense": "other offense - misdemeanor",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "084612-2026",
-    "lat": 32.7203,
-    "lng": -96.8592,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-06-12",
-    "neighborhood": null
-  },
-  {
-    "id": "084571-2026",
-    "lat": 32.6912,
-    "lng": -96.8811,
-    "offense": "dwi w/open container",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-06-11",
-    "neighborhood": null
-  },
-  {
-    "id": "081808-2026",
-    "lat": 32.6911,
-    "lng": -96.8576,
-    "offense": "vio bond/protective order",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-06",
-    "neighborhood": null
-  },
-  {
-    "id": "085567-2026",
-    "lat": 32.7212,
-    "lng": -96.8629,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 4,
-    "date": "2026-06-13",
-    "neighborhood": null
-  },
-  {
-    "id": "082179-2026",
-    "lat": 32.7155,
-    "lng": -96.8729,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-06-05",
+    "hour": 14,
+    "date": "2026-07-22",
     "neighborhood": null
   }
 ]

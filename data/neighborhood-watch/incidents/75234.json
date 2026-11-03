@@ -1,13 +1,13 @@
 [
   {
-    "id": "084967-2026",
-    "lat": 32.9132,
-    "lng": -96.8748,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-12",
+    "id": "106719-2026",
+    "lat": 32.91,
+    "lng": -96.8744,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 15,
+    "date": "2026-07-21",
     "neighborhood": null
   }
 ]

@@ -1,101 +1,13 @@
 [
   {
-    "id": "085358-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 12,
-    "date": "2026-06-13",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "088187-2026",
-    "lat": 32.9927,
-    "lng": -96.7935,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-06-18",
+    "id": "108774-2026",
+    "lat": 32.9875,
+    "lng": -96.7759,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-07-22",
     "neighborhood": null
-  },
-  {
-    "id": "088187-2026",
-    "lat": 32.9927,
-    "lng": -96.7935,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "088021-2026",
-    "lat": 32.9964,
-    "lng": -96.8013,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 2,
-    "date": "2026-06-18",
-    "neighborhood": null
-  },
-  {
-    "id": "081898-2026",
-    "lat": 33.0079,
-    "lng": -96.7964,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 1,
-    "date": "2026-06-07",
-    "neighborhood": null
-  },
-  {
-    "id": "085631-2026",
-    "lat": 33.0032,
-    "lng": -96.8092,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-13",
-    "neighborhood": null
-  },
-  {
-    "id": "086020-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "poss of dangerous drug",
-    "group": "other",
-    "premise": "other",
-    "hour": 15,
-    "date": "2026-06-14",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "086020-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 15,
-    "date": "2026-06-14",
-    "neighborhood": "Highlands of McKamy"
-  },
-  {
-    "id": "086197-2026",
-    "lat": 32.9889,
-    "lng": -96.7833,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-06-14",
-    "neighborhood": "Highlands of McKamy"
   }
 ]

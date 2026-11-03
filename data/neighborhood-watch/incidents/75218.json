@@ -1,101 +1,24 @@
 [
   {
-    "id": "081029-2026",
-    "lat": 32.8648,
-    "lng": -96.6815,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "081321-2026",
-    "lat": 32.8352,
-    "lng": -96.7053,
-    "offense": "assault -hospital personnel on hosp property",
-    "group": "violent",
-    "premise": "medical facility",
-    "hour": 0,
-    "date": "2026-06-06",
-    "neighborhood": null
-  },
-  {
-    "id": "081538-2026",
-    "lat": 32.8465,
-    "lng": -96.6861,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "commercial property occupied/vacant",
-    "hour": 0,
-    "date": "2026-06-06",
-    "neighborhood": "Casa View"
-  },
-  {
-    "id": "088246-2026",
-    "lat": 32.8394,
-    "lng": -96.695,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 21,
-    "date": "2026-06-17",
-    "neighborhood": null
-  },
-  {
-    "id": "081852-2026",
-    "lat": 32.8282,
-    "lng": -96.7081,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "081895-2026",
-    "lat": 32.8529,
-    "lng": -96.7175,
-    "offense": "possession of drug paraphernalia",
+    "id": "106492-2026",
+    "lat": 32.8055,
+    "lng": -96.7236,
+    "offense": "criminal trespass affidavit",
     "group": "other",
     "premise": "park",
-    "hour": 1,
-    "date": "2026-06-07",
-    "neighborhood": null
+    "hour": 9,
+    "date": "2026-07-21",
+    "neighborhood": "Enclave at White Rock"
   },
   {
-    "id": "082683-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "evading arrest detention",
+    "id": "106847-2026",
+    "lat": 32.845,
+    "lng": -96.7075,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "retail store",
-    "hour": 14,
-    "date": "2026-06-08",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "085640-2026",
-    "lat": 32.8319,
-    "lng": -96.7001,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-06-13",
-    "neighborhood": "Casa Linda Estates"
-  },
-  {
-    "id": "086215-2026",
-    "lat": 32.8637,
-    "lng": -96.6826,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 21,
-    "date": "2026-06-14",
-    "neighborhood": null
+    "premise": "school - elementary/secondary",
+    "hour": 0,
+    "date": "2026-07-22",
+    "neighborhood": "Old Lake Highlands"
   }
 ]
