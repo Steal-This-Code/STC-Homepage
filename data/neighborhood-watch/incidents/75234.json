@@ -1,13 +1,57 @@
 [
   {
-    "id": "106719-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "motor vehicle theft",
+    "id": "183420-2025",
+    "lat": 32.9097,
+    "lng": -96.8564,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 16,
+    "date": "2025-12-24",
+    "neighborhood": null
+  },
+  {
+    "id": "065304-2026",
+    "lat": 32.9097,
+    "lng": -96.8564,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 0,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
+    "id": "065534-2026",
+    "lat": 32.9149,
+    "lng": -96.8675,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
+    "id": "065534-2026",
+    "lat": 32.9149,
+    "lng": -96.8675,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
+    "id": "066057-2026",
+    "lat": 32.9131,
+    "lng": -96.8946,
+    "offense": "burglary of building - forced entry",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-07-21",
+    "premise": "rental storage facility",
+    "hour": 10,
+    "date": "2026-05-03",
     "neighborhood": null
   }
 ]

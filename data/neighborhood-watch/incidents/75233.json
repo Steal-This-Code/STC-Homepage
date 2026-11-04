@@ -1,13 +1,68 @@
 [
   {
-    "id": "107040-2026",
-    "lat": 32.693,
-    "lng": -96.8799,
-    "offense": "poss marijuana <2oz",
+    "id": "066120-2026",
+    "lat": 32.7127,
+    "lng": -96.8673,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-05-09",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "065812-2026",
+    "lat": 32.697,
+    "lng": -96.8676,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-05-08",
+    "neighborhood": "Brettonwoods"
+  },
+  {
+    "id": "066783-2026",
+    "lat": 32.6943,
+    "lng": -96.8878,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "066783-2026",
+    "lat": 32.6943,
+    "lng": -96.8878,
+    "offense": "deadly conduct discharge firearm (damage)",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-07-22",
+    "hour": 0,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "066120-2026",
+    "lat": 32.7127,
+    "lng": -96.8673,
+    "offense": "deadly conduct discharge firearm (damage)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-05-09",
+    "neighborhood": "Encino Hills"
+  },
+  {
+    "id": "066600-2026",
+    "lat": 32.7186,
+    "lng": -96.8655,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-05-10",
     "neighborhood": null
   }
 ]

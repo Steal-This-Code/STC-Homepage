@@ -1,13 +1,35 @@
 [
   {
-    "id": "088658-2026",
-    "lat": 32.8175,
-    "lng": -96.7922,
+    "id": "820093-2026",
+    "lat": 32.8245,
+    "lng": -96.786,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-10-02",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "066843-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "parking lot (all others)",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-05-09",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "820606-2026",
+    "lat": 32.8214,
+    "lng": -96.7877,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
     "hour": 12,
-    "date": "2026-06-18",
+    "date": "2026-09-18",
     "neighborhood": "Knox Park"
   }
 ]

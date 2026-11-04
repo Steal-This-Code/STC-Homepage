@@ -1,13 +1,24 @@
 [
   {
-    "id": "106482-2026",
-    "lat": 32.9149,
-    "lng": -96.8382,
-    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-07-21",
+    "id": "066737-2026",
+    "lat": 32.9243,
+    "lng": -96.8393,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 12,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "066737-2026",
+    "lat": 32.9243,
+    "lng": -96.8393,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "grocery/supermarket",
+    "hour": 12,
+    "date": "2026-05-10",
     "neighborhood": null
   }
 ]

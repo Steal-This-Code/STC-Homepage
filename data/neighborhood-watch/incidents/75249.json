@@ -1,46 +1,13 @@
 [
   {
-    "id": "088250-2026",
-    "lat": 32.6282,
-    "lng": -96.9526,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "id": "066196-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "burglary of building - forced entry",
     "group": "property",
-    "premise": "highway, street, alley etc",
+    "premise": "storage facility",
     "hour": 0,
-    "date": "2026-06-01",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "085516-2026",
-    "lat": 32.646,
-    "lng": -96.9562,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-06-13",
+    "date": "2026-04-27",
     "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "085922-2026",
-    "lat": 32.6495,
-    "lng": -96.9553,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-14",
-    "neighborhood": null
-  },
-  {
-    "id": "086227-2026",
-    "lat": 32.6306,
-    "lng": -96.9516,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-06-14",
-    "neighborhood": "Woods-Sugarberry"
   }
 ]

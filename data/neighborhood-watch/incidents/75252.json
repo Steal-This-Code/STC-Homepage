@@ -1,13 +1,68 @@
 [
   {
-    "id": "108774-2026",
+    "id": "820659-2026",
     "lat": 32.9875,
     "lng": -96.7759,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 16,
-    "date": "2026-07-22",
+    "offense": "interfere w/ child custody",
+    "group": "other",
+    "premise": "other",
+    "hour": 18,
+    "date": "2026-10-08",
     "neighborhood": null
+  },
+  {
+    "id": "066863-2026",
+    "lat": 33.0106,
+    "lng": -96.7948,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 18,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "065877-2026",
+    "lat": 32.9961,
+    "lng": -96.7964,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 23,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
+    "id": "066407-2026",
+    "lat": 32.9886,
+    "lng": -96.7727,
+    "offense": "harassment - threat",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-05-09",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "066840-2026",
+    "lat": 32.9863,
+    "lng": -96.774,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "065713-2026",
+    "lat": 32.9932,
+    "lng": -96.8058,
+    "offense": "deadly conduct-preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-05-07",
+    "neighborhood": "Prestonwood West"
   }
 ]

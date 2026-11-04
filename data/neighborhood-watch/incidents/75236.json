@@ -1,13 +1,57 @@
 [
   {
-    "id": "107179-2026",
-    "lat": 32.6632,
-    "lng": -96.9656,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "id": "066546-2026",
+    "lat": 32.7008,
+    "lng": -96.8992,
+    "offense": "dwi bac > or equal to 0.15",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-05-10",
+    "neighborhood": null
+  },
+  {
+    "id": "066161-2026",
+    "lat": 32.6652,
+    "lng": -96.9292,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "065891-2026",
+    "lat": 32.6932,
+    "lng": -96.8923,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-07-14",
+    "premise": "apartment parking lot",
+    "hour": 7,
+    "date": "2026-05-02",
+    "neighborhood": null
+  },
+  {
+    "id": "065827-2026",
+    "lat": 32.6674,
+    "lng": -96.9459,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-05-08",
+    "neighborhood": null
+  },
+  {
+    "id": "066096-2026",
+    "lat": 32.668,
+    "lng": -96.9417,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-05-08",
     "neighborhood": null
   }
 ]

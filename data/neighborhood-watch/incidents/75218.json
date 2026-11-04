@@ -1,24 +1,24 @@
 [
   {
-    "id": "106492-2026",
-    "lat": 32.8055,
-    "lng": -96.7236,
-    "offense": "criminal trespass affidavit",
+    "id": "066394-2026",
+    "lat": 32.8499,
+    "lng": -96.6835,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "park",
-    "hour": 9,
-    "date": "2026-07-21",
-    "neighborhood": "Enclave at White Rock"
+    "premise": "restaurant/food service/tabc location",
+    "hour": 20,
+    "date": "2026-05-09",
+    "neighborhood": "Lochwood"
   },
   {
-    "id": "106847-2026",
-    "lat": 32.845,
-    "lng": -96.7075,
-    "offense": "open building (no offense)",
+    "id": "065703-2026",
+    "lat": 32.8337,
+    "lng": -96.7,
+    "offense": "crim mischief -preliminary investigation",
     "group": "other",
-    "premise": "school - elementary/secondary",
-    "hour": 0,
-    "date": "2026-07-22",
-    "neighborhood": "Old Lake Highlands"
+    "premise": "retail store",
+    "hour": 18,
+    "date": "2026-05-08",
+    "neighborhood": null
   }
 ]

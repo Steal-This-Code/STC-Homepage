@@ -1,35 +1,79 @@
 [
   {
-    "id": "109039-2026",
-    "lat": 32.8147,
-    "lng": -96.8802,
-    "offense": "diversion public intox",
+    "id": "066611-2026",
+    "lat": 32.8177,
+    "lng": -96.8673,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
     "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "hotel/motel/etc",
     "hour": 5,
-    "date": "2026-07-26",
+    "date": "2026-05-10",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "065989-2026",
+    "lat": 32.8088,
+    "lng": -96.8513,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 2,
+    "date": "2026-05-09",
     "neighborhood": null
   },
   {
-    "id": "107067-2026",
-    "lat": 32.8289,
-    "lng": -96.8749,
+    "id": "066611-2026",
+    "lat": 32.8177,
+    "lng": -96.8673,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 5,
+    "date": "2026-05-10",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "066168-2026",
+    "lat": 32.8249,
+    "lng": -96.8699,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 13,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "820641-2026",
+    "lat": 32.8195,
+    "lng": -96.8679,
+    "offense": "theft from building> or equal $100<$750 (not shoplift)",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 0,
+    "date": "2026-10-11",
+    "neighborhood": "Southwestern Medical District"
+  },
+  {
+    "id": "820610-2026",
+    "lat": 32.8365,
+    "lng": -96.8767,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 20,
+    "date": "2026-10-08",
+    "neighborhood": null
+  },
+  {
+    "id": "826586-2025",
+    "lat": 32.8169,
+    "lng": -96.8667,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-07-22",
-    "neighborhood": null
-  },
-  {
-    "id": "108664-2026",
-    "lat": 32.8223,
-    "lng": -96.8722,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-07-24",
-    "neighborhood": null
+    "premise": "hotel/motel/etc",
+    "hour": 0,
+    "date": "2025-12-05",
+    "neighborhood": "Southwestern Medical District"
   }
 ]

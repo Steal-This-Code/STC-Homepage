@@ -11,58 +11,36 @@
     "neighborhood": "Valley View"
   },
   {
-    "id": "107175-2026",
-    "lat": 32.9226,
-    "lng": -96.7788,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 19,
-    "date": "2026-07-22",
-    "neighborhood": null
-  },
-  {
-    "id": "108838-2026",
+    "id": "066325-2026",
     "lat": 32.9224,
     "lng": -96.7679,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 19,
+    "date": "2026-05-09",
+    "neighborhood": null
+  },
+  {
+    "id": "820628-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2026-10-10",
+    "neighborhood": null
+  },
+  {
+    "id": "066736-2026",
+    "lat": 32.9165,
+    "lng": -96.7699,
+    "offense": "natural death (no offense)",
+    "group": "other",
     "premise": "apartment residence",
-    "hour": 17,
-    "date": "2026-07-23",
-    "neighborhood": null
-  },
-  {
-    "id": "108694-2026",
-    "lat": 32.9212,
-    "lng": -96.7726,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 14,
-    "date": "2026-07-25",
-    "neighborhood": null
-  },
-  {
-    "id": "108688-2026",
-    "lat": 32.9218,
-    "lng": -96.7729,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-07-25",
-    "neighborhood": null
-  },
-  {
-    "id": "107080-2026",
-    "lat": 32.9213,
-    "lng": -96.7772,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 6,
-    "date": "2026-07-22",
+    "hour": 11,
+    "date": "2026-05-10",
     "neighborhood": null
   }
 ]
