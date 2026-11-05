@@ -1,24 +1,90 @@
 [
   {
-    "id": "182825-2025",
-    "lat": 32.7927,
-    "lng": -96.7705,
-    "offense": "motor vehicle theft",
+    "id": "060537-2026",
+    "lat": 32.794,
+    "lng": -96.7668,
+    "offense": "burglary of habitation -no forced entry",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2025-12-22",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-04-24",
     "neighborhood": "Peak's Addition"
   },
   {
-    "id": "066215-2026",
-    "lat": 32.7879,
-    "lng": -96.7799,
+    "id": "059791-2026",
+    "lat": 32.7939,
+    "lng": -96.7769,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 18,
+    "date": "2026-04-24",
+    "neighborhood": "Baylor / Meadows"
+  },
+  {
+    "id": "061267-2026",
+    "lat": 32.7941,
+    "lng": -96.7682,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "drug store/doctors office/hospital",
-    "hour": 13,
-    "date": "2026-05-09",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-04-29",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "060330-2026",
+    "lat": 32.7922,
+    "lng": -96.7687,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 9,
+    "date": "2026-04-27",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "061492-2026",
+    "lat": 32.7962,
+    "lng": -96.772,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-30",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "061492-2026",
+    "lat": 32.7962,
+    "lng": -96.772,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-30",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "061267-2026",
+    "lat": 32.7941,
+    "lng": -96.7682,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-04-29",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "061159-2026",
+    "lat": 32.7937,
+    "lng": -96.7779,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 23,
+    "date": "2026-04-29",
     "neighborhood": "Baylor / Meadows"
   }
 ]

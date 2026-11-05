@@ -1,24 +1,57 @@
 [
   {
-    "id": "066394-2026",
-    "lat": 32.8499,
-    "lng": -96.6835,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-05-09",
-    "neighborhood": "Lochwood"
+    "id": "059839-2026",
+    "lat": 32.8382,
+    "lng": -96.6963,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-04-24",
+    "neighborhood": "Casa Linda Estates"
   },
   {
-    "id": "065703-2026",
-    "lat": 32.8337,
-    "lng": -96.7,
-    "offense": "crim mischief -preliminary investigation",
+    "id": "060068-2026",
+    "lat": 32.8298,
+    "lng": -96.7041,
+    "offense": "terroristic threat -preliminary investigation",
     "group": "other",
-    "premise": "retail store",
-    "hour": 18,
-    "date": "2026-05-08",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-04-27",
+    "neighborhood": null
+  },
+  {
+    "id": "060730-2026",
+    "lat": 32.8435,
+    "lng": -96.6918,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "specialty store (in a specific item)",
+    "hour": 4,
+    "date": "2026-04-29",
+    "neighborhood": null
+  },
+  {
+    "id": "060779-2026",
+    "lat": 32.8424,
+    "lng": -96.6924,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 10,
+    "date": "2026-04-30",
+    "neighborhood": null
+  },
+  {
+    "id": "061259-2026",
+    "lat": 32.8337,
+    "lng": -96.6999,
+    "offense": "theft of catalytic converter <30k",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 7,
+    "date": "2026-04-30",
     "neighborhood": null
   }
 ]

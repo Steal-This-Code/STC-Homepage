@@ -1,35 +1,46 @@
 [
   {
-    "id": "820093-2026",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-10-02",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "066843-2026",
-    "lat": 32.817,
-    "lng": -96.7914,
+    "id": "060031-2026",
+    "lat": 32.821,
+    "lng": -96.7967,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-05-09",
-    "neighborhood": "Knox Park"
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-04-26",
+    "neighborhood": "Oak Lawn"
   },
   {
-    "id": "820606-2026",
-    "lat": 32.8214,
-    "lng": -96.7877,
-    "offense": "reckless damage",
+    "id": "060031-2026",
+    "lat": 32.821,
+    "lng": -96.7967,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 18,
+    "date": "2026-04-26",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "060059-2026",
+    "lat": 32.8211,
+    "lng": -96.7961,
+    "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-09-18",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-04-26",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "061205-2026",
+    "lat": 32.8305,
+    "lng": -96.7825,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 4,
+    "date": "2026-04-30",
     "neighborhood": "Knox Park"
   }
 ]
