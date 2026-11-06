@@ -1,16 +1,5 @@
 [
   {
-    "id": "060563-2026",
-    "lat": 32.6634,
-    "lng": -96.8906,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
     "id": "061062-2026",
     "lat": 32.6868,
     "lng": -96.9156,
@@ -19,61 +8,6 @@
     "premise": "highway, street, alley etc",
     "hour": 16,
     "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "060511-2026",
-    "lat": 32.6634,
-    "lng": -96.8906,
-    "offense": "robbery of individual (agg)",
-    "group": "violent",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060929-2026",
-    "lat": 32.6867,
-    "lng": -96.9013,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "business office",
-    "hour": 12,
-    "date": "2026-04-20",
-    "neighborhood": null
-  },
-  {
-    "id": "061834-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 19,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "061834-2026",
-    "lat": 32.6868,
-    "lng": -96.9087,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "other",
-    "hour": 19,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "061900-2026",
-    "lat": 32.6775,
-    "lng": -96.8908,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "rental storage facility",
-    "hour": 18,
-    "date": "2026-04-10",
     "neighborhood": null
   }
 ]

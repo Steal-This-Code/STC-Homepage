@@ -1,38 +1,5 @@
 [
   {
-    "id": "059602-2026",
-    "lat": 32.7657,
-    "lng": -96.7483,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-04-26",
-    "neighborhood": "Bertrand"
-  },
-  {
-    "id": "059801-2026",
-    "lat": 32.7737,
-    "lng": -96.7632,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 7,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060080-2026",
-    "lat": 32.7771,
-    "lng": -96.7369,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "other",
-    "hour": 5,
-    "date": "2026-04-16",
-    "neighborhood": "Frazier"
-  },
-  {
     "id": "059969-2026",
     "lat": 32.7613,
     "lng": -96.7443,
@@ -44,135 +11,14 @@
     "neighborhood": "Dixon Circle / Sunny Acres"
   },
   {
-    "id": "060943-2026",
-    "lat": 32.7692,
-    "lng": -96.7511,
-    "offense": "theft of prop <$100 - other than shoplift",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 15,
-    "date": "2026-04-29",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "060279-2026",
-    "lat": 32.7771,
-    "lng": -96.7657,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 6,
-    "date": "2026-04-28",
-    "neighborhood": "Grand Park South"
-  },
-  {
-    "id": "061170-2026",
-    "lat": 32.7591,
-    "lng": -96.7412,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "hotel/motel/etc",
-    "hour": 22,
-    "date": "2026-03-17",
-    "neighborhood": "Dixon Circle / Sunny Acres"
-  },
-  {
-    "id": "061428-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "061437-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "disorderly conduct",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "061437-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "replica firearms",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "060804-2026",
-    "lat": 32.7669,
-    "lng": -96.7504,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-04-29",
-    "neighborhood": "Bertrand"
-  },
-  {
-    "id": "060816-2026",
-    "lat": 32.7769,
-    "lng": -96.7452,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-04-29",
-    "neighborhood": "Mill City"
-  },
-  {
-    "id": "061616-2026",
+    "id": "060080-2026",
     "lat": 32.7771,
     "lng": -96.7369,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "061437-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "obstruction or retaliation",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "061437-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "obstruction or retaliation",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Frazier"
-  },
-  {
-    "id": "061437-2026",
-    "lat": 32.7668,
-    "lng": -96.736,
-    "offense": "resist arrest search or transport",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 13,
-    "date": "2026-04-30",
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "other",
+    "hour": 5,
+    "date": "2026-04-16",
     "neighborhood": "Frazier"
   }
 ]

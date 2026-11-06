@@ -20,27 +20,5 @@
     "hour": 20,
     "date": "2026-04-22",
     "neighborhood": null
-  },
-  {
-    "id": "061388-2026",
-    "lat": 32.6937,
-    "lng": -96.8788,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-04-30",
-    "neighborhood": "Kimball Square"
-  },
-  {
-    "id": "061388-2026",
-    "lat": 32.6937,
-    "lng": -96.8788,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-04-30",
-    "neighborhood": "Kimball Square"
   }
 ]

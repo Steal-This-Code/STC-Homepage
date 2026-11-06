@@ -1,24 +1,35 @@
 [
   {
-    "id": "060289-2026",
-    "lat": 32.796,
-    "lng": -96.8265,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 23,
-    "date": "2026-04-27",
-    "neighborhood": "Design District"
+    "id": "807130-2026",
+    "lat": 32.759,
+    "lng": -96.7947,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-04-04",
+    "neighborhood": null
   },
   {
-    "id": "060289-2026",
-    "lat": 32.796,
-    "lng": -96.8265,
-    "offense": "motor vehicle theft",
+    "id": "807633-2026",
+    "lat": 32.7968,
+    "lng": -96.8362,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-04-10",
+    "neighborhood": null
+  },
+  {
+    "id": "821112-2026",
+    "lat": 32.792,
+    "lng": -96.8211,
+    "offense": "arson -all others",
     "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 23,
-    "date": "2026-04-27",
+    "premise": "retail store",
+    "hour": 0,
+    "date": "2026-09-26",
     "neighborhood": "Design District"
   },
   {
@@ -31,61 +42,6 @@
     "hour": 20,
     "date": "2026-04-26",
     "neighborhood": null
-  },
-  {
-    "id": "060255-2026",
-    "lat": 32.783,
-    "lng": -96.8148,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 1,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "059835-2026",
-    "lat": 32.8022,
-    "lng": -96.833,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
-    "id": "059689-2026",
-    "lat": 32.7909,
-    "lng": -96.8348,
-    "offense": "traf vio -racing on highway",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "059829-2026",
-    "lat": 32.784,
-    "lng": -96.8166,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 1,
-    "date": "2026-04-27",
-    "neighborhood": "Design District"
-  },
-  {
-    "id": "060047-2026",
-    "lat": 32.7985,
-    "lng": -96.8243,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "hotel/motel/etc",
-    "hour": 21,
-    "date": "2026-04-25",
-    "neighborhood": "Design District"
   },
   {
     "id": "060047-2026",
@@ -110,80 +66,36 @@
     "neighborhood": null
   },
   {
-    "id": "060426-2026",
-    "lat": 32.8051,
-    "lng": -96.8522,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 0,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "061312-2026",
-    "lat": 32.7772,
-    "lng": -96.8154,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "jail/prison/penitentiary/corrections fac",
-    "hour": 12,
-    "date": "2026-03-04",
-    "neighborhood": null
-  },
-  {
-    "id": "060754-2026",
-    "lat": 32.7827,
-    "lng": -96.8174,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "061499-2026",
-    "lat": 32.7927,
-    "lng": -96.8156,
+    "id": "060047-2026",
+    "lat": 32.7985,
+    "lng": -96.8243,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "apartment parking lot",
+    "premise": "hotel/motel/etc",
     "hour": 21,
-    "date": "2026-04-29",
+    "date": "2026-04-25",
     "neighborhood": "Design District"
   },
   {
-    "id": "061499-2026",
-    "lat": 32.7927,
-    "lng": -96.8156,
+    "id": "060289-2026",
+    "lat": 32.796,
+    "lng": -96.8265,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-04-29",
+    "hour": 23,
+    "date": "2026-04-27",
     "neighborhood": "Design District"
   },
   {
-    "id": "060892-2026",
-    "lat": 32.7996,
-    "lng": -96.841,
-    "offense": "fraud - preliminary investigation",
-    "group": "property",
-    "premise": "business office",
-    "hour": 12,
-    "date": "2026-04-06",
-    "neighborhood": null
-  },
-  {
-    "id": "062316-2026",
-    "lat": 32.7999,
-    "lng": -96.825,
-    "offense": "evading arrest detention",
+    "id": "059689-2026",
+    "lat": 32.7909,
+    "lng": -96.8348,
+    "offense": "traf vio -racing on highway",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 4,
-    "date": "2026-05-02",
-    "neighborhood": "Design District"
+    "hour": 0,
+    "date": "2026-04-27",
+    "neighborhood": null
   }
 ]

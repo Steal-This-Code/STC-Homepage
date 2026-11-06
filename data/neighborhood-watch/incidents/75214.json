@@ -1,5 +1,16 @@
 [
   {
+    "id": "805978-2026",
+    "lat": 32.8318,
+    "lng": -96.7597,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-03-17",
+    "neighborhood": "Wilshire Heights"
+  },
+  {
     "id": "059576-2026",
     "lat": 32.8079,
     "lng": -96.7472,
@@ -9,126 +20,5 @@
     "hour": 20,
     "date": "2026-04-23",
     "neighborhood": "Abrams-Brookside"
-  },
-  {
-    "id": "060284-2026",
-    "lat": 32.8357,
-    "lng": -96.7517,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 18,
-    "date": "2026-04-27",
-    "neighborhood": "Lakewood"
-  },
-  {
-    "id": "059544-2026",
-    "lat": 32.8053,
-    "lng": -96.7299,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
-    "id": "060352-2026",
-    "lat": 32.821,
-    "lng": -96.7536,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-04-28",
-    "neighborhood": "Lakewood Heights"
-  },
-  {
-    "id": "060418-2026",
-    "lat": 32.821,
-    "lng": -96.7517,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-03-14",
-    "neighborhood": "Lakewood"
-  },
-  {
-    "id": "059734-2026",
-    "lat": 32.8121,
-    "lng": -96.761,
-    "offense": "diversion public intox",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 3,
-    "date": "2026-04-27",
-    "neighborhood": "Swiss Avenue"
-  },
-  {
-    "id": "060352-2026",
-    "lat": 32.821,
-    "lng": -96.7536,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 4,
-    "date": "2026-04-28",
-    "neighborhood": "Lakewood Heights"
-  },
-  {
-    "id": "061183-2026",
-    "lat": 32.8543,
-    "lng": -96.7458,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 1,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "060811-2026",
-    "lat": 32.831,
-    "lng": -96.7584,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 9,
-    "date": "2026-04-29",
-    "neighborhood": "Wilshire Heights"
-  },
-  {
-    "id": "061935-2026",
-    "lat": 32.8518,
-    "lng": -96.7419,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-01",
-    "neighborhood": "University Terrace"
-  },
-  {
-    "id": "061935-2026",
-    "lat": 32.8518,
-    "lng": -96.7419,
-    "offense": "harassment - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-01",
-    "neighborhood": "University Terrace"
-  },
-  {
-    "id": "061935-2026",
-    "lat": 32.8518,
-    "lng": -96.7419,
-    "offense": "impersonate public servant",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-05-01",
-    "neighborhood": "University Terrace"
   }
 ]

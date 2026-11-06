@@ -11,6 +11,17 @@
     "neighborhood": null
   },
   {
+    "id": "060367-2026",
+    "lat": 32.781,
+    "lng": -96.7344,
+    "offense": "arson -motor veh",
+    "group": "property",
+    "premise": "field/woods",
+    "hour": 6,
+    "date": "2026-04-27",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
     "id": "060041-2026",
     "lat": 32.7958,
     "lng": -96.7498,
@@ -20,71 +31,5 @@
     "hour": 20,
     "date": "2026-04-25",
     "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "060367-2026",
-    "lat": 32.781,
-    "lng": -96.7344,
-    "offense": "arson -motor veh",
-    "group": "property",
-    "premise": "field/woods",
-    "hour": 6,
-    "date": "2026-04-27",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "060447-2026",
-    "lat": 32.7893,
-    "lng": -96.7415,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-04-27",
-    "neighborhood": "Owenwood"
-  },
-  {
-    "id": "060151-2026",
-    "lat": 32.7822,
-    "lng": -96.7505,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 10,
-    "date": "2026-03-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060367-2026",
-    "lat": 32.781,
-    "lng": -96.7344,
-    "offense": "arson -motor veh",
-    "group": "property",
-    "premise": "field/woods",
-    "hour": 6,
-    "date": "2026-04-27",
-    "neighborhood": "Dolphin Heights"
-  },
-  {
-    "id": "061698-2026",
-    "lat": 32.7921,
-    "lng": -96.7601,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "061500-2026",
-    "lat": 32.781,
-    "lng": -96.7346,
-    "offense": "terroristic threat fear imminent sbi",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2026-04-30",
-    "neighborhood": "Dolphin Heights"
   }
 ]

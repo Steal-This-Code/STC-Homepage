@@ -1,93 +1,5 @@
 [
   {
-    "id": "059858-2026",
-    "lat": 32.7435,
-    "lng": -96.835,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 11,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060422-2026",
-    "lat": 32.7437,
-    "lng": -96.8376,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "storage facility",
-    "hour": 12,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "059918-2026",
-    "lat": 32.7337,
-    "lng": -96.848,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "059903-2026",
-    "lat": 32.73,
-    "lng": -96.8493,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 14,
-    "date": "2026-04-25",
-    "neighborhood": null
-  },
-  {
-    "id": "060150-2026",
-    "lat": 32.7567,
-    "lng": -96.8237,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": "Kidd Springs"
-  },
-  {
-    "id": "060103-2026",
-    "lat": 32.736,
-    "lng": -96.8375,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060671-2026",
-    "lat": 32.7745,
-    "lng": -96.8245,
-    "offense": "injured person - at home (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-04-28",
-    "neighborhood": "La L'aceate"
-  },
-  {
-    "id": "060476-2026",
-    "lat": 32.7443,
-    "lng": -96.8529,
-    "offense": "dog bite - injured person",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-04-28",
-    "neighborhood": "Sunset Hill"
-  },
-  {
     "id": "060838-2026",
     "lat": 32.7495,
     "lng": -96.8384,
@@ -99,113 +11,25 @@
     "neighborhood": "Kings Highway"
   },
   {
-    "id": "061258-2026",
-    "lat": 32.7431,
-    "lng": -96.825,
-    "offense": "indecent exposure",
+    "id": "059858-2026",
+    "lat": 32.7435,
+    "lng": -96.835,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 5,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "061292-2026",
-    "lat": 32.7705,
-    "lng": -96.848,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "government facility",
-    "hour": 10,
-    "date": "2026-04-30",
-    "neighborhood": "La Loma"
-  },
-  {
-    "id": "060428-2026",
-    "lat": 32.7451,
-    "lng": -96.8304,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 20,
-    "date": "2026-04-21",
-    "neighborhood": "Dallas Land & Loan"
-  },
-  {
-    "id": "061434-2026",
-    "lat": 32.7481,
-    "lng": -96.8503,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-04-30",
-    "neighborhood": "L.O. Daniel"
-  },
-  {
-    "id": "061555-2026",
-    "lat": 32.7749,
-    "lng": -96.8226,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "jail/prison/penitentiary/corrections fac",
-    "hour": 1,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "061507-2026",
-    "lat": 32.7371,
-    "lng": -96.8248,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "business office",
-    "hour": 1,
-    "date": "2026-04-29",
-    "neighborhood": "Ruthmeade Place"
-  },
-  {
-    "id": "061011-2026",
-    "lat": 32.7494,
-    "lng": -96.8235,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking lot (all others)",
-    "hour": 7,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "061044-2026",
-    "lat": 32.7442,
-    "lng": -96.8389,
-    "offense": "missing person - critical (no offense)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 6,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "060842-2026",
-    "lat": 32.7495,
-    "lng": -96.8384,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "business office",
-    "hour": 10,
-    "date": "2026-04-29",
-    "neighborhood": "Kings Highway"
-  },
-  {
-    "id": "062627-2026",
-    "lat": 32.7545,
-    "lng": -96.8253,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
+    "premise": "restaurant/food service/tabc location",
     "hour": 11,
-    "date": "2026-05-02",
-    "neighborhood": "Kidd Springs"
+    "date": "2026-04-27",
+    "neighborhood": null
+  },
+  {
+    "id": "060103-2026",
+    "lat": 32.736,
+    "lng": -96.8375,
+    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-04-27",
+    "neighborhood": null
   }
 ]

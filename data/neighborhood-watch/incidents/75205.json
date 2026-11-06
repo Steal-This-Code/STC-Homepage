@@ -9,38 +9,5 @@
     "hour": 18,
     "date": "2026-04-26",
     "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "060031-2026",
-    "lat": 32.821,
-    "lng": -96.7967,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-04-26",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "060059-2026",
-    "lat": 32.8211,
-    "lng": -96.7961,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-04-26",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "061205-2026",
-    "lat": 32.8305,
-    "lng": -96.7825,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 4,
-    "date": "2026-04-30",
-    "neighborhood": "Knox Park"
   }
 ]

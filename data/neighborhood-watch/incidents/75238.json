@@ -1,24 +1,13 @@
 [
   {
-    "id": "059901-2026",
-    "lat": 32.8631,
-    "lng": -96.7157,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "other",
-    "hour": 7,
-    "date": "2026-04-06",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "059910-2026",
-    "lat": 32.8991,
-    "lng": -96.7073,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 11,
-    "date": "2026-04-25",
+    "id": "059771-2026",
+    "lat": 32.8687,
+    "lng": -96.6809,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 18,
+    "date": "2026-04-22",
     "neighborhood": null
   },
   {
@@ -33,72 +22,6 @@
     "neighborhood": "Lake Ridge Estates"
   },
   {
-    "id": "060397-2026",
-    "lat": 32.8933,
-    "lng": -96.7011,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "059800-2026",
-    "lat": 32.8996,
-    "lng": -96.7034,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "059815-2026",
-    "lat": 32.8996,
-    "lng": -96.7034,
-    "offense": "crim mischief <$100",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "059771-2026",
-    "lat": 32.8687,
-    "lng": -96.6809,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 18,
-    "date": "2026-04-22",
-    "neighborhood": null
-  },
-  {
-    "id": "060567-2026",
-    "lat": 32.8631,
-    "lng": -96.7157,
-    "offense": "injured person- public property (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "lake/waterway/beach",
-    "hour": 17,
-    "date": "2026-04-28",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "060567-2026",
-    "lat": 32.8631,
-    "lng": -96.7157,
-    "offense": "injured person- public property (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "lake/waterway/beach",
-    "hour": 17,
-    "date": "2026-04-28",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
     "id": "060437-2026",
     "lat": 32.8631,
     "lng": -96.7157,
@@ -110,28 +33,6 @@
     "neighborhood": "Lake Ridge Estates"
   },
   {
-    "id": "059790-2026",
-    "lat": 32.8996,
-    "lng": -96.7034,
-    "offense": "theft of prop > or equal $30k <$150k (not shoplift) pc31.03(e5)",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 9,
-    "date": "2026-04-18",
-    "neighborhood": null
-  },
-  {
-    "id": "059975-2026",
-    "lat": 32.8996,
-    "lng": -96.7034,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-04-25",
-    "neighborhood": null
-  },
-  {
     "id": "060925-2026",
     "lat": 32.8945,
     "lng": -96.7145,
@@ -141,17 +42,6 @@
     "hour": 22,
     "date": "2026-04-28",
     "neighborhood": null
-  },
-  {
-    "id": "060896-2026",
-    "lat": 32.8627,
-    "lng": -96.7158,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-04-28",
-    "neighborhood": "Old Lake Highlands"
   },
   {
     "id": "061021-2026",
@@ -165,17 +55,6 @@
     "neighborhood": null
   },
   {
-    "id": "061339-2026",
-    "lat": 32.8694,
-    "lng": -96.6854,
-    "offense": "indecent exposure",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-04-29",
-    "neighborhood": "Highland Meadows"
-  },
-  {
     "id": "060567-2026",
     "lat": 32.8631,
     "lng": -96.7157,
@@ -185,225 +64,5 @@
     "hour": 17,
     "date": "2026-04-28",
     "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "061244-2026",
-    "lat": 32.8756,
-    "lng": -96.6872,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 7,
-    "date": "2026-04-30",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "060793-2026",
-    "lat": 32.8663,
-    "lng": -96.6812,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060793-2026",
-    "lat": 32.8663,
-    "lng": -96.6812,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060571-2026",
-    "lat": 32.9007,
-    "lng": -96.6941,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 14,
-    "date": "2026-04-02",
-    "neighborhood": null
-  },
-  {
-    "id": "061306-2026",
-    "lat": 32.8631,
-    "lng": -96.7157,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 10,
-    "date": "2026-04-29",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "060896-2026",
-    "lat": 32.8627,
-    "lng": -96.7158,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 20,
-    "date": "2026-04-28",
-    "neighborhood": "Old Lake Highlands"
-  },
-  {
-    "id": "061591-2026",
-    "lat": 32.8742,
-    "lng": -96.687,
-    "offense": "indecent exposure",
-    "group": "other",
-    "premise": "condominium/townhome parking",
-    "hour": 21,
-    "date": "2026-04-30",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "061121-2026",
-    "lat": 32.8838,
-    "lng": -96.7205,
-    "offense": "crim mischief > or equal $2,500 < $30k",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-04-29",
-    "neighborhood": "Lake Highlands North"
-  },
-  {
-    "id": "061822-2026",
-    "lat": 32.8945,
-    "lng": -96.7058,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "061171-2026",
-    "lat": 32.8614,
-    "lng": -96.7185,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "060925-2026",
-    "lat": 32.8945,
-    "lng": -96.7145,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "061783-2026",
-    "lat": 32.8684,
-    "lng": -96.6807,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "061874-2026",
-    "lat": 32.8704,
-    "lng": -96.6832,
-    "offense": "theft from building> or equal $100<$750 (not shoplift)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 7,
-    "date": "2026-05-01",
-    "neighborhood": null
-  },
-  {
-    "id": "061306-2026",
-    "lat": 32.8631,
-    "lng": -96.7157,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 10,
-    "date": "2026-04-29",
-    "neighborhood": "Lake Ridge Estates"
-  },
-  {
-    "id": "062058-2026",
-    "lat": 32.8742,
-    "lng": -96.687,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-05-01",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "062076-2026",
-    "lat": 32.874,
-    "lng": -96.6841,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-05-01",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "062076-2026",
-    "lat": 32.874,
-    "lng": -96.6841,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-05-01",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "062080-2026",
-    "lat": 32.8779,
-    "lng": -96.69,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2026-04-30",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "062080-2026",
-    "lat": 32.8779,
-    "lng": -96.69,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 16,
-    "date": "2026-04-30",
-    "neighborhood": "Highland Meadows"
-  },
-  {
-    "id": "062103-2026",
-    "lat": 32.8699,
-    "lng": -96.6791,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-04-30",
-    "neighborhood": null
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "id": "059218-2026",
-    "lat": 32.7638,
-    "lng": -96.7011,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 4,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
     "id": "059221-2026",
     "lat": 32.7638,
     "lng": -96.7011,
@@ -20,61 +9,6 @@
     "hour": 23,
     "date": "2026-04-25",
     "neighborhood": null
-  },
-  {
-    "id": "059322-2026",
-    "lat": 32.7912,
-    "lng": -96.7033,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 12,
-    "date": "2026-04-26",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "060323-2026",
-    "lat": 32.7705,
-    "lng": -96.6589,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 8,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060350-2026",
-    "lat": 32.7505,
-    "lng": -96.6563,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 4,
-    "date": "2026-04-28",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060901-2026",
-    "lat": 32.7757,
-    "lng": -96.6859,
-    "offense": "crim mischief >or equal $750 < $2,500",
-    "group": "other",
-    "premise": "industrial/manufacturing",
-    "hour": 8,
-    "date": "2026-01-20",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "060677-2026",
-    "lat": 32.7627,
-    "lng": -96.6577,
-    "offense": "alarm incident report (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 16,
-    "date": "2026-04-28",
-    "neighborhood": "Pleasant Mound"
   },
   {
     "id": "060312-2026",
@@ -88,146 +22,25 @@
     "neighborhood": "Urbandale"
   },
   {
-    "id": "060218-2026",
-    "lat": 32.7763,
-    "lng": -96.7,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "id": "060901-2026",
+    "lat": 32.7757,
+    "lng": -96.6859,
+    "offense": "crim mischief >or equal $750 < $2,500",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-04-28",
+    "premise": "industrial/manufacturing",
+    "hour": 8,
+    "date": "2026-01-20",
     "neighborhood": "Urbandale"
   },
   {
-    "id": "060338-2026",
-    "lat": 32.7922,
-    "lng": -96.6982,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "commercial property occupied/vacant",
-    "hour": 9,
-    "date": "2026-04-28",
-    "neighborhood": "Buckner Terrace"
-  },
-  {
-    "id": "060404-2026",
-    "lat": 32.7651,
-    "lng": -96.6931,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 23,
-    "date": "2026-04-27",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "060417-2026",
-    "lat": 32.753,
-    "lng": -96.6565,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060541-2026",
-    "lat": 32.7632,
-    "lng": -96.6577,
-    "offense": "theft - preliminary investigation",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 13,
-    "date": "2026-04-28",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060664-2026",
-    "lat": 32.7689,
-    "lng": -96.7131,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-04-27",
-    "neighborhood": "Parkdale"
-  },
-  {
-    "id": "061063-2026",
-    "lat": 32.7819,
-    "lng": -96.7198,
-    "offense": "assault (agg) - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "061204-2026",
-    "lat": 32.7523,
-    "lng": -96.6762,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-04-30",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060715-2026",
-    "lat": 32.7591,
-    "lng": -96.6506,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 2,
-    "date": "2026-04-29",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060575-2026",
-    "lat": 32.753,
-    "lng": -96.6565,
-    "offense": "deadly conduct-preliminary investigation",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-27",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "060690-2026",
-    "lat": 32.7727,
-    "lng": -96.6982,
-    "offense": "alarm incident report (no offense)",
-    "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 23,
-    "date": "2026-04-28",
-    "neighborhood": "Urbandale"
-  },
-  {
-    "id": "061203-2026",
-    "lat": 32.7523,
-    "lng": -96.6762,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 3,
-    "date": "2026-04-30",
-    "neighborhood": "Pleasant Mound"
-  },
-  {
-    "id": "062361-2026",
+    "id": "060350-2026",
     "lat": 32.7505,
     "lng": -96.6563,
     "offense": "bmv",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-05-01",
+    "hour": 4,
+    "date": "2026-04-28",
     "neighborhood": "Pleasant Mound"
   }
 ]

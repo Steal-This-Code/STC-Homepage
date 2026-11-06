@@ -1,25 +1,14 @@
 [
   {
-    "id": "060154-2026",
-    "lat": 32.9006,
-    "lng": -96.8998,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "other",
+    "id": "060514-2026",
+    "lat": 32.8905,
+    "lng": -96.8649,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
     "hour": 21,
     "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060223-2026",
-    "lat": 32.904,
-    "lng": -96.8753,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-04-28",
-    "neighborhood": null
+    "neighborhood": "Sparkman Club Estates"
   },
   {
     "id": "059702-2026",
@@ -33,39 +22,6 @@
     "neighborhood": null
   },
   {
-    "id": "060514-2026",
-    "lat": 32.8905,
-    "lng": -96.8649,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": "Sparkman Club Estates"
-  },
-  {
-    "id": "060555-2026",
-    "lat": 32.9072,
-    "lng": -96.8784,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060818-2026",
-    "lat": 32.8992,
-    "lng": -96.8478,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 22,
-    "date": "2026-04-28",
-    "neighborhood": "Northaven Park"
-  },
-  {
     "id": "060791-2026",
     "lat": 32.8989,
     "lng": -96.8482,
@@ -75,170 +31,5 @@
     "hour": 23,
     "date": "2026-04-28",
     "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "060223-2026",
-    "lat": 32.904,
-    "lng": -96.8753,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060223-2026",
-    "lat": 32.904,
-    "lng": -96.8753,
-    "offense": "assault (agg) -deadly weapon",
-    "group": "violent",
-    "premise": "single family residence - occupied",
-    "hour": 1,
-    "date": "2026-04-28",
-    "neighborhood": null
-  },
-  {
-    "id": "060162-2026",
-    "lat": 32.8805,
-    "lng": -96.8384,
-    "offense": "poss marijuana <2oz",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060514-2026",
-    "lat": 32.8905,
-    "lng": -96.8649,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": "Sparkman Club Estates"
-  },
-  {
-    "id": "060742-2026",
-    "lat": 32.8813,
-    "lng": -96.8904,
-    "offense": "solicitations to occupants of vehicles on public roadways",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 6,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "061405-2026",
-    "lat": 32.9089,
-    "lng": -96.858,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 13,
-    "date": "2026-04-30",
-    "neighborhood": "Park Forest"
-  },
-  {
-    "id": "061078-2026",
-    "lat": 32.895,
-    "lng": -96.8951,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 20,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "060814-2026",
-    "lat": 32.8856,
-    "lng": -96.8961,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-04-23",
-    "neighborhood": null
-  },
-  {
-    "id": "060818-2026",
-    "lat": 32.8992,
-    "lng": -96.8478,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 22,
-    "date": "2026-04-28",
-    "neighborhood": "Northaven Park"
-  },
-  {
-    "id": "061290-2026",
-    "lat": 32.8966,
-    "lng": -96.8962,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 9,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "061316-2026",
-    "lat": 32.8923,
-    "lng": -96.891,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-04-30",
-    "neighborhood": null
-  },
-  {
-    "id": "062024-2026",
-    "lat": 32.8808,
-    "lng": -96.8798,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-05-01",
-    "neighborhood": "Bachman"
-  },
-  {
-    "id": "061481-2026",
-    "lat": 32.906,
-    "lng": -96.8571,
-    "offense": "theft - wire fraud $2500 <$30k",
-    "group": "property",
-    "premise": "cyberspace",
-    "hour": 8,
-    "date": "2026-04-30",
-    "neighborhood": "Park Forest"
-  },
-  {
-    "id": "061448-2026",
-    "lat": 32.9007,
-    "lng": -96.9049,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-04-09",
-    "neighborhood": null
-  },
-  {
-    "id": "061661-2026",
-    "lat": 32.9075,
-    "lng": -96.8868,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 14,
-    "date": "2026-04-30",
-    "neighborhood": null
   }
 ]
