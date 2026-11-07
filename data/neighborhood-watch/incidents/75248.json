@@ -1,46 +1,46 @@
 [
   {
-    "id": "001376-2026",
-    "lat": 32.9624,
-    "lng": -96.7902,
-    "offense": "diversion public intox",
+    "id": "080938-2026",
+    "lat": 32.9827,
+    "lng": -96.7695,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "parking (business)",
+    "premise": "grocery/supermarket",
+    "hour": 14,
+    "date": "2026-06-05",
+    "neighborhood": null
+  },
+  {
+    "id": "053701-2026",
+    "lat": 32.9639,
+    "lng": -96.7706,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "grocery/supermarket",
     "hour": 20,
-    "date": "2026-01-03",
-    "neighborhood": null
+    "date": "2026-04-15",
+    "neighborhood": "Estates West"
   },
   {
-    "id": "059446-2026",
-    "lat": 32.9596,
-    "lng": -96.7823,
-    "offense": "natural death (no offense)",
+    "id": "054225-2026",
+    "lat": 32.9577,
+    "lng": -96.8211,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
-    "id": "060513-2026",
-    "lat": 32.9621,
-    "lng": -96.7879,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060134-2026",
-    "lat": 32.9549,
-    "lng": -96.7891,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
+    "premise": "highway, street, alley etc",
     "hour": 21,
-    "date": "2026-04-27",
-    "neighborhood": "Prestonwood Estates West"
+    "date": "2026-04-16",
+    "neighborhood": null
+  },
+  {
+    "id": "054866-2026",
+    "lat": 32.9685,
+    "lng": -96.8165,
+    "offense": "burglary of habitation -no forced entry",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 10,
+    "date": "2026-04-17",
+    "neighborhood": "Chalfont Place"
   }
 ]

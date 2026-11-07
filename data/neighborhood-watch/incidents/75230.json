@@ -1,13 +1,123 @@
 [
   {
-    "id": "060195-2026",
-    "lat": 32.9041,
-    "lng": -96.7752,
+    "id": "053418-2026",
+    "lat": 32.9002,
+    "lng": -96.773,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "community/ recreation center",
+    "hour": 10,
+    "date": "2026-04-15",
+    "neighborhood": null
+  },
+  {
+    "id": "081381-2026",
+    "lat": 32.913,
+    "lng": -96.7828,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 4,
+    "date": "2026-06-06",
+    "neighborhood": "Lake Forest"
+  },
+  {
+    "id": "081022-2026",
+    "lat": 32.8919,
+    "lng": -96.776,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-05",
+    "neighborhood": "Pagewood"
+  },
+  {
+    "id": "053788-2026",
+    "lat": 32.8878,
+    "lng": -96.7753,
+    "offense": "suspicious person mir (miscellaneous incident report no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 3,
+    "date": "2026-04-16",
+    "neighborhood": null
+  },
+  {
+    "id": "055097-2026",
+    "lat": 32.8831,
+    "lng": -96.7707,
     "offense": "bmv",
     "group": "other",
-    "premise": "construction site",
-    "hour": 2,
-    "date": "2026-04-27",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "055176-2026",
+    "lat": 32.9132,
+    "lng": -96.7722,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 15,
+    "date": "2026-04-18",
+    "neighborhood": null
+  },
+  {
+    "id": "054846-2026",
+    "lat": 32.8958,
+    "lng": -96.8084,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "054737-2026",
+    "lat": 32.9117,
+    "lng": -96.7745,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "medical facility",
+    "hour": 11,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "082612-2026",
+    "lat": 32.9116,
+    "lng": -96.7929,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 10,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "055363-2026",
+    "lat": 32.9008,
+    "lng": -96.7782,
+    "offense": "poss/use law enforcement id/veh in a municipal (lgc 341.904( b))",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-04-18",
     "neighborhood": "Hillcrest Forest"
+  },
+  {
+    "id": "083171-2026",
+    "lat": 32.8903,
+    "lng": -96.7706,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 17,
+    "date": "2026-06-08",
+    "neighborhood": null
   }
 ]

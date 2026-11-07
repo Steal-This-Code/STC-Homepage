@@ -1,13 +1,24 @@
 [
   {
-    "id": "097454-2026",
+    "id": "082825-2026",
     "lat": 32.9124,
     "lng": -96.5139,
-    "offense": "lost property (no offense)",
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "lake/waterway/beach",
-    "hour": 21,
-    "date": "2026-07-04",
+    "hour": 0,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "082594-2026",
+    "lat": 32.9124,
+    "lng": -96.5139,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "lake/waterway/beach",
+    "hour": 22,
+    "date": "2026-06-07",
     "neighborhood": null
   }
 ]

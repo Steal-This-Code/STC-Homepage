@@ -1,13 +1,101 @@
 [
   {
-    "id": "060503-2026",
-    "lat": 32.8469,
-    "lng": -96.835,
+    "id": "081846-2026",
+    "lat": 32.8499,
+    "lng": -96.8194,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 11,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "054535-2026",
+    "lat": 32.8306,
+    "lng": -96.8286,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-04-16",
+    "neighborhood": null
+  },
+  {
+    "id": "054711-2026",
+    "lat": 32.8487,
+    "lng": -96.8387,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": "Elm Thicket or North Park"
+  },
+  {
+    "id": "054721-2026",
+    "lat": 32.851,
+    "lng": -96.8414,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": "Shorecrest Estates"
+  },
+  {
+    "id": "054721-2026",
+    "lat": 32.851,
+    "lng": -96.8414,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": "Shorecrest Estates"
+  },
+  {
+    "id": "082556-2026",
+    "lat": 32.8516,
+    "lng": -96.8259,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 12,
+    "date": "2026-06-06",
+    "neighborhood": "Bluffview"
+  },
+  {
+    "id": "082603-2026",
+    "lat": 32.8306,
+    "lng": -96.8216,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 19,
+    "date": "2026-06-06",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "083086-2026",
+    "lat": 32.8275,
+    "lng": -96.8238,
     "offense": "burglary of building - forced entry",
     "group": "property",
     "premise": "storage facility",
     "hour": 12,
-    "date": "2026-03-01",
-    "neighborhood": "Elm Thicket or North Park"
+    "date": "2026-06-06",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "083210-2026",
+    "lat": 32.8232,
+    "lng": -96.8194,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "auto dealership new/used",
+    "hour": 2,
+    "date": "2026-05-12",
+    "neighborhood": "Oak Lawn"
   }
 ]

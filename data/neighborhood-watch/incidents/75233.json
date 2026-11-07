@@ -1,24 +1,101 @@
 [
   {
-    "id": "060391-2026",
-    "lat": 32.6959,
-    "lng": -96.89,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "080744-2026",
+    "lat": 32.6912,
+    "lng": -96.8723,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-22",
+    "hour": 3,
+    "date": "2026-06-05",
     "neighborhood": null
   },
   {
-    "id": "060391-2026",
-    "lat": 32.6959,
-    "lng": -96.89,
+    "id": "053812-2026",
+    "lat": 32.7066,
+    "lng": -96.8875,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 5,
+    "date": "2026-04-16",
+    "neighborhood": "Kiest Valley Estates"
+  },
+  {
+    "id": "081712-2026",
+    "lat": 32.7002,
+    "lng": -96.8894,
+    "offense": "man del cont sub pen grp 1 <1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "081712-2026",
+    "lat": 32.7002,
+    "lng": -96.8894,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "081808-2026",
+    "lat": 32.6911,
+    "lng": -96.8576,
+    "offense": "vio bond/protective order",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "054369-2026",
+    "lat": 32.7169,
+    "lng": -96.8735,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 23,
+    "date": "2026-04-16",
+    "neighborhood": null
+  },
+  {
+    "id": "082283-2026",
+    "lat": 32.6987,
+    "lng": -96.8823,
+    "offense": "harassment - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "082283-2026",
+    "lat": 32.6987,
+    "lng": -96.8823,
+    "offense": "harassment - threat",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 13,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "082179-2026",
+    "lat": 32.7155,
+    "lng": -96.8729,
     "offense": "motor vehicle theft",
     "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-22",
+    "hour": 19,
+    "date": "2026-06-05",
     "neighborhood": null
   }
 ]

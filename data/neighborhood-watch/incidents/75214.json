@@ -1,24 +1,156 @@
 [
   {
-    "id": "805978-2026",
-    "lat": 32.8318,
-    "lng": -96.7597,
+    "id": "053576-2026",
+    "lat": 32.835,
+    "lng": -96.7456,
+    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
+    "group": "property",
+    "premise": "construction site",
+    "hour": 17,
+    "date": "2026-04-14",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "081408-2026",
+    "lat": 32.8549,
+    "lng": -96.7318,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "business office",
+    "hour": 2,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "080752-2026",
+    "lat": 32.8201,
+    "lng": -96.7581,
     "offense": "bmv",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-03-17",
-    "neighborhood": "Wilshire Heights"
+    "hour": 22,
+    "date": "2026-06-04",
+    "neighborhood": "Lakewood Heights"
   },
   {
-    "id": "059576-2026",
-    "lat": 32.8079,
-    "lng": -96.7472,
+    "id": "053837-2026",
+    "lat": 32.7955,
+    "lng": -96.7628,
     "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-04-23",
-    "neighborhood": "Abrams-Brookside"
+    "premise": "industrial/manufacturing",
+    "hour": 22,
+    "date": "2026-04-15",
+    "neighborhood": null
+  },
+  {
+    "id": "081516-2026",
+    "lat": 32.8017,
+    "lng": -96.7675,
+    "offense": "collision inv injury",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "081700-2026",
+    "lat": 32.7966,
+    "lng": -96.7613,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 18,
+    "date": "2026-06-06",
+    "neighborhood": null
+  },
+  {
+    "id": "054311-2026",
+    "lat": 32.8507,
+    "lng": -96.7316,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "081991-2026",
+    "lat": 32.7993,
+    "lng": -96.7584,
+    "offense": "uumv - unauth use motor vehicle (poss/operate)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "054359-2026",
+    "lat": 32.8131,
+    "lng": -96.7303,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-04-16",
+    "neighborhood": "Lakewood"
+  },
+  {
+    "id": "054684-2026",
+    "lat": 32.8001,
+    "lng": -96.7575,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "054685-2026",
+    "lat": 32.7943,
+    "lng": -96.7625,
+    "offense": "fraud use/poss identifying info # items 5<10",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "054685-2026",
+    "lat": 32.7943,
+    "lng": -96.7625,
+    "offense": "poss cont sub pen grp 1 <1g dfz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "054685-2026",
+    "lat": 32.7943,
+    "lng": -96.7625,
+    "offense": "poss/use law enforcement id/veh in a municipal (lgc 341.904( b))",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "082901-2026",
+    "lat": 32.7997,
+    "lng": -96.7591,
+    "offense": "assault -verbal threat",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 21,
+    "date": "2026-06-08",
+    "neighborhood": null
   }
 ]

@@ -1,13 +1,79 @@
 [
   {
-    "id": "061062-2026",
+    "id": "053575-2026",
+    "lat": 32.6906,
+    "lng": -96.9091,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-04-15",
+    "neighborhood": null
+  },
+  {
+    "id": "082914-2026",
     "lat": 32.6868,
-    "lng": -96.9156,
-    "offense": "recovered out of town stolen vehicle (no offense)",
+    "lng": -96.9087,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 21,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "055269-2026",
+    "lat": 32.7056,
+    "lng": -96.9064,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-04-29",
+    "hour": 15,
+    "date": "2026-04-18",
     "neighborhood": null
+  },
+  {
+    "id": "055058-2026",
+    "lat": 32.6619,
+    "lng": -96.9664,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 20,
+    "date": "2026-04-17",
+    "neighborhood": null
+  },
+  {
+    "id": "083264-2026",
+    "lat": 32.667,
+    "lng": -96.9565,
+    "offense": "attack by dangerous dog",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 19,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "055563-2026",
+    "lat": 32.7057,
+    "lng": -96.8973,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 2,
+    "date": "2026-04-19",
+    "neighborhood": null
+  },
+  {
+    "id": "083054-2026",
+    "lat": 32.6953,
+    "lng": -96.9014,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 19,
+    "date": "2026-06-08",
+    "neighborhood": "Country Creek"
   }
 ]
