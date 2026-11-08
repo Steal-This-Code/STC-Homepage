@@ -1,35 +1,90 @@
 [
   {
-    "id": "053493-2026",
-    "lat": 32.6647,
-    "lng": -96.9505,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-04-15",
-    "neighborhood": null
+    "id": "058607-2026",
+    "lat": 32.6451,
+    "lng": -96.9702,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 14,
+    "date": "2026-04-24",
+    "neighborhood": "Wind Ridge Estates"
   },
   {
-    "id": "053493-2026",
-    "lat": 32.6647,
-    "lng": -96.9505,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-04-15",
-    "neighborhood": null
-  },
-  {
-    "id": "054860-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
+    "id": "058902-2026",
+    "lat": 32.6468,
+    "lng": -96.9468,
     "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "retail store",
-    "hour": 21,
-    "date": "2026-04-17",
+    "premise": "single family residence - occupied",
+    "hour": 17,
+    "date": "2026-04-25",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "058716-2026",
+    "lat": 32.6306,
+    "lng": -96.9506,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-04-25",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "059352-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "059378-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 1,
+    "date": "2026-04-26",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "059352-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "059352-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 14,
+    "date": "2026-03-22",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "059378-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "crim mischief $30k<$150k",
+    "group": "other",
+    "premise": "storage facility",
+    "hour": 1,
+    "date": "2026-04-26",
     "neighborhood": "Summit Parc"
   }
 ]

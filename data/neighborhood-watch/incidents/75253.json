@@ -1,123 +1,35 @@
 [
   {
-    "id": "081407-2026",
-    "lat": 32.6841,
-    "lng": -96.5747,
-    "offense": "recovered out of town stolen property (no offense)",
+    "id": "058569-2026",
+    "lat": 32.6899,
+    "lng": -96.5854,
+    "offense": "illegal dumping >1000 lbs or > 200 cft hsc 365.012(g)(1)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-04-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "058268-2026",
+    "lat": 32.6982,
+    "lng": -96.5831,
+    "offense": "accidental death (no offense)",
+    "group": "other",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-04-24",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "059715-2026",
+    "lat": 32.6823,
+    "lng": -96.6057,
+    "offense": "missing person (no offense)",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 3,
-    "date": "2026-06-06",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "053276-2026",
-    "lat": 32.6934,
-    "lng": -96.5811,
-    "offense": "assault -verbal threat",
-    "group": "violent",
-    "premise": "business office",
     "hour": 16,
-    "date": "2026-04-14",
+    "date": "2026-04-25",
     "neighborhood": "Kleberg"
-  },
-  {
-    "id": "053352-2026",
-    "lat": 32.6685,
-    "lng": -96.6116,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 4,
-    "date": "2026-04-15",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "053435-2026",
-    "lat": 32.6766,
-    "lng": -96.5919,
-    "offense": "recovered out of town stolen vehicle (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-04-15",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "081577-2026",
-    "lat": 32.6758,
-    "lng": -96.6411,
-    "offense": "illegal dumping >5 lbs < 500 lbs or >5 gal <100 cft hsc 365.012(e)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-06-06",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "082245-2026",
-    "lat": 32.6963,
-    "lng": -96.5785,
-    "offense": "collision inv damage to vehicle <$200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-06-07",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "081871-2026",
-    "lat": 32.6753,
-    "lng": -96.6026,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2026-06-06",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "081871-2026",
-    "lat": 32.6753,
-    "lng": -96.6026,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "gas or service station",
-    "hour": 21,
-    "date": "2026-06-06",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "082913-2026",
-    "lat": 32.663,
-    "lng": -96.6673,
-    "offense": "cruelty to non-livestock anmls fail prov/abdn/trnspt/bi/ovwk",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "082466-2026",
-    "lat": 32.6881,
-    "lng": -96.5885,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "specialty store (in a specific item)",
-    "hour": 4,
-    "date": "2026-06-08",
-    "neighborhood": "Kleberg"
-  },
-  {
-    "id": "083135-2026",
-    "lat": 32.6896,
-    "lng": -96.6375,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 10,
-    "date": "2026-06-09",
-    "neighborhood": "Rylie"
   }
 ]

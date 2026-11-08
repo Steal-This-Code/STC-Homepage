@@ -1,57 +1,57 @@
 [
   {
-    "id": "053737-2026",
-    "lat": 32.9239,
-    "lng": -96.8387,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 0,
-    "date": "2026-04-16",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "080956-2026",
-    "lat": 32.9224,
-    "lng": -96.8405,
-    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-06-05",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "053953-2026",
-    "lat": 32.9236,
-    "lng": -96.8393,
-    "offense": "injured person- public property (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "retail store",
-    "hour": 16,
-    "date": "2026-03-11",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "054781-2026",
-    "lat": 32.9242,
-    "lng": -96.8395,
-    "offense": "injured person- public property (other than firearm) (no offense)",
+    "id": "058730-2026",
+    "lat": 32.9248,
+    "lng": -96.8377,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-04-17",
+    "hour": 8,
+    "date": "2026-04-25",
     "neighborhood": null
   },
   {
-    "id": "082520-2026",
-    "lat": 32.9212,
-    "lng": -96.8387,
-    "offense": "deadly conduct",
+    "id": "059811-2026",
+    "lat": 32.9196,
+    "lng": -96.8185,
+    "offense": "criminal trespass",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-06-08",
+    "premise": "school - elementary/secondary",
+    "hour": 8,
+    "date": "2026-04-27",
+    "neighborhood": null
+  },
+  {
+    "id": "059811-2026",
+    "lat": 32.9196,
+    "lng": -96.8185,
+    "offense": "fail to id -giving false/fictitious info pc 38.02(c)(2)",
+    "group": "other",
+    "premise": "school - elementary/secondary",
+    "hour": 8,
+    "date": "2026-04-27",
+    "neighborhood": null
+  },
+  {
+    "id": "059812-2026",
+    "lat": 32.9196,
+    "lng": -96.8185,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "school - elementary/secondary",
+    "hour": 8,
+    "date": "2026-04-27",
+    "neighborhood": null
+  },
+  {
+    "id": "060745-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 17,
+    "date": "2026-04-28",
     "neighborhood": "Glen Meadow Estates"
   }
 ]

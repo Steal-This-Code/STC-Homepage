@@ -1,18 +1,23 @@
 [
   {
     "month": "2025-11-01",
-    "crime_group": "property",
+    "crime_group": "other",
     "incidents": 2
   },
   {
     "month": "2025-12-01",
-    "crime_group": "property",
-    "incidents": 1
+    "crime_group": "other",
+    "incidents": 3
   },
   {
     "month": "2026-01-01",
     "crime_group": "other",
-    "incidents": 1
+    "incidents": 2
+  },
+  {
+    "month": "2026-01-01",
+    "crime_group": "property",
+    "incidents": 3
   },
   {
     "month": "2026-02-01",
@@ -22,12 +27,12 @@
   {
     "month": "2026-02-01",
     "crime_group": "property",
-    "incidents": 4
+    "incidents": 6
   },
   {
     "month": "2026-03-01",
     "crime_group": "other",
-    "incidents": 1
+    "incidents": 3
   },
   {
     "month": "2026-03-01",
@@ -35,43 +40,53 @@
     "incidents": 9
   },
   {
+    "month": "2026-03-01",
+    "crime_group": "violent",
+    "incidents": 2
+  },
+  {
     "month": "2026-04-01",
     "crime_group": "other",
-    "incidents": 349
+    "incidents": 695
   },
   {
     "month": "2026-04-01",
     "crime_group": "property",
-    "incidents": 168
+    "incidents": 304
   },
   {
     "month": "2026-04-01",
     "crime_group": "violent",
-    "incidents": 54
+    "incidents": 113
   },
   {
     "month": "2026-05-01",
     "crime_group": "other",
-    "incidents": 8
-  },
-  {
-    "month": "2026-05-01",
-    "crime_group": "property",
-    "incidents": 13
+    "incidents": 4
   },
   {
     "month": "2026-06-01",
     "crime_group": "other",
-    "incidents": 386
+    "incidents": 2
   },
   {
-    "month": "2026-06-01",
+    "month": "2026-07-01",
+    "crime_group": "other",
+    "incidents": 2
+  },
+  {
+    "month": "2026-08-01",
+    "crime_group": "other",
+    "incidents": 1
+  },
+  {
+    "month": "2026-10-01",
+    "crime_group": "other",
+    "incidents": 1
+  },
+  {
+    "month": "2026-11-01",
     "crime_group": "property",
-    "incidents": 205
-  },
-  {
-    "month": "2026-06-01",
-    "crime_group": "violent",
-    "incidents": 75
+    "incidents": 1
   }
 ]
