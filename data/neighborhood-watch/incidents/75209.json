@@ -1,68 +1,24 @@
 [
   {
-    "id": "059343-2026",
-    "lat": 32.8366,
-    "lng": -96.816,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-04-26",
-    "neighborhood": null
-  },
-  {
-    "id": "058402-2026",
-    "lat": 32.8328,
-    "lng": -96.823,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 12,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "058822-2026",
-    "lat": 32.84,
-    "lng": -96.8295,
-    "offense": "burglary of building - no forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 13,
-    "date": "2026-04-25",
-    "neighborhood": "Elm Thicket or North Park"
-  },
-  {
-    "id": "058273-2026",
-    "lat": 32.8588,
-    "lng": -96.8468,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-04-24",
-    "neighborhood": "Shorecrest Estates"
-  },
-  {
-    "id": "060098-2026",
-    "lat": 32.8288,
-    "lng": -96.826,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "drug store/doctors office/hospital",
-    "hour": 14,
-    "date": "2026-04-27",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "060074-2026",
-    "lat": 32.8252,
-    "lng": -96.8206,
+    "id": "050508-2026",
+    "lat": 32.8299,
+    "lng": -96.8271,
     "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "medical facility",
+    "premise": "other",
     "hour": 20,
-    "date": "2026-04-27",
-    "neighborhood": "Oak Lawn"
+    "date": "2026-04-09",
+    "neighborhood": null
+  },
+  {
+    "id": "165554-2025",
+    "lat": 32.8318,
+    "lng": -96.8291,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "auto dealership new/used",
+    "hour": 14,
+    "date": "2025-11-17",
+    "neighborhood": null
   }
 ]

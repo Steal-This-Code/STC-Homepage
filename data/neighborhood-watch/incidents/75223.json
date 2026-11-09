@@ -1,112 +1,13 @@
 [
   {
-    "id": "058545-2026",
-    "lat": 32.7985,
-    "lng": -96.7512,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 22,
-    "date": "2026-04-24",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "058970-2026",
+    "id": "163359-2025",
     "lat": 32.7873,
-    "lng": -96.7615,
-    "offense": "suspicious person mir (miscellaneous incident report no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-04-25",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "058996-2026",
-    "lat": 32.7958,
-    "lng": -96.7498,
-    "offense": "harassment-repeated electronic comm - threat",
+    "lng": -96.7394,
+    "offense": "man del cont sub pen grp 1 <1g",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-04-25",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "058401-2026",
-    "lat": 32.7944,
-    "lng": -96.7584,
-    "offense": "possession of drug paraphernalia",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-04-24",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "058702-2026",
-    "lat": 32.7849,
-    "lng": -96.7613,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-04-25",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "060041-2026",
-    "lat": 32.7958,
-    "lng": -96.7498,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-04-25",
-    "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "059437-2026",
-    "lat": 32.7865,
-    "lng": -96.7447,
-    "offense": "theft from person",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-04-26",
+    "hour": 16,
+    "date": "2025-11-18",
     "neighborhood": "Owenwood"
-  },
-  {
-    "id": "059900-2026",
-    "lat": 32.7862,
-    "lng": -96.7678,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-04-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060151-2026",
-    "lat": 32.7822,
-    "lng": -96.7505,
-    "offense": "burglary of habitation - forced entry",
-    "group": "property",
-    "premise": "single family residence - vacant",
-    "hour": 10,
-    "date": "2026-03-27",
-    "neighborhood": null
-  },
-  {
-    "id": "060367-2026",
-    "lat": 32.781,
-    "lng": -96.7344,
-    "offense": "arson -motor veh",
-    "group": "property",
-    "premise": "field/woods",
-    "hour": 6,
-    "date": "2026-04-27",
-    "neighborhood": "Dolphin Heights"
   }
 ]
