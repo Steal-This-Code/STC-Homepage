@@ -1,13 +1,134 @@
 [
   {
-    "id": "049745-2026",
-    "lat": 32.9541,
-    "lng": -96.8085,
-    "offense": "poss marijuana <2oz",
+    "id": "038315-2026",
+    "lat": 32.9435,
+    "lng": -96.8047,
+    "offense": "accidental death (no offense)",
     "group": "other",
     "premise": "apartment residence",
+    "hour": 15,
+    "date": "2026-03-18",
+    "neighborhood": null
+  },
+  {
+    "id": "038197-2026",
+    "lat": 32.9426,
+    "lng": -96.8129,
+    "offense": "theft - wire fraud $2500 <$30k",
+    "group": "property",
+    "premise": "cyberspace",
+    "hour": 10,
+    "date": "2026-03-16",
+    "neighborhood": null
+  },
+  {
+    "id": "037746-2026",
+    "lat": 32.9421,
+    "lng": -96.7719,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-03-16",
+    "neighborhood": "Northwood Hills"
+  },
+  {
+    "id": "038413-2026",
+    "lat": 32.9434,
+    "lng": -96.8136,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
+    "group": "property",
+    "premise": "retail store",
+    "hour": 19,
+    "date": "2026-03-18",
+    "neighborhood": null
+  },
+  {
+    "id": "038887-2026",
+    "lat": 32.9539,
+    "lng": -96.8053,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 16,
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "037990-2026",
+    "lat": 32.9436,
+    "lng": -96.8134,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 16,
+    "date": "2026-03-17",
+    "neighborhood": null
+  },
+  {
+    "id": "038911-2026",
+    "lat": 32.9487,
+    "lng": -96.8019,
+    "offense": "shoplift contact $100 <$750",
+    "group": "other",
+    "premise": "retail store",
     "hour": 17,
-    "date": "2026-04-07",
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "039210-2026",
+    "lat": 32.9379,
+    "lng": -96.812,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 0,
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "039204-2026",
+    "lat": 32.9379,
+    "lng": -96.812,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "039345-2026",
+    "lat": 32.9398,
+    "lng": -96.8144,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 15,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "038911-2026",
+    "lat": 32.9487,
+    "lng": -96.8019,
+    "offense": "shoplift contact $100 <$750",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 17,
+    "date": "2026-03-19",
+    "neighborhood": null
+  },
+  {
+    "id": "039854-2026",
+    "lat": 32.9438,
+    "lng": -96.8036,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 10,
+    "date": "2026-03-21",
     "neighborhood": null
   }
 ]

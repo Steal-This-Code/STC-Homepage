@@ -1,35 +1,79 @@
 [
   {
-    "id": "058569-2026",
-    "lat": 32.6899,
-    "lng": -96.5854,
-    "offense": "illegal dumping >1000 lbs or > 200 cft hsc 365.012(g)(1)",
+    "id": "038175-2026",
+    "lat": 32.7004,
+    "lng": -96.5978,
+    "offense": "natural death (no offense)",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-04-24",
-    "neighborhood": "Kleberg"
+    "premise": "single family residence - occupied",
+    "hour": 11,
+    "date": "2026-03-18",
+    "neighborhood": null
   },
   {
-    "id": "058268-2026",
-    "lat": 32.6982,
-    "lng": -96.5831,
-    "offense": "accidental death (no offense)",
+    "id": "041049-2026",
+    "lat": 32.6806,
+    "lng": -96.6126,
+    "offense": "criminal trespass affidavit",
     "group": "other",
     "premise": "other",
-    "hour": 14,
-    "date": "2026-04-24",
+    "hour": 12,
+    "date": "2026-03-23",
     "neighborhood": "Kleberg"
   },
   {
-    "id": "059715-2026",
-    "lat": 32.6823,
-    "lng": -96.6057,
+    "id": "039780-2026",
+    "lat": 32.6893,
+    "lng": -96.6389,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 16,
+    "date": "2026-03-20",
+    "neighborhood": "Rylie"
+  },
+  {
+    "id": "039350-2026",
+    "lat": 32.6837,
+    "lng": -96.6324,
+    "offense": "abandoned property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-03-20",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "039629-2026",
+    "lat": 32.6753,
+    "lng": -96.6026,
+    "offense": "robbery of individual - preliminary investigation",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 22,
+    "date": "2026-03-20",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "039416-2026",
+    "lat": 32.6963,
+    "lng": -96.5785,
     "offense": "missing person (no offense)",
     "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2026-04-25",
+    "hour": 12,
+    "date": "2026-01-11",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "039630-2026",
+    "lat": 32.6753,
+    "lng": -96.6026,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 22,
+    "date": "2026-03-20",
     "neighborhood": "Kleberg"
   }
 ]

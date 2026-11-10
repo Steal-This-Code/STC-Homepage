@@ -1,46 +1,24 @@
 [
   {
-    "id": "058920-2026",
-    "lat": 32.8314,
-    "lng": -96.782,
-    "offense": "evading arrest detention w/vehicle pc38.04(b)(2)(a)",
+    "id": "038771-2026",
+    "lat": 32.817,
+    "lng": -96.7914,
+    "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 17,
-    "date": "2026-04-25",
+    "premise": "apartment parking lot",
+    "hour": 1,
+    "date": "2026-03-19",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "060031-2026",
-    "lat": 32.821,
-    "lng": -96.7967,
-    "offense": "motor vehicle theft",
+    "id": "039195-2026",
+    "lat": 32.8253,
+    "lng": -96.7862,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
     "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-04-26",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "060031-2026",
-    "lat": 32.821,
-    "lng": -96.7967,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 18,
-    "date": "2026-04-26",
-    "neighborhood": "Oak Lawn"
-  },
-  {
-    "id": "060059-2026",
-    "lat": 32.8211,
-    "lng": -96.7961,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-04-26",
-    "neighborhood": "Oak Lawn"
+    "premise": "apartment residence",
+    "hour": 0,
+    "date": "2026-03-19",
+    "neighborhood": "Knox Park"
   }
 ]

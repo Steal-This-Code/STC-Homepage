@@ -1,57 +1,13 @@
 [
   {
-    "id": "058733-2026",
-    "lat": 32.797,
-    "lng": -96.7711,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-04-25",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "060012-2026",
-    "lat": 32.7937,
-    "lng": -96.7779,
+    "id": "038198-2026",
+    "lat": 32.794,
+    "lng": -96.7765,
     "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 22,
-    "date": "2026-04-26",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "060330-2026",
-    "lat": 32.7922,
-    "lng": -96.7687,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "convenience store",
+    "premise": "gas or service station",
     "hour": 9,
-    "date": "2026-04-27",
+    "date": "2026-03-18",
     "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "060537-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "burglary of habitation -no forced entry",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 21,
-    "date": "2026-04-24",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "059791-2026",
-    "lat": 32.7939,
-    "lng": -96.7769,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "outdoor area public/private",
-    "hour": 18,
-    "date": "2026-04-24",
-    "neighborhood": "Baylor / Meadows"
   }
 ]

@@ -1,57 +1,24 @@
 [
   {
-    "id": "058960-2026",
-    "lat": 32.9148,
-    "lng": -96.8648,
-    "offense": "dwi",
+    "id": "039832-2026",
+    "lat": 32.9112,
+    "lng": -96.8577,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 21,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "039413-2026",
+    "lat": 32.9097,
+    "lng": -96.8839,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 18,
-    "date": "2026-04-25",
-    "neighborhood": null
-  },
-  {
-    "id": "059311-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "theft of prop (auto acc) > or equal $750 <$2,500 (not emp) pc31.03 (e3)",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 12,
-    "date": "2026-04-25",
-    "neighborhood": null
-  },
-  {
-    "id": "059126-2026",
-    "lat": 32.9217,
-    "lng": -96.9069,
-    "offense": "missing person (no offense)",
-    "group": "other",
-    "premise": "construction site",
-    "hour": 18,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "059882-2026",
-    "lat": 32.911,
-    "lng": -96.8789,
-    "offense": "theft by deception (fraud) >or equal $750 <$2500",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "059882-2026",
-    "lat": 32.911,
-    "lng": -96.8789,
-    "offense": "theft of firearm",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-04-24",
+    "hour": 16,
+    "date": "2026-03-20",
     "neighborhood": null
   }
 ]

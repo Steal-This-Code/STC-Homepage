@@ -2,37 +2,62 @@
   {
     "month": "2025-11-01",
     "crime_group": "other",
-    "incidents": 4
+    "incidents": 1
+  },
+  {
+    "month": "2025-11-01",
+    "crime_group": "property",
+    "incidents": 2
   },
   {
     "month": "2025-12-01",
     "crime_group": "other",
+    "incidents": 4
+  },
+  {
+    "month": "2025-12-01",
+    "crime_group": "property",
     "incidents": 1
   },
   {
     "month": "2026-01-01",
     "crime_group": "other",
-    "incidents": 3
+    "incidents": 5
+  },
+  {
+    "month": "2026-01-01",
+    "crime_group": "property",
+    "incidents": 1
   },
   {
     "month": "2026-02-01",
     "crime_group": "other",
-    "incidents": 4
+    "incidents": 7
+  },
+  {
+    "month": "2026-02-01",
+    "crime_group": "property",
+    "incidents": 10
+  },
+  {
+    "month": "2026-02-01",
+    "crime_group": "violent",
+    "incidents": 1
   },
   {
     "month": "2026-03-01",
     "crime_group": "other",
-    "incidents": 1
+    "incidents": 700
   },
   {
-    "month": "2026-04-01",
-    "crime_group": "other",
-    "incidents": 2
-  },
-  {
-    "month": "2026-04-01",
+    "month": "2026-03-01",
     "crime_group": "property",
-    "incidents": 1
+    "incidents": 374
+  },
+  {
+    "month": "2026-03-01",
+    "crime_group": "violent",
+    "incidents": 89
   },
   {
     "month": "2026-06-01",
@@ -42,16 +67,21 @@
   {
     "month": "2026-07-01",
     "crime_group": "other",
-    "incidents": 2
+    "incidents": 1
   },
   {
     "month": "2026-08-01",
     "crime_group": "other",
-    "incidents": 3
+    "incidents": 1
   },
   {
     "month": "2026-09-01",
     "crime_group": "other",
-    "incidents": 2
+    "incidents": 3
+  },
+  {
+    "month": "2026-10-01",
+    "crime_group": "other",
+    "incidents": 3
   }
 ]

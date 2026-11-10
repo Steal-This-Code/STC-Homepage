@@ -1,57 +1,57 @@
 [
   {
-    "id": "058719-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 13,
-    "date": "2026-04-24",
-    "neighborhood": null
-  },
-  {
-    "id": "058799-2026",
-    "lat": 32.915,
-    "lng": -96.7687,
+    "id": "038196-2026",
+    "lat": 32.92,
+    "lng": -96.7669,
     "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "other",
-    "hour": 13,
-    "date": "2026-04-25",
+    "premise": "commercial property occupied/vacant",
+    "hour": 12,
+    "date": "2026-03-18",
     "neighborhood": null
   },
   {
-    "id": "058667-2026",
-    "lat": 32.9256,
-    "lng": -96.7673,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 21,
-    "date": "2026-04-03",
-    "neighborhood": null
-  },
-  {
-    "id": "061532-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-04-29",
-    "neighborhood": null
-  },
-  {
-    "id": "058406-2026",
-    "lat": 32.9185,
-    "lng": -96.7706,
+    "id": "037847-2026",
+    "lat": 32.9223,
+    "lng": -96.7716,
     "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "other",
-    "hour": 16,
-    "date": "2026-04-07",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2026-03-14",
     "neighborhood": null
+  },
+  {
+    "id": "039396-2026",
+    "lat": 32.9252,
+    "lng": -96.7708,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-03-20",
+    "neighborhood": "Valley View"
+  },
+  {
+    "id": "039153-2026",
+    "lat": 32.9226,
+    "lng": -96.7788,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "business office",
+    "hour": 6,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "039284-2026",
+    "lat": 32.925,
+    "lng": -96.77,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 12,
+    "date": "2026-03-20",
+    "neighborhood": "Valley View"
   }
 ]

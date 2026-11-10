@@ -1,13 +1,123 @@
 [
   {
-    "id": "163359-2025",
-    "lat": 32.7873,
-    "lng": -96.7394,
-    "offense": "man del cont sub pen grp 1 <1g",
+    "id": "037636-2026",
+    "lat": 32.7917,
+    "lng": -96.7596,
+    "offense": "fail to id -fugitive intent give false info",
     "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-03-17",
+    "neighborhood": null
+  },
+  {
+    "id": "037887-2026",
+    "lat": 32.7985,
+    "lng": -96.7497,
+    "offense": "theft by deception (fraud) >or equal $750 <$2500",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 16,
-    "date": "2025-11-18",
-    "neighborhood": "Owenwood"
+    "hour": 12,
+    "date": "2026-01-25",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "037725-2026",
+    "lat": 32.7986,
+    "lng": -96.7482,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 14,
+    "date": "2026-03-17",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "038068-2026",
+    "lat": 32.8019,
+    "lng": -96.7504,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "single family residence - vacant",
+    "hour": 8,
+    "date": "2026-03-18",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "037725-2026",
+    "lat": 32.7986,
+    "lng": -96.7482,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 14,
+    "date": "2026-03-17",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "039362-2026",
+    "lat": 32.7877,
+    "lng": -96.7642,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 14,
+    "date": "2026-03-20",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "039290-2026",
+    "lat": 32.7915,
+    "lng": -96.7619,
+    "offense": "assault (agg) -serious bodily injury",
+    "group": "violent",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "039700-2026",
+    "lat": 32.8009,
+    "lng": -96.7492,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 2,
+    "date": "2026-03-20",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "039383-2026",
+    "lat": 32.7901,
+    "lng": -96.7533,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-03-20",
+    "neighborhood": "Jubilee Park"
+  },
+  {
+    "id": "039256-2026",
+    "lat": 32.7912,
+    "lng": -96.7605,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "038543-2026",
+    "lat": 32.8051,
+    "lng": -96.7326,
+    "offense": "discharge firearm in certain municipalities",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-03-19",
+    "neighborhood": null
   }
 ]

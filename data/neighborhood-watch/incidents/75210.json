@@ -1,13 +1,145 @@
 [
   {
-    "id": "013368-2026",
-    "lat": 32.7806,
-    "lng": -96.7618,
-    "offense": "criminal trespass warning",
+    "id": "038039-2026",
+    "lat": 32.7708,
+    "lng": -96.7442,
+    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
+    "group": "property",
+    "premise": "outdoor area public/private",
+    "hour": 19,
+    "date": "2026-03-09",
+    "neighborhood": "Frazier"
+  },
+  {
+    "id": "038331-2026",
+    "lat": 32.7599,
+    "lng": -96.7431,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
     "group": "other",
-    "premise": "shelter - mission/homeless",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-03-18",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "038669-2026",
+    "lat": 32.7748,
+    "lng": -96.7649,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 17,
+    "date": "2026-03-19",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "038320-2026",
+    "lat": 32.7692,
+    "lng": -96.7542,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-03-18",
+    "neighborhood": "Frazier"
+  },
+  {
+    "id": "038331-2026",
+    "lat": 32.7599,
+    "lng": -96.7431,
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-03-18",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "038627-2026",
+    "lat": 32.7732,
+    "lng": -96.7479,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-03-19",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "037486-2026",
+    "lat": 32.7788,
+    "lng": -96.7438,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "highway, street, alley etc",
+    "hour": 18,
+    "date": "2026-03-14",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "038331-2026",
+    "lat": 32.7599,
+    "lng": -96.7431,
+    "offense": "poss cont sub pen grp 2-a < or equal 2 oz",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 17,
+    "date": "2026-03-18",
+    "neighborhood": "Dixon Circle / Sunny Acres"
+  },
+  {
+    "id": "038674-2026",
+    "lat": 32.7751,
+    "lng": -96.7659,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "field/woods",
+    "hour": 17,
+    "date": "2026-03-19",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "038627-2026",
+    "lat": 32.7732,
+    "lng": -96.7479,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-03-19",
+    "neighborhood": "Mill City"
+  },
+  {
+    "id": "039348-2026",
+    "lat": 32.7729,
+    "lng": -96.761,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "outdoor area public/private",
     "hour": 15,
-    "date": "2026-01-29",
+    "date": "2026-03-20",
     "neighborhood": null
+  },
+  {
+    "id": "039081-2026",
+    "lat": 32.7728,
+    "lng": -96.761,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-03-20",
+    "neighborhood": null
+  },
+  {
+    "id": "038648-2026",
+    "lat": 32.7723,
+    "lng": -96.7553,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-03-19",
+    "neighborhood": "Mill City"
   }
 ]
