@@ -1,46 +1,68 @@
 [
   {
-    "id": "037792-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "037792-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "038351-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "theft of prop <$2,500 2+conv enh (shoplift-not emp) pc31.03(f)",
+    "id": "033416-2026",
+    "lat": 32.6345,
+    "lng": -96.9457,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "retail store",
-    "hour": 12,
-    "date": "2026-03-18",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-03-06",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "034236-2026",
+    "lat": 32.6401,
+    "lng": -96.9439,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 20,
+    "date": "2026-03-10",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "034389-2026",
+    "lat": 32.6437,
+    "lng": -96.9558,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 7,
+    "date": "2026-03-11",
     "neighborhood": "Summit Parc"
   },
   {
-    "id": "038715-2026",
+    "id": "034293-2026",
+    "lat": 32.6491,
+    "lng": -96.9444,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "grocery/supermarket",
+    "hour": 21,
+    "date": "2026-03-10",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "034542-2026",
     "lat": 32.661,
     "lng": -96.9437,
     "offense": "burglary of building - forced entry",
     "group": "property",
     "premise": "storage facility",
-    "hour": 14,
-    "date": "2026-03-03",
+    "hour": 22,
+    "date": "2026-03-09",
+    "neighborhood": "Summit Parc"
+  },
+  {
+    "id": "034542-2026",
+    "lat": 32.661,
+    "lng": -96.9437,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 22,
+    "date": "2026-03-09",
     "neighborhood": "Summit Parc"
   }
 ]

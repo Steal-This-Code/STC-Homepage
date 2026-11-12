@@ -1,13 +1,35 @@
 [
   {
-    "id": "038198-2026",
-    "lat": 32.794,
-    "lng": -96.7765,
-    "offense": "bmv",
+    "id": "027886-2026",
+    "lat": 32.7935,
+    "lng": -96.7682,
+    "offense": "harassment-repeated electronic comm - threat",
     "group": "other",
-    "premise": "gas or service station",
+    "premise": "other",
+    "hour": 0,
+    "date": "2026-02-20",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "034889-2026",
+    "lat": 32.7937,
+    "lng": -96.7757,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
     "hour": 9,
-    "date": "2026-03-18",
+    "date": "2026-03-12",
+    "neighborhood": "Peak's Addition"
+  },
+  {
+    "id": "033963-2026",
+    "lat": 32.7952,
+    "lng": -96.7761,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 16,
+    "date": "2026-03-10",
     "neighborhood": "Peak's Addition"
   }
 ]

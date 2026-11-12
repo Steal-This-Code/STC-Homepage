@@ -1,46 +1,24 @@
 [
   {
-    "id": "037718-2026",
-    "lat": 32.9242,
-    "lng": -96.8395,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "038301-2026",
-    "lat": 32.9256,
-    "lng": -96.8285,
-    "offense": "injured person- public property (other than firearm) (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-18",
-    "neighborhood": null
-  },
-  {
-    "id": "037718-2026",
-    "lat": 32.9242,
-    "lng": -96.8395,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 14,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "038799-2026",
-    "lat": 32.9222,
-    "lng": -96.8452,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-03-19",
+    "id": "028188-2026",
+    "lat": 32.9164,
+    "lng": -96.8386,
+    "offense": "forgery- preliminary investigation",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-27",
     "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "029584-2026",
+    "lat": 32.9164,
+    "lng": -96.8196,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "school - elementary/secondary",
+    "hour": 15,
+    "date": "2026-02-28",
+    "neighborhood": null
   }
 ]
