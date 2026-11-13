@@ -1,13 +1,46 @@
 [
   {
-    "id": "034354-2026",
-    "lat": 32.9094,
-    "lng": -96.8922,
-    "offense": "abandoned property (no offense)",
+    "id": "119967-2026",
+    "lat": 32.91,
+    "lng": -96.8744,
+    "offense": "credit card or debit card abuse",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 15,
+    "date": "2026-08-08",
+    "neighborhood": null
+  },
+  {
+    "id": "119226-2026",
+    "lat": 32.9104,
+    "lng": -96.8875,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-08-14",
+    "neighborhood": null
+  },
+  {
+    "id": "119493-2026",
+    "lat": 32.91,
+    "lng": -96.8744,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-08-14",
+    "neighborhood": null
+  },
+  {
+    "id": "112411-2026",
+    "lat": 32.9139,
+    "lng": -96.8642,
+    "offense": "indecent exposure",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 7,
-    "date": "2026-03-11",
+    "hour": 20,
+    "date": "2026-08-01",
     "neighborhood": null
   }
 ]

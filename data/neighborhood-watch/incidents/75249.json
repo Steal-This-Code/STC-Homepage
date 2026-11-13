@@ -1,68 +1,35 @@
 [
   {
-    "id": "033416-2026",
-    "lat": 32.6345,
-    "lng": -96.9457,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 0,
-    "date": "2026-03-06",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "034236-2026",
-    "lat": 32.6401,
-    "lng": -96.9439,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-03-10",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "034389-2026",
-    "lat": 32.6437,
-    "lng": -96.9558,
-    "offense": "natural death (no offense)",
+    "id": "111584-2026",
+    "lat": 32.6287,
+    "lng": -96.9444,
+    "offense": "missing person (no offense)",
     "group": "other",
     "premise": "single family residence - occupied",
     "hour": 7,
-    "date": "2026-03-11",
-    "neighborhood": "Summit Parc"
+    "date": "2026-07-24",
+    "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "034293-2026",
-    "lat": 32.6491,
-    "lng": -96.9444,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "119074-2026",
+    "lat": 32.6298,
+    "lng": -96.951,
+    "offense": "harassment-repeated electronic comm - non-threatening",
     "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 21,
-    "date": "2026-03-10",
-    "neighborhood": "Summit Parc"
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-07-13",
+    "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "034542-2026",
-    "lat": 32.661,
-    "lng": -96.9437,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 22,
-    "date": "2026-03-09",
-    "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "034542-2026",
-    "lat": 32.661,
-    "lng": -96.9437,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "storage facility",
-    "hour": 22,
-    "date": "2026-03-09",
-    "neighborhood": "Summit Parc"
+    "id": "119074-2026",
+    "lat": 32.6298,
+    "lng": -96.951,
+    "offense": "unlawful installation of tracking device",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 8,
+    "date": "2026-07-13",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]
