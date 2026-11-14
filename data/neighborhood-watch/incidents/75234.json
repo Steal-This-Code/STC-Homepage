@@ -1,24 +1,13 @@
 [
   {
-    "id": "119967-2026",
-    "lat": 32.91,
-    "lng": -96.8744,
-    "offense": "credit card or debit card abuse",
-    "group": "other",
-    "premise": "restaurant/food service/tabc location",
-    "hour": 15,
-    "date": "2026-08-08",
-    "neighborhood": null
-  },
-  {
-    "id": "119226-2026",
-    "lat": 32.9104,
-    "lng": -96.8875,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 10,
-    "date": "2026-08-14",
+    "id": "166413-2026",
+    "lat": 32.9131,
+    "lng": -96.8946,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "storage facility",
+    "hour": 12,
+    "date": "2026-10-06",
     "neighborhood": null
   },
   {
@@ -33,14 +22,58 @@
     "neighborhood": null
   },
   {
-    "id": "112411-2026",
-    "lat": 32.9139,
-    "lng": -96.8642,
-    "offense": "indecent exposure",
+    "id": "021003-2026",
+    "lat": 32.9159,
+    "lng": -96.8608,
+    "offense": "traf vio -racing on highway",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-08-01",
+    "hour": 22,
+    "date": "2026-02-13",
+    "neighborhood": null
+  },
+  {
+    "id": "154176-2026",
+    "lat": 32.9104,
+    "lng": -96.8602,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 17,
+    "date": "2026-10-17",
+    "neighborhood": null
+  },
+  {
+    "id": "077188-2026",
+    "lat": 32.91,
+    "lng": -96.8744,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-05-29",
+    "neighborhood": null
+  },
+  {
+    "id": "166691-2026",
+    "lat": 32.9104,
+    "lng": -96.8817,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-11-12",
+    "neighborhood": null
+  },
+  {
+    "id": "142629-2026",
+    "lat": 32.9104,
+    "lng": -96.8589,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 15,
+    "date": "2026-09-25",
     "neighborhood": null
   }
 ]

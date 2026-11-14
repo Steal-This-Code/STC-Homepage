@@ -1,24 +1,13 @@
 [
   {
-    "id": "028188-2026",
-    "lat": 32.9164,
-    "lng": -96.8386,
-    "offense": "forgery- preliminary investigation",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-02-27",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "029584-2026",
-    "lat": 32.9164,
-    "lng": -96.8196,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "school - elementary/secondary",
-    "hour": 15,
-    "date": "2026-02-28",
+    "id": "131483-2026",
+    "lat": 32.9196,
+    "lng": -96.8185,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "church/synagogue/temple/mosque",
+    "hour": 11,
+    "date": "2026-09-06",
     "neighborhood": null
   }
 ]

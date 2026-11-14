@@ -1,35 +1,90 @@
 [
   {
-    "id": "111584-2026",
-    "lat": 32.6287,
-    "lng": -96.9444,
-    "offense": "missing person (no offense)",
+    "id": "179665-2025",
+    "lat": 32.6488,
+    "lng": -96.9681,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 7,
-    "date": "2026-07-24",
-    "neighborhood": "Woods-Sugarberry"
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2025-12-16",
+    "neighborhood": "Wind Ridge Estates"
   },
   {
-    "id": "119074-2026",
-    "lat": 32.6298,
-    "lng": -96.951,
-    "offense": "harassment-repeated electronic comm - non-threatening",
+    "id": "165693-2026",
+    "lat": 32.6357,
+    "lng": -96.9445,
+    "offense": "man del cont sub pen grp 1 > or equal 1g<4g",
     "group": "other",
     "premise": "single family residence - occupied",
     "hour": 8,
-    "date": "2026-07-13",
+    "date": "2026-11-10",
     "neighborhood": "Woods-Sugarberry"
   },
   {
-    "id": "119074-2026",
-    "lat": 32.6298,
-    "lng": -96.951,
-    "offense": "unlawful installation of tracking device",
+    "id": "115293-2026",
+    "lat": 32.6467,
+    "lng": -96.9435,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 12,
+    "date": "2026-08-07",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "176327-2025",
+    "lat": 32.6342,
+    "lng": -96.9534,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2025-12-09",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "025468-2026",
+    "lat": 32.639,
+    "lng": -96.9502,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-21",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "165693-2026",
+    "lat": 32.6357,
+    "lng": -96.9445,
+    "offense": "man del cont sub pen grp 1 > or equal 4g<200g",
     "group": "other",
     "premise": "single family residence - occupied",
     "hour": 8,
-    "date": "2026-07-13",
+    "date": "2026-11-10",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "822978-2026",
+    "lat": 32.6399,
+    "lng": -96.9544,
+    "offense": "identity theft - elderly",
+    "group": "property",
+    "premise": "other",
+    "hour": 9,
+    "date": "2026-07-31",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "822978-2026",
+    "lat": 32.6399,
+    "lng": -96.9544,
+    "offense": "theft by deception (fraud) >or equal $30k <$150k",
+    "group": "property",
+    "premise": "other",
+    "hour": 9,
+    "date": "2026-07-31",
     "neighborhood": "Woods-Sugarberry"
   }
 ]

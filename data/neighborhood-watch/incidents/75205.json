@@ -1,46 +1,68 @@
 [
   {
-    "id": "115600-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "business office",
-    "hour": 21,
-    "date": "2026-08-07",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "118959-2026",
-    "lat": 32.8294,
-    "lng": -96.7839,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-08-13",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "119624-2026",
-    "lat": 32.8187,
-    "lng": -96.7897,
+    "id": "121110-2026",
+    "lat": 32.8247,
+    "lng": -96.788,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-08-15",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-08-17",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "118959-2026",
-    "lat": 32.8294,
-    "lng": -96.7839,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
+    "id": "823498-2026",
+    "lat": 32.8187,
+    "lng": -96.7887,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
     "hour": 19,
-    "date": "2026-08-13",
+    "date": "2026-11-08",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "163531-2026",
+    "lat": 32.8195,
+    "lng": -96.7878,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 5,
+    "date": "2026-11-06",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "167086-2026",
+    "lat": 32.8476,
+    "lng": -96.8134,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-11-13",
+    "neighborhood": null
+  },
+  {
+    "id": "166702-2026",
+    "lat": 32.8222,
+    "lng": -96.7864,
+    "offense": "collision inv injury",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 6,
+    "date": "2026-09-22",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "121110-2026",
+    "lat": 32.8247,
+    "lng": -96.788,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 21,
+    "date": "2026-08-17",
     "neighborhood": "Knox Park"
   }
 ]

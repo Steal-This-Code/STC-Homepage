@@ -1,35 +1,145 @@
 [
   {
-    "id": "111667-2026",
-    "lat": 32.6641,
-    "lng": -96.8913,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-07-31",
-    "neighborhood": null
-  },
-  {
-    "id": "112397-2026",
-    "lat": 32.6834,
-    "lng": -96.9048,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 19,
-    "date": "2026-08-01",
-    "neighborhood": null
-  },
-  {
-    "id": "112734-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
+    "id": "004171-2026",
+    "lat": 32.6995,
+    "lng": -96.9172,
     "offense": "motor vehicle theft",
     "group": "property",
+    "premise": "parking (business)",
+    "hour": 1,
+    "date": "2026-01-09",
+    "neighborhood": null
+  },
+  {
+    "id": "096154-2026",
+    "lat": 32.6863,
+    "lng": -96.9087,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-07-02",
+    "neighborhood": null
+  },
+  {
+    "id": "179957-2025",
+    "lat": 32.7007,
+    "lng": -96.9124,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2025-12-17",
+    "neighborhood": null
+  },
+  {
+    "id": "166929-2026",
+    "lat": 32.6953,
+    "lng": -96.9014,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
     "premise": "apartment parking lot",
-    "hour": 11,
-    "date": "2026-08-02",
+    "hour": 18,
+    "date": "2026-11-12",
+    "neighborhood": "Country Creek"
+  },
+  {
+    "id": "162867-2026",
+    "lat": 32.6912,
+    "lng": -96.9063,
+    "offense": "crim mischief -preliminary investigation",
+    "group": "other",
+    "premise": null,
+    "hour": 19,
+    "date": "2026-11-04",
+    "neighborhood": null
+  },
+  {
+    "id": "161754-2026",
+    "lat": 32.6856,
+    "lng": -96.8911,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 13,
+    "date": "2026-10-30",
+    "neighborhood": null
+  },
+  {
+    "id": "011994-2026",
+    "lat": 32.7069,
+    "lng": -96.9522,
+    "offense": "fleeing police officer",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 19,
+    "date": "2026-01-25",
+    "neighborhood": null
+  },
+  {
+    "id": "141285-2026",
+    "lat": 32.7064,
+    "lng": -96.8986,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-05-01",
+    "neighborhood": null
+  },
+  {
+    "id": "162866-2026",
+    "lat": 32.6906,
+    "lng": -96.9091,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "convenience store",
+    "hour": 18,
+    "date": "2026-11-04",
+    "neighborhood": null
+  },
+  {
+    "id": "022943-2026",
+    "lat": 32.7057,
+    "lng": -96.8977,
+    "offense": "poss marijuana <2oz",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-02-17",
+    "neighborhood": null
+  },
+  {
+    "id": "011611-2026",
+    "lat": 32.6637,
+    "lng": -96.8892,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-01-24",
+    "neighborhood": null
+  },
+  {
+    "id": "014215-2026",
+    "lat": 32.6829,
+    "lng": -96.8921,
+    "offense": "traf vio -duty on strike fix/hwy landscape > or equal $200 tc 550.025(b)2",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-01-31",
+    "neighborhood": null
+  },
+  {
+    "id": "162867-2026",
+    "lat": 32.6912,
+    "lng": -96.9063,
+    "offense": "injured person - firearm injury (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-11-04",
     "neighborhood": null
   }
 ]
