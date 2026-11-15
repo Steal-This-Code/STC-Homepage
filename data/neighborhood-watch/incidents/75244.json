@@ -1,13 +1,46 @@
 [
   {
-    "id": "131483-2026",
-    "lat": 32.9196,
-    "lng": -96.8185,
-    "offense": "injured person- public property (other than firearm) (no offense)",
+    "id": "026347-2026",
+    "lat": 32.9179,
+    "lng": -96.855,
+    "offense": "abandoned property (no offense)",
     "group": "other",
-    "premise": "church/synagogue/temple/mosque",
-    "hour": 11,
-    "date": "2026-09-06",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-02-24",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "028007-2026",
+    "lat": 32.9097,
+    "lng": -96.8181,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-02-27",
+    "neighborhood": null
+  },
+  {
+    "id": "028188-2026",
+    "lat": 32.9164,
+    "lng": -96.8386,
+    "offense": "forgery- preliminary investigation",
+    "group": "property",
+    "premise": "single family residence - occupied",
+    "hour": 19,
+    "date": "2026-02-27",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "027643-2026",
+    "lat": 32.9213,
+    "lng": -96.8212,
+    "offense": "unlawful installation of tracking device",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 8,
+    "date": "2026-02-23",
     "neighborhood": null
   }
 ]
