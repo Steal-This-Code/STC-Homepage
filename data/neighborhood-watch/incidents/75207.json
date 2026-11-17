@@ -1,13 +1,134 @@
 [
   {
-    "id": "800018-2026",
-    "lat": 32.7999,
-    "lng": -96.825,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "159251-2026",
+    "lat": 32.7869,
+    "lng": -96.8164,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 0,
+    "date": "2026-10-29",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "160476-2026",
+    "lat": 32.8063,
+    "lng": -96.841,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "gas or service station",
+    "hour": 4,
+    "date": "2026-10-31",
+    "neighborhood": null
+  },
+  {
+    "id": "159707-2026",
+    "lat": 32.7772,
+    "lng": -96.8154,
+    "offense": "dwi",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 21,
+    "date": "2026-10-29",
+    "neighborhood": null
+  },
+  {
+    "id": "159402-2026",
+    "lat": 32.8095,
+    "lng": -96.8492,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "business office",
+    "hour": 10,
+    "date": "2026-10-22",
+    "neighborhood": null
+  },
+  {
+    "id": "160866-2026",
+    "lat": 32.7567,
+    "lng": -96.8093,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-10-31",
+    "neighborhood": "The Bottoms"
+  },
+  {
+    "id": "161600-2026",
+    "lat": 32.8022,
+    "lng": -96.833,
+    "offense": "bmv",
     "group": "other",
     "premise": "hotel/motel/etc",
-    "hour": 1,
-    "date": "2026-01-01",
+    "hour": 6,
+    "date": "2026-11-02",
+    "neighborhood": null
+  },
+  {
+    "id": "161662-2026",
+    "lat": 32.8075,
+    "lng": -96.8446,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 22,
+    "date": "2026-11-01",
+    "neighborhood": null
+  },
+  {
+    "id": "161880-2026",
+    "lat": 32.7898,
+    "lng": -96.823,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-11-02",
     "neighborhood": "Design District"
+  },
+  {
+    "id": "161759-2026",
+    "lat": 32.7999,
+    "lng": -96.825,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 5,
+    "date": "2026-10-29",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "161661-2026",
+    "lat": 32.7919,
+    "lng": -96.828,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2026-11-01",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "161661-2026",
+    "lat": 32.7919,
+    "lng": -96.828,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2026-11-01",
+    "neighborhood": "Design District"
+  },
+  {
+    "id": "162600-2026",
+    "lat": 32.7823,
+    "lng": -96.8183,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 8,
+    "date": "2026-11-04",
+    "neighborhood": null
   }
 ]

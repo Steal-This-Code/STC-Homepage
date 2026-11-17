@@ -1,13 +1,13 @@
 [
   {
-    "id": "027290-2026",
-    "lat": 32.8245,
-    "lng": -96.786,
+    "id": "162268-2026",
+    "lat": 32.8242,
+    "lng": -96.7867,
     "offense": "bmv",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-02-25",
+    "premise": "parking lot (all others)",
+    "hour": 11,
+    "date": "2026-11-03",
     "neighborhood": "Knox Park"
   }
 ]

@@ -1,68 +1,46 @@
 [
   {
-    "id": "026436-2026",
-    "lat": 32.9584,
-    "lng": -96.8131,
-    "offense": "natural death (no offense)",
+    "id": "184766-2025",
+    "lat": 32.9571,
+    "lng": -96.8212,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 11,
-    "date": "2026-02-24",
+    "premise": "park",
+    "hour": 20,
+    "date": "2025-12-27",
     "neighborhood": null
   },
   {
-    "id": "027336-2026",
-    "lat": 32.9685,
-    "lng": -96.8211,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-02-26",
-    "neighborhood": null
-  },
-  {
-    "id": "028345-2026",
-    "lat": 32.9644,
-    "lng": -96.7711,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 23,
-    "date": "2026-02-27",
-    "neighborhood": "Estates West"
-  },
-  {
-    "id": "028298-2026",
-    "lat": 32.9521,
-    "lng": -96.7724,
+    "id": "162497-2026",
+    "lat": 32.9581,
+    "lng": -96.8046,
     "offense": "bmv",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 14,
-    "date": "2026-02-26",
-    "neighborhood": "Spring Creek"
+    "hour": 21,
+    "date": "2026-11-03",
+    "neighborhood": null
   },
   {
-    "id": "027336-2026",
-    "lat": 32.9685,
-    "lng": -96.8211,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "162176-2026",
+    "lat": 32.9614,
+    "lng": -96.8183,
+    "offense": "criminal trespass affidavit",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 8,
-    "date": "2026-02-26",
-    "neighborhood": null
+    "premise": "apartment complex/building",
+    "hour": 13,
+    "date": "2026-11-03",
+    "neighborhood": "Chalfont Place"
   },
   {
-    "id": "027520-2026",
-    "lat": 32.9596,
-    "lng": -96.793,
-    "offense": "identity theft",
-    "group": "property",
-    "premise": "cyberspace",
-    "hour": 17,
-    "date": "2026-02-20",
-    "neighborhood": null
+    "id": "161571-2026",
+    "lat": 32.9664,
+    "lng": -96.8185,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 4,
+    "date": "2026-11-02",
+    "neighborhood": "Chalfont Place"
   }
 ]
