@@ -1,13 +1,24 @@
 [
   {
-    "id": "159650-2026",
-    "lat": 32.9107,
-    "lng": -96.8629,
-    "offense": "terroristic threat -preliminary investigation",
+    "id": "081920-2026",
+    "lat": 32.9095,
+    "lng": -96.8849,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 18,
-    "date": "2026-10-29",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "082068-2026",
+    "lat": 32.9098,
+    "lng": -96.8951,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "other",
+    "hour": 14,
+    "date": "2026-06-06",
     "neighborhood": null
   }
 ]

@@ -1,24 +1,35 @@
 [
   {
-    "id": "161402-2026",
-    "lat": 32.9179,
-    "lng": -96.855,
-    "offense": "abandoned property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-11-01",
+    "id": "080956-2026",
+    "lat": 32.9224,
+    "lng": -96.8405,
+    "offense": "theft of prop (auto acc) > or equal $100 <$750 (not emp)pc31.03(e2a)",
+    "group": "property",
+    "premise": "parking (business)",
+    "hour": 10,
+    "date": "2026-06-05",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "161402-2026",
-    "lat": 32.9179,
-    "lng": -96.855,
-    "offense": "found property (no offense)",
+    "id": "083640-2026",
+    "lat": 32.9101,
+    "lng": -96.8163,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-06-09",
+    "neighborhood": null
+  },
+  {
+    "id": "082520-2026",
+    "lat": 32.9212,
+    "lng": -96.8387,
+    "offense": "deadly conduct",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-11-01",
+    "hour": 7,
+    "date": "2026-06-08",
     "neighborhood": "Glen Meadow Estates"
   }
 ]

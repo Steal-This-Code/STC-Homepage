@@ -1,46 +1,35 @@
 [
   {
-    "id": "184766-2025",
-    "lat": 32.9571,
-    "lng": -96.8212,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "park",
-    "hour": 20,
-    "date": "2025-12-27",
+    "id": "081802-2026",
+    "lat": 32.9763,
+    "lng": -96.8238,
+    "offense": "theft of prop (auto acc) <$100 - (not emp)",
+    "group": "property",
+    "premise": "auto dealership new/used",
+    "hour": 17,
+    "date": "2026-05-13",
     "neighborhood": null
   },
   {
-    "id": "162497-2026",
-    "lat": 32.9581,
-    "lng": -96.8046,
+    "id": "082183-2026",
+    "lat": 32.9827,
+    "lng": -96.7695,
+    "offense": "criminal trespass",
+    "group": "other",
+    "premise": "retail store",
+    "hour": 16,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "083449-2026",
+    "lat": 32.9615,
+    "lng": -96.7719,
     "offense": "bmv",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 21,
-    "date": "2026-11-03",
-    "neighborhood": null
-  },
-  {
-    "id": "162176-2026",
-    "lat": 32.9614,
-    "lng": -96.8183,
-    "offense": "criminal trespass affidavit",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 13,
-    "date": "2026-11-03",
-    "neighborhood": "Chalfont Place"
-  },
-  {
-    "id": "161571-2026",
-    "lat": 32.9664,
-    "lng": -96.8185,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "apartment residence",
-    "hour": 4,
-    "date": "2026-11-02",
-    "neighborhood": "Chalfont Place"
+    "premise": "parking lot (park)",
+    "hour": 20,
+    "date": "2026-06-08",
+    "neighborhood": "Spring Creek"
   }
 ]

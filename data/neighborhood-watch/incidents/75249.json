@@ -1,13 +1,24 @@
 [
   {
-    "id": "159330-2026",
-    "lat": 32.6426,
-    "lng": -96.9704,
-    "offense": "motor vehicle theft",
-    "group": "property",
+    "id": "082663-2026",
+    "lat": 32.6389,
+    "lng": -96.9437,
+    "offense": "vio protective order",
+    "group": "other",
     "premise": "single family residence - occupied",
-    "hour": 21,
-    "date": "2026-10-28",
-    "neighborhood": null
+    "hour": 10,
+    "date": "2026-06-08",
+    "neighborhood": "Woods-Sugarberry"
+  },
+  {
+    "id": "082663-2026",
+    "lat": 32.6389,
+    "lng": -96.9437,
+    "offense": "unlawful poss firearm by felon",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 10,
+    "date": "2026-06-08",
+    "neighborhood": "Woods-Sugarberry"
   }
 ]

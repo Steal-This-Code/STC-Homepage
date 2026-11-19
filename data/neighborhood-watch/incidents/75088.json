@@ -1,16 +1,5 @@
 [
   {
-    "id": "082825-2026",
-    "lat": 32.9124,
-    "lng": -96.5139,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "lake/waterway/beach",
-    "hour": 0,
-    "date": "2026-05-31",
-    "neighborhood": null
-  },
-  {
     "id": "082594-2026",
     "lat": 32.9124,
     "lng": -96.5139,
@@ -19,6 +8,17 @@
     "premise": "lake/waterway/beach",
     "hour": 22,
     "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "082825-2026",
+    "lat": 32.9124,
+    "lng": -96.5139,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "lake/waterway/beach",
+    "hour": 0,
+    "date": "2026-05-31",
     "neighborhood": null
   }
 ]

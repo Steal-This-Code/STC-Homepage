@@ -1,24 +1,68 @@
 [
   {
-    "id": "159525-2026",
-    "lat": 32.9256,
-    "lng": -96.7673,
-    "offense": "unexplained death (no offense)",
+    "id": "081573-2026",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "criminal trespass",
     "group": "other",
     "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-10-29",
+    "hour": 10,
+    "date": "2026-06-06",
     "neighborhood": null
   },
   {
-    "id": "161708-2026",
-    "lat": 32.9173,
-    "lng": -96.7731,
-    "offense": "bmv",
+    "id": "081576-2026",
+    "lat": 32.9185,
+    "lng": -96.7706,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 17,
+    "date": "2026-02-01",
+    "neighborhood": null
+  },
+  {
+    "id": "082550-2026",
+    "lat": 32.9231,
+    "lng": -96.7724,
+    "offense": "criminal trespass warning",
     "group": "other",
     "premise": "apartment complex/building",
-    "hour": 16,
-    "date": "2026-11-01",
+    "hour": 7,
+    "date": "2026-06-08",
+    "neighborhood": null
+  },
+  {
+    "id": "083525-2026",
+    "lat": 32.9115,
+    "lng": -96.7704,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 1,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
+    "id": "082984-2026",
+    "lat": 32.9222,
+    "lng": -96.7793,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 0,
+    "date": "2026-06-09",
+    "neighborhood": null
+  },
+  {
+    "id": "083450-2026",
+    "lat": 32.9141,
+    "lng": -96.7699,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 20,
+    "date": "2026-06-09",
     "neighborhood": null
   }
 ]

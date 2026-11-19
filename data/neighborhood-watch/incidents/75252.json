@@ -1,13 +1,79 @@
 [
   {
-    "id": "019254-2026",
-    "lat": 32.9978,
-    "lng": -96.7802,
-    "offense": "criminal trespass affidavit",
+    "id": "081898-2026",
+    "lat": 33.0079,
+    "lng": -96.7964,
+    "offense": "criminal trespass warning",
     "group": "other",
-    "premise": "government facility",
-    "hour": 12,
-    "date": "2026-02-02",
+    "premise": "hotel/motel/etc",
+    "hour": 1,
+    "date": "2026-06-07",
+    "neighborhood": null
+  },
+  {
+    "id": "081166-2026",
+    "lat": 33.0091,
+    "lng": -96.7985,
+    "offense": "crim mischief >or equal $750 < $2,500",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 16,
+    "date": "2026-06-04",
+    "neighborhood": null
+  },
+  {
+    "id": "083670-2026",
+    "lat": 32.998,
+    "lng": -96.769,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
+    "id": "083776-2026",
+    "lat": 32.9905,
+    "lng": -96.801,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-06-10",
+    "neighborhood": null
+  },
+  {
+    "id": "082919-2026",
+    "lat": 33.0048,
+    "lng": -96.7829,
+    "offense": "theft - preliminary investigation",
+    "group": "property",
+    "premise": "other",
+    "hour": 0,
+    "date": "2026-05-20",
+    "neighborhood": null
+  },
+  {
+    "id": "082238-2026",
+    "lat": 32.9961,
+    "lng": -96.7964,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-05-31",
+    "neighborhood": null
+  },
+  {
+    "id": "083456-2026",
+    "lat": 32.9998,
+    "lng": -96.8019,
+    "offense": "missing person (no offense)",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 16,
+    "date": "2026-06-03",
     "neighborhood": null
   }
 ]
