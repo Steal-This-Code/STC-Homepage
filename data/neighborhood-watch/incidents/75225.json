@@ -1,90 +1,35 @@
 [
   {
-    "id": "081825-2026",
-    "lat": 32.8786,
-    "lng": -96.8089,
-    "offense": "theft of catalytic converter <30k",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 9,
-    "date": "2026-06-06",
-    "neighborhood": "Preston Hollow"
-  },
-  {
-    "id": "081452-2026",
-    "lat": 32.8623,
-    "lng": -96.8068,
-    "offense": "bmv",
+    "id": "122904-2026",
+    "lat": 32.8721,
+    "lng": -96.7714,
+    "offense": "harassment - non-threatening",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 8,
-    "date": "2026-06-06",
-    "neighborhood": null
+    "premise": "medical facility",
+    "hour": 11,
+    "date": "2026-07-10",
+    "neighborhood": "Glen Lakes"
   },
   {
-    "id": "082917-2026",
-    "lat": 32.8623,
-    "lng": -96.8075,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 13,
-    "date": "2026-06-08",
-    "neighborhood": null
-  },
-  {
-    "id": "080859-2026",
+    "id": "122622-2026",
     "lat": 32.8668,
     "lng": -96.7729,
-    "offense": "diversion criminal trespass",
-    "group": "other",
-    "premise": "shopping mall",
-    "hour": 0,
-    "date": "2026-06-05",
-    "neighborhood": null
-  },
-  {
-    "id": "082682-2026",
-    "lat": 32.8768,
-    "lng": -96.7863,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-08",
-    "neighborhood": "Windsor Park"
-  },
-  {
-    "id": "082169-2026",
-    "lat": 32.8668,
-    "lng": -96.7729,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "parking (business)",
-    "hour": 16,
-    "date": "2026-06-07",
-    "neighborhood": null
-  },
-  {
-    "id": "082682-2026",
-    "lat": 32.8768,
-    "lng": -96.7863,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-08",
-    "neighborhood": "Windsor Park"
-  },
-  {
-    "id": "081963-2026",
-    "lat": 32.8511,
-    "lng": -96.8127,
     "offense": "bmv",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 13,
-    "date": "2026-06-06",
+    "premise": "parking (business)",
+    "hour": 20,
+    "date": "2026-08-20",
     "neighborhood": null
+  },
+  {
+    "id": "123603-2026",
+    "lat": 32.8645,
+    "lng": -96.775,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-08-22",
+    "neighborhood": "Caruth Hills"
   }
 ]

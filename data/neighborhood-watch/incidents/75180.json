@@ -1,13 +1,13 @@
 [
   {
-    "id": "806138-2026",
-    "lat": 32.7338,
-    "lng": -96.6169,
-    "offense": "lost property (no offense)",
+    "id": "122612-2026",
+    "lat": 32.734,
+    "lng": -96.6325,
+    "offense": "traffic violation - non hazardous",
     "group": "other",
-    "premise": "other",
+    "premise": "highway, street, alley etc",
     "hour": 20,
-    "date": "2026-03-21",
+    "date": "2026-08-20",
     "neighborhood": null
   }
 ]

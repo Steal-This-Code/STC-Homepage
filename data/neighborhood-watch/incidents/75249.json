@@ -1,24 +1,24 @@
 [
   {
-    "id": "082663-2026",
-    "lat": 32.6389,
-    "lng": -96.9437,
-    "offense": "vio protective order",
+    "id": "122713-2026",
+    "lat": 32.6431,
+    "lng": -96.9556,
+    "offense": "dwi bac > or equal to 0.15",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-06-08",
-    "neighborhood": "Woods-Sugarberry"
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-08-21",
+    "neighborhood": "Summit Parc"
   },
   {
-    "id": "082663-2026",
-    "lat": 32.6389,
-    "lng": -96.9437,
-    "offense": "unlawful poss firearm by felon",
-    "group": "other",
+    "id": "122901-2026",
+    "lat": 32.6448,
+    "lng": -96.9575,
+    "offense": "burglary of habitation - forced entry",
+    "group": "property",
     "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-06-08",
-    "neighborhood": "Woods-Sugarberry"
+    "hour": 0,
+    "date": "2026-07-01",
+    "neighborhood": "Summit Parc"
   }
 ]

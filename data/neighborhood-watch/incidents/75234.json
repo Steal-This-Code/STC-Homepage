@@ -1,24 +1,79 @@
 [
   {
-    "id": "081920-2026",
-    "lat": 32.9095,
-    "lng": -96.8849,
-    "offense": "collision inv damage to vehicle > or equal $200",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-06-07",
+    "id": "123666-2026",
+    "lat": 32.9125,
+    "lng": -96.8928,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-08-22",
     "neighborhood": null
   },
   {
-    "id": "082068-2026",
-    "lat": 32.9098,
-    "lng": -96.8951,
+    "id": "122886-2026",
+    "lat": 32.9102,
+    "lng": -96.8764,
+    "offense": "criminal trespass affidavit",
+    "group": "other",
+    "premise": "construction site",
+    "hour": 12,
+    "date": "2026-08-21",
+    "neighborhood": null
+  },
+  {
+    "id": "123666-2026",
+    "lat": 32.9125,
+    "lng": -96.8928,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "123666-2026",
+    "lat": 32.9125,
+    "lng": -96.8928,
     "offense": "bmv",
     "group": "other",
-    "premise": "other",
-    "hour": 14,
-    "date": "2026-06-06",
+    "premise": "parking lot (all others)",
+    "hour": 3,
+    "date": "2026-08-22",
+    "neighborhood": null
+  },
+  {
+    "id": "123977-2026",
+    "lat": 32.9104,
+    "lng": -96.8589,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 7,
+    "date": "2026-08-23",
+    "neighborhood": null
+  },
+  {
+    "id": "124345-2026",
+    "lat": 32.9097,
+    "lng": -96.8564,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 2,
+    "date": "2026-08-24",
+    "neighborhood": null
+  },
+  {
+    "id": "124345-2026",
+    "lat": 32.9097,
+    "lng": -96.8564,
+    "offense": "robbery of business",
+    "group": "violent",
+    "premise": "gas or service station",
+    "hour": 2,
+    "date": "2026-08-24",
     "neighborhood": null
   }
 ]
