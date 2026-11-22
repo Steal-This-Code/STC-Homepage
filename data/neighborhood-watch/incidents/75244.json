@@ -1,13 +1,13 @@
 [
   {
-    "id": "124289-2026",
-    "lat": 32.9239,
-    "lng": -96.8387,
-    "offense": "collision inv injury",
-    "group": "other",
+    "id": "006493-2026",
+    "lat": 32.9236,
+    "lng": -96.8393,
+    "offense": "motor vehicle theft",
+    "group": "property",
     "premise": "highway, street, alley etc",
-    "hour": 22,
-    "date": "2026-08-23",
+    "hour": 11,
+    "date": "2026-01-13",
     "neighborhood": "Glen Meadow Estates"
   }
 ]

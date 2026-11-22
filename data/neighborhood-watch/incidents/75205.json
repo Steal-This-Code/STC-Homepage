@@ -1,13 +1,24 @@
 [
   {
-    "id": "123032-2026",
-    "lat": 32.8274,
-    "lng": -96.7839,
-    "offense": "found property (no offense)",
+    "id": "094808-2026",
+    "lat": 32.8189,
+    "lng": -96.7896,
+    "offense": "harassment-repeated electronic comm - threat",
     "group": "other",
-    "premise": "storage facility",
-    "hour": 16,
-    "date": "2026-08-21",
+    "premise": "apartment residence",
+    "hour": 19,
+    "date": "2026-06-28",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "007182-2026",
+    "lat": 32.8214,
+    "lng": -96.7873,
+    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
+    "group": "property",
+    "premise": "medical facility",
+    "hour": 13,
+    "date": "2026-01-12",
     "neighborhood": "Knox Park"
   }
 ]
