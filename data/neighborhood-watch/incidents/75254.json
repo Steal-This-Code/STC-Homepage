@@ -1,101 +1,13 @@
 [
   {
-    "id": "094740-2026",
-    "lat": 32.9465,
-    "lng": -96.8035,
-    "offense": "found property (no offense)",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 5,
-    "date": "2026-06-30",
-    "neighborhood": null
-  },
-  {
-    "id": "095320-2026",
-    "lat": 32.9426,
-    "lng": -96.8129,
-    "offense": "theft of prop > or equal $2,500 <$30k (not shoplift) pc31.03(e4a)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-06-25",
-    "neighborhood": null
-  },
-  {
-    "id": "095642-2026",
-    "lat": 32.9477,
-    "lng": -96.8252,
+    "id": "007721-2026",
+    "lat": 32.9415,
+    "lng": -96.8019,
     "offense": "theft of prop (auto acc) <$100 - (not emp)",
     "group": "property",
-    "premise": "parking (business)",
-    "hour": 1,
-    "date": "2026-06-28",
-    "neighborhood": null
-  },
-  {
-    "id": "005738-2026",
-    "lat": 32.95,
-    "lng": -96.7702,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "commercial property occupied/vacant",
-    "hour": 17,
-    "date": "2026-01-07",
-    "neighborhood": "Northwood Hills"
-  },
-  {
-    "id": "096319-2026",
-    "lat": 32.9375,
-    "lng": -96.8089,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-07-03",
-    "neighborhood": null
-  },
-  {
-    "id": "096344-2026",
-    "lat": 32.9502,
-    "lng": -96.7993,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "other",
-    "hour": 1,
-    "date": "2026-07-03",
-    "neighborhood": null
-  },
-  {
-    "id": "096319-2026",
-    "lat": 32.9375,
-    "lng": -96.8089,
-    "offense": "motor vehicle theft - attempt",
-    "group": "property",
-    "premise": "apartment parking lot",
-    "hour": 0,
-    "date": "2026-07-03",
-    "neighborhood": null
-  },
-  {
-    "id": "006559-2026",
-    "lat": 32.94,
-    "lng": -96.8088,
-    "offense": "discharge firearm in certain municipalities",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 5,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "006379-2026",
-    "lat": 32.944,
-    "lng": -96.8163,
-    "offense": "reckless damage",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-01-12",
+    "premise": "highway, street, alley etc",
+    "hour": 7,
+    "date": "2026-01-16",
     "neighborhood": null
   }
 ]

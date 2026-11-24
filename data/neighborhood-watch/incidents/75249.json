@@ -1,24 +1,13 @@
 [
   {
-    "id": "095016-2026",
-    "lat": 32.6441,
-    "lng": -96.9504,
-    "offense": "bmv",
+    "id": "179665-2025",
+    "lat": 32.6488,
+    "lng": -96.9681,
+    "offense": "open building (no offense)",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-06-30",
-    "neighborhood": "Woods-Sugarberry"
-  },
-  {
-    "id": "095722-2026",
-    "lat": 32.6246,
-    "lng": -96.9454,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 20,
-    "date": "2026-07-01",
-    "neighborhood": "Woods-Sugarberry"
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2025-12-16",
+    "neighborhood": "Wind Ridge Estates"
   }
 ]

@@ -1,56 +1,140 @@
 [
   {
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
+    "zip_codes": "75217",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
+    "zip_codes": "75224",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "245",
+    "area_name": "Wind Ridge Estates",
+    "zip_codes": "75249",
+    "area_type": "neighborhood"
+  },
+  {
     "area_id": "26",
     "area_name": "Deep Ellum",
     "zip_codes": "75226",
     "area_type": "neighborhood"
   },
   {
-    "area_id": "51",
-    "area_name": "Dixon Circle / Sunny Acres",
-    "zip_codes": "75210",
+    "area_id": "270",
+    "area_name": "Lake Ridge Estates",
+    "zip_codes": "75238",
     "area_type": "neighborhood"
   },
   {
-    "area_id": "6",
-    "area_name": "Farmers Market District",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
     "zip_codes": "75201",
     "area_type": "neighborhood"
   },
   {
-    "area_id": "7",
-    "area_name": "Civic Center District",
-    "zip_codes": "75202",
+    "area_id": "353",
+    "area_name": "Rolling Trails",
+    "zip_codes": "75243",
     "area_type": "neighborhood"
   },
   {
-    "area_id": "75202",
-    "area_name": "ZCTA5 75202",
-    "zip_codes": "75202",
+    "area_id": "72",
+    "area_name": "Mount Auburn",
+    "zip_codes": "75223",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "8",
+    "area_name": "Cedars",
+    "zip_codes": "75215",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "zip_codes": "75228",
+    "area_type": "neighborhood"
+  },
+  {
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
+    "zip_codes": "75201",
     "area_type": "zip"
   },
   {
-    "area_id": "75210",
-    "area_name": "ZCTA5 75210",
-    "zip_codes": "75210",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
+    "zip_codes": "75211",
     "area_type": "zip"
   },
   {
-    "area_id": "75218",
-    "area_name": "ZCTA5 75218",
-    "zip_codes": "75218",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "zip_codes": "75215",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "zip_codes": "75224",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "zip_codes": "75217",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75223",
+    "area_name": "ZCTA5 75223",
+    "zip_codes": "75223",
     "area_type": "zip"
   },
   {
     "area_id": "75226",
     "area_name": "ZCTA5 75226",
-    "zip_codes": ["75201", "75226"],
+    "zip_codes": "75226",
     "area_type": "zip"
   },
   {
-    "area_id": "75235",
-    "area_name": "ZCTA5 75235",
-    "zip_codes": "75235",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "zip_codes": "75228",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "zip_codes": "75229",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "zip_codes": "75238",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "zip_codes": "75243",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75249",
+    "area_name": "ZCTA5 75249",
+    "zip_codes": "75249",
+    "area_type": "zip"
+  },
+  {
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
+    "zip_codes": "75254",
     "area_type": "zip"
   }
 ]

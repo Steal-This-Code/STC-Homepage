@@ -1,24 +1,13 @@
 [
   {
-    "id": "089899-2026",
-    "lat": 32.7824,
-    "lng": -96.7848,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 15,
-    "date": "2026-06-21",
-    "neighborhood": "Deep Ellum"
-  },
-  {
-    "id": "180256-2025",
+    "id": "085163-2026",
     "lat": 32.7845,
-    "lng": -96.7834,
+    "lng": -96.7845,
     "offense": "diversion public intox",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2025-12-18",
+    "hour": 1,
+    "date": "2026-06-13",
     "neighborhood": "Deep Ellum"
   }
 ]

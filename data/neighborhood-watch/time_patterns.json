@@ -1,110 +1,218 @@
 [
   {
     "area_type": "neighborhood",
-    "area_id": "26",
-    "area_name": "Deep Ellum",
+    "area_id": "123",
+    "area_name": "Pleasant Grove",
     "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 0,
+    "day_of_week": "Monday",
+    "hour": 3,
     "incidents": 1
   },
   {
     "area_type": "neighborhood",
-    "area_id": "26",
-    "area_name": "Deep Ellum",
+    "area_id": "126",
+    "area_name": "Five Mile Creek",
     "crime_group": "other",
-    "day_of_week": "Sunday",
+    "day_of_week": "Wednesday",
     "hour": 15,
     "incidents": 1
   },
   {
     "area_type": "neighborhood",
-    "area_id": "51",
-    "area_name": "Dixon Circle / Sunny Acres",
+    "area_id": "245",
+    "area_name": "Wind Ridge Estates",
     "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 11,
+    "day_of_week": "Tuesday",
+    "hour": 17,
     "incidents": 1
   },
   {
     "area_type": "neighborhood",
-    "area_id": "6",
-    "area_name": "Farmers Market District",
+    "area_id": "26",
+    "area_name": "Deep Ellum",
     "crime_group": "other",
-    "day_of_week": "Thursday",
+    "day_of_week": "Saturday",
+    "hour": 1,
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "270",
+    "area_name": "Lake Ridge Estates",
+    "crime_group": "other",
+    "day_of_week": "Tuesday",
+    "hour": 16,
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "3",
+    "area_name": "Dallas Arts District",
+    "crime_group": "other",
+    "day_of_week": "Sunday",
+    "hour": 8,
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "353",
+    "area_name": "Rolling Trails",
+    "crime_group": "other",
+    "day_of_week": "Friday",
+    "hour": 18,
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "72",
+    "area_name": "Mount Auburn",
+    "crime_group": "other",
+    "day_of_week": "Monday",
     "hour": 22,
     "incidents": 1
   },
   {
     "area_type": "neighborhood",
-    "area_id": "7",
-    "area_name": "Civic Center District",
+    "area_id": "8",
+    "area_name": "Cedars",
     "crime_group": "other",
     "day_of_week": "Monday",
-    "hour": 20,
+    "hour": 16,
+    "incidents": 1
+  },
+  {
+    "area_type": "neighborhood",
+    "area_id": "96",
+    "area_name": "Buckner Terrace",
+    "crime_group": "other",
+    "day_of_week": "Monday",
+    "hour": 14,
     "incidents": 1
   },
   {
     "area_type": "zip",
-    "area_id": "75202",
-    "area_name": "ZCTA5 75202",
+    "area_id": "75201",
+    "area_name": "ZCTA5 75201",
     "crime_group": "other",
-    "day_of_week": "Monday",
-    "hour": 20,
+    "day_of_week": "Sunday",
+    "hour": 8,
     "incidents": 1
   },
   {
     "area_type": "zip",
-    "area_id": "75210",
-    "area_name": "ZCTA5 75210",
+    "area_id": "75211",
+    "area_name": "ZCTA5 75211",
     "crime_group": "other",
     "day_of_week": "Thursday",
-    "hour": 11,
+    "hour": 4,
     "incidents": 1
   },
   {
     "area_type": "zip",
-    "area_id": "75218",
-    "area_name": "ZCTA5 75218",
+    "area_id": "75215",
+    "area_name": "ZCTA5 75215",
+    "crime_group": "other",
+    "day_of_week": "Monday",
+    "hour": 16,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75216",
+    "area_name": "ZCTA5 75216",
+    "crime_group": "other",
+    "day_of_week": "Wednesday",
+    "hour": 15,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75217",
+    "area_name": "ZCTA5 75217",
+    "crime_group": "other",
+    "day_of_week": "Monday",
+    "hour": 3,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75223",
+    "area_name": "ZCTA5 75223",
+    "crime_group": "other",
+    "day_of_week": "Monday",
+    "hour": 22,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75226",
+    "area_name": "ZCTA5 75226",
+    "crime_group": "other",
+    "day_of_week": "Saturday",
+    "hour": 1,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75228",
+    "area_name": "ZCTA5 75228",
+    "crime_group": "other",
+    "day_of_week": "Monday",
+    "hour": 14,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "day_of_week": "Wednesday",
+    "hour": 14,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75229",
+    "area_name": "ZCTA5 75229",
+    "crime_group": "other",
+    "day_of_week": "Wednesday",
+    "hour": 16,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75238",
+    "area_name": "ZCTA5 75238",
+    "crime_group": "other",
+    "day_of_week": "Tuesday",
+    "hour": 16,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75243",
+    "area_name": "ZCTA5 75243",
+    "crime_group": "other",
+    "day_of_week": "Friday",
+    "hour": 18,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75249",
+    "area_name": "ZCTA5 75249",
+    "crime_group": "other",
+    "day_of_week": "Tuesday",
+    "hour": 17,
+    "incidents": 1
+  },
+  {
+    "area_type": "zip",
+    "area_id": "75254",
+    "area_name": "ZCTA5 75254",
     "crime_group": "property",
-    "day_of_week": "Monday",
-    "hour": 12,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75226",
-    "area_name": "ZCTA5 75226",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 0,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75226",
-    "area_name": "ZCTA5 75226",
-    "crime_group": "other",
-    "day_of_week": "Thursday",
-    "hour": 22,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75226",
-    "area_name": "ZCTA5 75226",
-    "crime_group": "other",
-    "day_of_week": "Sunday",
-    "hour": 15,
-    "incidents": 1
-  },
-  {
-    "area_type": "zip",
-    "area_id": "75235",
-    "area_name": "ZCTA5 75235",
-    "crime_group": "other",
-    "day_of_week": "Monday",
-    "hour": 22,
+    "day_of_week": "Friday",
+    "hour": 7,
     "incidents": 1
   }
 ]

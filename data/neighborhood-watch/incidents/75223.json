@@ -1,101 +1,13 @@
 [
   {
-    "id": "095331-2026",
-    "lat": 32.8046,
-    "lng": -96.7414,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 12,
-    "date": "2026-06-30",
-    "neighborhood": "Hollywood Heights / Santa Monica"
-  },
-  {
-    "id": "095331-2026",
-    "lat": 32.8046,
-    "lng": -96.7414,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking lot (all others)",
-    "hour": 12,
-    "date": "2026-06-30",
-    "neighborhood": "Hollywood Heights / Santa Monica"
-  },
-  {
-    "id": "096345-2026",
-    "lat": 32.8003,
-    "lng": -96.7469,
-    "offense": "crim mischief > or equal $100 < $750",
+    "id": "182691-2025",
+    "lat": 32.7942,
+    "lng": -96.7482,
+    "offense": "diversion public intox",
     "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 23,
-    "date": "2026-07-02",
+    "premise": "parking lot (all others)",
+    "hour": 22,
+    "date": "2025-12-22",
     "neighborhood": "Mount Auburn"
-  },
-  {
-    "id": "005984-2026",
-    "lat": 32.7927,
-    "lng": -96.7371,
-    "offense": "poss cont sub pen grp 1/1-b <1g",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 0,
-    "date": "2026-01-13",
-    "neighborhood": null
-  },
-  {
-    "id": "006673-2026",
-    "lat": 32.7876,
-    "lng": -96.7565,
-    "offense": "natural death (no offense)",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-01-14",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "006201-2026",
-    "lat": 32.7833,
-    "lng": -96.763,
-    "offense": "poss marijuana <2oz *drug free zone*",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 12,
-    "date": "2026-01-13",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "006897-2026",
-    "lat": 32.7919,
-    "lng": -96.7493,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "006341-2026",
-    "lat": 32.7879,
-    "lng": -96.7636,
-    "offense": "recovered out of town stolen property (no offense)",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 17,
-    "date": "2026-01-13",
-    "neighborhood": "Jubilee Park"
-  },
-  {
-    "id": "006897-2026",
-    "lat": 32.7919,
-    "lng": -96.7493,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-01-14",
-    "neighborhood": null
   }
 ]
