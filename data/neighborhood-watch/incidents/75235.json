@@ -1,13 +1,123 @@
 [
   {
-    "id": "045225-2026",
-    "lat": 32.8372,
-    "lng": -96.8425,
-    "offense": "found property (no offense)",
+    "id": "040446-2026",
+    "lat": 32.8097,
+    "lng": -96.8322,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "hotel/motel/etc",
+    "hour": 10,
+    "date": "2026-03-22",
+    "neighborhood": null
+  },
+  {
+    "id": "041121-2026",
+    "lat": 32.8262,
+    "lng": -96.8477,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 18,
+    "date": "2026-03-22",
+    "neighborhood": "Love Field"
+  },
+  {
+    "id": "041629-2026",
+    "lat": 32.823,
+    "lng": -96.854,
+    "offense": "attack by dangerous dog",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 12,
+    "date": "2026-03-24",
+    "neighborhood": null
+  },
+  {
+    "id": "037080-2026",
+    "lat": 32.8248,
+    "lng": -96.8231,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-03-14",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "037929-2026",
+    "lat": 32.8455,
+    "lng": -96.8496,
+    "offense": "public intoxication",
     "group": "other",
     "premise": "airport - love field",
     "hour": 22,
-    "date": "2026-03-30",
+    "date": "2026-03-17",
+    "neighborhood": null
+  },
+  {
+    "id": "037186-2026",
+    "lat": 32.8248,
+    "lng": -96.8231,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 22,
+    "date": "2026-03-14",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "041121-2026",
+    "lat": 32.8262,
+    "lng": -96.8477,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "hotel/motel/etc",
+    "hour": 18,
+    "date": "2026-03-22",
+    "neighborhood": "Love Field"
+  },
+  {
+    "id": "037156-2026",
+    "lat": 32.8203,
+    "lng": -96.8318,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
+    "premise": "apartment parking lot",
+    "hour": 20,
+    "date": "2026-03-13",
+    "neighborhood": "Oak Lawn"
+  },
+  {
+    "id": "041017-2026",
+    "lat": 32.8455,
+    "lng": -96.8496,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "airport - love field",
+    "hour": 11,
+    "date": "2026-03-22",
+    "neighborhood": null
+  },
+  {
+    "id": "037325-2026",
+    "lat": 32.823,
+    "lng": -96.854,
+    "offense": "fail to id -giving false/fictitious info pc 38.02(c)(2)",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 16,
+    "date": "2026-03-16",
+    "neighborhood": null
+  },
+  {
+    "id": "041208-2026",
+    "lat": 32.8455,
+    "lng": -96.8496,
+    "offense": "poss cont sub pen grp 2-a > 2 oz < or equal 4 oz",
+    "group": "other",
+    "premise": "airport - all others",
+    "hour": 16,
+    "date": "2026-03-23",
     "neighborhood": null
   }
 ]

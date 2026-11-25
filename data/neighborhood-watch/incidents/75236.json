@@ -1,68 +1,57 @@
 [
   {
-    "id": "095205-2026",
-    "lat": 32.6681,
-    "lng": -96.945,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 0,
-    "date": "2026-06-24",
-    "neighborhood": null
-  },
-  {
-    "id": "095498-2026",
-    "lat": 32.668,
-    "lng": -96.8891,
-    "offense": "theft of prop (auto acc) <$100 - (not emp)",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-06-30",
-    "neighborhood": null
-  },
-  {
-    "id": "006103-2026",
-    "lat": 32.6878,
-    "lng": -96.8928,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "007005-2026",
-    "lat": 32.6669,
-    "lng": -96.89,
-    "offense": "deadly conduct discharge firearm (damage)",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 20,
-    "date": "2026-01-14",
-    "neighborhood": null
-  },
-  {
-    "id": "006103-2026",
-    "lat": 32.6878,
-    "lng": -96.8928,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "parking (business)",
-    "hour": 15,
-    "date": "2026-01-12",
-    "neighborhood": null
-  },
-  {
-    "id": "007382-2026",
+    "id": "039921-2026",
     "lat": 32.7057,
-    "lng": -96.8977,
-    "offense": "crim mischief -preliminary investigation",
+    "lng": -96.8979,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "apartment complex/building",
+    "hour": 2,
+    "date": "2026-03-21",
+    "neighborhood": null
+  },
+  {
+    "id": "040000-2026",
+    "lat": 32.6863,
+    "lng": -96.915,
+    "offense": "accidental death (no offense)",
     "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 11,
+    "date": "2026-03-21",
+    "neighborhood": null
+  },
+  {
+    "id": "041057-2026",
+    "lat": 32.7057,
+    "lng": -96.8975,
+    "offense": "motor vehicle theft - attempt",
+    "group": "property",
     "premise": "apartment parking lot",
-    "hour": 19,
-    "date": "2026-01-15",
+    "hour": 22,
+    "date": "2026-03-22",
+    "neighborhood": null
+  },
+  {
+    "id": "041276-2026",
+    "lat": 32.6953,
+    "lng": -96.9154,
+    "offense": "recovered out of town stolen vehicle (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 17,
+    "date": "2026-03-09",
+    "neighborhood": null
+  },
+  {
+    "id": "038195-2026",
+    "lat": 32.6724,
+    "lng": -96.9685,
+    "offense": "recovered out of town stolen property (no offense)",
+    "group": "other",
+    "premise": "gas or service station",
+    "hour": 10,
+    "date": "2026-03-18",
     "neighborhood": null
   }
 ]

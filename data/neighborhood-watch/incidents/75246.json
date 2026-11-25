@@ -1,57 +1,24 @@
 [
   {
-    "id": "095211-2026",
-    "lat": 32.7928,
-    "lng": -96.7723,
-    "offense": "public intoxication",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-06-30",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "095181-2026",
-    "lat": 32.7998,
-    "lng": -96.7706,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "other",
-    "hour": 18,
-    "date": "2026-06-30",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "005958-2026",
+    "id": "036535-2026",
     "lat": 32.7894,
     "lng": -96.7808,
-    "offense": "false alarm or report emergency",
+    "offense": "dwi",
     "group": "other",
-    "premise": "medical facility",
-    "hour": 22,
-    "date": "2026-01-12",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-03-15",
     "neighborhood": "Baylor / Meadows"
   },
   {
-    "id": "006660-2026",
-    "lat": 32.7952,
-    "lng": -96.7718,
-    "offense": "theft of prop > or equal $2,500 <$30k enh (not shoplift) pc31.03(f)",
+    "id": "041237-2026",
+    "lat": 32.7958,
+    "lng": -96.7653,
+    "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-01-14",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "006660-2026",
-    "lat": 32.7952,
-    "lng": -96.7718,
-    "offense": "fraud use/poss identifying info # items 10<50",
-    "group": "property",
-    "premise": "apartment complex/building",
-    "hour": 8,
-    "date": "2026-01-14",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-03-23",
     "neighborhood": "Peak's Addition"
   }
 ]

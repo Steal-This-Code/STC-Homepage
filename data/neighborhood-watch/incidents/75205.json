@@ -1,24 +1,68 @@
 [
   {
-    "id": "094808-2026",
-    "lat": 32.8189,
-    "lng": -96.7896,
-    "offense": "harassment-repeated electronic comm - threat",
+    "id": "816076-2026",
+    "lat": 32.82,
+    "lng": -96.7935,
+    "offense": "bmv",
     "group": "other",
     "premise": "apartment residence",
-    "hour": 19,
-    "date": "2026-06-28",
+    "hour": 12,
+    "date": "2026-08-08",
     "neighborhood": "Knox Park"
   },
   {
-    "id": "007182-2026",
-    "lat": 32.8214,
-    "lng": -96.7873,
-    "offense": "theft from building> or equal $2500<$30k (not shoplift)",
-    "group": "property",
-    "premise": "medical facility",
-    "hour": 13,
-    "date": "2026-01-12",
+    "id": "040058-2026",
+    "lat": 32.8223,
+    "lng": -96.7866,
+    "offense": "possession of drug paraphernalia",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-03-21",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "040057-2026",
+    "lat": 32.8223,
+    "lng": -96.7866,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-03-21",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "040058-2026",
+    "lat": 32.8223,
+    "lng": -96.7866,
+    "offense": "poss cont sub pen grp 1/1-b < 1g",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-03-21",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "037612-2026",
+    "lat": 32.8181,
+    "lng": -96.7916,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "apartment parking lot",
+    "hour": 6,
+    "date": "2026-03-17",
+    "neighborhood": "Knox Park"
+  },
+  {
+    "id": "041119-2026",
+    "lat": 32.8192,
+    "lng": -96.7927,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "condominium/townhome parking",
+    "hour": 3,
+    "date": "2026-03-22",
     "neighborhood": "Knox Park"
   }
 ]

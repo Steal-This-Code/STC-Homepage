@@ -1,13 +1,79 @@
 [
   {
-    "id": "006493-2026",
-    "lat": 32.9236,
-    "lng": -96.8393,
+    "id": "810580-2026",
+    "lat": 32.9228,
+    "lng": -96.8381,
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "condominium/townhome residence",
+    "hour": 23,
+    "date": "2026-05-20",
+    "neighborhood": null
+  },
+  {
+    "id": "036229-2026",
+    "lat": 32.9104,
+    "lng": -96.8521,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-03-14",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "036676-2026",
+    "lat": 32.9164,
+    "lng": -96.8175,
     "offense": "motor vehicle theft",
     "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 11,
-    "date": "2026-01-13",
+    "premise": "parking (business)",
+    "hour": 19,
+    "date": "2026-03-14",
+    "neighborhood": null
+  },
+  {
+    "id": "041140-2026",
+    "lat": 32.9164,
+    "lng": -96.8175,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 14,
+    "date": "2026-03-23",
+    "neighborhood": null
+  },
+  {
+    "id": "041205-2026",
+    "lat": 32.9099,
+    "lng": -96.8185,
+    "offense": "crim mischief > or equal $100 < $750",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 16,
+    "date": "2026-03-23",
+    "neighborhood": null
+  },
+  {
+    "id": "037219-2026",
+    "lat": 32.9147,
+    "lng": -96.8416,
+    "offense": "burglary of building - no forced entry",
+    "group": "property",
+    "premise": "single family residence - vacant",
+    "hour": 17,
+    "date": "2026-03-09",
     "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "037718-2026",
+    "lat": 32.9242,
+    "lng": -96.8395,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-03-17",
+    "neighborhood": null
   }
 ]
