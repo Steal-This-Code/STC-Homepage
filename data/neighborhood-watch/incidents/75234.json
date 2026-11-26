@@ -1,46 +1,13 @@
 [
   {
-    "id": "039832-2026",
-    "lat": 32.9112,
-    "lng": -96.8577,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 21,
-    "date": "2026-03-20",
-    "neighborhood": null
-  },
-  {
-    "id": "040305-2026",
-    "lat": 32.917,
-    "lng": -96.8571,
-    "offense": "traf vio -reckless driving",
+    "id": "025913-2026",
+    "lat": 32.9114,
+    "lng": -96.8775,
+    "offense": "collision inv damage to vehicle > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 1,
-    "date": "2026-03-22",
-    "neighborhood": null
-  },
-  {
-    "id": "036371-2026",
-    "lat": 32.9125,
-    "lng": -96.873,
-    "offense": "traf vio -reckless driving",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 21,
-    "date": "2026-03-14",
-    "neighborhood": null
-  },
-  {
-    "id": "041328-2026",
-    "lat": 32.9162,
-    "lng": -96.8577,
-    "offense": "unlawful installation of tracking device",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-03-23",
+    "hour": 9,
+    "date": "2026-02-23",
     "neighborhood": null
   }
 ]

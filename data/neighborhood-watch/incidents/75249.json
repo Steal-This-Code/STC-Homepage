@@ -1,79 +1,13 @@
 [
   {
-    "id": "040040-2026",
-    "lat": 32.6419,
-    "lng": -96.956,
-    "offense": "injured person- public property (other than firearm) (no offense)",
+    "id": "027283-2026",
+    "lat": 32.6486,
+    "lng": -96.9508,
+    "offense": "bmv",
     "group": "other",
-    "premise": "park",
+    "premise": "outdoor area public/private",
     "hour": 18,
-    "date": "2026-03-21",
-    "neighborhood": null
-  },
-  {
-    "id": "040391-2026",
-    "lat": 32.6471,
-    "lng": -96.9431,
-    "offense": "deadly conduct",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 6,
-    "date": "2026-03-22",
-    "neighborhood": null
-  },
-  {
-    "id": "041047-2026",
-    "lat": 32.661,
-    "lng": -96.9437,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "rental storage facility",
-    "hour": 12,
-    "date": "2026-03-09",
+    "date": "2026-02-25",
     "neighborhood": "Summit Parc"
-  },
-  {
-    "id": "037792-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "traffic violation - non hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "037792-2026",
-    "lat": 32.6412,
-    "lng": -96.9725,
-    "offense": "traffic violation - hazardous",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 16,
-    "date": "2026-03-17",
-    "neighborhood": null
-  },
-  {
-    "id": "041041-2026",
-    "lat": 32.6431,
-    "lng": -96.9681,
-    "offense": "attack by dog causes bodily injury",
-    "group": "other",
-    "premise": "single family residence - occupied",
-    "hour": 10,
-    "date": "2026-03-23",
-    "neighborhood": null
-  },
-  {
-    "id": "041219-2026",
-    "lat": 32.6553,
-    "lng": -96.9628,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-02-16",
-    "neighborhood": null
   }
 ]
