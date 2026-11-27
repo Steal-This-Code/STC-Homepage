@@ -1,79 +1,24 @@
 [
   {
-    "id": "025891-2026",
-    "lat": 32.6919,
-    "lng": -96.8748,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-23",
-    "neighborhood": "Kimball Square"
-  },
-  {
-    "id": "025982-2026",
-    "lat": 32.7012,
-    "lng": -96.882,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "803540-2026",
+    "lat": 32.7169,
+    "lng": -96.8756,
+    "offense": "lost property (no offense)",
     "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 16,
-    "date": "2026-02-19",
+    "premise": "outdoor area public/private",
+    "hour": 15,
+    "date": "2026-02-17",
     "neighborhood": null
   },
   {
-    "id": "025891-2026",
-    "lat": 32.6919,
-    "lng": -96.8748,
-    "offense": "motor vehicle theft",
-    "group": "property",
-    "premise": "highway, street, alley etc",
-    "hour": 2,
-    "date": "2026-02-23",
-    "neighborhood": "Kimball Square"
-  },
-  {
-    "id": "027911-2026",
-    "lat": 32.7055,
-    "lng": -96.8582,
-    "offense": "crim mischief >or equal $750 < $2,500",
+    "id": "803990-2026",
+    "lat": 32.6918,
+    "lng": -96.8877,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "business office",
+    "premise": "highway, street, alley etc",
     "hour": 19,
-    "date": "2026-02-26",
-    "neighborhood": "Kiestwood"
-  },
-  {
-    "id": "026962-2026",
-    "lat": 32.7201,
-    "lng": -96.8579,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 13,
-    "date": "2026-02-25",
-    "neighborhood": null
-  },
-  {
-    "id": "028067-2026",
-    "lat": 32.7012,
-    "lng": -96.882,
-    "offense": "open building (no offense)",
-    "group": "other",
-    "premise": "single family residence - vacant",
-    "hour": 13,
-    "date": "2026-02-27",
-    "neighborhood": null
-  },
-  {
-    "id": "027469-2026",
-    "lat": 32.7153,
-    "lng": -96.8749,
-    "offense": "burglary of building - forced entry",
-    "group": "property",
-    "premise": "rental storage facility",
-    "hour": 0,
-    "date": "2026-01-21",
+    "date": "2026-02-14",
     "neighborhood": null
   }
 ]

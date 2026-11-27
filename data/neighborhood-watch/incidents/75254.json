@@ -1,68 +1,46 @@
 [
   {
-    "id": "025688-2026",
-    "lat": 32.9399,
-    "lng": -96.8218,
-    "offense": "traf vio -reckless driving",
-    "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 20,
-    "date": "2026-02-22",
-    "neighborhood": null
-  },
-  {
-    "id": "028159-2026",
-    "lat": 32.9436,
-    "lng": -96.814,
-    "offense": "accidental death (no offense)",
-    "group": "other",
-    "premise": "convenience store",
-    "hour": 16,
-    "date": "2026-02-26",
-    "neighborhood": null
-  },
-  {
-    "id": "027489-2026",
-    "lat": 32.9536,
-    "lng": -96.8035,
-    "offense": "criminal trespass warning",
-    "group": "other",
+    "id": "802863-2026",
+    "lat": 32.9487,
+    "lng": -96.8019,
+    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
+    "group": "property",
     "premise": "retail store",
-    "hour": 14,
-    "date": "2026-02-26",
+    "hour": 19,
+    "date": "2026-01-09",
     "neighborhood": null
   },
   {
-    "id": "026983-2026",
-    "lat": 32.9402,
-    "lng": -96.8111,
+    "id": "803551-2026",
+    "lat": 32.9487,
+    "lng": -96.819,
+    "offense": "fraud use/poss identifying info-preliminary investigation",
+    "group": "property",
+    "premise": "apartment residence",
+    "hour": 14,
+    "date": "2026-02-08",
+    "neighborhood": null
+  },
+  {
+    "id": "804882-2026",
+    "lat": 32.9516,
+    "lng": -96.8001,
+    "offense": "lost property (no offense)",
+    "group": "other",
+    "premise": "outdoor area public/private",
+    "hour": 8,
+    "date": "2026-03-03",
+    "neighborhood": null
+  },
+  {
+    "id": "800230-2026",
+    "lat": 32.9481,
+    "lng": -96.8208,
     "offense": "crim mischief > or equal $100 < $750",
     "group": "other",
     "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-02-24",
-    "neighborhood": null
-  },
-  {
-    "id": "027771-2026",
-    "lat": 32.951,
-    "lng": -96.8009,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 2,
-    "date": "2026-02-27",
-    "neighborhood": null
-  },
-  {
-    "id": "027226-2026",
-    "lat": 32.9398,
-    "lng": -96.8144,
-    "offense": "theft from person",
-    "group": "property",
-    "premise": "gas or service station",
-    "hour": 0,
-    "date": "2026-02-26",
+    "hour": 17,
+    "date": "2026-01-01",
     "neighborhood": null
   }
 ]

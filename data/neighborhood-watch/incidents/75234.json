@@ -1,13 +1,13 @@
 [
   {
-    "id": "025913-2026",
-    "lat": 32.9114,
-    "lng": -96.8775,
-    "offense": "collision inv damage to vehicle > or equal $200",
+    "id": "805095-2026",
+    "lat": 32.9089,
+    "lng": -96.8735,
+    "offense": "reckless damage",
     "group": "other",
-    "premise": "highway, street, alley etc",
-    "hour": 9,
-    "date": "2026-02-23",
+    "premise": "apartment parking lot",
+    "hour": 3,
+    "date": "2026-01-24",
     "neighborhood": null
   }
 ]

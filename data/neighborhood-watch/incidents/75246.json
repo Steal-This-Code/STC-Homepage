@@ -1,57 +1,13 @@
 [
   {
-    "id": "025823-2026",
-    "lat": 32.7894,
-    "lng": -96.7808,
-    "offense": "assault - preliminary investigation *non family violence",
-    "group": "violent",
-    "premise": "bar/nightclub/dancehall etc.",
-    "hour": 0,
-    "date": "2026-02-23",
-    "neighborhood": "Baylor / Meadows"
-  },
-  {
-    "id": "027174-2026",
-    "lat": 32.794,
-    "lng": -96.7668,
-    "offense": "assault -bodily injury only",
-    "group": "violent",
-    "premise": "apartment complex/building",
-    "hour": 19,
-    "date": "2026-02-25",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "027089-2026",
-    "lat": 32.7945,
-    "lng": -96.7767,
-    "offense": "poss cont sub pen grp 1/1-b < 1g",
-    "group": "other",
-    "premise": "bank/savings and loan",
-    "hour": 17,
-    "date": "2026-02-25",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "027886-2026",
-    "lat": 32.7935,
-    "lng": -96.7682,
-    "offense": "harassment-repeated electronic comm - threat",
-    "group": "other",
-    "premise": "other",
-    "hour": 0,
-    "date": "2026-02-20",
-    "neighborhood": "Peak's Addition"
-  },
-  {
-    "id": "026809-2026",
+    "id": "803071-2026",
     "lat": 32.7951,
     "lng": -96.7773,
     "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
     "group": "property",
     "premise": "grocery/supermarket",
-    "hour": 16,
-    "date": "2026-02-10",
+    "hour": 8,
+    "date": "2026-02-12",
     "neighborhood": "Peak's Addition"
   }
 ]
