@@ -1,24 +1,57 @@
 [
   {
-    "id": "805042-2026",
-    "lat": 32.7896,
-    "lng": -96.7591,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "single family residence - occupied",
-    "hour": 13,
-    "date": "2026-02-26",
-    "neighborhood": "Jubilee Park"
+    "id": "131994-2026",
+    "lat": 32.7937,
+    "lng": -96.7483,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "other",
+    "hour": 8,
+    "date": "2026-09-07",
+    "neighborhood": "Mount Auburn"
   },
   {
-    "id": "805265-2026",
-    "lat": 32.7846,
-    "lng": -96.7431,
-    "offense": "theft - wire fraud $100 <$750",
+    "id": "131356-2026",
+    "lat": 32.7832,
+    "lng": -96.7341,
+    "offense": "permit required in wet area",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 1,
+    "date": "2026-09-06",
+    "neighborhood": "Dolphin Heights"
+  },
+  {
+    "id": "131841-2026",
+    "lat": 32.7931,
+    "lng": -96.7485,
+    "offense": "theft of prop <$100 -shoplifting - (not by employee)",
     "group": "property",
-    "premise": "cyberspace",
-    "hour": 6,
-    "date": "2026-03-12",
-    "neighborhood": "Owenwood"
+    "premise": "retail store",
+    "hour": 21,
+    "date": "2026-09-06",
+    "neighborhood": "Mount Auburn"
+  },
+  {
+    "id": "131463-2026",
+    "lat": 32.7912,
+    "lng": -96.7605,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 10,
+    "date": "2026-09-06",
+    "neighborhood": null
+  },
+  {
+    "id": "136034-2026",
+    "lat": 32.7796,
+    "lng": -96.7384,
+    "offense": "diversion public intox",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 3,
+    "date": "2026-09-15",
+    "neighborhood": "Dolphin Heights"
   }
 ]

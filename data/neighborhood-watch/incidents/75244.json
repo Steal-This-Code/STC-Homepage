@@ -1,35 +1,57 @@
 [
   {
-    "id": "803787-2026",
-    "lat": 32.9224,
-    "lng": -96.8405,
-    "offense": "interfere w/ child custody",
-    "group": "other",
-    "premise": "grocery/supermarket",
-    "hour": 18,
-    "date": "2026-02-20",
-    "neighborhood": "Glen Meadow Estates"
-  },
-  {
-    "id": "803902-2026",
+    "id": "812250-2026",
     "lat": 32.9108,
     "lng": -96.8536,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "grocery/supermarket",
-    "hour": 14,
-    "date": "2026-02-22",
+    "offense": "reckless damage",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 13,
+    "date": "2026-06-12",
     "neighborhood": "Glen Meadow Estates"
   },
   {
-    "id": "804229-2026",
-    "lat": 32.9249,
-    "lng": -96.8242,
-    "offense": "theft by deception (fraud) >or equal $100 <$750",
-    "group": "property",
-    "premise": "condominium/townhome residence",
-    "hour": 19,
-    "date": "2026-02-26",
+    "id": "131190-2026",
+    "lat": 32.9236,
+    "lng": -96.8381,
+    "offense": "harassment -preliminary investigation",
+    "group": "other",
+    "premise": "apartment complex/building",
+    "hour": 20,
+    "date": "2026-09-05",
     "neighborhood": null
+  },
+  {
+    "id": "131361-2026",
+    "lat": 32.9176,
+    "lng": -96.8557,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 3,
+    "date": "2026-09-06",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "132648-2026",
+    "lat": 32.9179,
+    "lng": -96.855,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 14,
+    "date": "2026-09-08",
+    "neighborhood": "Glen Meadow Estates"
+  },
+  {
+    "id": "132336-2026",
+    "lat": 32.9212,
+    "lng": -96.8387,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "restaurant/food service/tabc location",
+    "hour": 22,
+    "date": "2026-09-07",
+    "neighborhood": "Glen Meadow Estates"
   }
 ]

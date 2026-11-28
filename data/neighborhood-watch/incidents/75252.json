@@ -1,35 +1,46 @@
 [
   {
-    "id": "803488-2026",
-    "lat": 32.9863,
-    "lng": -96.774,
-    "offense": "crim mischief > or equal $2,500 < $30k",
+    "id": "131389-2026",
+    "lat": 32.9882,
+    "lng": -96.7787,
+    "offense": "poss marijuana <2oz",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 22,
-    "date": "2026-02-15",
-    "neighborhood": null
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-09-06",
+    "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "804699-2026",
-    "lat": 33.0091,
-    "lng": -96.7985,
-    "offense": "bmv",
+    "id": "131718-2026",
+    "lat": 32.9889,
+    "lng": -96.7833,
+    "offense": "found property (no offense)",
     "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 16,
-    "date": "2026-03-04",
-    "neighborhood": null
+    "premise": "government facility",
+    "hour": 20,
+    "date": "2026-09-06",
+    "neighborhood": "Highlands of McKamy"
   },
   {
-    "id": "805203-2026",
-    "lat": 32.9984,
-    "lng": -96.773,
-    "offense": "reckless damage",
+    "id": "131389-2026",
+    "lat": 32.9882,
+    "lng": -96.7787,
+    "offense": "evading arrest detention",
     "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 15,
-    "date": "2026-03-08",
+    "premise": "highway, street, alley etc",
+    "hour": 5,
+    "date": "2026-09-06",
+    "neighborhood": "Highlands of McKamy"
+  },
+  {
+    "id": "132770-2026",
+    "lat": 32.9871,
+    "lng": -96.7727,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "apartment residence",
+    "hour": 17,
+    "date": "2026-09-08",
     "neighborhood": null
   }
 ]

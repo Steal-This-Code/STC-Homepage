@@ -1,24 +1,35 @@
 [
   {
-    "id": "803540-2026",
-    "lat": 32.7169,
-    "lng": -96.8756,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
-    "hour": 15,
-    "date": "2026-02-17",
+    "id": "131921-2026",
+    "lat": 32.6913,
+    "lng": -96.8802,
+    "offense": "burglary of building - forced entry",
+    "group": "property",
+    "premise": "commercial property occupied/vacant",
+    "hour": 2,
+    "date": "2026-09-07",
     "neighborhood": null
   },
   {
-    "id": "803990-2026",
-    "lat": 32.6918,
-    "lng": -96.8877,
-    "offense": "reckless damage",
+    "id": "132548-2026",
+    "lat": 32.6943,
+    "lng": -96.8878,
+    "offense": "traf vio -duty on strike unattended veh > or equal $200",
     "group": "other",
     "premise": "highway, street, alley etc",
-    "hour": 19,
-    "date": "2026-02-14",
+    "hour": 5,
+    "date": "2026-09-08",
+    "neighborhood": null
+  },
+  {
+    "id": "132884-2026",
+    "lat": 32.6959,
+    "lng": -96.8898,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "condominium/townhome parking",
+    "hour": 20,
+    "date": "2026-09-08",
     "neighborhood": null
   }
 ]

@@ -1,24 +1,13 @@
 [
   {
-    "id": "025762-2026",
-    "lat": 32.8187,
-    "lng": -96.7887,
-    "offense": "criminal trespass warning",
-    "group": "other",
-    "premise": "apartment complex/building",
-    "hour": 23,
-    "date": "2026-02-22",
-    "neighborhood": "Knox Park"
-  },
-  {
-    "id": "027290-2026",
-    "lat": 32.8245,
-    "lng": -96.786,
-    "offense": "bmv",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 20,
-    "date": "2026-02-25",
+    "id": "131738-2026",
+    "lat": 32.8214,
+    "lng": -96.7899,
+    "offense": "motor vehicle theft",
+    "group": "property",
+    "premise": "parking lot (all others)",
+    "hour": 9,
+    "date": "2026-09-05",
     "neighborhood": "Knox Park"
   }
 ]

@@ -1,46 +1,24 @@
 [
   {
-    "id": "802863-2026",
-    "lat": 32.9487,
-    "lng": -96.8019,
-    "offense": "theft of prop > or equal $100 <$750 (employee) pc31.03(e2a)",
-    "group": "property",
-    "premise": "retail store",
-    "hour": 19,
-    "date": "2026-01-09",
-    "neighborhood": null
+    "id": "062423-2026",
+    "lat": 32.9524,
+    "lng": -96.7708,
+    "offense": "criminal trespass warning",
+    "group": "other",
+    "premise": "other",
+    "hour": 11,
+    "date": "2026-05-02",
+    "neighborhood": "Spring Creek"
   },
   {
-    "id": "803551-2026",
-    "lat": 32.9487,
-    "lng": -96.819,
-    "offense": "fraud use/poss identifying info-preliminary investigation",
-    "group": "property",
+    "id": "130960-2026",
+    "lat": 32.9409,
+    "lng": -96.8188,
+    "offense": "cruelty non-livestock animals - preliminary investigation",
+    "group": "other",
     "premise": "apartment residence",
-    "hour": 14,
-    "date": "2026-02-08",
-    "neighborhood": null
-  },
-  {
-    "id": "804882-2026",
-    "lat": 32.9516,
-    "lng": -96.8001,
-    "offense": "lost property (no offense)",
-    "group": "other",
-    "premise": "outdoor area public/private",
     "hour": 8,
-    "date": "2026-03-03",
-    "neighborhood": null
-  },
-  {
-    "id": "800230-2026",
-    "lat": 32.9481,
-    "lng": -96.8208,
-    "offense": "crim mischief > or equal $100 < $750",
-    "group": "other",
-    "premise": "apartment parking lot",
-    "hour": 17,
-    "date": "2026-01-01",
+    "date": "2026-08-25",
     "neighborhood": null
   }
 ]

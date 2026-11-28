@@ -1,35 +1,46 @@
 [
   {
-    "id": "804175-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 16,
-    "date": "2026-02-03",
-    "neighborhood": "Lochwood"
-  },
-  {
-    "id": "805064-2026",
-    "lat": 32.8627,
-    "lng": -96.6707,
-    "offense": "theft of service > or equal $30k <$150k pc31.04(e5)",
-    "group": "property",
-    "premise": "auto dealership new/used",
-    "hour": 9,
-    "date": "2026-03-10",
+    "id": "130950-2026",
+    "lat": 32.843,
+    "lng": -96.6907,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 12,
+    "date": "2026-09-05",
     "neighborhood": null
   },
   {
-    "id": "804176-2026",
-    "lat": 32.8485,
-    "lng": -96.6856,
-    "offense": "theft of prop > or equal $100 <$750 (shoplift-not emp) pc31.03(e2a)",
-    "group": "property",
-    "premise": "department/discount store",
-    "hour": 12,
-    "date": "2026-02-16",
-    "neighborhood": "Lochwood"
+    "id": "131716-2026",
+    "lat": 32.8336,
+    "lng": -96.7101,
+    "offense": "indecent exposure",
+    "group": "other",
+    "premise": "park",
+    "hour": 20,
+    "date": "2026-09-06",
+    "neighborhood": null
+  },
+  {
+    "id": "131822-2026",
+    "lat": 32.841,
+    "lng": -96.7153,
+    "offense": "bmv",
+    "group": "other",
+    "premise": "park",
+    "hour": 15,
+    "date": "2026-09-06",
+    "neighborhood": null
+  },
+  {
+    "id": "133206-2026",
+    "lat": 32.8618,
+    "lng": -96.7023,
+    "offense": "assault -bodily injury only",
+    "group": "violent",
+    "premise": "apartment complex/building",
+    "hour": 23,
+    "date": "2026-09-08",
+    "neighborhood": "Old Lake Highlands"
   }
 ]

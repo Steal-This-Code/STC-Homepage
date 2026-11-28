@@ -1,24 +1,123 @@
 [
   {
-    "id": "803555-2026",
-    "lat": 32.7862,
-    "lng": -96.7863,
-    "offense": "lost property (no offense)",
+    "id": "131504-2026",
+    "lat": 32.7849,
+    "lng": -96.7787,
+    "offense": "missing person (no offense)",
     "group": "other",
     "premise": "apartment residence",
-    "hour": 22,
-    "date": "2026-02-18",
-    "neighborhood": "Baylor / Meadows"
+    "hour": 3,
+    "date": "2026-09-05",
+    "neighborhood": "Deep Ellum"
   },
   {
-    "id": "805024-2026",
-    "lat": 32.7896,
-    "lng": -96.7679,
-    "offense": "reckless damage",
+    "id": "131276-2026",
+    "lat": 32.7833,
+    "lng": -96.7676,
+    "offense": "bmv",
     "group": "other",
-    "premise": "parking (business)",
-    "hour": 19,
-    "date": "2026-03-07",
-    "neighborhood": null
+    "premise": "highway, street, alley etc",
+    "hour": 20,
+    "date": "2026-09-05",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "130895-2026",
+    "lat": 32.7846,
+    "lng": -96.7843,
+    "offense": "theft from person-pickpocke",
+    "group": "property",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 1,
+    "date": "2026-09-05",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "131945-2026",
+    "lat": 32.7847,
+    "lng": -96.7846,
+    "offense": "injured person- public property (other than firearm) (no offense)",
+    "group": "other",
+    "premise": "bar/nightclub/dancehall etc.",
+    "hour": 23,
+    "date": "2026-09-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "131778-2026",
+    "lat": 32.7844,
+    "lng": -96.7849,
+    "offense": "public intoxication",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 22,
+    "date": "2026-09-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "131318-2026",
+    "lat": 32.783,
+    "lng": -96.7857,
+    "offense": "disorderly conduct",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 2,
+    "date": "2026-09-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "131303-2026",
+    "lat": 32.7837,
+    "lng": -96.7841,
+    "offense": "traffic violation - non hazardous",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 1,
+    "date": "2026-09-06",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "131410-2026",
+    "lat": 32.7791,
+    "lng": -96.7785,
+    "offense": "theft - wire fraud $100 <$750",
+    "group": "property",
+    "premise": "cyberspace",
+    "hour": 0,
+    "date": "2026-09-03",
+    "neighborhood": "Grand Park South"
+  },
+  {
+    "id": "132360-2026",
+    "lat": 32.7822,
+    "lng": -96.7787,
+    "offense": "harassment-repeated electronic comm - non-threatening",
+    "group": "other",
+    "premise": "government facility",
+    "hour": 20,
+    "date": "2026-09-07",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "132626-2026",
+    "lat": 32.7822,
+    "lng": -96.7787,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 13,
+    "date": "2026-09-08",
+    "neighborhood": "Deep Ellum"
+  },
+  {
+    "id": "132347-2026",
+    "lat": 32.7839,
+    "lng": -96.7815,
+    "offense": "collision inv damage to vehicle > or equal $200",
+    "group": "other",
+    "premise": "highway, street, alley etc",
+    "hour": 23,
+    "date": "2026-09-07",
+    "neighborhood": "Deep Ellum"
   }
 ]

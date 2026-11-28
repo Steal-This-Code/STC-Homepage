@@ -1,13 +1,79 @@
 [
   {
-    "id": "803567-2026",
+    "id": "131225-2026",
     "lat": 32.6888,
     "lng": -96.587,
-    "offense": "theft of prop > or equal $100 <$750 (not shoplift) pc31.03(e2a)",
-    "group": "property",
-    "premise": "apartment residence",
-    "hour": 7,
-    "date": "2026-02-16",
+    "offense": "poss of dangerous drug",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 22,
+    "date": "2026-09-05",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "131773-2026",
+    "lat": 32.6888,
+    "lng": -96.587,
+    "offense": "deadly conduct-preliminary investigation",
+    "group": "other",
+    "premise": "parking (business)",
+    "hour": 18,
+    "date": "2026-09-06",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "131844-2026",
+    "lat": 32.6618,
+    "lng": -96.6172,
+    "offense": "harassment -preliminary investigation",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-09-07",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "131281-2026",
+    "lat": 32.6903,
+    "lng": -96.5728,
+    "offense": "found property (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 0,
+    "date": "2026-09-06",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "132619-2026",
+    "lat": 32.6754,
+    "lng": -96.5867,
+    "offense": "open building (no offense)",
+    "group": "other",
+    "premise": "school - college/university",
+    "hour": 13,
+    "date": "2026-09-08",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "131950-2026",
+    "lat": 32.6813,
+    "lng": -96.6007,
+    "offense": "natural death (no offense)",
+    "group": "other",
+    "premise": "single family residence - occupied",
+    "hour": 3,
+    "date": "2026-09-07",
+    "neighborhood": "Kleberg"
+  },
+  {
+    "id": "131976-2026",
+    "lat": 32.6912,
+    "lng": -96.5602,
+    "offense": "deadly conduct discharge firearm (assault)",
+    "group": "violent",
+    "premise": "single family residence - occupied",
+    "hour": 1,
+    "date": "2026-09-07",
     "neighborhood": "Kleberg"
   }
 ]
